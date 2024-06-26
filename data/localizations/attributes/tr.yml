@@ -1,0 +1,4531 @@
+---
+tr:
+  attributes:
+    3d_glasses_material:
+      name: 3D gözlük malzemesi
+    abrasive_material:
+      name: Aşındırıcı malzeme
+    absinthe_style:
+      name: Absinthe Stili
+    absinthe_variety:
+      name: Absinthe Çeşitleri
+    absorbency_level:
+      name: Emicilik Seviyesi
+    absorbent_hygiene_product_features:
+      name: Emici hijyen ürün özellikleri
+    academic_level:
+      name: Akademik seviye
+    accessory_material:
+      name: Aksesuar yapımı
+    accessory_size:
+      name: Aksesuar Boyutu
+    accordion_tuning:
+      name: Akordeon akordu
+    active_ingredient:
+      name: Aktif Madde
+    activewear_clothing_features:
+      name: Aktif giyim özellikleri
+    activity:
+      name: Aktivite
+    activity_tracker_design:
+      name: Etkinlik izleyici tasarımı
+    acupuncture_model_format:
+      name: Akupunktur modeli formatı
+    acupuncture_model_type:
+      name: Akupunktur modeli tipi
+    additional_animation_software_features:
+      name: Ek animasyon yazılımı özellikleri
+    additional_design_software_type:
+      name: Ek tasarım yazılımı türü
+    additional_financial_software_features:
+      name: Ek finansal yazılım özellikleri
+    additional_graphic_software_features:
+      name: Ek grafik yazılım özellikleri
+    additional_publishing_software_features:
+      name: Ek yayınlama yazılımı özellikleri
+    additional_security_software_features:
+      name: Ek güvenlik yazılımı özellikleri
+    adhesive_type:
+      name: Yapışkan Tipi
+    aftershave_product_form:
+      name: Tıraş sonrası ürün formu
+    age_group:
+      name: Yaş Grubu
+    age_restrictions:
+      name: Yaş Sınırlamaları
+    ai_application:
+      name: Yapay zeka uygulaması
+    air_freshener_form:
+      name: Oda spreyi formu
+    air_mattress_features:
+      name: Hava yatağı özellikleri
+    airbrush_feed_type:
+      name: Airbrush besleme tipi
+    airbrush_operation_method:
+      name: Airbrush çalışma yöntemi
+    airsoft_equipment_included:
+      name: Airsoft ekipmanı dahil
+    album_type:
+      name: Albüm Türü
+    alert_type:
+      name: Uyarı Tipi
+    allergen_information:
+      name: Alerjen Bilgisi
+    allergen_test_type:
+      name: Alerjen Test Tipi
+    allergens:
+      name: Alerjenler
+    allergy_friendly_features:
+      name: Alerji dostu özellikler
+    amplifier/booster_suitable_location:
+      name: Amplifikatör/Güçlendirici için uygun konum
+    amplifier_class:
+      name: Amplifikatör Sınıfı
+    amplifier_configuration:
+      name: Amplifikatör yapılandırması
+    anchor_type:
+      name: Çapa Tipi
+    anemometer_application:
+      name: Rüzgarölçer uygulaması
+    angles_supported:
+      name: Desteklenen Açılar
+    angling_style:
+      name: Olta Balıkçılığı Stili
+    animal_feed_form:
+      name: Hayvan yemi formu
+    animal_type:
+      name: Hayvan Türü
+    antenna_type:
+      name: Anten Tipi
+    anti_agin_skin_care_type:
+      name: Yaşlanma karşıtı cilt bakım türü
+    antifreeze_type:
+      name: Antifriz Tipi
+    application_area:
+      name: Uygulama Alanı
+    application_method:
+      name: Uygulama Yöntemi
+    applicator_material:
+      name: Aplikatör malzemesi
+    applicator_type:
+      name: Uygulayıcı türü
+    applique/patch_shape:
+      name: Aplike/Yama şekli
+    applique_shape:
+      name: Aplike şekli
+    aquarium_filter_features:
+      name: Akvaryum filtresi özellikleri
+    aquarium_light_spectrum:
+      name: Akvaryum ışık spektrumu
+    aquarium_overflow_box_design:
+      name: Akvaryum taşma haznesi tasarımı
+    archery_activity:
+      name: Okçuluk aktivitesi
+    archery_equipment_included:
+      name: Okçuluk ekipmanları dahil
+    archery_style:
+      name: Okçuluk Stili
+    aromatherapy:
+      name: Aromaterapi
+    arrangement:
+      name: Aranjman
+    arrow/bolt_material:
+      name: Ok/Cıvata malzemesi
+    arrow_fletching_material:
+      name: Ok yiv açma malzemesi
+    arrow_material:
+      name: Ok malzemesi
+    art/crafting_tool_material:
+      name: Sanat/El işi alet malzemesi
+    art_fixative_application_method:
+      name: Sanat sabitleyici uygulama yöntemi
+    art_style:
+      name: Sanat Stili
+    artwork_frame_material:
+      name: Sanat eseri çerçeve malzemesi
+    artwork_type:
+      name: Sanat Eseri Türü
+    assisted_braking_technology:
+      name: Destekli frenleme teknolojisi
+    attachment_method:
+      name: Ek Yöntemi
+    attachment_options:
+      name: Ek Seçenekleri
+    attachment_type:
+      name: Ek Tipi
+    atv/off_road_tire_type:
+      name: ATV/Arazi lastiği tipi
+    audio/scan_converter_features:
+      name: Ses/Tarama dönüştürücü özellikleri
+    audio_codecs/formats_supported:
+      name: Desteklenen Ses Codec'leri/Formatları
+    audio_connectivity:
+      name: Ses Bağlantısı
+    audio_converter_features:
+      name: Ses dönüştürücü özellikleri
+    audio_d/a_converter_dac:
+      name: Ses D/A Dönüştürücü (Dac)
+    audio_mixer_type:
+      name: Ses karıştırıcı tipi
+    audio_output_channel:
+      name: Ses Çıkış Kanalı
+    audio_output_format:
+      name: Ses Çıkış Formatı
+    audio_player/recorder_features:
+      name: Ses oynatıcı/kaydedici özellikleri
+    audio_purpose:
+      name: Sesin Amacı
+    audio_technology:
+      name: Ses Teknolojisi
+    authentication_technology:
+      name: Kimlik doğrulama teknolojisi
+    authenticity:
+      name: Özgünlük
+    auto_focusing_modes:
+      name: Otomatik Odaklama Modları
+    autoclave_sterilization_method:
+      name: Otoklav sterilizasyon yöntemi
+    autograph_type:
+      name: İmza Türü
+    automation:
+      name: Otomasyon
+    award_design:
+      name: Ödül tasarımı
+    award_occasion:
+      name: Ödül olayı
+    awning_construction_type:
+      name: Tente yapım türü
+    awning_design:
+      name: Tente tasarımı
+    baby/toddler_car_seat_features:
+      name: Bebek ve Küçük Çocuk Oto Koltukları
+    baby/toddler_clothing_features:
+      name: Bebek ve Küçük Çocuk Kıyafetleri
+    baby/toddler_equipment_safety_features:
+      name: Bebek ve küçük çocuk ekipmanlarının güvenlik özellikleri
+    baby/toddler_furniture_features:
+      name: Bebek ve Küçük Çocuk Mobilyalar
+    baby/toddler_furniture_items_included:
+      name: Bebek ve Küçük Çocuk Mobilyalar dahil
+    baby/toddler_hat_style:
+      name: Bebek ve Küçük Çocuk Şapka stili
+    baby/toddler_hosiery_style:
+      name: Bebek ve Küçük Çocuk çorap stili
+    baby/toddler_seat_features:
+      name: Bebek ve küçük çocuk koltuğu özellikleri
+    baby/toddler_sleepwear_style:
+      name: Bebek ve Küçük Çocuk Pijamaları
+    baby_drink_packaging:
+      name: Bebek içeceği ambalajı
+    baby_equipment_safety_features:
+      name: Bebek ekipmanlarının güvenlik özellikleri
+    baby_food_flavor:
+      name: Bebek maması tadı
+    baby_formula_format:
+      name: Bebek maması formatı
+    baby_gift_items_included:
+      name: Bebekler için hediyelik ürünler dahil
+    baby_health_items_included:
+      name: Bebek sağlığı ürünleri dahil
+    baby_monitor_features:
+      name: Bebek telsizi özellikleri
+    baby_snack_flavor:
+      name: Bebek atıştırmalığı lezzeti
+    baby_snack_texture:
+      name: Bebek atıştırmalığı dokusu
+    back_type:
+      name: Sırt Tipi
+    background_design:
+      name: Arka plan tasarımı
+    backing_color:
+      name: Destek rengi
+    backing_material:
+      name: Destek malzemesi
+    backing_pattern:
+      name: Destek deseni
+    backrest_type:
+      name: Sırtlık Tipi
+    backrest_upholstery_color:
+      name: Sırtlık döşeme rengi
+    backrest_upholstery_material:
+      name: Sırtlık döşeme malzemesi
+    backrest_upholstery_pattern:
+      name: Sırtlık döşeme deseni
+    bag/case_closure:
+      name: Çanta/Kutu kapatma
+    bag/case_features:
+      name: Çanta/Kutu özellikleri
+    bag/case_material:
+      name: Çanta/Kutu malzemesi
+    bag/case_storage_features:
+      name: Çanta/Kutu saklama özellikleri
+    bag_closure:
+      name: Çanta kapatma
+    bag_strap_type:
+      name: Çanta askısı türü
+    bag_style:
+      name: Çanta stili
+    bag_type:
+      name: Çanta Tipi
+    bakery_items_included:
+      name: Fırın ürünleri dahil
+    bakeware_features:
+      name: Fırın gereçleri özellikleri
+    bakeware_items_included:
+      name: Fırın gereçleri ürünleri dahil
+    bakeware_pieces_included:
+      name: Fırında pişirme gereci parçaları dahil
+    bakeware_shape:
+      name: Fırın kabı şekli
+    baking_purpose:
+      name: Pişirme Amacı
+    baking_sheet_material:
+      name: Fırın tepsisi malzemesi
+    ball_material:
+      name: Bilye malzemesi
+    ball_size:
+      name: Top Boyutu
+    balloon_kit_items_included:
+      name: Balon seti öğeleri dahil
+    balloon_shape:
+      name: Balon şekli
+    band_color:
+      name: Bant rengi
+    band_material:
+      name: Bant malzemesi
+    band_pattern:
+      name: Bant deseni
+    band_strength:
+      name: Bant gücü
+    banner_design:
+      name: Afiş tasarımı
+    bar_mounting_type:
+      name: Bar montaj tipi
+    barcode_scanner_interface:
+      name: Barkod Tarayıcı Arayüzü
+    barcode_supported:
+      name: Barkod Destekli
+    barrel_material:
+      name: Varil malzemesi
+    barware_items_included:
+      name: Bar gereçleri dahildir
+    barware_material:
+      name: Bar gereçleri malzemeleri
+    base_oil:
+      name: Baz Yağ
+    base_spirit:
+      name: Baz Alkol
+    base_type:
+      name: Taban Türü
+    baseball/softball_ball_type:
+      name: Beyzbol/Softbol topu tipi
+    basket_material:
+      name: Basket malzemesi
+    basketball_equipment_included:
+      name: Basketbol ekipmanları dahil
+    bass_button_configuration:
+      name: Bas düğmesi yapılandırması
+    bat_material:
+      name: Sopa malzemesi
+    bat_standard:
+      name: Sopa Standardı
+    bathroom_furniture_items_included:
+      name: BebeBanyo mobilyaları dahil
+    bathtub_base_design:
+      name: Küvet taban tasarımı
+    bathtub_features:
+      name: Küvet özellikleri
+    bathtub_skirt_shape:
+      name: Küvet eteği şekli
+    baton_grip_design:
+      name: Baton kavrama tasarımı
+    battery_cell_type:
+      name: Pil Hücresi Tipi
+    battery_features:
+      name: Pil özellikleri
+    battery_management_features:
+      name: Akü Yönetim Sistemleri
+    battery_size:
+      name: Pil Kapasitesi
+    battery_technology:
+      name: Pil Teknolojisi
+    battery_type:
+      name: Pil Türü
+    bead_shape:
+      name: Boncuk şekli
+    beat_subdivisions:
+      name: Vuruş Alt Bölümleri
+    beater_head_size:
+      name: Çırpıcı başlık boyutu
+    bed/frame_features:
+      name: Yatak/Çerçeve özellikleri
+    bed_pan_type:
+      name: Lazımlık tipi
+    bedding_pieces_included:
+      name: Nevresim parçaları dahil
+    bedding_size:
+      name: Yatak Örtüsü Boyutu
+    beer_style:
+      name: Bira Stili
+    beer_variety:
+      name: Bira Çeşitleri
+    bell_design:
+      name: Çan Tasarımı
+    bell_size:
+      name: Çan boyutu
+    bell_sound:
+      name: Zil Sesi
+    belt_type:
+      name: Kemer Tipi
+    best_uses:
+      name: En İyi Kullanım Alanları
+    bevel_type:
+      name: Eğim Tipi
+    beverage_product_form:
+      name: İçecek ürünü formu
+    bib_design:
+      name: Önlük tasarımı
+    bicycle_brake_type:
+      name: Bisiklet Fren Tipi
+    bicycle_features:
+      name: Bisiklet özellikleri
+    bidet_mounting_type:
+      name: Bide montaj türü
+    binder_ring_shape:
+      name: Bağlayıcı halka şekli
+    binding_mount:
+      name: Bağlama Bağlantısı
+    binding_style:
+      name: Bağlama Stili
+    binocular/monocular_design:
+      name: Binoküler/Monoküler tasarım
+    binocular_design:
+      name: Dürbün tasarımı
+    biometric_monitor_accessory_features:
+      name: Biyometrik monitör aksesuar özellikleri
+    bios_type:
+      name: Bios Türü
+    bird_cage/stand_design:
+      name: Kuş kafesi/stand tasarımı
+    bird_food_form:
+      name: Kuş yemi formu
+    bird_food_ingredients:
+      name: Kuş yemi içerikleri
+    bird_treat_type:
+      name: Kuş ödülü türü
+    birthday_candle_design:
+      name: Doğum günü mumu tasarımı
+    birthday_candle_type:
+      name: Doğum günü mumu tasarımı
+    bitter_variety:
+      name: Acı Çeşitleri
+    blade_curve:
+      name: Bıçak Eğimi
+    blade_design:
+      name: Bıçak tasarımı
+    blade_material:
+      name: Bıçak malzemesi
+    blade_type:
+      name: Bıçak Tipi
+    blanket_color:
+      name: Battaniye rengi
+    blanket_pattern:
+      name: Battaniye deseni
+    blending_type:
+      name: Karışım Tipi
+    blind/shade_style:
+      name: Perde/Gölgelik stili
+    blood_test_kit_components:
+      name: Kan Testi Kiti Bileşenleri
+    board_concave_shape:
+      name: Tahta içbükey şekli
+    board_game_features:
+      name: Masa oyunu özellikleri
+    board_game_mechanics:
+      name: Masa oyunu mekaniği
+    board_material:
+      name: Tahta malzemesi
+    board_mounting_type:
+      name: Pano montaj türü
+    board_profile:
+      name: Pano Profili
+    board_surface:
+      name: Tahta yüzeyi
+    board_type:
+      name: Board Tipi
+    boat_type:
+      name: Tekne Tipi
+    body/facial_hair_type:
+      name: Vücut/yüz kıl tipi
+    body_area:
+      name: Gövde Alanı
+    body_color:
+      name: Vücut rengi
+    body_jewelry_type:
+      name: Vücut takı tipi
+    body_material:
+      name: Gövde malzemesi
+    body_paint/foundation_type:
+      name: Vücut boya ve fondöten türü
+    body_pattern:
+      name: Vücut deseni
+    bodyboard_features:
+      name: Bodyboard özellikleri
+    boiler_system:
+      name: Kazan Sistemi
+    bolt_form:
+      name: Cıvata formu
+    bolt_material:
+      name: Cıvata malzemesi
+    book/file_cover_material:
+      name: Kitap/Dosya kapak malzemesi
+    book_cover_material:
+      name: Kitap kapak malzemesi
+    book_cover_type:
+      name: Kitap Kapağı Türü
+    bookmark_design:
+      name: Kitap ayracı tasarımı
+    bookmark_shape:
+      name: Kitap ayracı şekli
+    boot_style:
+      name: Pabuç stili
+    boot_type:
+      name: Çizme Türü
+    borescope_design:
+      name: Boroskop tasarımı
+    bottle/container_closure:
+      name: Şişe/Konteyner kapatma
+    bottle_closure_type:
+      name: Şişe kapatma türü
+    bottle_design:
+      name: Şişe Tasarımı
+    bottle_material:
+      name: Şişe malzemesi
+    bottle_sterilizer_features:
+      name: Şişe sterilizatörü özellikleri
+    bottle_type:
+      name: Şişe Tipi
+    bottle_warmer/sterilizer_features:
+      name: Şişe ısıtıcı/sterilizatör özellikleri
+    bottle_warmer_features:
+      name: Şişe ısıtıcı özellikleri
+    bottom_surface_material:
+      name: Alt yüzey malzemesi
+    bow/crossbow_features:
+      name: Yay ve Arbalet özellikleri
+    bow_features:
+      name: Yay özellikleri
+    bow_hair_material:
+      name: Fiyonk saç malzemesi
+    bow_material:
+      name: Yay malzemesi
+    box_type:
+      name: Kutu Tipi
+    bra_closure_type:
+      name: Sutyen kapanış türü
+    bra_coverage:
+      name: Sutyen açıklığı
+    bra_features:
+      name: Sütyen özellikleri
+    bra_strap_type:
+      name: Sutyen askısı türü
+    bra_style:
+      name: Sütyen stili
+    bra_support_level:
+      name: Sutyen destek seviyesi
+    bracelet_design:
+      name: Bilezik tasarımı
+    bracket/brace_design:
+      name: Braket/Bağlantı tasarımı
+    brandy_variety:
+      name: Brendi Çeşitleri
+    breath_sprays_certifications:
+      name: Nefes spreyi sertifikaları
+    bridge/router_advanced_features:
+      name: Köprü/Yönlendiricinin gelişmiş özellikleri
+    brightness_levels:
+      name: Parlaklık Seviyeleri
+    bristle_material:
+      name: Kıl malzemesi
+    bristle_shape:
+      name: Kıl şekli
+    broadhead/field_point_material:
+      name: Broadhead/Alan noktası malzemesi
+    brush_application:
+      name: Fırça uygulayıcısı
+    brush_head_usage:
+      name: Fırça başlığı kullanımı
+    brush_material:
+      name: Fırça malzemesi
+    brush_size:
+      name: Fırça Boyutu
+    brush_type:
+      name: Fırça Tipi
+    bug_type:
+      name: Böcek türü
+    building_board_material:
+      name: Yapı tahtası malzemesi
+    building_consumable_form:
+      name: Sarf malzemesi formu oluşturma
+    building_toy_type:
+      name: Yapı oyuncağı tipi
+    bulb_cap_type:
+      name: Ampul Kapağı Tipi
+    bulb_shape:
+      name: Ampul şekli
+    bulb_size:
+      name: Ampul Boyutu
+    bulb_type:
+      name: Ampul türü
+    bulldozer_blade_type:
+      name: Buldozer Bıçak Tipi
+    bullet_protection_level:
+      name: Kurşun Koruma Seviyesi
+    bullhorn_features:
+      name: Megafon özellikleri
+    bullion_form:
+      name: Külçe Formu
+    burner_material:
+      name: Brülör malzemesi
+    butt_cap_color:
+      name: Alın kapağı rengi
+    butt_cap_material:
+      name: Uç kapağı malzemesi
+    butt_cap_pattern:
+      name: Alın kapağı deseni
+    button/snap_closure_type:
+      name: Düğme/Çıtçıt kapatma türü
+    cabinet_type:
+      name: Dolap Tipi
+    cable_housing_material:
+      name: Kablo muhafaza malzemesi
+    cable_shielding:
+      name: Kablo Koruması
+    cable_type:
+      name: Kablo Tipi
+    cage_type:
+      name: Kafes Tipi
+    calculator_accessory_type:
+      name: Hesap makinesi aksesuar tipi
+    calculator_features:
+      name: Hesap makinesi özellikleri
+    calendar/organizer_features:
+      name: Takvim/Düzenleyici özellikleri
+    calendar_format:
+      name: Takvim biçimi
+    cam_system:
+      name: Kamera sistemi
+    camera_attachment:
+      name: Kamera eklentisi
+    camera_button/knob_type:
+      name: Kamera düğmesi/topuz türü
+    camera_control_type:
+      name: Kamera kontrol türü
+    camera_display_technology:
+      name: Kamera görüntüleme teknolojisi
+    camera_features:
+      name: Kamera özellikleri
+    camera_gear_type:
+      name: Kamera donanımı türü
+    camera_hd_type:
+      name: Kamera Hd Tipi
+    camera_lens_material:
+      name: Kamera lens malzemesi
+    camera_lens_type:
+      name: Kamera lensi türü
+    camera_mounting_type:
+      name: Kamera montaj türü
+    camera_sensor_type:
+      name: Kamera sensörü türü
+    camera_shape:
+      name: Kamera şekli
+    candle_kit_items_included:
+      name: Mum seti öğeleri dahil
+    candle_material:
+      name: Mum malzemesi
+    candle_shape:
+      name: Mum şekli
+    candle_type:
+      name: Mum Tipi
+    canned_meat_variety:
+      name: Konserve Et Çeşitleri
+    canopy_color:
+      name: Gölgelik rengi
+    canopy_material:
+      name: Çardak malzemesi
+    canopy_pattern:
+      name: Gölgelik deseni
+    canvas_finish:
+      name: Kanvas kaplama
+    canvas_material:
+      name: Kanvas malzemesi
+    canvas_texture:
+      name: Kanvas dokusu
+    car_freshener_fragrance:
+      name: Araba kokusu
+    car_seat_installation:
+      name: Araba koltuğu kurulumu
+    car_seat_orientation:
+      name: Araba koltuğu yönlendirmesi
+    car_type:
+      name: Araba Tipi
+    carabiner_gate_type:
+      name: Karabina Kapı Tipi
+    carabiner_shape:
+      name: Karabina şekli
+    card/adapter_installation:
+      name: Kart/Adaptör kurulumu
+    card_attributes:
+      name: Kart Özellikleri
+    card_design:
+      name: Kart tasarımı
+    card_format:
+      name: Kart biçimi
+    card_holder_design:
+      name: Kart tutucu tasarımı
+    card_size:
+      name: Kart boyutu
+    care_instructions:
+      name: Bakım Talimatları
+    carry_options:
+      name: Taşıma Seçenekleri
+    carrying_positions:
+      name: Taşıma Pozisyonları
+    carrying_type:
+      name: Taşıma Tipi
+    cart_design:
+      name: Sepet Tasarımı
+    cart_type:
+      name: Sepet Tipi
+    cartridge_type:
+      name: Kartuş Türü
+    case_color:
+      name: Kasa rengi
+    case_pattern:
+      name: Çerçeve deseni
+    case_type:
+      name: Kılıf Tipi
+    cassette_adapter_type:
+      name: Kaset adaptör tipi
+    cat_age_group:
+      name: Kedi Yaş Grubu
+    cat_litter_formula:
+      name: Kedi kumu formülü
+    cbd_ingredients:
+      name: CBD içerikleri
+    celebration_type:
+      name: Kutlama türü
+    chain_link_type:
+      name: Zincir Bağlantı Tipi
+    chain_type:
+      name: Zincir Tipi
+    chair/sofa_features:
+      name: Sandalye/Kanepe özellikleri
+    chair_features:
+      name: Sandalye özellikleri
+    chalkboard_surface:
+      name: Kara tahta yüzeyi
+    changing_mat/tray_features:
+      name: Değiştirme minderi/tepsisi özellikleri
+    changing_mat_features:
+      name: Değiştirme minderi özellikleri
+    changing_tray_features:
+      name: Değiştirme tepsisi özellikleri
+    charger_type:
+      name: Şarj Cihazı Tipi
+    charging_cable_type:
+      name: Şarj kablosu türü
+    charging_level:
+      name: Şarj Seviyesi
+    charging_method:
+      name: Şarj yöntemi
+    chassis_type:
+      name: Şasi Tipi
+    chemical_application:
+      name: Kimyasal uygulama
+    chemical_container_type:
+      name: Kimyasal konteyner türü
+    chemical_grade:
+      name: Kimyasal Sınıf
+    chemical_product_form:
+      name: Kimyasal ürün formu
+    chemical_purity:
+      name: Kimyasal Saflık
+    chemical_safety_features:
+      name: Kimyasal güvenlik özellikleri
+    chicken_feed_stage:
+      name: Tavuk besleme aşaması
+    child_seat_placement:
+      name: Çocuk koltuğu yerleşimi
+    chipper_technology:
+      name: Parçalayıcı Teknolojisi
+    chiropractic_table_design:
+      name: Kayropraktik masa tasarımı
+    chuck_type:
+      name: Ayna Tipi
+    cigar_body:
+      name: Puro Gövdesi
+    circuit_board_features:
+      name: Devre kartı özellikleri
+    circuit_breaker_design:
+      name: Devre kesici tasarımı
+    circuit_breaker_panel_form:
+      name: Devre kesici panel formu
+    circuit_breaker_type:
+      name: Devre Kesici Tipi
+    clarinet_key_system:
+      name: Klarnet anahtar sistemi
+    clasp_type:
+      name: Kenetleme Türü
+    claw_design:
+      name: Pençe Tasarımı
+    clay/slip_texture:
+      name: Kil/Kaygan doku
+    clay_texture:
+      name: Kil dokusu
+    cleaner_purpose:
+      name: Temizleyici amacı
+    cleaning_instructions:
+      name: Temizleme talimatları
+    cleaning_purpose:
+      name: Temizlik amacı
+    cleaning_surfaces:
+      name: Yüzeylerin Temizlenmesi
+    cleat_type:
+      name: Kilit Tipi
+    climbing_activity:
+      name: Tırmanma aktivitesi
+    clip_type:
+      name: Klip Türü
+    clipper/trimmer_type:
+      name: Kırpıcı / Düzeltici tipi
+    closure_style:
+      name: Kapanış Stili
+    closure_type:
+      name: Kapanış Türü
+    clothing_accessory_material:
+      name: Giysi aksesuar malzemesi
+    clothing_features:
+      name: Giysi özellikleri
+    club_subset:
+      name: Sopa Alt Kümesi
+    club_type:
+      name: Sopa Tipi
+    coating/sealant_application:
+      name: Kaplama/Sızdırmazlık maddesi uygulaması
+    cocktail_decoration_design:
+      name: Kokteyl dekorasyon tasarımı
+    cocktail_decoration_material:
+      name: Kokteyl dekorasyon malzemesi
+    coffee/tea_set_pieces_included:
+      name: Kahve/Çay seti parçaları dahil
+    coffee_creamer_variety:
+      name: Kahve Kreması Çeşitleri
+    coffee_input_type:
+      name: Kahve Giriş Tipi
+    coffee_product_form:
+      name: Kahve ürünü formu
+    coffee_roast:
+      name: Kahve Kavurma
+    coil_connection:
+      name: Bobin bağlantısı
+    coin_material:
+      name: Madeni para malzemesi
+    collar/mount_compatible_device:
+      name: Halka/Montaj uyumlu cihaz
+    collar/mount_design:
+      name: Halka/Montaj tasarımı
+    collar_lock_type:
+      name: Yaka kilit tipi
+    color:
+      name: Renk
+    color_accuracy_standards:
+      name: Renk Doğruluğu Standartları
+    color_saturation:
+      name: Renk Doygunluğu
+    communication_device_features:
+      name: İletişim cihazı özellikleri
+    communication_protocols:
+      name: İletişim protokolleri
+    compass_style:
+      name: Pusula stili
+    compatible_aircraft_type:
+      name: Uyumlu hava aracı türü
+    compatible_amplifier:
+      name: Uyumlu amplifikatör
+    compatible_aquarium:
+      name: Uyumlu Akvaryum
+    compatible_baby_bottle_design:
+      name: Uyumlu biberon tasarımı
+    compatible_baby_carrier_type:
+      name: Uyumlu bebek taşıyıcı tipi
+    compatible_baby_chair_type:
+      name: Uyumlu bebek sandalyesi tipi
+    compatible_baby_transport_type:
+      name: Uyumlu bebek taşıma ürünleri tipi
+    compatible_ball_type:
+      name: Uyumlu Top Tipi
+    compatible_battery_size:
+      name: Uyumlu pil kapasitesi
+    compatible_battery_technology:
+      name: Uyumlu Pil Teknolojisi
+    compatible_bench_positions:
+      name: Uyumlu sehpa pozisyonları
+    compatible_bike_type:
+      name: Uyumlu Bisiklet Tipi
+    compatible_brass_instrument:
+      name: Uyumlu pirinç enstrüman
+    compatible_clarinet_type:
+      name: Uyumlu klarnet türü
+    compatible_cosmetic_tools:
+      name: Uyumlu kozmetik araçlar
+    compatible_device:
+      name: Uyumlu Cihaz
+    compatible_drum_configuration:
+      name: Uyumlu tambur konfigürasyonu
+    compatible_electric/acoustic_instrument:
+      name: Uyumlu elektrikli/akustik enstrüman
+    compatible_electronic_card_type:
+      name: Uyumlu Elektronik Kart Türü
+    compatible_exercises:
+      name: Uyumlu Egzersizler
+    compatible_filament:
+      name: Uyumlu Filament
+    compatible_film_type:
+      name: Uyumlu film türü
+    compatible_flute_type:
+      name: Uyumlu flüt türü
+    compatible_game_format:
+      name: Uyumlu Oyun Formatı
+    compatible_gardening_tool:
+      name: Uyumlu bahçe işi aleti
+    compatible_hair_color:
+      name: Uyumlu Saç Rengi
+    compatible_hammock_design:
+      name: Uyumlu hamak tasarımı
+    compatible_harmonica_type:
+      name: Uyumlu armonika türü
+    compatible_hdcp:
+      name: Uyumlu Hdcp
+    compatible_instrument:
+      name: Uyumlu enstrüman
+    compatible_keyboard_configuration:
+      name: Uyumlu klavye yapılandırması
+    compatible_lock_type:
+      name: Uyumlu Kilit Tipi
+    compatible_makeup:
+      name: Uyumlu makyaj ürünleri
+    compatible_mattress_size:
+      name: Uyumlu yatak boyutu
+    compatible_memory_cards:
+      name: Uyumlu Hafıza Kartları
+    compatible_microphone_thread:
+      name: Uyumlu Mikrofon Kablosu
+    compatible_motherboard_form_factor:
+      name: Uyumlu Anakart Form Faktörü
+    compatible_oboe_type:
+      name: Uyumlu obua türü
+    compatible_operating_system:
+      name: Uyumlu İşletim Sistemi
+    compatible_orchestral_string_instrument:
+      name: Uyumlu orkestra yaylı çalgı
+    compatible_paper_size:
+      name: Uyumlu kağıt boyutu
+    compatible_patient_profile:
+      name: Uyumlu hasta profili
+    compatible_percussion_instrument:
+      name: Uyumlu vurmalı çalgı
+    compatible_play_vehicle_type:
+      name: Uyumlu oyun aracı türü
+    compatible_player:
+      name: Uyumlu oynatıcı
+    compatible_printer:
+      name: Uyumlu yazıcı
+    compatible_processor_series:
+      name: Uyumlu İşlemci Serisi
+    compatible_programming_languages:
+      name: Uyumlu Programlama Dilleri
+    compatible_recipes:
+      name: Uyumlu Tarifler
+    compatible_resolution:
+      name: Uyumlu Çözünürlük
+    compatible_seat_type:
+      name: Uyumlu koltuk tipi
+    compatible_shoe_size:
+      name: Uyumlu ayakkabı numarası
+    compatible_software_platform:
+      name: Uyumlu yazılım platformu
+    compatible_special_effects_device:
+      name: Uyumlu özel efekt cihazı
+    compatible_stove_top_type:
+      name: Uyumlu ocak üstü tipi
+    compatible_string_instrument:
+      name: Uyumlu yaylı çalgı
+    compatible_stroller_type:
+      name: Uyumlu bebek arabası tipi
+    compatible_vacuum_type:
+      name: Uyumlu Vakum Tipi
+    compatible_vehicle:
+      name: Uyumlu Araç
+    compatible_walking_aid_equipment:
+      name: Uyumlu yürüme yardımcısı ekipmanı
+    compatible_weight_lifting_accessory:
+      name: Uyumlu ağırlık kaldırma aksesuarı
+    compliance_certifications:
+      name: Uyumluluk sertifikaları
+    component_output_type:
+      name: Bileşen çıkış tipi
+    component_package_type:
+      name: Bileşen Paket Türü
+    compression_format:
+      name: Sıkıştırma Formatı
+    compression_level:
+      name: Sıkıştırma Seviyesi
+    computer_accessories_included:
+      name: Bilgisayar aksesuarları dahil
+    computer_form:
+      name: Bilgisayar Formu
+    computer_server_features:
+      name: Bilgisayar sunucusu özellikleri
+    computer_specialized_features:
+      name: Bilgisayara özgü özellikler
+    concertina_button_configuration:
+      name: Akordeon düğme yapılandırması
+    condition:
+      name: Durum
+    conditioner_effect:
+      name: Saç Kremi Etkisi
+    condom_type:
+      name: Prezervatif Türü
+    connecting_thread:
+      name: Bağlantı Kablosu
+    connection_method:
+      name: Bağlantı yöntemi
+    connection_type:
+      name: Bağlantı Türü
+    connectivity_technology:
+      name: Bağlantı Teknolojisi
+    connector_design:
+      name: Konektör tasarımı
+    connector_gender:
+      name: Soket Cinsiyeti
+    console_system:
+      name: Konsol Sistemi
+    constitutive_ingredients:
+      name: Yapıcı Malzemeler
+    construction_set_theme:
+      name: İnşaat seti teması
+    contrast:
+      name: Kontrast
+    contrast_ratio_typical:
+      name: Kontrast Oranı (Tipik)
+    control_functions:
+      name: Kontrol Fonksiyonları
+    control_method:
+      name: Kontrol Metodu
+    control_technology:
+      name: Kontrol Teknolojisi
+    control_type:
+      name: Kontrol Tipi
+    controller_design:
+      name: Denetleyici Tasarımı
+    controller_drive_type:
+      name: Denetleyici Sürücü Tipi
+    converter_functionality:
+      name: Dönüştürücü işlevi
+    conveyor_operation:
+      name: Konveyör çalışması
+    cooking_method:
+      name: Pişirme Metodu
+    cooking_wine_variety:
+      name: Pişirme Şarabı Çeşitleri
+    cookware/bakeware_features:
+      name: Pişirme/Fırın gereçleri özellikleri
+    cookware/bakeware_material:
+      name: Pişirme/Fırın gereçleri malzemesi
+    cookware_features:
+      name: Pişirme özellikleri
+    cookware_items_included:
+      name: Pişirme gereçleri dahil
+    cooling_technology:
+      name: Soğutma Teknolojisi
+    cord_fastening_system:
+      name: Kordon Sabitleme Sistemi
+    core_color:
+      name: Ana renk
+    core_material:
+      name: Çekirdek malzemesi
+    core_pattern:
+      name: Ana desen
+    corrector_features:
+      name: Düzeltici özellikleri
+    corsage/boutonniere_design:
+      name: Korsaj/Yaka çiçeği tasarımı
+    cosmetic_condition:
+      name: Dış Görünüm Durumu
+    cosmetic_finish:
+      name: Kozmetik Kaplama
+    cosmetic_function:
+      name: Kozmetik İşlev
+    costume_theme:
+      name: Kostüm teması
+    counter_shape:
+      name: Sayaç şekli
+    country:
+      name: Ülke
+    cover_closure_design:
+      name: Kapak kapatma tasarımı
+    cover_color:
+      name: Örtü rengi
+    cover_features:
+      name: Kapak özellikleri
+    cover_material:
+      name: Kılıf malzemesi
+    cover_pattern:
+      name: Örtü deseni
+    cover_type:
+      name: Kapak Tipi
+    coverage_area:
+      name: Kapsama Alanı
+    coverage_region:
+      name: Kapsama bölgesi
+    craft/sculpting_project_type:
+      name: Zanaat/Heykelcilik proje türü
+    craft_cutter/embosser_type:
+      name: El işi kesici/kabartma tipi
+    craft_decoration_maker_type:
+      name: El işi dekorasyon üreticisi tipi
+    craft_knife_design:
+      name: Zanaat bıçağı tasarımı
+    craft_pipe_cleaner_design:
+      name: El işi boru temizleyici tasarımı
+    craft_project_type:
+      name: Zanaat proje türü
+    crafting_frame/stretcher_features:
+      name: El işi çerçevesi/stretcher özellikleri
+    crafting_frame_features:
+      name: El işi çerçevesi özellikleri
+    crafting_hoop_features:
+      name: El işi kasnağı özellikleri
+    crafting_mat/pad_features:
+      name: El işi matı/pedi özellikleri
+    crafting_stretcher_features:
+      name: El işi sedyesi özellikleri
+    crampon_attachment_type:
+      name: Krampon bağlantı tipi
+    creative_art_project_type:
+      name: Yaratıcı sanat projesi türü
+    crib/toddler_bed_features:
+      name: Beşik/Çocuk yatağı özellikleri
+    crib_features:
+      name: Beşik özellikleri
+    cricket_equipment_included:
+      name: Kriket ekipmanları dahil
+    crutch_type:
+      name: Koltuk Değneği Tipi
+    crystal_system:
+      name: Kristal Sistemi
+    cue_style:
+      name: Istaka Stili
+    cue_type:
+      name: Istaka Türü
+    cue_wrap:
+      name: Istaka Kılıfı
+    cuisine:
+      name: Mutfak
+    culinary_botanical_name:
+      name: Mutfak botanik adı
+    cup_size:
+      name: Kup Ölçüsü
+    curler_type:
+      name: Kıvırıcı Tipi
+    currencies_supported:
+      name: Desteklenen para birimleri
+    currency:
+      name: Para Birimi
+    currency_type:
+      name: Para Birimi Türü
+    customer_support_channels:
+      name: Müşteri Destek Kanalları
+    customization:
+      name: Özelleştirme
+    cutter_options:
+      name: Kesici seçenekleri
+    cutting_method:
+      name: Kesme Yöntemi
+    cycling_style:
+      name: Bisiklet sürüş stili
+    data_network:
+      name: Veri Ağı
+    decoration_material:
+      name: Dekorasyon malzemesi
+    decorative_stamp_design:
+      name: Dekoratif damga tasarımı
+    denomination:
+      name: Nominal Değer
+    dental_floss_shape:
+      name: Diş İplikleri şekli
+    dental_floss_thickness_level:
+      name: Diş İpi Kalınlığı Seviyesi
+    dental_floss_type:
+      name: Diş İplikleri türü
+    dental_mouthgard_recommended_use:
+      name: Diş ağızlığı önerilen kullanım
+    dental_mouthguard_certifications:
+      name: Diş için ağız koruyucu sertifikaları
+    dental_paste_flavor:
+      name: Diş macunu aroması
+    dental_repair_kit_certifications:
+      name: Diş tamir seti sertifikaları
+    dental_water_jet_operation:
+      name: Dental su jeti işlemi
+    dentistry_items_included:
+      name: Diş hekimliği ürünleri dahil
+    denture_base_color:
+      name: Protez Taban Rengi
+    denture_coverage:
+      name: Protez kapsamı
+    denture_design:
+      name: Protez tasarımı
+    denture_teeth_color:
+      name: Protez Diş Rengi
+    deployment_type:
+      name: Dağıtım türü
+    desk_organizer_features:
+      name: Masa düzenleyici özellikleri
+    desk_size:
+      name: Masa boyutu
+    detailed_ingredients:
+      name: Detaylı Malzemeler
+    detectable_drugs:
+      name: Tespit Edilebilen İlaçlar
+    detector_operation_mode:
+      name: Dedektör çalışma modu
+    detector_sensitivity:
+      name: Dedektör Hassasiyeti
+    detector_type:
+      name: Dedektör Tipi
+    developmental_features:
+      name: Gelişimsel özellikler
+    device_interface:
+      name: Cihaz Arayüzü
+    device_technology:
+      name: Cihaz Teknolojisi
+    dexterity_skills:
+      name: El becerisi yetenekleri
+    dial_color:
+      name: Mine rengi
+    dial_pattern:
+      name: Kadran deseni
+    diaper_bag_additional_features:
+      name: Bebek bezi çantası ek özellikleri
+    diaper_bag_material:
+      name: Bebek bezi çantası malzemesi
+    diaper_bag_style:
+      name: Bebek Bezi Çanta stili
+    diaper_features:
+      name: Bebek bezi özellikleri
+    diaper_kit_components:
+      name: Bebek bezi seti bileşenleri
+    diaper_organizer_features:
+      name: Bebek bezi düzenleyici özellikleri
+    diaper_size:
+      name: Bebek bezi boyutu
+    diaper_type:
+      name: Bebek bezi tipi
+    dice_shape:
+      name: Zar şekli
+    dielectric_type:
+      name: Dielektrik Tip
+    dietary_preferences:
+      name: Diyet Tercihleri
+    dietary_supplements:
+      name: Diyet takviyeleri
+    dietary_use:
+      name: Diyet Kullanımı
+    difficulty_level:
+      name: Zorluk Seviyesi
+    diffuser_design:
+      name: Difüzör tasarımı
+    digital_sound_processing:
+      name: Dijital Ses İşleme
+    dinnerware_pieces_included:
+      name: Yemek takımı parçaları dahil
+    dirt_separating_method:
+      name: Kir Ayırma Yöntemi
+    discharge_type:
+      name: Deşarj Türü
+    disk_format_type:
+      name: Disk Formatı Türü
+    dispenser_type:
+      name: Dağıtıcı Tipi
+    display_board_features:
+      name: Ekran kartı özellikleri
+    display_color_mode:
+      name: Ekran rengi modu
+    display_features:
+      name: Ekran özellikleri
+    display_mode:
+      name: Ekran modu
+    display_recommended_use:
+      name: Önerilen kullanımı görüntüle
+    display_resolution:
+      name: Ekran Çözünürlüğü
+    display_sign_design:
+      name: Ekran tabelası tasarımı
+    display_technology:
+      name: Ekran Teknolojisi
+    disposable/reusable_bag_features:
+      name: Tek kullanımlık/Yeniden kullanılabilir çanta özellikleri
+    disposable/reusable_item_material:
+      name: Tek kullanımlık/Yeniden kullanılabilir ürün malzemesi
+    disposable_bag_features:
+      name: Tek kullanımlık çanta özellikleri
+    disposable_bag_material:
+      name: Tek kullanımlık çanta malzemesi
+    disposable_glove_features:
+      name: Tek kullanımlık eldiven özellikleri
+    disposable_tableware_material:
+      name: Tek kullanımlık sofra malzemesi
+    dive_computer_items_included:
+      name: Dalış bilgisayarı öğeleri dahil
+    diving/snorkeling_equipment_included:
+      name: Dalış/Şnorkel ekipmanları dahil
+    diving_regulator_style:
+      name: Dalış regülatörü stili
+    dj_equipment_features:
+      name: DJ ekipmanı özellikleri
+    dj_software_compatibility:
+      name: DJ yazılım uyumluluğu
+    dog_age_group:
+      name: Köpek Yaş Grubu
+    dog_diaper_size:
+      name: Köpek bezi boyutu
+    dog_diaper_type:
+      name: Köpek bezi türü
+    dog_house_features:
+      name: Köpek evinin özellikleri
+    dog_kennel/run_features:
+      name: Köpek kulübesi/run özellikleri
+    dog_kennel_features:
+      name: Köpek kulübesi özellikleri
+    dog_pen_features:
+      name: Köpek kafesi özellikleri
+    dog_toy_type:
+      name: Köpek oyuncağı türü
+    doll/playset_features:
+      name: Oyuncak Bebek/Oyun Seti özellikleri
+    doll_features:
+      name: Bebek özellikleri
+    doll_type:
+      name: Bebek türü
+    door/frame_application:
+      name: Kapı/Çerçeve uygulaması
+    door_application:
+      name: Kapı uygulaması
+    door_closer_application:
+      name: Kapı kapatıcı uygulaması
+    door_closer_design:
+      name: Kapı kapatıcı tasarımı
+    door_color:
+      name: Kapı rengi
+    door_frame_application:
+      name: Kapı çerçevesi uygulaması
+    door_frame_finish:
+      name: Kapı çerçevesi kaplaması
+    door_glass_finish:
+      name: Kapı camı kaplaması
+    door_insulation:
+      name: Kapı Yalıtımı
+    door_knob_function:
+      name: Kapı Tokmağı İşlevi
+    door_mat_base_color:
+      name: Kapı paspası taban rengi
+    door_mat_base_material:
+      name: Kapı paspası taban malzemesi
+    door_mat_base_pattern:
+      name: Kapı paspası taban deseni
+    door_mat_surface_material:
+      name: Kapı paspası yüzey malzemesi
+    door_material:
+      name: Kapı malzemesi
+    door_pattern:
+      name: Kapı deseni
+    door_stop_placement:
+      name: Kapı stobu yerleşimi
+    door_stopper_design:
+      name: Kapı durdurucu tasarımı
+    door_suitable_location:
+      name: Kapının uygun konumu
+    door_surface_finish:
+      name: Kapı yüzeyi kaplaması
+    door_type:
+      name: Kapı Tipi
+    double_stroller_configuration:
+      name: Çift kişilik bebek arabası konfigürasyonu
+    download_format:
+      name: İndirme biçimi
+    drain_location:
+      name: Tahliye Konumu
+    drawing/painting_kit_items_included:
+      name: Çizim/Boyama seti ürünleri dahil
+    dress_form_features:
+      name: Elbise formu özellikleri
+    dress_occasion:
+      name: Elbise etkinliği
+    dress_style:
+      name: Elbise stili
+    drill_features:
+      name: Matkap özellikleri
+    drilling_method:
+      name: Delme Yöntemi
+    drilling_rig_orientation:
+      name: Sondaj kulesi yönelimi
+    drinkware_material:
+      name: İçecek malzemesi
+    drinkware_pieces_included:
+      name: Bardak takımı parçaları dahildir
+    drive_size:
+      name: Sürücü boyutu
+    drive_type:
+      name: Tahrik Tipi
+    drum_configuration:
+      name: Davul Yapılandırması
+    drum_hardware_adjustability:
+      name: Davul donanımı ayarlanabilirliği
+    drum_hardware_material:
+      name: Davul donanım malzemesi
+    dry/wet_cleaning:
+      name: Kuru/Islak temizleme
+    dry_bean_variety:
+      name: Kuru Fasulye Çeşitleri
+    dryer_features:
+      name: Kurutcu özellikleri
+    dryer_technology:
+      name: Kurutucu Teknolojisi
+    drying_speed:
+      name: Kuruma hızı
+    duct_design:
+      name: Kanal tasarımı
+    duct_shape:
+      name: Kanal şekli
+    duplexing_technology:
+      name: Alıcı-Verici Teknolojisi
+    durability_features:
+      name: Dayanıklılık özellikleri
+    dust_container_type:
+      name: Toz Kabı Tipi
+    dust_mask_type:
+      name: Toz maskesi türü
+    dye_form:
+      name: Boya formu
+    dynamic_level:
+      name: Dinamik Seviye
+    e_book_formats_supported:
+      name: Desteklenen e-kitap formatları
+    e_cigarette/vaporizer_style:
+      name: E-sigara/Buharlaştırıcı stili
+    e_liquid_flavor:
+      name: Likit Aroması
+    e_liquid_variety:
+      name: Likit Çeşitleri
+    e_reader_display_technology:
+      name: E-okuyucu ekran teknolojisi
+    ear_care_application_method:
+      name: Kulak bakımı uygulama yöntemi
+    earphone_features:
+      name: Kulaklık özellikleri
+    earplug_use:
+      name: Kulak tıkacı kullanımı
+    earring_design:
+      name: Küpe tasarımı
+    edge_style:
+      name: Kenar Stili
+    edge_type:
+      name: Kenar tipi
+    education_level:
+      name: Eğitim Seviyesi
+    egg_decorating_items_included:
+      name: Yumurta süsleme öğeleri dahil
+    egg_turning:
+      name: Yumurta çevirme
+    electronic_drum_components:
+      name: Elektronik davul bileşenleri
+    electronic_game_genre:
+      name: Elektronik oyun türü
+    embellishment/trim_material:
+      name: Süsleme/Eksen malzemesi
+    embellishments:
+      name: Süslemeler
+    embossing_project_type:
+      name: Kabartma proje türü
+    embouchure_hole_shape:
+      name: Embouchure delik şekli
+    emergency/safety_sign_design:
+      name: Acil durum/Güvenlik işareti tasarımı
+    emergency_items_included:
+      name: Acil durum öğeleri dahil
+    enclosure_type:
+      name: Muhafaza Tipi
+    energy_efficiency_class:
+      name: Enerji Verimliliği Sınıfı
+    energy_efficiency_class_hdr:
+      name: Enerji Verimliliği Sınıfı (Hdr)
+    energy_efficiency_class_sdr:
+      name: Enerji Verimlilik Sınıfı (Sdr)
+    engine_design:
+      name: Motor tasarımı
+    engine_purpose:
+      name: Motor amacı
+    engine_type:
+      name: Motor Tipi
+    engraving:
+      name: Gravür
+    envelope_features:
+      name: Zarf özellikleri
+    envelope_seal_design:
+      name: Zarf mühür tasarımı
+    equipment_operation:
+      name: Ekipman çalışması
+    era:
+      name: Çağ
+    esrb_rating:
+      name: ESRB derecelendirmesi
+    ethernet_lan_interface_type:
+      name: Ethernet Lan Arayüzü Türü
+    ev_battery_features:
+      name: EV batarya özellikleri
+    ev_battery_type:
+      name: Elektrikli araç pil türü
+    ev_connector/adapter_type:
+      name: Elektrikli araç konnektör/adaptör tipi
+    ev_conversion_kit_components:
+      name: Elektrikli araç dönüşüm kiti bileşenleri
+    evaporation_technology:
+      name: Buharlaşma Teknolojisi
+    event_type:
+      name: Etkinlik Tipi
+    exercise_equipment_included:
+      name: Egzersiz ekipmanları dahil
+    exercise_equipment_material:
+      name: Egzersiz ekipmanı malzemesi
+    exercise_machine_features:
+      name: Egzersiz makinesi özellikleri
+    exercise_mat_material:
+      name: Egzersiz minderi malzemesi
+    expansion_slots:
+      name: Genişleme Yuvaları
+    exposure_control:
+      name: Pozlama Kontrolü
+    extended_saxophone_range:
+      name: Genişletilmiş saksafon aralığı
+    external_defibrillator_features:
+      name: Harici defibrilatörün özellikleri
+    extinguisher_rating:
+      name: Söndürücü Derecelendirmesi
+    extinguishing_agent_type:
+      name: Söndürücü Madde Türü
+    extraction_type:
+      name: Ekstraksiyon Türü
+    extractor_tip_style:
+      name: Çıkarıcı Uç Stili
+    eye_pillow_shape:
+      name: Göz yastığı şekli
+    eye_shadow_effect:
+      name: Göz Farı Efekti
+    eyebrow_enhancer_color:
+      name: Kaş geliştirici renk
+    eyelash_applicator_design:
+      name: Kirpik aplikatörü tasarımı
+    eyelash_material:
+      name: Kirpik malzemesi
+    eyelash_type:
+      name: Kirpik türü
+    eyepiece/adapter_material:
+      name: Mercek/Adaptör malzemesi
+    eyewear_frame_color:
+      name: Gözlük çerçevesi rengi
+    eyewear_frame_design:
+      name: Gözlük çerçevesi tasarımı
+    eyewear_frame_material:
+      name: Gözlük çerçevesi malzemesi
+    eyewear_frame_pattern:
+      name: Gözlük çerçevesi deseni
+    eyewear_frame_shape:
+      name: Gözlük çerçevesi şekli
+    eyewear_lens_color:
+      name: Gözlük camı rengi
+    eyewear_lens_material:
+      name: Gözlük camı malzemesi
+    eyewear_lens_pattern:
+      name: Gözlük camı deseni
+    fabric:
+      name: Kumaş
+    fabric_structure:
+      name: Kumaş yapısı
+    face_area:
+      name: Yüz alanı
+    face_powder_color:
+      name: Yüz Pudrası rengi
+    face_powder_type:
+      name: Yüz Pudrası türü
+    faceplate_design:
+      name: Ön yüz tasarımı
+    facility_sign_design:
+      name: Tesis tabela tasarımı
+    false_nail_application_method:
+      name: Takma tırnak uygulama yöntemi
+    fastener_finish:
+      name: Bağlantı elemanı kaplaması
+    fastener_material:
+      name: Bağlantı elemanı malzemesi
+    fastener_type:
+      name: Bağlantı Elemanı Tipi
+    fat_content:
+      name: Yağ İçeriği
+    faucet_thread:
+      name: Musluk İpliği
+    features:
+      name: Özellikler
+    feed_system:
+      name: Besleme Sistemi
+    feet_type:
+      name: Ayak Tipi
+    felt_tip_design:
+      name: Keçeli uç tasarımı
+    feminine_sanitary_supply_features:
+      name: Kadınsı hijyenik malzeme özellikleri
+    fencing_components:
+      name: Çit Bileşenleri
+    fiber_art_project_type:
+      name: Fiber sanat proje türü
+    field_flatness:
+      name: Alan düzlüğü
+    filament_type:
+      name: Filament türü
+    file_format_type:
+      name: Dosya Formatı Türü
+    file_shape:
+      name: Dosya şekli
+    filler_material:
+      name: Dolgu malzemesi
+    filler_support:
+      name: Dolgu Desteği
+    filler_type:
+      name: Dolgu Türü
+    filling/padding_project_type:
+      name: Doldurma/Doldurma proje türü
+    film_application_method:
+      name: Film uygulama yöntemi
+    film_format:
+      name: Film Formatı
+    film_type:
+      name: Film Tipi
+    filter_material:
+      name: Filtre malzemesi
+    filter_type:
+      name: Filtre Tipi
+    filtering_modes:
+      name: Filtreleme Modları
+    filtration_class:
+      name: Filtrasyon Sınıfı
+    fin_material:
+      name: Yüzgeç malzemesi
+    fin_pocket_type:
+      name: Kanat Cep Tipi
+    fin_profile:
+      name: Kanat Profili
+    fingerboard_color:
+      name: Klavye rengi
+    fingerboard_material:
+      name: Klavye malzemesi
+    fingerboard_pattern:
+      name: Klavye deseni
+    fingerprint_capture_method:
+      name: Parmak İzi Yakalama Yöntemi
+    finial_shape:
+      name: Çatı dekorasyonu şekli
+    finish:
+      name: Kaplama
+    fire_extinguisher_items_included:
+      name: Yangın söndürücü öğeler dahildir
+    firmness:
+      name: Sıkılık
+    first_aid_kit_components:
+      name: İlk yardım çantası bileşenleri
+    first_aid_kit_usage:
+      name: İlk yardım çantası kullanımı
+    first_steps/crawlers_style:
+      name: İlk adımlar/emekleme tarzı
+    fish_type:
+      name: Balık Türü
+    fishing_rod_action:
+      name: Olta Eylemi
+    fishing_rod_power:
+      name: Olta Gücü
+    fishing_wire_material:
+      name: Olta teli malzemesi
+    fit:
+      name: Fit
+    fit_type:
+      name: Fit Tipi
+    fixation_type:
+      name: Sabitleme Tipi
+    flag_shape:
+      name: Bayrak şekli
+    flare_type:
+      name: Parlama Tipi
+    flash_card_theme:
+      name: Flash kart teması
+    flash_modes:
+      name: Flaş Modları
+    flash_type:
+      name: Flaş türü
+    flashing_material:
+      name: Flash malzemesi
+    flat_shoe_style:
+      name: Düz ayakkabı stili
+    flatware_material:
+      name: Sofra takımı malzemesi
+    flatware_pieces_included:
+      name: Çatal bıçak takımı parçaları dahil
+    flavor:
+      name: Lezzet
+    flavor_profile:
+      name: Lezzet Profili
+    flexibility_rating:
+      name: Esneklik Derecelendirmesi
+    floral_wire_design:
+      name: Çiçekli tel tasarımı
+    flour/grain_type:
+      name: Un/Tahıl Türü
+    flow_rate_type:
+      name: Akış hızı tipi
+    flower_color:
+      name: Çiçek rengi
+    flower_pattern:
+      name: Çiçek deseni
+    flue_type:
+      name: Baca tipi
+    fluid_type:
+      name: Sıvı Tipi
+    flush_plate_color:
+      name: Sifon plakası rengi
+    flush_plate_pattern:
+      name: Gömme plaka deseni
+    flush_system:
+      name: Sifon Sistemi
+    flute_configuration:
+      name: Flüt konfigürasyonu
+    foam_form:
+      name: Köpük formu
+    focus_adjustment:
+      name: Odak Ayarı
+    focus_device_type:
+      name: Odak cihaz türü
+    focus_type:
+      name: Odak Türü
+    fold_type:
+      name: Katlama Türü
+    folder/report_cover_material:
+      name: Klasör/Rapor kapak malzemesi
+    folding_mechanism:
+      name: Katlanır Mekanizma
+    font_style:
+      name: Yazı tipi stili
+    food_bag_material:
+      name: Gıda torbası malzemesi
+    food_dispenser_type:
+      name: Yiyecek dispenseri türü
+    food_product_form:
+      name: Gıda ürünü formu
+    food_storage_material:
+      name: Gıda depolama malzemesi
+    food_supplement_form:
+      name: Gıda takviyesi formu
+    footage_type:
+      name: Çekim Türü
+    footboard_type:
+      name: Basamak Tipi
+    footwear_color:
+      name: Ayakkabı rengi
+    footwear_material:
+      name: Ayakkabı malzemesi
+    footwear_pattern:
+      name: Ayakkabı deseni
+    format_supported:
+      name: Desteklenen Format
+    formula_level:
+      name: Formül Seviyesi
+    fossil_type:
+      name: Fosil Türü
+    foundation_color:
+      name: Fondöten rengi
+    foundation_material:
+      name: Fondöten malzemesi
+    foundation_pattern:
+      name: Fondöten deseni
+    fragrance:
+      name: Koku
+    fragrance_level:
+      name: Koku seviyesi
+    frame_color:
+      name: Çerçeve rengi
+    frame_design:
+      name: Çerçeve Tasarımı
+    frame_material:
+      name: Çerçeve malzemesi
+    frame_pattern:
+      name: Çerçeve deseni
+    frame_style:
+      name: Çerçeve stili
+    frequency/radio_bands_supported:
+      name: Desteklenen Frekans/Radyo Bantları
+    frequency_type:
+      name: Frekans tipi
+    frequency_weighting:
+      name: Frekans Ağırlıklandırma
+    frog_material:
+      name: Kurbağa malzemesi
+    fruit_source:
+      name: Meyve Kaynağı
+    fuel_additives:
+      name: Yakıt Katkıları
+    fuel_container_features:
+      name: Yakıt kabı özellikleri
+    fuel_grade:
+      name: Yakıt Sınıfı
+    fuel_purity:
+      name: Yakıt Saflığı
+    fuel_source:
+      name: Yakıt kaynağı
+    fuel_supply:
+      name: Yakıt tedariki
+    furniture/fixture_color:
+      name: Mobilya/Armatür rengi
+    furniture/fixture_features:
+      name: Mobilya/Armatür özellikleri
+    furniture/fixture_material:
+      name: Mobilya/Armatür malzemesi
+    furniture/fixture_pattern:
+      name: Mobilya/Armatür deseni
+    game_components:
+      name: Oyun Bileşenleri
+    game_difficulty:
+      name: Oyun zorluk seviyesi
+    game_features:
+      name: Oyun özellikleri
+    game_name:
+      name: Oyun Adı
+    gameplay_skills:
+      name: Oyun becerileri
+    games_included:
+      name: Dahil Olan Oyunlar
+    garage_door_material:
+      name: Garaj kapısı malzemesi
+    gardening_use:
+      name: Bahçe işlerinde kullanım
+    garment_steamer_design:
+      name: Buharlı elbise temizleyici tasarımı
+    gases_detected:
+      name: Tespit Edilen Gazlar
+    gate_mounting_type:
+      name: Kapı montaj tipi
+    gauge_type:
+      name: Gösterge Tipi
+    gear_material:
+      name: Dişli malzemesi
+    gear_ratio:
+      name: Dişli Oranı
+    gearing_type:
+      name: Dişli Tipi
+    gel_strength:
+      name: Jel Gücü
+    genre:
+      name: Tür
+    geological_era:
+      name: Jeolojik Çağ
+    gift_bag_handle_design:
+      name: Hediye çantası sapı tasarımı
+    gift_set_format:
+      name: Hediye seti formatı
+    gin_variety:
+      name: Cin Çeşitleri
+    glaze_finish:
+      name: Vernik kaplama
+    glazing_type:
+      name: Glaze Tipi
+    glitter_shape:
+      name: Parıltı şekli
+    glucose_meter_features:
+      name: Glikoz ölçüm cihazı özellikleri
+    glue_gun_features:
+      name: Tutkal tabancası özellikleri
+    glue_gun_operation:
+      name: Tutkal tabancasının çalışması
+    glue_gun_technology:
+      name: Tutkal tabancası teknolojisi
+    glue_strength:
+      name: Tutkal Gücü
+    golf_ball_type:
+      name: Golf topu tipi
+    golf_equipment_included:
+      name: Golf ekipmanları dahil
+    gps_compatible_device:
+      name: GPS uyumlu cihaz
+    gps_device_features:
+      name: GPS cihazı özellikleri
+    gps_map_type:
+      name: GPS harita türü
+    gps_software_focus:
+      name: GPS yazılımı odağı
+    grading:
+      name: Derecelendirme
+    grain:
+      name: Tahıl
+    grape_variety:
+      name: Üzüm Çeşitleri
+    graphics_card_type:
+      name: Grafik Kartı Türü
+    graphics_tablet_accessories_included:
+      name: Grafik tablet aksesuarları dahil
+    graphics_tablet_specialized_features:
+      name: Grafik tablete özgü özellikler
+    gravel/substrate_material:
+      name: Çakıl/Alt katman malzemesi
+    grease_filter_material:
+      name: Yağ filtre malzemesi
+    grip_texture:
+      name: Kavrama dokusu
+    grip_type:
+      name: Kavrama Tipi
+    grit_type:
+      name: Kum Tipi
+    grooming_kit_format:
+      name: Bakım seti formatı
+    guitar_fitting/part_type:
+      name: Gitar montajı/parça tipi
+    guitar_size:
+      name: Gitar boyutu
+    gutter_fitting_type:
+      name: Oluk Bağlantı Tipi
+    gutter_style:
+      name: Oluk stili
+    habitat_material:
+      name: Yaşam alanı malzemesi
+    hair_care_finish:
+      name: Saç Bakımı Rötuşu
+    hair_care_items_included:
+      name: Saç bakım ürünleri dahildir
+    hair_care_technology:
+      name: Saç Bakım Teknolojisi
+    hair_color/shade:
+      name: Saç rengi/tonu
+    hair_loss_type:
+      name: Saç Dökülmesi Türü
+    hair_shear_type:
+      name: Saç kesme tipi
+    hair_styling_items_included:
+      name: Saç şekillendirme ürünleri dahil
+    hair_styling_tool_features:
+      name: Saç şekillendirme aleti özellikleri
+    hair_type:
+      name: Saç tipi
+    hammer_head_material:
+      name: Çekiç kafası malzemesi
+    hand_side:
+      name: El Tarafı
+    hand_warmer_type:
+      name: El ısıtıcı tipi
+    handcuff_lock_type:
+      name: Kelepçe kilit türü
+    handle_color:
+      name: Sap rengi
+    handle_design:
+      name: Sap Tasarımı
+    handle_grip_texture:
+      name: Sap için tutma dokusu
+    handle_material:
+      name: Sap malzemesi
+    handle_pattern:
+      name: Kulp deseni
+    handle_type:
+      name: Sap Tipi
+    handset_type:
+      name: Ahize Türü
+    handwear_features:
+      name: El giysisi özellikleri
+    handwear_material:
+      name: El giysisi malzemesi
+    handwear_type:
+      name: El giysisi türü
+    hanging_chair_design:
+      name: Asılı sandalye tasarımı
+    hard_cider_variety:
+      name: Sert Elma Şarabı Çeşitleri
+    hard_drive_features:
+      name: Sabit sürücü özellikleri
+    hard_drive_form_factor:
+      name: Sabit sürücü form faktörü
+    hard_drive_installation:
+      name: Sabit sürücü kurulumu
+    hardhat_class:
+      name: Kask Sınıfı
+    hardness:
+      name: Sertlik
+    hardware_finish:
+      name: Donanım kaplaması
+    hardware_material:
+      name: Sabit sürücü malzemesi
+    hardware_mounting_type:
+      name: Donanım montaj türü
+    hardwood_lumber_grade:
+      name: Sertağaç kereste sınıfı
+    harness_closure_type:
+      name: Kemer kapatma türü
+    harp_size:
+      name: Arp boyutu
+    hatch_suitable_location:
+      name: Bölmenin uygun konumu
+    hazmat_suit_design:
+      name: Tehlikeli Madde Elbisesi Tasarımı
+    hdr_format:
+      name: HDR Formatı
+    headjoint_cut:
+      name: Başlık Kesimi
+    headphone_jack_type:
+      name: Kulaklık Jakı Tipi
+    headphone_style:
+      name: Kulaklık Stili
+    headwear_features:
+      name: Şapka özellikleri
+    hearing_aid_features:
+      name: İşitme cihazı özellikleri
+    hearing_aid_material:
+      name: İşitme cihazı malzemesi
+    heat_function:
+      name: Isıtma Fonksiyonu
+    heat_level:
+      name: Isı Seviyesi
+    heat_settings:
+      name: Isı Ayarları
+    heat_source:
+      name: Isı Kaynağı
+    heating_instructions:
+      name: Isıtma Talimatları
+    heating_method:
+      name: Isıtma Yöntemi
+    heating_speed:
+      name: Isıtma hızı
+    heel_height_type:
+      name: Topuk Yüksekliği Tipi
+    heel_shoe_type:
+      name: Topuk ayakkabı türü
+    height_adjustment:
+      name: Yükseklik Ayarı
+    helmet_shade_design:
+      name: Kask Gölge Tasarımı
+    hitch_class:
+      name: Hitch sınıfı
+    hitch_type:
+      name: Askı Tipi
+    hockey_equipment_included:
+      name: Hokey ekipmanları dahil
+    hold_level:
+      name: Tutma Seviyesi
+    hook_design:
+      name: Kanca tasarımı
+    hook_grip_design:
+      name: Kanca kavrama tasarımı
+    hook_size:
+      name: Kanca Boyutu
+    hook_type:
+      name: Kanca Tipi
+    hoop_shape:
+      name: Çember şekli
+    horse_category:
+      name: At Kategorisi
+    horse_grooming_accessories_included:
+      name: At bakım aksesuarları dahildir
+    hose_material:
+      name: Hortum malzemesi
+    host_interface:
+      name: Ana Bilgisayar Arayüzü
+    housing_color:
+      name: Muhafaza rengi
+    housing_material:
+      name: Muhafaza materyali
+    housing_pattern:
+      name: Konut modeli
+    hub/switch_storage_options:
+      name: Hub/Anahtar depolama seçenekleri
+    humidifier_design:
+      name: Nemlendirici tasarımı
+    humidity_control:
+      name: Nem Kontrolü
+    humidy_control:
+      name: Nem kontrolü
+    hunting/survival_knife_design:
+      name: Avcılık/Hayatta kalma bıçağı tasarımı
+    hunting_blind_design:
+      name: Av perdesi tasarımı
+    hvac_control_type:
+      name: HVAC kontrol türü
+    ice_pack_type:
+      name: Buz paketi tipi
+    icon_type:
+      name: Simge Türü
+    ignition_system:
+      name: Ateşleme Sistemi
+    illumination_technique:
+      name: Aydınlatma Tekniği
+    image_formats_supported:
+      name: Desteklenen Resim Formatları
+    image_sensor_size:
+      name: Görüntü Sensörü Boyutu
+    immobilizer_type:
+      name: İmmobilizer Tipi
+    incense_fragrance:
+      name: Tütsü kokusu
+    incense_kit_items_included:
+      name: Tütsü kiti öğeleri dahildir
+    incense_type:
+      name: Tütsü Türü
+    incontinence_aid_features:
+      name: İnkontinans yardım özellikleri
+    industry_focus:
+      name: Endüstri odağı
+    infant_age_group:
+      name: Bebek yaş grubu
+    inflation_method:
+      name: Enflasyon yöntemi
+    ingredient_category:
+      name: İçerik Kategorisi
+    ingredient_origin:
+      name: İçerik kökeni
+    ingredients:
+      name: İçindekiler
+    ink_application_technique:
+      name: Mürekkep uygulama tekniği
+    ink_color:
+      name: Mürekkep rengi
+    ink_form:
+      name: Mürekkep formu
+    ink_pattern:
+      name: Mürekkep deseni
+    ink_type:
+      name: Mürekkep Türü
+    inline_skating_style:
+      name: Inline paten stili
+    input/output_ports:
+      name: Giriş/Çıkış Bağlantı Noktaları
+    input_connection:
+      name: Giriş bağlantısı
+    instruction_set_architecture:
+      name: Komut Seti Mimarisi
+    instrument/accessory_finish:
+      name: Alet/Aksesuar kaplaması
+    instrument_accessory_material:
+      name: Enstrüman aksesuar malzemesi
+    instrument_bow_material:
+      name: Enstrüman yayı malzemesi
+    instrument_color:
+      name: Enstrüman rengi
+    instrument_controller_type:
+      name: Enstrüman kontrol cihazı tipi
+    instrument_material:
+      name: Enstrüman malzemesi
+    instrument_part_material:
+      name: Enstrüman parçası malzemesi
+    instrument_pattern:
+      name: Enstrüman deseni
+    instrument_string_color:
+      name: Enstrüman teli rengi
+    instrument_string_material:
+      name: Enstrüman teli malzemesi
+    instrument_string_pattern:
+      name: Enstrüman teli deseni
+    instrument_support_type:
+      name: Enstrüman destek türü
+    insulation_material:
+      name: Yalıtım malzemesi
+    intended_application:
+      name: İstenen başvuru
+    interface_type:
+      name: Arayüz türü
+    internal_drive_form_factor_supported:
+      name: Desteklenen Dahili Sürücü Form Faktörü
+    intimate_apparel_features:
+      name: İç giyim özellikleri
+    inverter_type:
+      name: İnvertör Tipi
+    invitation_personalization_design:
+      name: Davetiye kişiselleştirme tasarımı
+    ironing_features:
+      name: Ütüleme özellikleri
+    item_condition:
+      name: Ürün durumu
+    item_material:
+      name: Ürün malzemesi
+    item_style:
+      name: Öğe stili
+    j_cup_type:
+      name: J-Cup Tipi
+    jaw_material:
+      name: Çene malzemesi
+    jewelry_finding_type:
+      name: Takı bulma türü
+    jewelry_material:
+      name: Takı malzemesi
+    jewelry_project_type:
+      name: Mücevher proje türü
+    jewelry_set_type:
+      name: Takı seti türü
+    jewelry_type:
+      name: Takı Türü
+    joint_connection:
+      name: Ortak bağlantı
+    joint_face_type:
+      name: Ortak yüz tipi
+    joint_style:
+      name: Birleşim Stili
+    jump_rope_design:
+      name: Atlama ipi tasarımı
+    jumping_surface_color:
+      name: Atlama yüzeyi rengi
+    jumping_surface_material:
+      name: Atlama yüzeyi malzemesi
+    jumping_surface_pattern:
+      name: Atlama yüzeyi deseni
+    karaoke_modes:
+      name: Karaoke Modları
+    kerosene_application:
+      name: Parafin uygulaması
+    key_purpose:
+      name: Temel amaç
+    keyboard_action:
+      name: Klavye Eylemi
+    keyboard_format:
+      name: Klavye Formatı
+    keyboard_key_type:
+      name: Klavye tuş tipi
+    keyboard_language:
+      name: Klavye dili
+    keyboard_layout:
+      name: Klavye Düzeni
+    keyboard_port_type:
+      name: Klavye Bağlantı Noktası Türü
+    keyboard_specialized_features:
+      name: Özel klavye özellikleri
+    keyboard_switch_type:
+      name: Klavye Anahtar Türü
+    keyboard_type:
+      name: Klavye Türü
+    keypad_style:
+      name: Tuş Takımı Stili
+    kit_construction_type:
+      name: Kit yapı türü
+    kitchen/dining_furniture_items_included:
+      name: Mutfak/Yemek odası mobilyaları dahildir
+    kitchen_utensil_items_included:
+      name: Mutfak gereci öğeleri dahil
+    kitesurfing_style:
+      name: Uçurtma sörfü stili
+    kneeboard_features:
+      name: Kneeboard özellikleri
+    knife_type:
+      name: Bıçak Tipi
+    knitting/padding_project_type:
+      name: Örgü/Dolgu proje tipi
+    knitting_project_type:
+      name: Örgü proje türü
+    knob/handle_design:
+      name: Topuz/Sap tasarımı
+    knob_function:
+      name: Düğme İşlevi
+    knob_style:
+      name: Topuz stili
+    labeling_project_type:
+      name: Etiketleme proje tipi
+    laboratory_freezer_design:
+      name: Laboratuvar tipi dondurucu tasarımı
+    lacrosse_equipment_included:
+      name: Lakros ekipmanları dahil
+    ladder_type:
+      name: Merdiven Tipi
+    lamination_mode:
+      name: Laminasyon modu
+    lamp_type:
+      name: Lamba Tipi
+    language:
+      name: Dil
+    language_version:
+      name: Dil Sürümü
+    laser_color:
+      name: Lazer rengi
+    laser_light_source:
+      name: Lazer ışık kaynağı
+    laser_pattern:
+      name: Lazer deseni
+    lathe_application:
+      name: Torna uygulaması
+    laundry_detergent_features:
+      name: Çamaşır deterjanı özellikleri
+    lead_grade:
+      name: Kurşun Sınıfı
+    leash_design:
+      name: Tasma tasarımı
+    leather/vinyl_texture:
+      name: Deri/Vinil doku
+    lectern_mounting_type:
+      name: Kürsü montaj tipi
+    leg_color:
+      name: Bacak rengi
+    leg_lock_type:
+      name: Bacak Kilit Tipi
+    leg_material:
+      name: Bacak malzemesi
+    leg_pattern:
+      name: Bacak Kalıbı
+    leg_sections:
+      name: Bacak Bölümleri
+    lens/slide_material:
+      name: Lens/Slayt malzemesi
+    lens_cap_compatible_device:
+      name: Objektif kapağı uyumlu cihaz
+    lens_coating:
+      name: Lens Kaplama
+    lens_color:
+      name: Lens rengi
+    lens_configuration:
+      name: Lens yapılandırması
+    lens_filter_effects:
+      name: Lens filtresi efektleri
+    lens_filter_type:
+      name: Lens filtre türü
+    lens_pattern:
+      name: Lens deseni
+    lens_polarization:
+      name: Lens Polarizasyonu
+    lens_storage_type:
+      name: Lens depolama tipi
+    lens_type:
+      name: Lens Tipi
+    license_type:
+      name: Lisans Türü
+    lid_material:
+      name: Kapak malzemesi
+    lid_type:
+      name: Kapak Tipi
+    life_jacket_features:
+      name: Can yeleği özellikleri
+    light_attachment_type:
+      name: Hafif bağlantı türü
+    light_color:
+      name: Açık renk
+    light_control:
+      name: Işık kontrolü
+    light_design:
+      name: Işık tasarımı
+    light_exposure_modes:
+      name: Işığa Pozlama Modları
+    light_filtering:
+      name: Işık filtreleme
+    light_options:
+      name: Işık Seçenekleri
+    light_pattern:
+      name: Işık deseni
+    light_source:
+      name: Işık Kaynağı
+    light_spectrum:
+      name: Işık Spektrumu
+    light_temperature:
+      name: Işık Sıcaklığı
+    light_type:
+      name: Işık Tipi
+    lighting_features:
+      name: Aydınlatma özellikleri
+    lighting_options:
+      name: Aydınlatma opsiyonları
+    line/rope_type:
+      name: Hat ve halat tipi
+    line_spacing_options:
+      name: Satır Aralığı Seçenekleri
+    liner_features:
+      name: Astar özellikleri
+    lip_gloss_effect:
+      name: Dudak Parlatıcı Etkisi
+    lip_liner_design:
+      name: Dudak kalemi tasarımı
+    lip_plate_material:
+      name: Dudak plakası malzemesi
+    lipstick_effect:
+      name: Ruj Etkisi
+    liqueur_variety:
+      name: Likör Çeşitleri
+    livestock_food_ingredients:
+      name: Hayvancılık gıda maddeleri
+    lnb_output:
+      name: Lnb Çıkışı
+    lnb_technology:
+      name: Lnb Teknolojisi
+    load_capacity:
+      name: Yükleme Kapasitesi
+    loading_ramp_type:
+      name: Yükleme rampası tipi
+    loading_type:
+      name: Yükleme Türü
+    lock_placement:
+      name: Kilit yerleşimi
+    lock_type:
+      name: Kilit Tipi
+    locking_mechanism:
+      name: Kilitleme Mekanizması
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Kayganlaştırıcı uygulaması
+    lubricant_composition:
+      name: Kayganlaştırıcı bileşimi
+    lubricant_dispenser_type:
+      name: Kayganlaştırıcı dağıtıcı türü
+    lubricant_form:
+      name: Kayganlaştırıcı formu
+    luggage/bag_closure:
+      name: Bagaj/Çanta kapatma
+    lumber/wood_type:
+      name: Kereste/Ahşap türü
+    lyre/flip_folder_attachment_type:
+      name: Lir/Flip klasörü ek türü
+    magnet_type:
+      name: Mıknatıs Tipi
+    magnification:
+      name: Büyütme
+    makeup_color/shade:
+      name: Makyaj rengi/tonu
+    makeup_features:
+      name: Makyaj özellikleri
+    mallet_material:
+      name: Tokmak malzemesi
+    manufacturer_type:
+      name: Üretici türü
+    marine_navigator_features:
+      name: Deniz navigatörünün özellikleri
+    marker_tip_design:
+      name: İşaretleyici ucu tasarımı
+    mascara_effect:
+      name: Maskara Etkisi
+    mask_type:
+      name: Maske Tipi
+    masonry_material:
+      name: Duvarcılık malzemesi
+    masonry_product_form:
+      name: Masonry ürün formu
+    massage_area:
+      name: Masaj alanı
+    massage_stone_texture:
+      name: Masaj taşı dokusu
+    massage_technique:
+      name: Masaj Tekniği
+    mat/rug_shape:
+      name: Mat / Kilim şekli
+    mat_base_material:
+      name: Mat taban malzemesi
+    mat_features:
+      name: Mat özellikleri
+    material:
+      name: Malzeme
+    material_firmness:
+      name: Malzeme Sağlamlığı
+    material_hardness:
+      name: Malzeme Sertliği
+    maternity_clothing_features:
+      name: Hamile Giyim özellikleri
+    maternity_sleepwear_style:
+      name: Hamile Pijama stili
+    mattress_features:
+      name: Yatak özellikleri
+    maximum_magnification:
+      name: Maksimum büyütme
+    measuring_method:
+      name: Ölçüm Yöntemi
+    measuring_tool_features:
+      name: Ölçüm aleti özellikleri
+    measuring_type:
+      name: Ölçüm Tipi
+    meat_cut:
+      name: Et Kesimi
+    meat_type:
+      name: Et Türü
+    media_access:
+      name: Medya erişimi
+    media_content_type:
+      name: Medya İçerik Türü
+    media_format:
+      name: Medya Formatı
+    media_section:
+      name: Medya Bölümü
+    media_theme:
+      name: Medya teması
+    medical_alarm_features:
+      name: Medikal Alarm özellikleri
+    medical_identification_type:
+      name: Tıbbi tanımlama tipi
+    medical_syringe_purpose:
+      name: Tıbbi Şırınganın Amacı
+    medical_tape_material:
+      name: Tıbbi Bant malzemesi
+    medicine/drug_form:
+      name: İlaç şekli
+    medicine/supplement_form:
+      name: İlaç / Takviye şekli
+    medium:
+      name: Orta
+    melodica_style:
+      name: Melodika tarzı
+    memory_channels:
+      name: Bellek Kanalları
+    memory_form_factor:
+      name: Bellek Form Faktörü
+    memory_storage_type:
+      name: Bellek Depolama Türü
+    memory_technology:
+      name: Bellek Teknolojisi
+    menstrual_cup_shape:
+      name: Adet kabı şekli
+    metal_detector_features:
+      name: Metal dedektörü özellikleri
+    metal_molding_application:
+      name: Metal pervaz uygulaması
+    meter_type:
+      name: Sayaç Tipi
+    metrics_supported:
+      name: Desteklenen Metrikler
+    microphone_thread:
+      name: Mikrofon Kablosu
+    microphone_type:
+      name: Mikrofon Türü
+    microscope_features:
+      name: Mikroskop özellikleri
+    microscope_slide_material:
+      name: Mikroskop lam malzemesi
+    midi_connectivity:
+      name: Midi Bağlantısı
+    mineral_class:
+      name: Mineral Sınıfı
+    minimum_magnification:
+      name: Minimum büyütme
+    mirror_handle_design:
+      name: Ayna kolu tasarımı
+    mixer_type:
+      name: Mikser Tipi
+    mobile_mounting_type:
+      name: Mobil montaj tipi
+    mobile_movement:
+      name: Mobil Hareket
+    mobile_phone_case_features:
+      name: Cep Telefonu Kılıfları özellikleri
+    mobility/accessibility_equipment_features:
+      name: Hareketlilik/Erişilebilirlik ekipmanı özellikleri
+    mobility_scooter_type:
+      name: Engelli scooter'ı tipi
+    model_control_technology:
+      name: Model kontrol teknolojisi
+    model_train_accessory_type:
+      name: Model Tren Aksesuar Tipi
+    model_train_theme:
+      name: Model tren teması
+    modulation_method:
+      name: Modülasyon Yöntemi
+    moisturizer_type:
+      name: Nemlendirici tipi
+    mold/cut_shape:
+      name: Kalıp/Kesme şekli
+    mold_shape:
+      name: Kalıp şekli
+    molding_application:
+      name: Pervaz uygulaması
+    molding_shape:
+      name: Pervaz şekli
+    monitor/screen_specialized_features:
+      name: Monitör/Ekrana özel özellikler
+    monitor_mounting_type:
+      name: Monitör montaj tipi
+    monitor_shape:
+      name: Monitör şekli
+    monitor_specialized_features:
+      name: Monitör özel özellikleri
+    monitor_type:
+      name: Monitör Tipi
+    monocular_design:
+      name: Monoküler tasarımı
+    motherboard_chipset_family:
+      name: Anakart Yonga Seti Ailesi
+    motherboard_form_factor:
+      name: Anakart Form Faktörü
+    motherboard_memory_features:
+      name: Anakart hafıza özellikleri
+    motion:
+      name: Hareket
+    motion_sensor_type:
+      name: Hareket Sensörleri tipi
+    motor_starting_method:
+      name: Motor Çalıştırma Yöntemi
+    motor_vehicle_placement:
+      name: Motorlu taşıt yerleşimi
+    motor_vehicle_type:
+      name: Motorlu Taşıt Türü
+    motorcycle/scooter_type:
+      name: Motosiklet/Scooter tipi
+    motorcycle_drive_type:
+      name: Motosiklet tahrik tipi
+    motorcycle_glove_purpose:
+      name: Motosiklet eldiveni amacı
+    motorcycle_tire_type:
+      name: Motosiklet lastiği türü
+    mount/stand_features:
+      name: Montaj/Stand özellikleri
+    mount_material:
+      name: Montaj malzemesi
+    mounting_hardware:
+      name: Montaj donanımı
+    mounting_type:
+      name: Montaj Tipi
+    mouse/trackball_features:
+      name: Fare/İztopu özellikleri
+    mouse_pad_features:
+      name: Fare altlığı özellikleri
+    mouse_port_type:
+      name: Fare Bağlantı Noktası Türü
+    mouse_technology:
+      name: Fare Teknolojisi
+    mouthgard_design:
+      name: Ağızlık tasarımı
+    mouthpiece:
+      name: Bek
+    moving/shipping_box_material:
+      name: Taşıma / Nakliye kutusu malzemesi
+    mp3_player_accessories_included:
+      name: MP3 çalar aksesuarları dahil
+    mpaa_rating:
+      name: Mpaa Derecelendirmesi
+    multi_gpu_technology:
+      name: Çoklu GPU Teknolojisi
+    muscle_stimulator_design:
+      name: Kas stimülatörü tasarımı
+    music_genre:
+      name: Müzik türü
+    music_stand_design:
+      name: Müzik standı tasarımı
+    musical_key:
+      name: Müzik anahtarı
+    nail_art_items_included:
+      name: Tırnak sanatı malzemeleri dahildir
+    nail_care_features:
+      name: Tırnak bakım özellikleri
+    nail_design:
+      name: Tırnak Tasarımı
+    nail_polish_drying_form:
+      name: Oje kuruma şekli
+    nail_shape:
+      name: Tırnak şekli
+    national/regional_rating:
+      name: Ulusal/Bölgesel derecelendirme
+    native_aspect_ratio:
+      name: Yerel En Boy Oranı
+    nebulizer_design:
+      name: Nebulizatör tasarımı
+    nebulizer_technology:
+      name: Nebulizatör Teknolojisi
+    neck_color:
+      name: Boyun rengi
+    neck_material:
+      name: Boyun malzemesi
+    neck_pattern:
+      name: Boyun deseni
+    necklace_design:
+      name: Kolye tasarımı
+    neckline:
+      name: Yaka Çizgisi
+    needle_eye_type:
+      name: İğne Göz Tipi
+    needle_gauge:
+      name: İğne göstergesi
+    needle_housing_material:
+      name: İğne yuvası malzemesi
+    needle_material:
+      name: İğne malzemesi
+    needle_size:
+      name: İğne Boyutu
+    needlecraft_kit_type:
+      name: İğne işi kiti tipi
+    negative/slide_storage_type:
+      name: Negatif/Slayt depolama türü
+    net_material:
+      name: Ağ malzemesi
+    net_mounting_type:
+      name: Ağ montaj tipi
+    network_cable_interface:
+      name: Ağ kablosu arayüzü
+    network_protocols_supported:
+      name: Desteklenen Ağ Protokolleri
+    networking_standards:
+      name: Ağ Standartları
+    nightgown_style:
+      name: Gecelik stili
+    nipple_material:
+      name: Emzik malzemesi
+    nipple_shape:
+      name: Emzik şekli
+    nipple_type:
+      name: Başlık Tipi
+    nock_material:
+      name: Takoz malzemesi
+    noise_intensity:
+      name: Gürültü yoğunluğu
+    notepad_cover_type:
+      name: Not defteri kapak türü
+    notepad_design:
+      name: Not defteri tasarımı
+    nozzle_type:
+      name: Başlık tipi
+    nursery_theme:
+      name: Kreş teması
+    nursing_cover_coverage:
+      name: Emzirme kapağı kapsamı
+    nursing_pad_design:
+      name: Emzirme pedi tasarımı
+    nursing_pillow_shape:
+      name: Emzirme Yastığı şekli
+    nut/seed_type:
+      name: Fındık/Tohum türü
+    nut_butter_variety:
+      name: Fındık Ezmesi Çeşitleri
+    nut_form:
+      name: Somun formu
+    nut_processing_method:
+      name: Kabuklu yemiş işleme yöntemi
+    nutrient_content:
+      name: Besin içeriği
+    oboe_key_system:
+      name: Obua anahtar sistemi
+    ocarina_style:
+      name: Ocarina tarzı
+    occasion:
+      name: Etkinlik
+    occasion_style:
+      name: Etkinlik stili
+    office_cart_features:
+      name: Ofis arabası özellikleri
+    office_instrument_material:
+      name: Ofis araç gereçleri
+    office_supply_material:
+      name: Ofis malzemeleri
+    oil_type:
+      name: Yağ türü
+    one_piece_style:
+      name: Tek parça stili
+    open/closed_sign_design:
+      name: Açık/Kapalı tabela tasarımı
+    opening_direction:
+      name: Açılış Yönü
+    opening_mechanism:
+      name: Açma Mekanizması
+    operating_mode:
+      name: Çalışma Modu
+    operating_system:
+      name: İşletim Sistemi
+    operation_method:
+      name: Çalışma Yöntemi
+    optical_drive_type:
+      name: Optik Sürücü Tipi
+    optical_frame_design:
+      name: Optik çerçeve tasarımı
+    optical_zoom:
+      name: Optik Yakınlaştırma
+    organizer_type:
+      name: Düzenleyici Türü
+    orientation:
+      name: Oryantasyon
+    outdoor_equipment_features:
+      name: Dış mekan ekipman özellikleri
+    outdoor_furniture_items_included:
+      name: Dış mekan mobilyaları dahildir
+    outdoor_power_accessories_included:
+      name: Dış mekan elektrik aksesuarları dahil
+    outdoor_walking_activity:
+      name: Açık havada yürüyüş aktivitesi
+    outerwear_clothing_features:
+      name: Dış giyim kıyafet özellikleri
+    outlet_type:
+      name: Çıkış Tipi
+    output_connection:
+      name: Çıkış bağlantısı
+    output_level:
+      name: Çıkış seviyesi
+    output_waveform:
+      name: Çıkış Dalga Formu
+    oven_accessories_included:
+      name: Fırın aksesuarları dahil
+    oxygen_tank_valve_type:
+      name: Oksijen tankı vana tipi
+    pacifier/teether_design:
+      name: Emzik/Diş kaşıyıcı tasarımı
+    package_type:
+      name: Paket Türü
+    packing_materials_included:
+      name: Paketleme malzemeleri dahil
+    pad_display_profile:
+      name: Ped ekran profili
+    pad_type:
+      name: Ped Tipi
+    paddle/oar_material:
+      name: Raket/Kürek malzemesi
+    paddle_equipment_included:
+      name: Kürek ekipmanı dahil
+    paddleboard_features:
+      name: Kürek tahtası özellikleri
+    page_layout:
+      name: Sayfa Düzeni
+    page_size:
+      name: Sayfa boyutu
+    paint/dye_form:
+      name: Boya/Badana formu
+    paint_brush_design:
+      name: Boya Fırçası Tasarımı
+    paint_finish:
+      name: Boya kaplama
+    paint_form:
+      name: Boyama formu
+    paint_medium_type:
+      name: Resim ortamı türü
+    paint_type:
+      name: Boya Tipi
+    paintball/airsoft_equipment_included:
+      name: Paintball/Airsoft ekipmanları dahil
+    paintball_equipment_included:
+      name: Paintball ekipmanları dahil
+    painting_canvas_material:
+      name: Boyama tuval malzemesi
+    pairing_method:
+      name: Eşleştirme Yöntemi
+    palette_design:
+      name: Palet tasarımı
+    palette_knife_shape:
+      name: Palet bıçağı şekli
+    panel_specification:
+      name: Panel Özellikleri
+    panel_termination:
+      name: Panel Sonlandırma
+    pants_length_type:
+      name: Pantolon uzunluğu türü
+    pantyhose_style:
+      name: Külotlu çorap stili
+    paper_finish:
+      name: Kağıt kaplaması
+    paper_format:
+      name: Kağıt biçimi
+    paper_size:
+      name: Kağıt Boyutu
+    paper_texture:
+      name: Kağıt dokusu
+    paper_type:
+      name: Kağıt Türü
+    paperweight_design:
+      name: Kağıt ağırlığı tasarımı
+    papier_mache_shape:
+      name: Kağıt mamuru modeli
+    parachuting_activity:
+      name: Paraşütle atlama aktivitesi
+    parallel_processing_technology_support:
+      name: Paralel İşleme Teknolojisi Desteği
+    parking_camera_features:
+      name: Park kamerası özellikleri
+    parking_sign_design:
+      name: Park tabelası tasarımı
+    passband:
+      name: Geçiş Bandı
+    pasta_shape_type:
+      name: Makarna şekli türü
+    pasta_type:
+      name: Makarna Türü
+    patch_shape:
+      name: Yama şekli
+    pattern:
+      name: Model
+    pattern_distribution_format:
+      name: Desen dağıtım biçimi
+    pcb_type:
+      name: PCB türü
+    pedal_polarity:
+      name: Pedal polaritesi
+    pegi_rating:
+      name: PEGI derecelendirmesi
+    pen/felt_tip_design:
+      name: Kalem/Keçe uçlu tasarımı
+    pen/pencil_features:
+      name: Kalem/Kurşun kalem özellikleri
+    pen_color:
+      name: Kalem rengi
+    pen_features:
+      name: Kalem özellikleri
+    pen_pattern:
+      name: Kalem deseni
+    pen_tip_design:
+      name: Kalem ucu tasarımı
+    pen_type:
+      name: Kalem Türü
+    pencil_features:
+      name: Kurşun kalem özellikleri
+    pencil_sharpener_design:
+      name: Kalemtıraş tasarımı
+    pencil_type:
+      name: Kurşun Kalem Türü
+    percussion_stand_design:
+      name: Perküsyon standı tasarımı
+    percussion_tip_shape:
+      name: Perküsyon uç şekli
+    performance_metrics:
+      name: Performans metrikleri
+    peroxide_content:
+      name: Peroksit İçeriği
+    personal_watercraft_type:
+      name: Kişisel deniz taşıtı tipi
+    personalization_design:
+      name: Kişiselleştirme tasarımı
+    personalization_options:
+      name: Kişiselleştirme seçenekleri
+    pest_control_method:
+      name: Haşere Kontrol Yöntemi
+    pet_apparel/bedding_features:
+      name: Evcil hayvan kıyafeti/yatak özellikleri
+    pet_apparel_features:
+      name: Evcil hayvan giyim özellikleri
+    pet_bedding_features:
+      name: Evcil hayvan yatağı özellikleri
+    pet_control_accessory_features:
+      name: Evcil hayvan kontrol aksesuarı özellikleri
+    pet_dietary_preferences:
+      name: Evcil hayvanların beslenme tercihleri
+    pet_dietary_requirements:
+      name: Evcil hayvan beslenme gereksinimleri
+    pet_food_flavor:
+      name: Evcil hayvan maması tadı
+    pet_food_form:
+      name: Evcil hayvan maması formu
+    pet_food_supplements:
+      name: Evcil hayvan gıda takviyeleri
+    pet_hair_dryer_design:
+      name: Evcil hayvan saç kurutma makinesi tasarımı
+    pet_hair_dryer_speed_settings:
+      name: Evcil hayvan saç kurutma makinesi hız ayarları
+    pet_medical_collar_design:
+      name: Evcil hayvan tıbbi tasma tasarımı
+    pet_medical_supply_type:
+      name: Evcil hayvan tıbbi malzeme türü
+    pet_monitor_items_included:
+      name: Evcil hayvan izleme ürünleri dahil
+    pet_nail_tool_type:
+      name: Evcil hayvan tırnak aleti tipi
+    pet_pad_features:
+      name: Evcil hayvan pedi özellikleri
+    pet_spray/solution_type:
+      name: Evcil hayvan spreyi/çözelti tipi
+    pet_supply_product_form:
+      name: Evcil hayvan tedarik ürünü formu
+    pet_thermometer_design:
+      name: Evcil hayvan termometresi tasarımı
+    pet_trainer_type:
+      name: Evcil hayvan eğitmeni tipi
+    pet_treat_texture:
+      name: Evcil hayvan ödül maması dokusu
+    pet_treat_type:
+      name: Evcil hayvan ödülü türü
+    phase_type:
+      name: Faz türü
+    photo_effects_type:
+      name: Fotoğraf Efektleri Türü
+    photographic_chemical_form:
+      name: Fotografik kimyasal form
+    photographic_paper_size:
+      name: Fotoğraf kağıdı boyutu
+    photographic_paper_type:
+      name: Fotoğraf kağıdı türü
+    piano_additional_features:
+      name: Piyano ek özellikleri
+    piano_pedals:
+      name: Piyano pedalları
+    piano_size:
+      name: Piyano boyutu
+    pick_design:
+      name: Tasarım seç
+    pickup_design:
+      name: Pikap tasarımı
+    pickup_mounting_type:
+      name: Pikap montaj türü
+    pickup_position:
+      name: Pikap pozisyonu
+    pickup_type:
+      name: Pikap türü
+    pig_feed_stage:
+      name: Domuz besleme aşaması
+    pile_type:
+      name: Kazık Tipi
+    pillow_shape:
+      name: Yastık şekli
+    pin_size:
+      name: Pim Boyutu
+    pinata_design:
+      name: Pi√±ata tasarımı
+    ping_pong_equipment_included:
+      name: Ping pong ekipmanları dahil
+    ping_pong_robot_features:
+      name: Masa tenisi robotunun özellikleri
+    pipe_clamp_design:
+      name: Boru kelepçesi tasarımı
+    pipe_shape:
+      name: Boru Şekli
+    placement_supported:
+      name: Desteklenen Yerleşim
+    plant_characteristics:
+      name: Bitki Özellikleri
+    plant_class:
+      name: Bitki Sınıfı
+    plant_name:
+      name: Bitki Adı
+    plant_support_material:
+      name: Bitki destek malzemesi
+    plate_type:
+      name: Plaka Tipi
+    play_equipment_items_included:
+      name: Oyun ekipmanı öğeleri dahil
+    play_slide_design:
+      name: Slayt tasarımını oynat
+    play_vehicle_propulsion:
+      name: Araç itişini oyna
+    play_yard_design_features:
+      name: Oyun bahçesi tasarım özellikleri
+    playback_disc_formats:
+      name: Oynatma Diski Formatları
+    player/recorder_specialized_features:
+      name: Oynatıcı/Kaydedici özel özellikleri
+    player_drive_type:
+      name: Oynatıcı Sürücüsü Türü
+    player_position:
+      name: Oyuncu Pozisyonu
+    player_specialized_features:
+      name: Oynatıcıya özel özellikler
+    playhouse_design:
+      name: Oyun evi tasarımı
+    playset_features:
+      name: Oyun seti özellikleri
+    plug_type:
+      name: Fiş Tipi
+    plug_type_input:
+      name: Fiş tipi (giriş)
+    plug_type_output:
+      name: Fiş tipi (çıkış)
+    plumbing_primer_application:
+      name: Sıhhi tesisat astarı uygulaması
+    plumbing_trap_design:
+      name: Sıhhi tesisat tuzak tasarımı
+    plunger_shape:
+      name: Piston şekli
+    plywood_grade:
+      name: Kontrplak sınıfı
+    pneumatic_conveyor_operation:
+      name: Pnömatik konveyör çalışması
+    poe_standard:
+      name: Poe Standardı
+    point_design:
+      name: Nokta Tasarımı
+    pointing_device:
+      name: İşaretleme Aygıtı
+    polar_pattern:
+      name: Polar Model
+    polarization:
+      name: Polarizasyon
+    pole/post_material:
+      name: Direk malzemesi
+    pole_color:
+      name: Direk rengi
+    pole_material:
+      name: Şemsiye direk malzemesi
+    pole_pattern:
+      name: Direk deseni
+    policy_sign_design:
+      name: Politika işareti tasarımı
+    polish_dry_form:
+      name: Kuru formda cila
+    polish_remover_form:
+      name: Cila sökücü formu
+    polish_type:
+      name: Cila Tipi
+    polyphony:
+      name: Çok Seslilik
+    portability:
+      name: Taşınabilirlik
+    post_material:
+      name: Posta malzemesi
+    postage_stamp_features:
+      name: Posta pulu özellikleri
+    potential_extract:
+      name: Potansiyel Ekstrakt
+    pottery/sculpting_project_type:
+      name: Çömlekçilik/Heykelcilik proje türü
+    potty/toilet_seat_design:
+      name: Lazımlık/Klozet tasarımı
+    potty_training_kit_components:
+      name: Tuvalet eğitim seti bileşenleri
+    power_source:
+      name: Güç Kaynağı
+    pregnancy_test_sensitivity:
+      name: Hamilelik Testi Hassasiyeti
+    presentation_supply_features:
+      name: Sunum kaynağı özellikleri
+    preservation_type:
+      name: Koruma Türü
+    pretend_electronics_toy_type:
+      name: Taklit elektronik oyuncak tipi
+    pretend_housekeeping_toy_type:
+      name: Ev idaresi oyuncak türü
+    primary_region:
+      name: Birincil bölge
+    primer_use:
+      name: Astar Kullanımı
+    print_technology:
+      name: Baskı Teknolojisi
+    printer/copier_specialized_features:
+      name: Yazıcı/Fotokopi makinesi özel özellikleri
+    printer_accessories_included:
+      name: Yazıcı aksesuarları dahil
+    printer_functions:
+      name: Yazıcı İşlevleri
+    printing_color:
+      name: Baskı Rengi
+    printing_method:
+      name: Baskı Yöntemi
+    processor_cores:
+      name: İşlemci Çekirdekleri
+    processor_family:
+      name: İşlemci Ailesi
+    processor_socket:
+      name: İşlemci Soketi
+    processor_technology:
+      name: İşlemci teknolojisi
+    product_benefits:
+      name: Ürün Avantajları
+    product_certifications_standards:
+      name: Ürün Sertifikaları ve Standartları
+    product_form:
+      name: Ürün Formu
+    product_formulation:
+      name: Ürün formülasyonu
+    product_manual_area:
+      name: Ürün kılavuzu alanı
+    product_sterility:
+      name: Ürün Sterilitesi
+    program_format:
+      name: Program biçimi
+    projection_design:
+      name: Projeksiyon tasarımı
+    projector_light_source:
+      name: Projektör ışık kaynağı
+    prop_theme:
+      name: Prop teması
+    propane_application:
+      name: Propan uygulaması
+    propeller_blade_design:
+      name: Pervane kanadı tasarımı
+    prophy_cup_design:
+      name: Profilaksi Kabı Tasarımı
+    propulsion_type:
+      name: Tahrik Tipi
+    protection_type:
+      name: Koruma Tipi
+    protective_gear_features:
+      name: Koruyucu donanım özellikleri
+    protective_mask_design:
+      name: Koruyucu Maske tasarımı
+    protective_mask_features:
+      name: Koruyucu Maske özellikleri
+    pstn_connectivity_options:
+      name: Pstn Bağlantı Seçenekleri
+    publication_frequency:
+      name: Yayın Sıklığı
+    publication_type:
+      name: Yayın türü
+    pull_up_bar:
+      name: Barfiks Çubuğu
+    pump_accessories:
+      name: Pompa aksesuarları
+    pump_speed_settings:
+      name: Pompa hızı ayarları
+    punching/training_bag_material:
+      name: Kum Torbası ve Antrenman Torbalası malzemesi
+    puppet_theme:
+      name: Kukla teması
+    puppet_type:
+      name: Kukla Türü
+    puzzle_theme:
+      name: Bulmaca teması
+    puzzle_type:
+      name: Yapboz tipi
+    quiver_style:
+      name: Ok Kılıfı Stili
+    rack_design:
+      name: Raf Tasarımı
+    rack_type:
+      name: Raf Tipi
+    racket_gauge:
+      name: Raket Ölçümü
+    racket_material:
+      name: Raket malzemesi
+    racket_string_design:
+      name: Raketi İpi tasarımı
+    racket_string_material:
+      name: Raket ipi malzemesi
+    radar_bands:
+      name: Radar Bantları
+    radar_technology:
+      name: Radar Teknolojisi
+    radio_case_design:
+      name: Radyo kasası tasarımı
+    radio_features:
+      name: Radyo özellikleri
+    ramp_type:
+      name: Rampa Tipi
+    range_type:
+      name: Aralık türü
+    rarity:
+      name: Nadirlik
+    razor_flexibility:
+      name: Jilet esnekliği
+    razor_head_design:
+      name: Jilet başlığı tasarımı
+    razor_type:
+      name: Kesici Tipi
+    read/write_speed:
+      name: Okuma/Yazma Hızı
+    reading_toy_type:
+      name: Okuma oyuncağı tipi
+    receipt_paper_features:
+      name: Makbuz kağıdı özellikleri
+    reclining_function:
+      name: Yatma Fonksiyonu
+    recommended_age_group:
+      name: Önerilen yaş grubu
+    recommended_skill_level:
+      name: Önerilen Beceri Seviyesi
+    recommended_use:
+      name: Önerilen Kullanım
+    recorder_fingering_system:
+      name: Kaydedici parmak sistemi
+    recorder_specialized_features:
+      name: Kaydedici özel özellikleri
+    recording_accessories_included:
+      name: Kayıt aksesuarları dahil
+    recording_quality:
+      name: Kayıt Kalitesi
+    recreational_vehicle_type:
+      name: Eğlence amaçlı araç türü
+    reed_strength:
+      name: Kamış gücü
+    reel_capacity:
+      name: Makara kapasitesi
+    reflector_design:
+      name: Reflektör tasarımı
+    regenerative_braking_features:
+      name: Rejeneratif Frenleme özellikleri
+    region:
+      name: Bölge
+    region_code:
+      name: Bölge kodu
+    release_schedule:
+      name: Yayın Planı
+    remote_technology:
+      name: Uzaktan teknoloji
+    removable_storage_formats_supported:
+      name: Desteklenen Çıkarılabilir Depolama Formatları
+    reptile/amphibian_food_form:
+      name: Sürüngen/Amfibi besin formu
+    reptile/amphibian_habitat_supply_type:
+      name: Sürüngen/Amfibi habitat tedarik türü
+    research_focus:
+      name: Araştırma odağı
+    research_methodology:
+      name: Araştırma metodolojisi
+    resistance_level:
+      name: Direnç Seviyesi
+    resistance_system:
+      name: Direnç Sistemi
+    result_display:
+      name: Sonuç Gösterimi
+    retail/sale_sign_design:
+      name: Perakende satış/Satış tabela tasarımı
+    reticle_plane:
+      name: Retikül düzlemi
+    reticle_type:
+      name: Retikül Tipi
+    rfid_frequency:
+      name: RFID Frekansı
+    riding_style:
+      name: Binme Stili
+    riding_toy_propulsion_type:
+      name: Binicilik oyuncağı tahrik tipi
+    rim/wheel_design:
+      name: Jant/Tekerlek tasarımı
+    ring_design:
+      name: Yüzük tasarımı
+    ring_size:
+      name: Yüzük Ölçüsü
+    riser_color:
+      name: Yükseltici rengi
+    riser_material:
+      name: Yükseltici malzemesi
+    riser_pattern:
+      name: Yükseltici deseni
+    rivet_form:
+      name: Perçin formu
+    road_sign_design:
+      name: Yol tabelası tasarımı
+    rock_composition:
+      name: Kaya Bileşimi
+    rock_formation:
+      name: Kaya Formasyonu
+    rocker_type:
+      name: Salıncak Tipi
+    rod_color:
+      name: Çubuk rengi
+    rod_material:
+      name: Olta kamışı malzemesi
+    rod_pattern:
+      name: Çubuk deseni
+    rod_shape:
+      name: Boru şekli
+    roller_head:
+      name: Rulo Kafası
+    roller_material:
+      name: Rulman malzemesi
+    roller_type:
+      name: Rulo Tipi
+    roof_decor_shape:
+      name: Çatı süsü şekli
+    rosin_form:
+      name: Reçine formu
+    rosin_grade:
+      name: Reçine Sınıfı
+    rotating_direction:
+      name: Dönme Yönü
+    rotator_control_technology:
+      name: Döndürücü kontrol teknolojisi
+    rug/mat_features:
+      name: Halı/Mat özellikleri
+    rug/mat_material:
+      name: Halı/Mat malzemesi
+    rug/mat_shape:
+      name: Halı/Mat şekli
+    rug_features:
+      name: Halı özellikleri
+    rug_material:
+      name: Halı malzemesi
+    rug_shape:
+      name: Halı şekli
+    rum_grade:
+      name: Rom Sınıfı
+    saddle_base_color:
+      name: Sele taban rengi
+    saddle_base_material:
+      name: Sele taban malzemesi
+    saddle_base_pattern:
+      name: Sele taban deseni
+    saddle_material:
+      name: Sele malzemesi
+    saddle_seat_color:
+      name: Sele koltuk rengi
+    saddle_seat_material:
+      name: Sele koltuk malzemesi
+    saddle_seat_pattern:
+      name: Sele koltuk Deseni
+    safety_certifications:
+      name: Güvenlik Sertifikaları
+    safety_device_installation:
+      name: Güvenlik cihazı kurulumu
+    safety_equipment_material:
+      name: Güvenlik ekipmanı malzemesi
+    safety_rail_installation:
+      name: Emniyet rayı kurulumu
+    sailboat_type:
+      name: Yelkenli tipi
+    sandal_style:
+      name: Sandalet tarzı
+    sandblaster_application:
+      name: Kum püskürtme uygulaması
+    sander_type:
+      name: Zımpara Tipi
+    sanding_application:
+      name: Zımparalama uygulaması
+    satellite_coverage_area:
+      name: Uydu Kapsama Alanı
+    satellite_network_type:
+      name: Uydu Ağı Türü
+    sauna_accessories_included:
+      name: Sauna aksesuarları dahil
+    scaffolding_mounting_type:
+      name: İskele montaj türü
+    scale_material:
+      name: Ölçek malzemesi
+    scale_model_accessory_type:
+      name: Ölçekli model aksesuar türü
+    scale_model_kit_type:
+      name: Maket kiti tipi ölçekli
+    scale_model_material:
+      name: Maket ölçekli malzeme
+    scale_model_theme:
+      name: Ölçekli model teması
+    scalpel_blade_material:
+      name: Neşter bıçağı malzemesi
+    scalpel_blade_number:
+      name: Neşter bıçağı numarası
+    scalpel_blade_shape:
+      name: Neşter bıçağı şekli
+    scalpel_handle_number:
+      name: Neşter sapı numarası
+    scan_converter_features:
+      name: Tarama dönüştürücü özellikleri
+    scanner_features:
+      name: Tarayıcı özellikleri
+    scanner_sensor_type:
+      name: Tarayıcı sensör tipi
+    scarf/shawl_style:
+      name: Eşarp/Şal stili
+    scene_modes:
+      name: Sahne Modları
+    scent:
+      name: Koku
+    scissor_blade_type:
+      name: Makas bıçağı türü
+    scope/sight_design:
+      name: Silah dürbünü tasarımı
+    scope/sight_features:
+      name: Kapsam/Görüş özellikleri
+    scope_design:
+      name: Dürbün tasarımı
+    scope_lens_type:
+      name: Dürbün mercek tipi
+    scoreboard_features:
+      name: Skor tahtası özellikleri
+    scrapbook_paper_type:
+      name: Karalama defteri kağıt türü
+    screen/display_design:
+      name: Ekran/Ekran tasarımı
+    screen_material:
+      name: Sera perde malzemesi
+    screen_specialized_features:
+      name: Ekrana özel özellikler
+    seafood_type:
+      name: Deniz Ürünleri Türü
+    seal_stamp_design:
+      name: Mühür damga tasarımı
+    season:
+      name: Mevsim
+    seat_color:
+      name: Koltuk rengi
+    seat_cushioning:
+      name: Koltuk Minderi
+    seat_pattern:
+      name: Koltuk Deseni
+    seat_shape:
+      name: Koltuk şekli
+    seat_structure:
+      name: Koltuk Yapısı
+    seat_type:
+      name: Koltuk Tipi
+    seat_upholstery_color:
+      name: Koltuk döşeme rengi
+    seat_upholstery_material:
+      name: Koltuk döşeme malzemesi
+    seat_upholstery_pattern:
+      name: Koltuk döşeme deseni
+    security_algorithms:
+      name: Güvenlik Algoritmaları
+    security_level:
+      name: Güvenlik Seviyesi
+    sensor/measuring_tool_features:
+      name: Sensör/Ölçüm aracı özellikleri
+    sensor_features:
+      name: Sensor özellikleri
+    sensor_type:
+      name: Sensör Tipi
+    sequin/glitter_shape:
+      name: Payet/Parıltılı şekli
+    sequin_shape:
+      name: Payet şekli
+    serum_target_areas:
+      name: Serum hedef alanları
+    service_type:
+      name: Hizmet türü
+    sewing_foot_type:
+      name: Dikiş Ayağı Tipi
+    sewing_machine_part_category:
+      name: Dikiş makinesi parça kategorisi
+    sfx_control_technology:
+      name: SFX kontrol teknolojisi
+    shaft_color:
+      name: Şaft rengi
+    shaft_flex:
+      name: Şaft Esnekliği
+    shaft_material:
+      name: Şaft malzemesi
+    shaft_orientation:
+      name: Şaft Yönü
+    shaft_pattern:
+      name: Şaft deseni
+    shampoo/conditioner_effect:
+      name: Şampuan/Saç kremi etkisi
+    shampoo/conditioner_items_included:
+      name: Şampuan/Saç Kremi öğeleri dahil
+    shampoo_type:
+      name: Şampuan Tipi
+    shape:
+      name: Şekil
+    shapewear_support_level:
+      name: Şekillendirici kıyafet destek seviyesi
+    shaving_cream_formulation:
+      name: Tıraş kremi formülasyonu
+    shaving_kit_components:
+      name: Tıraş seti bileşenleri
+    sheen/gloss_level:
+      name: Işıltı/Parıltı düzeyi
+    sheet_color:
+      name: Sayfa rengi
+    sheet_pattern:
+      name: Sayfa deseni
+    shelf_color:
+      name: Raf rengi
+    shelf_material:
+      name: Raf malzemesi
+    shelf_pattern:
+      name: Raf deseni
+    shell/frame_color:
+      name: Gövde/Çerçeve rengi
+    shell/frame_material:
+      name: Gövde/Çerçeve malzemesi
+    shell/frame_pattern:
+      name: Gövde/Çerçeve deseni
+    shingle/tile_material:
+      name: Kiremit / Fayans malzemesi
+    shoe_binding_type:
+      name: Ayakkabı Bağlama Tipi
+    shoe_features:
+      name: Ayakkabı özellikleri
+    shoe_fit:
+      name: Ayakkabı Fiti
+    shoe_size:
+      name: Ayakkabı Numarası
+    shooting_modes:
+      name: Çekim Modları
+    shopping_bag_material:
+      name: Alışveriş çantası malzemesi
+    shower_base_design:
+      name: Duş tabanı tasarımı
+    shower_curtain_mounting_type:
+      name: Duş perdesi montaj tipi
+    shower_design:
+      name: Duş tasarımı
+    shower_features:
+      name: Duş özellikleri
+    shower_opening_type:
+      name: Duş açma tipi
+    shrink_ratio:
+      name: Küçültme Oranı
+    shutter_finish:
+      name: Panjur kaplaması
+    siding_material:
+      name: Dış cephe malzemesi
+    signature_placement:
+      name: İmza Yerleştirme
+    silencer/blimp_type:
+      name: Susturucu ve balon tipi
+    sim_card_capability:
+      name: Sim Kart Özelliği
+    sim_card_type:
+      name: Sim Kart Türü
+    sim_card_type_1:
+      name: SIM kart tipi 1
+    sim_card_type_2:
+      name: SIM kart tipi 2
+    sink_mounting_type:
+      name: Lavabo montaj türü
+    sink_shape:
+      name: Lavabo şekli
+    sink_type:
+      name: Lavabo türü
+    sinker_material:
+      name: Sinker malzemesi
+    size:
+      name: Boyut
+    skateboarding_style:
+      name: Kaykay stili
+    ski_construction:
+      name: Kayak yapımı
+    skiing_style:
+      name: Kayak stili
+    skill_level:
+      name: Beceri Seviyesi
+    skin_care_effect:
+      name: Cilt Bakım Etkisi
+    skin_care_features:
+      name: Cilt bakım özellikleri
+    skin_care_mask_type:
+      name: Cilt Bakım Maske tipi
+    skin_tone:
+      name: Cilt Tonu
+    skin_undertone:
+      name: Cilt Alt Tonu
+    skirt/dress_length_type:
+      name: Etek/Elbise uzunluk türü
+    skirt_style:
+      name: Etek Stili
+    slat_color:
+      name: Çıta rengi
+    slat_material:
+      name: Çıta malzemesi
+    slat_pattern:
+      name: Çıta Deseni
+    sleeve_length_type:
+      name: Kol Uzunluğu Tipi
+    slip_texture:
+      name: Kayma dokusu
+    slipper_style:
+      name: Terlik stili
+    slot_machine_type:
+      name: Slot Makineleri tipi
+    small_animal_dietary_requirements:
+      name: Küçük hayvanların beslenme gereksinimleri
+    small_animal_food_form:
+      name: Küçük hayvan maması formu
+    small_animal_food_ingredients:
+      name: Küçük hayvan maması bileşenleri
+    small_animal_habitat/cage_type:
+      name: Küçük hayvan habitatı/kafes tipi
+    smart_tv_platform:
+      name: Akıllı TV platformu
+    smart_watch_features:
+      name: Akıllı saat özellikleri
+    sneaker_style:
+      name: Spor Ayakkabı stili
+    snorkel_shape:
+      name: Şnorkel şekli
+    snowboard_construction:
+      name: Snowboard yapımı
+    snowboard_design:
+      name: Snowboard Tasarımı
+    snowboarding_style:
+      name: Snowboard stili
+    snowmobile_type:
+      name: Kar Aracı Tipi
+    socket_driver_tip:
+      name: Tornavida lokma ucu
+    socket_type:
+      name: Soket türü
+    soda_maker_accessories_included:
+      name: Soda makinesi aksesuarları dahil
+    soda_variety:
+      name: Gazoz Çeşitleri
+    sofa_features:
+      name: Kanepe özellikleri
+    softball_discipline:
+      name: Softbol disiplini
+    softbox_mounting_type:
+      name: Softbox montaj türü
+    softbox_shape:
+      name: Softbox şekli
+    software_features:
+      name: Yazılım özellikleri
+    software_tool_type:
+      name: Yazılım aracı türü
+    softwood_lumber_grade:
+      name: Yumuşak ağaç kereste sınıfı
+    solar_cell_type:
+      name: Güneş Pili Tipi
+    solar_panel_connections:
+      name: Güneş paneli bağlantıları
+    solar_panel_design:
+      name: Güneş paneli tasarımı
+    solder/flux_application:
+      name: Lehim/Akı uygulaması
+    soleplate_type:
+      name: Taban Tipi
+    solubility:
+      name: Çözünürlük
+    solution_type:
+      name: Solüsyon Türü
+    solvent/thinner_application:
+      name: Solvent/Tiner uygulaması
+    solvent_application:
+      name: Solvent uygulaması
+    soothing_sounds:
+      name: Rahatlatıcı sesler
+    sound_controls:
+      name: Ses Kontrolleri
+    sound_effects:
+      name: Ses Efektleri
+    sound_insulation:
+      name: Ses Yalıtımı
+    sound_options:
+      name: Ses Seçenekleri
+    speaker_configuration:
+      name: Hoparlör Yapılandırması
+    speaker_design:
+      name: Hoparlör Tasarımı
+    speaker_features:
+      name: Hoparlör özellikleri
+    speaker_technology:
+      name: Hoparlör Teknolojisi
+    speakerphone_type:
+      name: Hoparlör Tipi
+    speed_settings:
+      name: Hız Ayarları
+    spf_level:
+      name: Spf Düzeyi
+    spike_design:
+      name: Çivi tasarımı
+    spinner_type:
+      name: Döndürücü Tipi
+    spirit_dilution:
+      name: Alkol Seyreltme
+    splitter/switch_features:
+      name: Ayırıcı/Anahtar özellikleri
+    splitter_use:
+      name: Ayırıcı Kullanımı
+    sponge_shape:
+      name: Sünger şekli
+    spool_color:
+      name: Makara rengi
+    spool_material:
+      name: Makara malzemesi
+    spool_pattern:
+      name: Makara deseni
+    sport:
+      name: Spor
+    sports_logo:
+      name: Spor logosu
+    sports_theme:
+      name: Spor teması
+    spout_type:
+      name: Meme Ucu Tipi
+    spreader_type:
+      name: Yayıcı Tipi
+    sprinkler_head_type:
+      name: Yağmurlama Başlığı Tipi
+    sprinkler_shape:
+      name: Yağmurlama şekli
+    squeegee_blade_design:
+      name: Silecek bıçağı tasarımı
+    stack_configuration:
+      name: Yığın Yapılandırması
+    stage:
+      name: Sahne
+    stair_lifts_control_type:
+      name: Merdiven Asansörü Kontrol Tipi
+    staircase_features:
+      name: Merdiven özellikleri
+    staircase_type:
+      name: Merdiven Tipi
+    stamp_theme:
+      name: Damga teması
+    stamp_type:
+      name: Damga Türü
+    stand/display_type:
+      name: Stand/Görüntüleme tipi
+    staple_wire_gauge:
+      name: Zımba teli göstergesi
+    stapler_features:
+      name: Zımba özellikleri
+    star_rating:
+      name: Yıldız Puanı
+    start_type:
+      name: Başlangıç Türü
+    station_type:
+      name: İstasyon Tipi
+    stationery_binding_type:
+      name: Kırtasiye Ciltleme Türü
+    stem_length:
+      name: Kök Uzunluğu
+    stencil/cut_shape:
+      name: Şablon/Kesme şekli
+    step_type:
+      name: Adım Türü
+    sterilization_cycle_time:
+      name: Sterilizasyon devir süresi
+    sterilization_instructions:
+      name: Sterilizasyon talimatları
+    sterilization_method:
+      name: Sterilizasyon Yöntemi
+    stethoscope_design:
+      name: Stetoskop Tasarımı
+    stethoscope_technology:
+      name: Stetoskop Teknolojisi
+    stick_material:
+      name: Çubuk malzeme
+    stiffness:
+      name: Sertlik
+    stimulator_tip_shape:
+      name: Stimülatör uç şekli
+    stone_material:
+      name: Taş malzemesi
+    stone_name:
+      name: Taş Adı
+    stone_shape:
+      name: Taş şekli
+    stone_type:
+      name: Taş Tipi
+    stopband:
+      name: Bant Bastıran
+    stopwatch_features:
+      name: Kronometre özellikleri
+    storage_drive_interface_type:
+      name: Depolama Sürücüsü Arayüz Türü
+    storage_drive_interfaces_supported:
+      name: Desteklenen Depolama Sürücüsü Arayüzleri
+    storage_drive_type_installed:
+      name: Takılı Depolama Sürücüsü Türü
+    storage_media_type:
+      name: Depolama Ortamı Türü
+    storage_tank_application:
+      name: Depolama tankı uygulaması
+    storage_types_supported:
+      name: Desteklenen Depolama Türleri
+    stove_airflow:
+      name: Soba hava akışı
+    stove_top_type:
+      name: Soba üstü tipi
+    strap_design:
+      name: Kayış tasarımı
+    straw/stirrer_design:
+      name: Saman/Karıştırıcı tasarımı
+    stretcher/gurney_intended_use:
+      name: Sedyenin kullanım amacı
+    string_color:
+      name: Tel rengi
+    string_instrument_size:
+      name: Yaylı çalgı boyutu
+    string_material:
+      name: Yay kirişi malzemesi
+    string_pattern:
+      name: Tel deseni
+    stripper_application:
+      name: Sıyırıcı uygulaması
+    stroller_features:
+      name: Bebek arabası özellikleri
+    stroller_wheel_type:
+      name: Bebek arabası tekerleği tipi
+    style:
+      name: Stil
+    stylus_type:
+      name: Kalem Tipi
+    subject_area:
+      name: Konu alanı
+    subscription_type:
+      name: Abonelik Türü
+    substrate_features:
+      name: Alt tabaka özellikleri
+    suction_cup_color:
+      name: Vantuz rengi
+    suction_cup_material:
+      name: Vantuz malzemesi
+    suction_cup_pattern:
+      name: Vantuz deseni
+    suction_levels:
+      name: Emme Seviyeleri
+    suitable_for_angling_type:
+      name: Olta Balıkçılığı Tipine Uygun
+    suitable_for_animal_type:
+      name: Hayvan Tipine Uygun
+    suitable_for_art_technique:
+      name: Sanat tekniğine uygun
+    suitable_for_bird_type:
+      name: Kuş Tipine Uygun
+    suitable_for_boat_type:
+      name: Tekne tipine uygun
+    suitable_for_body/facial_hair:
+      name: Vücut/yüz kılları için uygundur
+    suitable_for_breed_size:
+      name: Cins büyüklüğüne uygun
+    suitable_for_bug_type:
+      name: Böcek türüne uygun
+    suitable_for_camera/optics_device:
+      name: Kamera/optik cihaz için uygun
+    suitable_for_camera_type:
+      name: Kamera Tipine Uygun
+    suitable_for_camping_activity:
+      name: Kamp aktivitesine uygun
+    suitable_for_chair_type:
+      name: Sandalye türüne uygun
+    suitable_for_container_type:
+      name: Konteyner tipine uygun
+    suitable_for_crafting_material:
+      name: Malzeme işçiliği için uygun
+    suitable_for_door_type:
+      name: Kapı Tipine Uygun
+    suitable_for_egg_type:
+      name: Yumurta türüne uygun
+    suitable_for_fabric_type:
+      name: Kumaş Tipine Uygun
+    suitable_for_fire_class:
+      name: Yangın Sınıfına Uygun
+    suitable_for_fish_type:
+      name: Balık türüne uygun
+    suitable_for_food_processor_type:
+      name: Mutfak robotu türüne uygun
+    suitable_for_furniture_type:
+      name: Mobilya türüne uygun
+    suitable_for_gas_type:
+      name: Gaz türüne uygun
+    suitable_for_hair_type:
+      name: Saç Tipine Uygun
+    suitable_for_material_type:
+      name: Malzeme Tipine Uygun
+    suitable_for_pest_type:
+      name: Haşere Tipine Uygun
+    suitable_for_pipe_type:
+      name: Boru Tipine Uygun
+    suitable_for_pool_type:
+      name: Havuz türüne uygun
+    suitable_for_power_equipment_type:
+      name: Elektrikli ekipman tipine uygun
+    suitable_for_precious_material:
+      name: Değerli malzemeler için uygun
+    suitable_for_printer_type:
+      name: Yazıcı tipine uygun
+    suitable_for_skin_tone:
+      name: Cilt Tonuna Uygun
+    suitable_for_skin_type:
+      name: Cilt Tipine Uygun
+    suitable_for_snowshoeing_activity:
+      name: Kar ayakkabılı yürüyüş aktivitesi için uygun
+    suitable_for_storage_type:
+      name: Depolama türüne uygun
+    suitable_for_toothbrush:
+      name: Diş Fırçasına Uygun
+    suitable_for_vehicle_type:
+      name: Araç Tipine Uygun
+    suitable_for_water_feature_type:
+      name: Su Özelliği Tipine Uygun
+    suitable_for_water_type:
+      name: Su Tipine Uygun
+    suitable_for_weapon_type:
+      name: Silah türüne uygun
+    suitable_installation:
+      name: Uygun kurulum
+    suitable_location:
+      name: Uygun Konum
+    suitable_space:
+      name: Uygun Alan
+    suitcase_handle_type:
+      name: Bavul sapı türü
+    sulfur_content:
+      name: Sülfürlü İçerik
+    sunlight:
+      name: Güneş Işığı
+    support/brace_material:
+      name: Destek/Destek malzemesi
+    supported_language:
+      name: Desteklenen Dil
+    surface_texture:
+      name: Yüzey dokusu
+    surfboard_features:
+      name: Sörf tahtası özellikleri
+    surveillance_camera_design:
+      name: Güvenlik kamerası tasarımı
+    surveillance_camera_mounting_type:
+      name: Güvenlik kamerası montaj türü
+    surverying_accessories_included:
+      name: Göz alıcı aksesuarlar dahildir
+    suspender_style:
+      name: Askı stili
+    sustainability:
+      name: Sürdürülebilirlik
+    swab_material:
+      name: Sürüntü malzemesi
+    swimwear_features:
+      name: Mayo özellikleri
+    swing_style:
+      name: Salıncak Stili
+    swing_weighting:
+      name: Savurma Ağırlıklandırma
+    switch_control_type:
+      name: Anahtar kontrol türü
+    switching_method:
+      name: Anahtarlama Yöntemi
+    synthesis_method:
+      name: Sentez Yöntemi
+    system_of_measurement:
+      name: Ölçüm Sistemi
+    system_range:
+      name: Sistem Aralığı
+    systems_supported:
+      name: Desteklenen sistemler
+    tab_style:
+      name: Tırnak Stili
+    tabletop_color:
+      name: Masaüstü rengi
+    tabletop_material:
+      name: Masaüstü malzemesi
+    tabletop_pattern:
+      name: Masaüstü deseni
+    tabletop_shape:
+      name: Masaüstü şekli
+    tableware_material:
+      name: Sofra malzemesi
+    tack/pushpin_head_design:
+      name: Çivi/Raptiye kafa tasarımı
+    tag_fastening:
+      name: Etiket sabitleme
+    tampon_absorbency_level:
+      name: Tampon emicilik seviyesi
+    tampon_features:
+      name: Tampon özellikleri
+    tan_type:
+      name: Bronzluk Tipi
+    tank_color:
+      name: Su deposu rengi
+    tank_material:
+      name: Depo malzemesi
+    tank_pattern:
+      name: Tank deseni
+    tape_material:
+      name: Bant malzemesi
+    target_audience:
+      name: Hedef Kitle
+    target_gender:
+      name: Hedef Cinsiyet
+    targeted_pests:
+      name: Hedeflenen zararlılar
+    targeted_stains:
+      name: Hedeflenen lekeler
+    tea_input_type:
+      name: Çay Giriş Tipi
+    technology_level:
+      name: Teknoloji düzeyi
+    teeth_material:
+      name: Diş malzemesi
+    telephone_cable_interface:
+      name: Telefon kablosu arayüzü
+    telephone_style:
+      name: Telefon Stili
+    telescope_level:
+      name: Teleskop seviyesi
+    telescope_tracking_system:
+      name: Teleskop takip sistemi
+    television_shape:
+      name: Televizyon şekli
+    television_specialized_features:
+      name: Televizyona özel özellikler
+    temperature:
+      name: Sıcaklık
+    temperature_control:
+      name: Sıcaklık Kontrolü
+    temperature_measurement:
+      name: Sıcaklık ölçümü
+    template_type:
+      name: Şablon Türü
+    temple_color:
+      name: Sap rengi
+    temple_pattern:
+      name: Tapınak deseni
+    tension:
+      name: Gerilme
+    tequila_variety:
+      name: Tekila Çeşitleri
+    terminal_operation:
+      name: Terminal işletimi
+    terrain:
+      name: Arazi
+    test_format:
+      name: Test Formatı
+    test_method:
+      name: Test Metodu
+    test_sample:
+      name: Örnek Test
+    tetherball_equipment_included:
+      name: Tetherball ekipmanları dahil
+    text_plate_material:
+      name: Metin Plakası Malzemesi
+    textile_craft_machine_features:
+      name: Tekstil el işi makinesi özellikleri
+    textile_craft_project_type:
+      name: Tekstil zanaat proje türü
+    texture:
+      name: Doku
+    texture_level:
+      name: Doku düzeyi
+    theme:
+      name: Tema
+    thermal_detector_type:
+      name: Termal dedektör türü
+    thermocouple_type:
+      name: Termokupl türü
+    thickness_type:
+      name: Kalınlık Tipi
+    thinner_application:
+      name: Tiner uygulaması
+    thread_direction:
+      name: Diş yönü
+    threaded_rod_size:
+      name: Vidalı rod boyutu
+    throw_pillow_shape:
+      name: Atılabilir yastık şekli
+    ticket_additional_features:
+      name: Bilet ek özellikleri
+    ticket_type:
+      name: Bilet türü
+    tile_design:
+      name: Fayans tasarımı
+    tile_game_type:
+      name: Fayans oyun türü
+    tile_installation_method:
+      name: Fayans Kurulum Yöntemi
+    tile_look:
+      name: Fayans görünümü
+    tile_material:
+      name: Fayans malzemesi
+    tile_texture:
+      name: Fayans dokusu
+    time_period:
+      name: Zaman dilimi
+    time_signatures:
+      name: Zaman İmzaları
+    time_weighting:
+      name: Zaman Ağırlıklandırma
+    timepiece_features:
+      name: Saat özellikleri
+    timer_design:
+      name: Zamanlayıcı tasarımı
+    timer_features:
+      name: Zamanlayıcı özellikleri
+    timer_type:
+      name: Zamanlayıcı Türü
+    tip_design:
+      name: Uç Tasarımı
+    tip_material:
+      name: Uç malzemesi
+    tip_opening:
+      name: Uç Açıklığı
+    tip_style:
+      name: Uç Stili
+    tip_type:
+      name: Uç Türü
+    tire_bead_type:
+      name: Lastik Damağı Tipi
+    tobacco_type:
+      name: Tütün Türü
+    toddler_bed_features:
+      name: Çocuk yatağı özellikleri
+    toe_spacer_design:
+      name: Ayak parmağı ayırıcı tasarımı
+    toe_strap_type:
+      name: Ayak kayışı türü
+    toe_style:
+      name: Ayak Parmağı Stili
+    toilet/bidet_mounting_type:
+      name: Tuvalet/Bide montaj tipi
+    toilet_cover_design:
+      name: Tuvalet kapağı tasarımı
+    toilet_cover_features:
+      name: Tuvalet kapağı özellikleri
+    toilet_mounting_type:
+      name: Tuvalet montaj türü
+    toilet_shape:
+      name: Tuvalet şekli
+    tom_tom_design:
+      name: Tamtam tasarımı
+    tool/utensil_material:
+      name: Alet / Teçhizat malzemesi
+    tool_key_tip:
+      name: Araç anahtarı ucu
+    tool_mobility:
+      name: Takım hareketliliği
+    tool_operation:
+      name: Araç çalışması
+    toothpaste_type:
+      name: Diş Macunu Türü
+    toothpick_design:
+      name: Kürdan tasarımı
+    top_color:
+      name: Üst rengi
+    top_length_type:
+      name: Üst uzunluk türü
+    top_material:
+      name: Üst malzemesi
+    top_pattern:
+      name: Üst desen
+    top_surface_material:
+      name: Üst yüzey malzemesi
+    tote_handle_type:
+      name: Tote sapı türü
+    totem_design:
+      name: Totem tasarımı
+    touch_capabilities:
+      name: Dokunma Özellikleri
+    touchscreen_technology:
+      name: Dokunmatik Ekran Teknolojisi
+    toy/game_material:
+      name: Oyuncak/Oyun malzemesi
+    toy_figure_features:
+      name: Oyuncak figürü özellikleri
+    toy_figure_theme:
+      name: Oyuncak figürü teması
+    toy_tool_type:
+      name: Oyuncak alet tipi
+    tracking_metrics:
+      name: Takip Metrikleri
+    tracking_purpose:
+      name: Takip Amacı
+    tractor_accessories_included:
+      name: Traktör aksesuarları dahildir
+    trade_show_display_features:
+      name: Fuar teşhir özellikleri
+    trading_card_packaging:
+      name: Ticaret kartı ambalajı
+    traffic_control_device_features:
+      name: Trafik kontrol cihazı özellikleri
+    trail_camera_design:
+      name: Takip kamerası tasarımı
+    trailer_type:
+      name: Römork Tipi
+    training_data_requirements:
+      name: Eğitim verileri gereklilikleri
+    trampoline_design:
+      name: Trambolin tasarımı
+    transcriber/dictation_system_features:
+      name: Transcriber/Dikte sistemi özellikleri
+    transfer_boards_surface_type:
+      name: Transfer Panoları Yüzey Tipi
+    transfer_paper_technique:
+      name: Transfer kağıdı tekniği
+    transmission_type:
+      name: İletim Türü
+    trash_can_features:
+      name: Çöp kutusu özellikleri
+    travel_pillow_shape:
+      name: Seyahat yastığı şekli
+    treatment_area:
+      name: Uygulama Alanı
+    treatment_objective:
+      name: Uygulama Amacı
+    treatment_texture:
+      name: Tedavi dokusu
+    treatment_type:
+      name: Uygulama Türü
+    tree_stand_material:
+      name: Ağaç standı malzemesi
+    trellis_design:
+      name: Kafes tasarımı
+    tricycle_design:
+      name: Üç tekerlekli bisiklet tasarımı
+    tricycle_propulsion_type:
+      name: Üç tekerlekli tahrik tipi
+    trip_type:
+      name: Trip Türü
+    tripod/monopod_attachment_type:
+      name: Tripod/Monopod bağlantı tipi
+    tripod/monopod_head_type:
+      name: Tripod/Monopod başlık türü
+    tripod_handle_type:
+      name: Tripod tutamak tipi
+    trophy_design:
+      name: Kupa tasarımı
+    truck_type:
+      name: Kamyon Tipi
+    tube_component:
+      name: Boru Bileşeni
+    tube_configuration:
+      name: Boru Yapılandırması
+    tuner_design:
+      name: Tuner tasarımı
+    tuner_type:
+      name: Ayarlayıcı Türü
+    tuning_fork_design:
+      name: Diyapazon tasarımı
+    tuning_fork_frequency:
+      name: Diyapazon frekansı
+    tuning_modes:
+      name: Ayar Modları
+    tuning_pitch:
+      name: Ses perdesi ayarı
+    tuning_range:
+      name: Ayar Aralığı
+    undershirt_style:
+      name: Fanila tarzı
+    underwear_style:
+      name: İç çamaşırı stili
+    units_of_measurement:
+      name: Ölçü Birimleri
+    update_frequency:
+      name: Güncelleme Sıklığı
+    upholstery_color:
+      name: Döşeme rengi
+    upholstery_material:
+      name: Döşeme malzemesi
+    upholstery_pattern:
+      name: Döşeme deseni
+    urinal_mounting_type:
+      name: Pisuar montaj türü
+    usage_conditions:
+      name: Kullanım Koşulları
+    usage_frequency:
+      name: Kullanım Sıklığı
+    usage_type:
+      name: Kullanım Türü
+    usb_standard:
+      name: USB Standardı
+    user_type:
+      name: Kullanıcı türü
+    utility/maintenance_task_type:
+      name: Yardımcı Program/Bakım görev türü
+    uv_protection:
+      name: UV koruması
+    vacuum_air_filtering_technology:
+      name: Vakumlu hava filtreleme teknolojisi
+    valve_type:
+      name: Vana Tipi
+    van_type:
+      name: Kamyonet Tipi
+    vaping_style:
+      name: Elektronik sigara içme stili
+    varnish/finish_application:
+      name: Vernik/Kaplama uygulaması
+    vase_shape:
+      name: Vazo şekli
+    vdi_protocol_support:
+      name: Vdi Protokol Desteği
+    vehicle_alarm/lock_features:
+      name: Araç alarmı/kilit özellikleri
+    vehicle_application_area:
+      name: Araç uygulama alanı
+    vehicle_audio_system_features:
+      name: Araç ses sistemi özellikleri
+    vehicle_braking_features:
+      name: Araç frenleme özellikleri
+    vehicle_cleaning_item_features:
+      name: Araç temizleme öğesi özellikleri
+    vehicle_decor_features:
+      name: Araç dekor özellikleri
+    vehicle_drive/handling_features:
+      name: Araç sürüşü/kullanım özellikleri
+    vehicle_engine/part_features:
+      name: Araç motoru/parça özellikleri
+    vehicle_engine_features:
+      name: Araç motoru özellikleri
+    vehicle_engine_part_features:
+      name: Araç motoru parça özellikleri
+    vehicle_exhaust_type:
+      name: Araç egzoz tipi
+    vehicle_features:
+      name: Araç özellikleri
+    vehicle_fluid_features:
+      name: Araç sıvı özellikleri
+    vehicle_fluid_type:
+      name: Araç Sıvıları tipi
+    vehicle_frame/body_features:
+      name: Araç şasi/gövde özellikleri
+    vehicle_mirror_design:
+      name: Araç aynası tasarımı
+    vehicle_mirror_features:
+      name: Araç aynası özellikleri
+    vehicle_mirror_type:
+      name: Araç aynası tipi
+    vehicle_oil_features:
+      name: Araç yağı özellikleri
+    vehicle_paint_type:
+      name: Araç boya türü
+    vehicle_placement:
+      name: Araç Yerleştirme
+    vehicle_seating_features:
+      name: Araç koltuk özellikleri
+    vehicle_suspension_features:
+      name: Araç Süspansiyon özellikleri
+    vehicle_tire_type:
+      name: Araç lastiği tipi
+    vehicle_type:
+      name: Araç Tipi
+    verification_technology:
+      name: Doğrulama Teknolojisi
+    vg/pg_ratio:
+      name: VG/PG oranı
+    video_codecs/formats_supported:
+      name: Desteklenen Video Codec'leri/Formatları
+    video_game_content_features:
+      name: Video oyunu içeriği özellikleri
+    video_game_genre:
+      name: Video oyunu türü
+    video_game_platform:
+      name: Video oyun platformu
+    video_game_sub_genre:
+      name: Video oyunu alt türü
+    video_port_type:
+      name: Video Bağlantı Noktası Türü
+    video_region_code:
+      name: Video Bölge Kodu
+    video_resolution_supported:
+      name: Desteklenen Video Çözünürlüğü
+    viewing_area_height:
+      name: Görüntüleme Alanı Yüksekliği
+    viewing_area_width:
+      name: Görüntüleme Alanı Genişliği
+    vinegar_drink_variety:
+      name: Sirkeli İçecek Çeşitleri
+    vinegar_variety:
+      name: Sirke Çeşitleri
+    viscosity:
+      name: Viskozite
+    visual_effect:
+      name: Görsel Efekt
+    voip_protocol_support:
+      name: Voip Protokolü Desteği
+    wader_type:
+      name: Kanat tipi
+    waist_rise:
+      name: Bel Yükseltme
+    wall_material:
+      name: Duvar malzemesi
+    wall_patching_application:
+      name: Duvar yama uygulaması
+    wall_plate_style:
+      name: Duvar Plakası Stili
+    wallet_features:
+      name: Kanat özellikleri
+    wallpaper_application_method:
+      name: Duvar kağıdı uygulama yöntemi
+    wallpaper_theme:
+      name: Duvar Kağıdı Teması
+    warning_category:
+      name: Uyarı Kategorisi
+    washer/dryer_features:
+      name: Çamaşır Makinesi/Kurutucu özellikleri
+    washer_form:
+      name: Yıkama formu
+    washing_machine_features:
+      name: Çamaşır makinesi özellikleri
+    washing_method:
+      name: Yıkama yöntemi
+    washing_programs:
+      name: Yıkama Programları
+    waste_bag_features:
+      name: Atık torbası özellikleri
+    waste_bag_material:
+      name: Atık torbası malzemesi
+    watch/band_material:
+      name: Saat/Kordon malzemesi
+    watch_accessory_style:
+      name: Saat aksesuar stili
+    watch_display:
+      name: Saat ekranı
+    watch_features:
+      name: Saat özellikleri
+    watch_material:
+      name: Saat malzemesi
+    water_filter_application:
+      name: Su filtresi uygulaması
+    water_sport:
+      name: Su sporu
+    watercraft_engine_control_type:
+      name: Deniz taşıtları motor kontrol tipi
+    watercraft_features:
+      name: Deniz taşıtlarının özellikleri
+    watercraft_motor_mounting_type:
+      name: Deniz taşıtı motoru montaj türü
+    watercraft_propulsion_type:
+      name: Deniz taşıtları tahrik tipi
+    watercraft_steering_wheel_type:
+      name: Deniz taşıtları direksiyon türü
+    watercraft_type:
+      name: Deniz Taşıtı Türü
+    waveski_features:
+      name: Waveski'nin özellikleri
+    wax_application_method:
+      name: Cila uygulama Yöntemi
+    wax_type:
+      name: Mum Malzemesi Tipi
+    weather_strip_design:
+      name: Hava şeridi tasarımı
+    weather_supply_application_method:
+      name: Hava durumu kaynağı uygulama yöntemi
+    weatherization_application:
+      name: Hava koşullarına dayanıklılık uygulaması
+    webcam_design:
+      name: Web kamerası tasarımı
+    weight_bar_activity:
+      name: Ağırlık Barı Etkinliği
+    weight_bar_type:
+      name: Ağırlık Barı Tipi
+    weight_type:
+      name: Ağırlık türü
+    weight_unit_supported:
+      name: Desteklenen ağırlık birimi
+    welding_helmet_features:
+      name: Kaynak kaskı özellikleri
+    wet_bag_features:
+      name: Islak torba özellikleri
+    wheel_hardness:
+      name: Tekerlek Sertliği
+    wheel_hub_placement:
+      name: Tekerlek Göbeği Konumu
+    wheel_part_type:
+      name: Tekerlek parçası tipi
+    wheel_type:
+      name: Tekerlek Tipi
+    wheelchair_type:
+      name: Tekerlekli Sandalye Tipi
+    whiskey_style:
+      name: Viski Stili
+    whiskey_variety:
+      name: Viski Çeşitleri
+    wi_fi_band:
+      name: Wi-Fi Bandı
+    wi_fi_standard:
+      name: Wi-Fi Standardı
+    winder_features:
+      name: Sarıcı özellikleri
+    windlass_design:
+      name: Çıkrık tasarımı
+    window_treatment_material:
+      name: Pencere işleme malzemesi
+    windsurfing_board_style:
+      name: Rüzgar sörfü tahtası stili
+    wine_rack_design:
+      name: Şarap rafı tasarımı
+    wine_sweetness:
+      name: Şarap Tatlılığı
+    wine_variety:
+      name: Şarap Çeşitleri
+    wipe_dispenser/warmer_features:
+      name: Silme dağıtıcısı/ısıtıcı özellikleri
+    wipe_dispenser_features:
+      name: Havlu dağıtıcı özellikleri
+    wipe_fragrance:
+      name: Mendil kokusu
+    wipe_packaging:
+      name: Mendil ambalajı
+    wipe_warmer_features:
+      name: Havlu ısıtıcı özellikleri
+    wire/rope_material:
+      name: Tel/Halat malzemesi
+    wire_thickness:
+      name: Tel Kalınlığı
+    woodwind_care_items_included:
+      name: Nefesli çalgı bakım malzemeleri dahil
+    work_capacity:
+      name: Çalışma Kapasitesi
+    wreath_design:
+      name: Çelenk tasarımı
+    yacht_type:
+      name: Yat Tipi
+    yarn_weight_category:
+      name: İplik ağırlık kategorisi
+    zipper_pull_style:
+      name: Fermuar çekme stili
+    zoom_type:
+      name: Yakınlaştırma türü

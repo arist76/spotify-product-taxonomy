@@ -1,0 +1,4531 @@
+---
+fi:
+  attributes:
+    3d_glasses_material:
+      name: 3D-lasien materiaali
+    abrasive_material:
+      name: Liimamateriaali
+    absinthe_style:
+      name: Absinttityyppi
+    absinthe_variety:
+      name: Absinttivalikoima
+    absorbency_level:
+      name: Imevyystaso
+    absorbent_hygiene_product_features:
+      name: Imukykyiset hygieniatuotteen ominaisuudet
+    academic_level:
+      name: Akateeminen taso
+    accessory_material:
+      name: Tarvikkeiden materiaali
+    accessory_size:
+      name: Lisävarusteen koko
+    accordion_tuning:
+      name: Harmonikan viritys
+    active_ingredient:
+      name: Vaikuttava aine
+    activewear_clothing_features:
+      name: Urheiluvaatteiden ominaisuudet
+    activity:
+      name: Aktiivisuus
+    activity_tracker_design:
+      name: Aktiivisuuden seurantalaitteen muotoilu
+    acupuncture_model_format:
+      name: Akupunktiomallin formaatti
+    acupuncture_model_type:
+      name: Akupunktiomallin tyyppi
+    additional_animation_software_features:
+      name: Animaatioohjelmiston lisäominaisuudet
+    additional_design_software_type:
+      name: Lisäsuunnitteluohjelmistotyyppi
+    additional_financial_software_features:
+      name: Talousohjelmiston lisäominaisuudet
+    additional_graphic_software_features:
+      name: Graafisen ohjelmiston lisäominaisuudet
+    additional_publishing_software_features:
+      name: Julkaisuohjelmiston lisäominaisuudet
+    additional_security_software_features:
+      name: Suojausohjelmiston lisäominaisuudet
+    adhesive_type:
+      name: Liimatyyppi
+    aftershave_product_form:
+      name: Aftershave -tuotemuoto
+    age_group:
+      name: Ikäryhmä
+    age_restrictions:
+      name: Ikärajoitukset
+    ai_application:
+      name: Tekoälysovellus
+    air_freshener_form:
+      name: Ilmanraikastimen olomuoto
+    air_mattress_features:
+      name: Ilmapatjan ominaisuudet
+    airbrush_feed_type:
+      name: Airbrush-syöttötyyppi
+    airbrush_operation_method:
+      name: Airbrush-toimintatapa
+    airsoft_equipment_included:
+      name: Airsoft-varusteet mukana
+    album_type:
+      name: Albumityyppi
+    alert_type:
+      name: Hälytystyyppi
+    allergen_information:
+      name: Allergeenitiedot
+    allergen_test_type:
+      name: Allergeenitestityyppi
+    allergens:
+      name: Allergeenit
+    allergy_friendly_features:
+      name: Allergiaystävälliset ominaisuudet
+    amplifier/booster_suitable_location:
+      name: Vahvistimen/tehostimen sopiva sijainti
+    amplifier_class:
+      name: Vahvistinluokka
+    amplifier_configuration:
+      name: Vahvistimen konfiguraatio
+    anchor_type:
+      name: Ankkurityyppi
+    anemometer_application:
+      name: Tuulimittarisovellus
+    angles_supported:
+      name: Tuetut kulmat
+    angling_style:
+      name: Onkimistyyli
+    animal_feed_form:
+      name: Eläinrehun olomuoto
+    animal_type:
+      name: Eläintyyppi
+    antenna_type:
+      name: Antennityyppi
+    anti_agin_skin_care_type:
+      name: Ikääntymistä estävä ihonhoidon tyyppi
+    antifreeze_type:
+      name: Pakkasnestetyyppi
+    application_area:
+      name: Sovellusalue
+    application_method:
+      name: Sovellusmenetelmä
+    applicator_material:
+      name: Asettimen materiaali
+    applicator_type:
+      name: Aplikaattorin tyyppi
+    applique/patch_shape:
+      name: Applikaation/paikan muoto
+    applique_shape:
+      name: Applikaation muoto
+    aquarium_filter_features:
+      name: Akvaarion suodattimen ominaisuudet
+    aquarium_light_spectrum:
+      name: Akvaarion valospektri
+    aquarium_overflow_box_design:
+      name: Akvaarion ylivuotolaatikon muotoilu
+    archery_activity:
+      name: Jousiammuntatoiminta
+    archery_equipment_included:
+      name: Mukana jousiammuntavälineet
+    archery_style:
+      name: Jousiammuntatyyli
+    aromatherapy:
+      name: Aromaterapia
+    arrangement:
+      name: Järjestely
+    arrow/bolt_material:
+      name: Nuolen/varsijousinuolen materiaali
+    arrow_fletching_material:
+      name: Nuolen sulan materiaali
+    arrow_material:
+      name: Nuolen materiaali
+    art/crafting_tool_material:
+      name: Taide-/käsityötyökalun materiaali
+    art_fixative_application_method:
+      name: Taidekiinnitteen levitysmenetelmä
+    art_style:
+      name: Taidetyyli
+    artwork_frame_material:
+      name: Taideteoksen kehysmateriaali
+    artwork_type:
+      name: Taideteostyyppi
+    assisted_braking_technology:
+      name: Avustettu jarrutekniikka
+    attachment_method:
+      name: Liittämismenetelmä
+    attachment_options:
+      name: Lisäosavaihtoehdot
+    attachment_type:
+      name: Lisäosatyyppi
+    atv/off_road_tire_type:
+      name: ATV-/maastorengastyyppi
+    audio/scan_converter_features:
+      name: Audio/Scan-muuntimen ominaisuudet
+    audio_codecs/formats_supported:
+      name: Tuetut audiokoodekit/-formaatit
+    audio_connectivity:
+      name: Audioliitettävyys
+    audio_converter_features:
+      name: Audio-muuntimen ominaisuudet
+    audio_d/a_converter_dac:
+      name: Audio D/A -muunnin (Dac, digitaali-analogiamuunnin)
+    audio_mixer_type:
+      name: Audiomikserityyppi
+    audio_output_channel:
+      name: Audion ulostulokanava
+    audio_output_format:
+      name: Audion ulostuloformaatti
+    audio_player/recorder_features:
+      name: Audiosoittimen/-tallentimen ominaisuudet
+    audio_purpose:
+      name: Audion tarkoitus
+    audio_technology:
+      name: Audioteknologia
+    authentication_technology:
+      name: Todennustekniikka
+    authenticity:
+      name: Aitous
+    auto_focusing_modes:
+      name: Automaattitarkennustilat
+    autoclave_sterilization_method:
+      name: Paineastian sterilointimenetelmä
+    autograph_type:
+      name: Nimikirjoitustyyppi
+    automation:
+      name: Automaatio
+    award_design:
+      name: Palkinnon muotoilu
+    award_occasion:
+      name: Palkitsemistilaisuus
+    awning_construction_type:
+      name: Markiisin rakennetyyppi
+    awning_design:
+      name: Markiisin muotoilu
+    baby/toddler_car_seat_features:
+      name: Vauvan/taaperon turvaistuimen ominaisuudet
+    baby/toddler_clothing_features:
+      name: Vauvan/taaperon vaatteiden ominaisuudet
+    baby/toddler_equipment_safety_features:
+      name: Vauvan/taaperon varusteiden turvaominaisuudet
+    baby/toddler_furniture_features:
+      name: Vauvojen ja leikki-ikäisten huonekalusetit
+    baby/toddler_furniture_items_included:
+      name: Vauvan/taaperon huonekalut sisältyvät
+    baby/toddler_hat_style:
+      name: Vauvan/taaperon hattutyyli
+    baby/toddler_hosiery_style:
+      name: Vauvan/taaperon sukkahousut
+    baby/toddler_seat_features:
+      name: Vauvan/taaperon istuimen ominaisuudet
+    baby/toddler_sleepwear_style:
+      name: Vauvan/taaperon yöpukutyyli
+    baby_drink_packaging:
+      name: Vauvanjuomapakkaus
+    baby_equipment_safety_features:
+      name: Vauvanvarusteiden turvaominaisuudet
+    baby_food_flavor:
+      name: Vauvanruoan maku
+    baby_formula_format:
+      name: Maidonkorvikeformaatti
+    baby_gift_items_included:
+      name: Mukana vauvojen lahjatavaroita
+    baby_health_items_included:
+      name: Mukana vauvojen terveystuotteita
+    baby_monitor_features:
+      name: Itkuhälyttimen ominaisuudet
+    baby_snack_flavor:
+      name: Vauvojen välipalan maku
+    baby_snack_texture:
+      name: Vauvojen välipalan rakenne
+    back_type:
+      name: Selkämystyyppi
+    background_design:
+      name: Taustan suunnittelu
+    backing_color:
+      name: Taustaväri
+    backing_material:
+      name: Vahvistemateriaali
+    backing_pattern:
+      name: Taustakuvio
+    backrest_type:
+      name: Selkänojatyyppi
+    backrest_upholstery_color:
+      name: Selkänojan verhoilun väri
+    backrest_upholstery_material:
+      name: Selkänojan verhoilumateriaali
+    backrest_upholstery_pattern:
+      name: Selkänojan verhoilukuvio
+    bag/case_closure:
+      name: Laukun/kotelon suljin
+    bag/case_features:
+      name: Laukun/kotelon ominaisuudet
+    bag/case_material:
+      name: Laukun/kotelon materiaali
+    bag/case_storage_features:
+      name: Laukun/kotelon säilytysominaisuudet
+    bag_closure:
+      name: Laukun sulkeminen
+    bag_strap_type:
+      name: Laukun hihnatyyppi
+    bag_style:
+      name: Laukun tyyli
+    bag_type:
+      name: Laukkutyyppi
+    bakery_items_included:
+      name: Mukana leipomotuotteet
+    bakeware_features:
+      name: Leivonnaisten ominaisuudet
+    bakeware_items_included:
+      name: Mukana leivonnaiset
+    bakeware_pieces_included:
+      name: Mukana leivontatarvikkeet
+    bakeware_shape:
+      name: Leivonnaisten muoto
+    baking_purpose:
+      name: Leipomisen tarkoitus
+    baking_sheet_material:
+      name: Leivinpaperin materiaali
+    ball_material:
+      name: Pallon materiaali
+    ball_size:
+      name: Pallon koko
+    balloon_kit_items_included:
+      name: Mukana ilmapallosarjan tuotteita
+    balloon_shape:
+      name: Ilmapallon muoto
+    band_color:
+      name: Rannekkeen väri
+    band_material:
+      name: Rannekkeen materiaali
+    band_pattern:
+      name: Nauhan kuvio
+    band_strength:
+      name: Siteen voimakkuus
+    banner_design:
+      name: Mainosjulisteen suunnittelu
+    bar_mounting_type:
+      name: Tangon asennustyyppi
+    barcode_scanner_interface:
+      name: Viivakoodinlukijan käyttöliittymä
+    barcode_supported:
+      name: Tuettu viivakoodi
+    barrel_material:
+      name: Tynnyrin materiaali
+    barware_items_included:
+      name: Mukana baaritarvikkeet
+    barware_material:
+      name: Baaritarvikkeet
+    base_oil:
+      name: Perusöljy
+    base_spirit:
+      name: Perusalkoholi
+    base_type:
+      name: Pohjatyyppi
+    baseball/softball_ball_type:
+      name: Baseball-/softball-pallotyyppi
+    basket_material:
+      name: Korin materiaali
+    basketball_equipment_included:
+      name: Mukana koripallovarusteet
+    bass_button_configuration:
+      name: Bassopainikkeen konfiguraatio
+    bat_material:
+      name: Mailan materiaali
+    bat_standard:
+      name: Mailastandardi
+    bathroom_furniture_items_included:
+      name: Kylpyhuonekalusteet sisältyvät
+    bathtub_base_design:
+      name: Kylpyammeen pohjan muotoilu
+    bathtub_features:
+      name: Kylpyammeen ominaisuudet
+    bathtub_skirt_shape:
+      name: Kylpyammeen reunuksen muoto
+    baton_grip_design:
+      name: Tahtipuikon kädensijan muotoilu
+    battery_cell_type:
+      name: Akun kennotyyppi
+    battery_features:
+      name: Akun ominaisuudet
+    battery_management_features:
+      name: Akun hallintaominaisuudet
+    battery_size:
+      name: Akun koko
+    battery_technology:
+      name: Akkuteknologia
+    battery_type:
+      name: Akkutyyppi
+    bead_shape:
+      name: Helmen muoto
+    beat_subdivisions:
+      name: Lyönnin alajaot
+    beater_head_size:
+      name: Vispilän pään koko
+    bed/frame_features:
+      name: Sängyn/rungon ominaisuudet
+    bed_pan_type:
+      name: Alusastiatyyppi
+    bedding_pieces_included:
+      name: Mukana vuodevaatteet
+    bedding_size:
+      name: Vuodevaatteiden mitat
+    beer_style:
+      name: Oluen tyyli
+    beer_variety:
+      name: Olutvalikoima
+    bell_design:
+      name: Kellon muotoilu
+    bell_size:
+      name: Kellon koko
+    bell_sound:
+      name: Kellon ääni
+    belt_type:
+      name: Vyötyyppi
+    best_uses:
+      name: Parhaat käyttökohteet
+    bevel_type:
+      name: Viistetyyppi
+    beverage_product_form:
+      name: Juomatuotemuoto
+    bib_design:
+      name: Ruokalapun muotoilu
+    bicycle_brake_type:
+      name: Polkupyörän jarrutyyppi
+    bicycle_features:
+      name: Polkupyörän ominaisuudet
+    bidet_mounting_type:
+      name: Bideen asennustapa
+    binder_ring_shape:
+      name: Siderenkaan muoto
+    binding_mount:
+      name: Sidoskiinnike
+    binding_style:
+      name: Sidontatyyli
+    binocular/monocular_design:
+      name: Kiikarin/monokulaarin muotoilu
+    binocular_design:
+      name: Kiikarin muotoilu
+    biometric_monitor_accessory_features:
+      name: Biometrisen näytön lisävarusteominaisuudet
+    bios_type:
+      name: Bios-tyyppi
+    bird_cage/stand_design:
+      name: Lintuhäkin/telineen suunnittelu
+    bird_food_form:
+      name: Lintujen ruokamuoto
+    bird_food_ingredients:
+      name: Lintujen ruoan ainesosat
+    bird_treat_type:
+      name: Lintuherkkutyyppi
+    birthday_candle_design:
+      name: Syntymäpäiväkynttilän muotoilu
+    birthday_candle_type:
+      name: Syntymäpäiväkynttilän tyyppi
+    bitter_variety:
+      name: Karvas lajike
+    blade_curve:
+      name: Terän käyrä
+    blade_design:
+      name: Terän muotoilu
+    blade_material:
+      name: Terän materiaali
+    blade_type:
+      name: Terätyyppi
+    blanket_color:
+      name: Peiton väri
+    blanket_pattern:
+      name: Peiton kuvio
+    blending_type:
+      name: Sekoitetyyppi
+    blind/shade_style:
+      name: Verhon/kaihtimen tyyli
+    blood_test_kit_components:
+      name: Verikoepakkauksen komponentit
+    board_concave_shape:
+      name: Laudan kovera muoto
+    board_game_features:
+      name: Lautapelien ominaisuudet
+    board_game_mechanics:
+      name: Lautapelimekaniikka
+    board_material:
+      name: Lautamateriaali
+    board_mounting_type:
+      name: Laudan asennustapa
+    board_profile:
+      name: Levyprofiili
+    board_surface:
+      name: Levyn pinta
+    board_type:
+      name: Levytyyppi
+    boat_type:
+      name: Venetyyppi
+    body/facial_hair_type:
+      name: Ihokarvatyyppi
+    body_area:
+      name: Kehoalue
+    body_color:
+      name: Rungon väri
+    body_jewelry_type:
+      name: Vartalokorutyyppi
+    body_material:
+      name: Rungon materiaali
+    body_paint/foundation_type:
+      name: Vartalomaalin/meikkivoiteen tyyppi
+    body_pattern:
+      name: Vartalon kuvio
+    bodyboard_features:
+      name: Bodyboardin ominaisuudet
+    boiler_system:
+      name: Kattilajärjestelmä
+    bolt_form:
+      name: Pultin ulkomuoto
+    bolt_material:
+      name: Pultin materiaali
+    book/file_cover_material:
+      name: Kirjan/kansion kansimateriaali
+    book_cover_material:
+      name: Kirjan kansimateriaali
+    book_cover_type:
+      name: Kirjankansityyppi
+    bookmark_design:
+      name: Kirjanmerkin suunnittelu
+    bookmark_shape:
+      name: Kirjanmerkin muoto
+    boot_style:
+      name: Saapastyyli
+    boot_type:
+      name: Saapastyyppi
+    borescope_design:
+      name: Boreskoopin muotoilu
+    bottle/container_closure:
+      name: Pullon/säiliön suljin
+    bottle_closure_type:
+      name: Pullon suljintyyppi
+    bottle_design:
+      name: Pullon muotoilu
+    bottle_material:
+      name: Pullon materiaali
+    bottle_sterilizer_features:
+      name: Pullon sterilointilaitteen ominaisuudet
+    bottle_type:
+      name: Pullotyyppi
+    bottle_warmer/sterilizer_features:
+      name: Pullonlämmittimen/sterilointilaitteen ominaisuudet
+    bottle_warmer_features:
+      name: Pullonlämmittimen ominaisuudet
+    bottom_surface_material:
+      name: Alapinnan materiaali
+    bow/crossbow_features:
+      name: Jousen/varsijousen ominaisuudet
+    bow_features:
+      name: Jousen ominaisuudet
+    bow_hair_material:
+      name: Rusetin hiusmateriaali
+    bow_material:
+      name: Jousen materiaali
+    box_type:
+      name: Laatikkotyyppi
+    bra_closure_type:
+      name: Rintaliivien sulkemistyyppi
+    bra_coverage:
+      name: Rintaliivien peittävyys
+    bra_features:
+      name: Rintaliivin ominaisuudet
+    bra_strap_type:
+      name: Rintaliivien olkaintyyppi
+    bra_style:
+      name: Rintaliivin tyyli
+    bra_support_level:
+      name: Rintaliivien tukitaso
+    bracelet_design:
+      name: Rannekorun suunnittelu
+    bracket/brace_design:
+      name: Kiinnikkeen/sidepuun muotoilu
+    brandy_variety:
+      name: Brandy-valikoima
+    breath_sprays_certifications:
+      name: Hengityssuihkesertifikaatit
+    bridge/router_advanced_features:
+      name: Sillan/reitittimen lisäominaisuudet
+    brightness_levels:
+      name: Kirkkaustasot
+    bristle_material:
+      name: Harjasten materiaali
+    bristle_shape:
+      name: Harjaksen muoto
+    broadhead/field_point_material:
+      name: Leveän kärjen / taulukärjen materiaali
+    brush_application:
+      name: Sivellinlevitys
+    brush_head_usage:
+      name: Harjaspään käyttö
+    brush_material:
+      name: Harjan materiaali
+    brush_size:
+      name: Siveltimen koko
+    brush_type:
+      name: Harjatyyppi
+    bug_type:
+      name: Hyönteistyyppi
+    building_board_material:
+      name: Rakennuslevymateriaali
+    building_consumable_form:
+      name: Rakennuskulutustavaroiden muoto
+    building_toy_type:
+      name: Rakennuslelutyyppi
+    bulb_cap_type:
+      name: Lampun suojustyyppi
+    bulb_shape:
+      name: Polttimon muoto
+    bulb_size:
+      name: Lampun koko
+    bulb_type:
+      name: Polttimon tyyppi
+    bulldozer_blade_type:
+      name: Puskutraktorin terätyyppi
+    bullet_protection_level:
+      name: Luotisuojataso
+    bullhorn_features:
+      name: Megafonin ominaisuudet
+    bullion_form:
+      name: Harkon muoto
+    burner_material:
+      name: Polttimen materiaali
+    butt_cap_color:
+      name: Takatulpan väri
+    butt_cap_material:
+      name: Perän suojuksen materiaali
+    butt_cap_pattern:
+      name: Takatulpan kuvio
+    button/snap_closure_type:
+      name: Napin/nepparin suljintyyppi
+    cabinet_type:
+      name: Kaappityyppi
+    cable_housing_material:
+      name: Kaapelin kotelon materiaali
+    cable_shielding:
+      name: Kaapelin suojaus
+    cable_type:
+      name: Kaapelityyppi
+    cage_type:
+      name: Häkkityyppi
+    calculator_accessory_type:
+      name: Laskimen lisävarustetyyppi
+    calculator_features:
+      name: Laskimen ominaisuudet
+    calendar/organizer_features:
+      name: Kalenterin/järjestäjän ominaisuudet
+    calendar_format:
+      name: Kalenteriformaatti
+    cam_system:
+      name: Kamerajärjestelmä
+    camera_attachment:
+      name: Kameran liitososa
+    camera_button/knob_type:
+      name: Kameran painike-/nuppityyppi
+    camera_control_type:
+      name: Kameran ohjaustyyppi
+    camera_display_technology:
+      name: Kameran näyttöteknologia
+    camera_features:
+      name: Kameran ominaisuudet
+    camera_gear_type:
+      name: Kameravarustetyyppi
+    camera_hd_type:
+      name: Kameran HD-tyyppi
+    camera_lens_material:
+      name: Kameran linssin materiaali
+    camera_lens_type:
+      name: Kameran objektiivityyppi
+    camera_mounting_type:
+      name: Kameran kiinnitystapa
+    camera_sensor_type:
+      name: Kameran anturityyppi
+    camera_shape:
+      name: Kameran muoto
+    candle_kit_items_included:
+      name: Mukana kynttiläsarjan tuotteita
+    candle_material:
+      name: Kynttilän materiaali
+    candle_shape:
+      name: Kynttilän muoto
+    candle_type:
+      name: Kynttilätyyppi
+    canned_meat_variety:
+      name: Lihasäilykevalikoima
+    canopy_color:
+      name: Katoksen väri
+    canopy_material:
+      name: Katoksen materiaali
+    canopy_pattern:
+      name: Katoksen kuvio
+    canvas_finish:
+      name: Maalauskankaan viimeistely
+    canvas_material:
+      name: Kanvaasimateriaali
+    canvas_texture:
+      name: Maalauskankaan tekstuuri
+    car_freshener_fragrance:
+      name: Auton raikastimen tuoksu
+    car_seat_installation:
+      name: Auton istuimen asennus
+    car_seat_orientation:
+      name: Auton istuimen suuntaus
+    car_type:
+      name: Autotyyppi
+    carabiner_gate_type:
+      name: Karabiiniporttityyppi
+    carabiner_shape:
+      name: Jousihaan muoto
+    card/adapter_installation:
+      name: Kortin/sovittimen asennus
+    card_attributes:
+      name: Kortin määreet
+    card_design:
+      name: Kortin suunnittelu
+    card_format:
+      name: Korttiformaatti
+    card_holder_design:
+      name: Korttipidikkeen muotoilu
+    card_size:
+      name: Kortin koko
+    care_instructions:
+      name: Hoito-ohjeet
+    carry_options:
+      name: Kantovaihtoehdot
+    carrying_positions:
+      name: Kantoasennot
+    carrying_type:
+      name: Kantotyyppinen
+    cart_design:
+      name: Kärryjen muotoilu
+    cart_type:
+      name: Kärrytyyppi
+    cartridge_type:
+      name: Kasettityyppi
+    case_color:
+      name: Kotelon väri
+    case_pattern:
+      name: Kotelomalli
+    case_type:
+      name: Kotelotyyppi
+    cassette_adapter_type:
+      name: Kasettisovitintyyppi
+    cat_age_group:
+      name: Kissan ikäryhmä
+    cat_litter_formula:
+      name: Kissanhiekan kaava
+    cbd_ingredients:
+      name: CBD-ainesosat
+    celebration_type:
+      name: Juhlatyyppi
+    chain_link_type:
+      name: Ketjulinkkityyppi
+    chain_type:
+      name: Ketjutyyppi
+    chair/sofa_features:
+      name: Tuolin/sohvan ominaisuudet
+    chair_features:
+      name: Tuolin ominaisuudet
+    chalkboard_surface:
+      name: Liitutaulun pinta
+    changing_mat/tray_features:
+      name: Hoitoalustan/-levyn ominaisuudet
+    changing_mat_features:
+      name: Hoitoalustan ominaisuudet
+    changing_tray_features:
+      name: Hoitolevyn ominaisuudet
+    charger_type:
+      name: Laturityyppi
+    charging_cable_type:
+      name: Latauskaapelityyppi
+    charging_level:
+      name: Lataustaso
+    charging_method:
+      name: Latausmenetelmä
+    chassis_type:
+      name: Asennuspohjatyyppi
+    chemical_application:
+      name: Kemiallinen sovellus
+    chemical_container_type:
+      name: Kemikaalisäiliötyyppi
+    chemical_grade:
+      name: Kemikaaliluokka
+    chemical_product_form:
+      name: Kemiallinen tuotemuoto
+    chemical_purity:
+      name: Kemiallinen puhtaus
+    chemical_safety_features:
+      name: Kemialliset turvaominaisuudet
+    chicken_feed_stage:
+      name: Kanojen rehukoroke
+    child_seat_placement:
+      name: Lastenistuimen sijoitus
+    chipper_technology:
+      name: Hakkuriteknologia
+    chiropractic_table_design:
+      name: Kiropraktikon pöydän muotoilu
+    chuck_type:
+      name: Istukkatyyppi
+    cigar_body:
+      name: Sikarin vartalo
+    circuit_board_features:
+      name: Piirilevyn ominaisuudet
+    circuit_breaker_design:
+      name: Katkaisijan muotoilu
+    circuit_breaker_panel_form:
+      name: Katkaisijapaneelin ulkomuoto
+    circuit_breaker_type:
+      name: Katkaisijatyyppi
+    clarinet_key_system:
+      name: Klarinetin sävellajijärjestelmä
+    clasp_type:
+      name: Solkityyppi
+    claw_design:
+      name: Istukan muotoilu
+    clay/slip_texture:
+      name: Saven/savilietteen koostumus
+    clay_texture:
+      name: Saven rakenne
+    cleaner_purpose:
+      name: Puhdistimeni tarkoitus
+    cleaning_instructions:
+      name: Puhdistusohjeet
+    cleaning_purpose:
+      name: Puhdistuksen tarkoitus
+    cleaning_surfaces:
+      name: Pintojen puhdistus
+    cleat_type:
+      name: Nastatyyppi
+    climbing_activity:
+      name: Kiipeilytoiminta
+    clip_type:
+      name: Nipistintyyppi
+    clipper/trimmer_type:
+      name: Leikkuri-/trimmerityyppi
+    closure_style:
+      name: Sulkemistyyli
+    closure_type:
+      name: Sulkemistyyppi
+    clothing_accessory_material:
+      name: Vaatetarvikkeiden materiaali
+    clothing_features:
+      name: Vaatteiden ominaisuudet
+    club_subset:
+      name: Kerhon alaryhmä
+    club_type:
+      name: Kerhotyyppi
+    coating/sealant_application:
+      name: Pinnoitteen/tiivisteen levittäminen
+    cocktail_decoration_design:
+      name: Cocktailkoristeiden muotoilu
+    cocktail_decoration_material:
+      name: Cocktail-koristemateriaali
+    coffee/tea_set_pieces_included:
+      name: Mukana kahvi-/teesetin tuotteet
+    coffee_creamer_variety:
+      name: Kahvikermavalikoima
+    coffee_input_type:
+      name: Kahvin syöttötyyppi
+    coffee_product_form:
+      name: Kahvituotemuoto
+    coffee_roast:
+      name: Kahvin paahto
+    coil_connection:
+      name: Käämin liitäntä
+    coin_material:
+      name: Kolikon materiaali
+    collar/mount_compatible_device:
+      name: Kauluskappale-/kiinnikeyhteensopiva laite
+    collar/mount_design:
+      name: Kauluskappaleen/kiinnikkeen muotoilu
+    collar_lock_type:
+      name: Kauluslukon tyyppi
+    color:
+      name: Väri
+    color_accuracy_standards:
+      name: Värien tarkkuusstandardit
+    color_saturation:
+      name: Värikylläisyys
+    communication_device_features:
+      name: Viestintälaitteen ominaisuudet
+    communication_protocols:
+      name: Tiedonsiirtoprotokollat
+    compass_style:
+      name: Kompassin tyyli
+    compatible_aircraft_type:
+      name: Yhteensopiva lentokonetyyppi
+    compatible_amplifier:
+      name: Yhteensopiva vahvistin
+    compatible_aquarium:
+      name: Yhteensopiva akvaario
+    compatible_baby_bottle_design:
+      name: Yhteensopivan tuttipullon muotoilu
+    compatible_baby_carrier_type:
+      name: Yhteensopiva vauvan kantorepputyyppi
+    compatible_baby_chair_type:
+      name: Yhteensopiva vauvan tuolityyppi
+    compatible_baby_transport_type:
+      name: Yhteensopiva vauvan kuljetustapa
+    compatible_ball_type:
+      name: Yhteensopiva pallotyyppi
+    compatible_battery_size:
+      name: Yhteensopiva akkukoko
+    compatible_battery_technology:
+      name: Yhteensopiva akkuteknologia
+    compatible_bench_positions:
+      name: Yhteensopivat penkkiasennot
+    compatible_bike_type:
+      name: Yhteensopiva pyörätyyppi
+    compatible_brass_instrument:
+      name: Yhteensopiva vaskipuhallin
+    compatible_clarinet_type:
+      name: Yhteensopiva klarinettityyppi
+    compatible_cosmetic_tools:
+      name: Yhteensopivat kosmeettiset välineet
+    compatible_device:
+      name: Yhteensopiva laite
+    compatible_drum_configuration:
+      name: Yhteensopiva rumpukokoonpano
+    compatible_electric/acoustic_instrument:
+      name: Yhteensopiva sähköinen/akustinen soitin
+    compatible_electronic_card_type:
+      name: Yhteensopiva elektroninen korttityyppi
+    compatible_exercises:
+      name: Yhteensopivat harjoitukset
+    compatible_filament:
+      name: Yhteensopiva säie
+    compatible_film_type:
+      name: Yhteensopiva filmityyppi
+    compatible_flute_type:
+      name: Yhteensopiva huilutyyppi
+    compatible_game_format:
+      name: Yhteensopiva peliformaatti
+    compatible_gardening_tool:
+      name: Yhteensopiva puutarhatyökalu
+    compatible_hair_color:
+      name: Yhteensopiva hiusväri
+    compatible_hammock_design:
+      name: Yhteensopiva riippumaton rakenne
+    compatible_harmonica_type:
+      name: Yhteensopiva huuliharpputyyppi
+    compatible_hdcp:
+      name: Yhteensopiva suuren kaistanleveyden digitaalisen sisällön suojaus (hdcp)
+    compatible_instrument:
+      name: Yhteensopiva soitin
+    compatible_keyboard_configuration:
+      name: Yhteensopiva näppäimistökonfiguraatio
+    compatible_lock_type:
+      name: Yhteensopiva lukkotyyppi
+    compatible_makeup:
+      name: Yhteensopiva meikki
+    compatible_mattress_size:
+      name: Yhteensopiva patjan koko
+    compatible_memory_cards:
+      name: Yhteensopivat muistikortit
+    compatible_microphone_thread:
+      name: Yhteensopiva mikrofonikierre
+    compatible_motherboard_form_factor:
+      name: Yhteensopivan emolevyn muotokerroin
+    compatible_oboe_type:
+      name: Yhteensopiva oboetyyppi
+    compatible_operating_system:
+      name: Yhteensopiva käyttöjärjestelmä
+    compatible_orchestral_string_instrument:
+      name: Yhteensopiva orkesterijousisoitin
+    compatible_paper_size:
+      name: Yhteensopiva paperikoko
+    compatible_patient_profile:
+      name: Yhteensopiva potilasprofiili
+    compatible_percussion_instrument:
+      name: Yhteensopiva lyömäsoitin
+    compatible_play_vehicle_type:
+      name: Yhteensopiva leikkiajoneuvotyyppi
+    compatible_player:
+      name: Yhteensopiva toistolaite
+    compatible_printer:
+      name: Yhteensopiva tulostin
+    compatible_processor_series:
+      name: Yhteensopiva suoritinsarja
+    compatible_programming_languages:
+      name: Yhteensopivat ohjelmointikielet
+    compatible_recipes:
+      name: Yhteensopivat reseptit
+    compatible_resolution:
+      name: Yhteensopiva resoluutio
+    compatible_seat_type:
+      name: Yhteensopiva istuintyyppi
+    compatible_shoe_size:
+      name: Yhteensopiva kenkäkoko
+    compatible_software_platform:
+      name: Yhteensopiva ohjelmistoalusta
+    compatible_special_effects_device:
+      name: Yhteensopiva erikoistehostelaite
+    compatible_stove_top_type:
+      name: Yhteensopiva liesityyppi
+    compatible_string_instrument:
+      name: Yhteensopiva jousisoitin
+    compatible_stroller_type:
+      name: Yhteensopivien rattaiden tyyppi
+    compatible_vacuum_type:
+      name: Yhteensopiva tyhjiötyyppi
+    compatible_vehicle:
+      name: Yhteensopiva ajoneuvo
+    compatible_walking_aid_equipment:
+      name: Yhteensopivat kävelyapuvälineet
+    compatible_weight_lifting_accessory:
+      name: Yhteensopiva painonnostovaruste
+    compliance_certifications:
+      name: Vaatimustenmukaisuustodistukset
+    component_output_type:
+      name: Komponentin ulostulotyyppi
+    component_package_type:
+      name: Komponenttipakkaustyyppi
+    compression_format:
+      name: Puristusformaatti
+    compression_level:
+      name: Puristustaso
+    computer_accessories_included:
+      name: Mukana tietokonetarvikkeita
+    computer_form:
+      name: Tietokonelomake
+    computer_server_features:
+      name: Tietokonepalvelimen ominaisuudet
+    computer_specialized_features:
+      name: Tietokoneen erikoisominaisuudet
+    concertina_button_configuration:
+      name: Käsiharmonikan konfiguraatio
+    condition:
+      name: Kunto
+    conditioner_effect:
+      name: Hoitoaineen vaikutus
+    condom_type:
+      name: Kondomityyppi
+    connecting_thread:
+      name: Yhdyskierre
+    connection_method:
+      name: Liitäntämenetelmä
+    connection_type:
+      name: Liitostyyppi
+    connectivity_technology:
+      name: Liitettävyystekniikka
+    connector_design:
+      name: Liittimen muotoilu
+    connector_gender:
+      name: Liittimen sukupuoli
+    console_system:
+      name: Konsolijärjestelmä
+    constitutive_ingredients:
+      name: Olennaiset aineosat
+    construction_set_theme:
+      name: Rakennussarjan teema
+    contrast:
+      name: Kontrasti
+    contrast_ratio_typical:
+      name: Kontrastisuhde (tyypillinen)
+    control_functions:
+      name: Ohjaustoiminnot
+    control_method:
+      name: Ohjausmenetelmä
+    control_technology:
+      name: Ohjaustekniikka
+    control_type:
+      name: Ohjaustyyppi
+    controller_design:
+      name: Ohjaimen muotoilu
+    controller_drive_type:
+      name: Ohjainajurityyppi
+    converter_functionality:
+      name: Muuntimen toiminnallisuus
+    conveyor_operation:
+      name: Kuljettimen toiminta
+    cooking_method:
+      name: Ruoanlaittomenetelmä
+    cooking_wine_variety:
+      name: Ruoanlaittoviinien valikoima
+    cookware/bakeware_features:
+      name: Ruoanlaitto-/leivontatarvikkeiden ominaisuudet
+    cookware/bakeware_material:
+      name: Ruoanlaitto-/leivontatarvikkeiden materiaali
+    cookware_features:
+      name: Ruuanlaittotarvikkeiden ominaisuudet
+    cookware_items_included:
+      name: Ruoanlaittovälineet mukana
+    cooling_technology:
+      name: Jäähdytystekniikka
+    cord_fastening_system:
+      name: Johdon kiinnitysjärjestelmä
+    core_color:
+      name: Ytimen väri
+    core_material:
+      name: Sisuksen materiaali
+    core_pattern:
+      name: Ydinkuvio
+    corrector_features:
+      name: Korjaimen ominaisuudet
+    corsage/boutonniere_design:
+      name: Rintakukan/rintaneulan√®re muotoilu
+    cosmetic_condition:
+      name: Kosmeettinen kunto
+    cosmetic_finish:
+      name: Kosmeettinen viimeistely
+    cosmetic_function:
+      name: Kosmeettinen toiminto
+    costume_theme:
+      name: Puvun teema
+    counter_shape:
+      name: Tiskin muoto
+    country:
+      name: Maa
+    cover_closure_design:
+      name: Kannen sulkimen muotoilu
+    cover_color:
+      name: Kankaan väri
+    cover_features:
+      name: Kannen ominaisuudet
+    cover_material:
+      name: Päällysmateriaali
+    cover_pattern:
+      name: Kankaan kuvio
+    cover_type:
+      name: Suojustyyppi
+    coverage_area:
+      name: Peittoalue
+    coverage_region:
+      name: Kattavuusalue
+    craft/sculpting_project_type:
+      name: Askartelu-/kuvanveistoprojektityyppi
+    craft_cutter/embosser_type:
+      name: Käsityöleikkuri/kohokuviointityyppi
+    craft_decoration_maker_type:
+      name: Käsityökoristeiden työkalutyyppi
+    craft_knife_design:
+      name: Askarteluveitsen muotoilu
+    craft_pipe_cleaner_design:
+      name: Käsityöpiippurassien suunnittelu
+    craft_project_type:
+      name: Askarteluprojektityyppi
+    crafting_frame/stretcher_features:
+      name: Askartelukehyksen/-pingottimen ominaisuudet
+    crafting_frame_features:
+      name: Askartelukehyksen ominaisuudet
+    crafting_hoop_features:
+      name: Käsityövanteen ominaisuudet
+    crafting_mat/pad_features:
+      name: Askartelumaton/-tyynyn ominaisuudet
+    crafting_stretcher_features:
+      name: Askartelupingottimen ominaisuudet
+    crampon_attachment_type:
+      name: Jäärautojen kiinnitystyyppi
+    creative_art_project_type:
+      name: Luovan taiteen projektityyppi
+    crib/toddler_bed_features:
+      name: Vauvan/taaperon sängyn ominaisuudet
+    crib_features:
+      name: Vauvansängyn ominaisuudet
+    cricket_equipment_included:
+      name: Krikettivarusteet mukana
+    crutch_type:
+      name: Kaivosauvatyyppi
+    crystal_system:
+      name: Kristallijärjestelmä
+    cue_style:
+      name: Kepin tyyli
+    cue_type:
+      name: Keppityyppi
+    cue_wrap:
+      name: Kepin päällys
+    cuisine:
+      name: Keittiö
+    culinary_botanical_name:
+      name: Kulinaarinen kasvitieteellinen nimi
+    cup_size:
+      name: Kuppikoko
+    curler_type:
+      name: Kiharrintyyppi
+    currencies_supported:
+      name: Tuetut valuutat
+    currency:
+      name: Valuutta
+    currency_type:
+      name: Valuuttatyyppi
+    customer_support_channels:
+      name: Asiakastukikanavat
+    customization:
+      name: Räätälöinti
+    cutter_options:
+      name: Leikkausvaihtoehdot
+    cutting_method:
+      name: Leikkausmenetelmä
+    cycling_style:
+      name: Pyöräilytyyli
+    data_network:
+      name: Dataverkko
+    decoration_material:
+      name: Sisustusmateriaali
+    decorative_stamp_design:
+      name: Koristeleiman muotoilu
+    denomination:
+      name: Nimellisarvo
+    dental_floss_shape:
+      name: Hammaslangan muoto
+    dental_floss_thickness_level:
+      name: Hammaslangan paksuustaso
+    dental_floss_type:
+      name: Hammaslangan tyyppi
+    dental_mouthgard_recommended_use:
+      name: Hammassuojaa suositellaan käytettäväksi
+    dental_mouthguard_certifications:
+      name: Hammassuojussertifikaatit
+    dental_paste_flavor:
+      name: Hammastahnan maku
+    dental_repair_kit_certifications:
+      name: Hampaiden korjaussarjan sertifikaatit
+    dental_water_jet_operation:
+      name: Hammaslääkärin vesihuuhtelutoiminto
+    dentistry_items_included:
+      name: Mukana hammastuotteita
+    denture_base_color:
+      name: Hammasproteesin pohjaväri
+    denture_coverage:
+      name: Hammasproteesin peitto
+    denture_design:
+      name: Hammasproteesin suunnittelu
+    denture_teeth_color:
+      name: Hammasproteesin hammasväri
+    deployment_type:
+      name: Käyttöönottotapa
+    desk_organizer_features:
+      name: Pöytäjärjestäjän ominaisuudet
+    desk_size:
+      name: Työpöydän koko
+    detailed_ingredients:
+      name: Yksityiskohtaiset ainesosat
+    detectable_drugs:
+      name: Havaittavissa olevat huumeet
+    detector_operation_mode:
+      name: Ilmaisimen toimintatila
+    detector_sensitivity:
+      name: Ilmaisimen herkkyys
+    detector_type:
+      name: Ilmaisintyyppi
+    developmental_features:
+      name: Kehitysominaisuudet
+    device_interface:
+      name: Laitteen käyttöliittymä
+    device_technology:
+      name: Laiteteknologia
+    dexterity_skills:
+      name: Kätevyystaidot
+    dial_color:
+      name: Kellotaulun väri
+    dial_pattern:
+      name: Kellotaulun kuvio
+    diaper_bag_additional_features:
+      name: Vaippalaukun lisäominaisuudet
+    diaper_bag_material:
+      name: Vaippalaukun materiaali
+    diaper_bag_style:
+      name: Vaippalaukun tyyli
+    diaper_features:
+      name: Vaipan ominaisuudet
+    diaper_kit_components:
+      name: Vaippapakkauksen komponentit
+    diaper_organizer_features:
+      name: Vaippajärjestelijän ominaisuudet
+    diaper_size:
+      name: Vaipan koko
+    diaper_type:
+      name: Vaippatyyppi
+    dice_shape:
+      name: Nopan muoto
+    dielectric_type:
+      name: Eristetyyppi
+    dietary_preferences:
+      name: Ruokavaliomieltymykset
+    dietary_supplements:
+      name: Ravintolisät
+    dietary_use:
+      name: Ruokavalion käyttö
+    difficulty_level:
+      name: Vaikeusaste
+    diffuser_design:
+      name: Hajottimen muotoilu
+    digital_sound_processing:
+      name: Digitaalinen äänenkäsittely
+    dinnerware_pieces_included:
+      name: Mukana ruokailuastiat
+    dirt_separating_method:
+      name: Lianerotusmenetelmä
+    discharge_type:
+      name: Purkaustyyppi
+    disk_format_type:
+      name: Levyformaattityyppi
+    dispenser_type:
+      name: Annostelijatyyppi
+    display_board_features:
+      name: Näyttötaulun ominaisuudet
+    display_color_mode:
+      name: Näytön väritila
+    display_features:
+      name: Näytön ominaisuudet
+    display_mode:
+      name: Näyttötila
+    display_recommended_use:
+      name: Näytön suositeltu käyttötapa
+    display_resolution:
+      name: Näytön resoluutio
+    display_sign_design:
+      name: Näyttökyltin suunnittelu
+    display_technology:
+      name: Näyttöteknologia
+    disposable/reusable_bag_features:
+      name: Kertakäyttöisen/uudelleenkäytettävän pussin ominaisuudet
+    disposable/reusable_item_material:
+      name: Kertakäyttöisen/uudelleenkäytettävän tuotteen materiaali
+    disposable_bag_features:
+      name: Kertakäyttöisen pussin ominaisuudet
+    disposable_bag_material:
+      name: Kertakäyttöisen pussin materiaali
+    disposable_glove_features:
+      name: Kertakäyttökäsineiden ominaisuudet
+    disposable_tableware_material:
+      name: Kertakäyttöinen astiamateriaali
+    dive_computer_items_included:
+      name: Mukana sukellustietokonetarvikkeet
+    diving/snorkeling_equipment_included:
+      name: Sukellus-/snorklausvarusteet sisältyvät
+    diving_regulator_style:
+      name: Sukellusregulaattorin tyyli
+    dj_equipment_features:
+      name: DJ-laitteiden ominaisuudet
+    dj_software_compatibility:
+      name: DJ-ohjelmistojen yhteensopivuus
+    dog_age_group:
+      name: Koiran ikäryhmä
+    dog_diaper_size:
+      name: Koiran vaipan koko
+    dog_diaper_type:
+      name: Koiran vaippatyyppi
+    dog_house_features:
+      name: Koiratalon ominaisuudet
+    dog_kennel/run_features:
+      name: Koiran kennel/juoksu-ominaisuudet
+    dog_kennel_features:
+      name: Koirakennelin ominaisuudet
+    dog_pen_features:
+      name: Koirakehän ominaisuudet
+    dog_toy_type:
+      name: Koiran lelutyyppi
+    doll/playset_features:
+      name: Nuken/leikkisarjan ominaisuudet
+    doll_features:
+      name: Nuken ominaisuudet
+    doll_type:
+      name: Nuken tyyppi
+    door/frame_application:
+      name: Oven/karmen käyttökohde
+    door_application:
+      name: Oven käyttökohde
+    door_closer_application:
+      name: Ovensuljinsovellus
+    door_closer_design:
+      name: Ovensulkimen muotoilu
+    door_color:
+      name: Oven väri
+    door_frame_application:
+      name: Ovenkarmin käyttökohde
+    door_frame_finish:
+      name: Ovenkarmin viimeistely
+    door_glass_finish:
+      name: Ovilasin viimeistely
+    door_insulation:
+      name: Oven eristys
+    door_knob_function:
+      name: Ovennupin toiminto
+    door_mat_base_color:
+      name: Ovimaton pohjaväri
+    door_mat_base_material:
+      name: Ovimaton pohjamateriaali
+    door_mat_base_pattern:
+      name: Ovimaton pohjakuvio
+    door_mat_surface_material:
+      name: Ovimaton pintamateriaali
+    door_material:
+      name: Oven materiaali
+    door_pattern:
+      name: Oven kuvio
+    door_stop_placement:
+      name: Oven pysäyttimen sijoittaminen
+    door_stopper_design:
+      name: Ovenpysäyttimen muotoilu
+    door_suitable_location:
+      name: Oven sopiva sijainti
+    door_surface_finish:
+      name: Ovipinnan viimeistely
+    door_type:
+      name: Ovityyppi
+    double_stroller_configuration:
+      name: Kaksosrattaiden kokoonpano
+    download_format:
+      name: Latausformaatti
+    drain_location:
+      name: Viemärin sijainti
+    drawing/painting_kit_items_included:
+      name: Mukana piirustus/maalaussarjan tuotteita
+    dress_form_features:
+      name: Mekon muodon ominaisuudet
+    dress_occasion:
+      name: Puvun tilaisuus
+    dress_style:
+      name: Puvun tyyli
+    drill_features:
+      name: Poran ominaisuudet
+    drilling_method:
+      name: Porausmenetelmä
+    drilling_rig_orientation:
+      name: Porauskaluston suunta
+    drinkware_material:
+      name: Juoma-astioiden materiaali
+    drinkware_pieces_included:
+      name: Mukana juoma-astiat
+    drive_size:
+      name: Vetopyörän koko
+    drive_type:
+      name: Levyasematyyppi
+    drum_configuration:
+      name: Rummun konfiguraatio
+    drum_hardware_adjustability:
+      name: Rummun laitteiston säädettävyys
+    drum_hardware_material:
+      name: Rummun laitteistomateriaali
+    dry/wet_cleaning:
+      name: Kuiva-/märkäpesu
+    dry_bean_variety:
+      name: Kuivapapulajike
+    dryer_features:
+      name: Kuivaajan ominaisuudet
+    dryer_technology:
+      name: Kuivainteknologia
+    drying_speed:
+      name: Kuivumisnopeus
+    duct_design:
+      name: Kanavan suunnittelu
+    duct_shape:
+      name: Kanavan muoto
+    duplexing_technology:
+      name: Kaksipuolitekniikka
+    durability_features:
+      name: Kestävyysominaisuudet
+    dust_container_type:
+      name: Pölysäiliötyyppi
+    dust_mask_type:
+      name: Pölymaskityyppi
+    dye_form:
+      name: Väriaineen olomuoto
+    dynamic_level:
+      name: Dynaaminen taso
+    e_book_formats_supported:
+      name: Tuetut e-kirjaformaatit
+    e_cigarette/vaporizer_style:
+      name: Sähkösavuke-/höyrystintyyli
+    e_liquid_flavor:
+      name: E-nesteen maku
+    e_liquid_variety:
+      name: E-nestevalikoima
+    e_reader_display_technology:
+      name: E-lukijan näyttötekniikka
+    ear_care_application_method:
+      name: Korvanhoidon levitysmenetelmä
+    earphone_features:
+      name: Kuulokkeiden ominaisuudet
+    earplug_use:
+      name: Korvatulppien käyttö
+    earring_design:
+      name: Korvakorun suunnittelu
+    edge_style:
+      name: Reunan tyyli
+    edge_type:
+      name: Reunatyyppi
+    education_level:
+      name: Koulutustaso
+    egg_decorating_items_included:
+      name: Mukana munien koristelutuotteet
+    egg_turning:
+      name: Munan kääntäminen
+    electronic_drum_components:
+      name: Elektroniset rumpukomponentit
+    electronic_game_genre:
+      name: Elektroninen pelilajityyppi
+    embellishment/trim_material:
+      name: Koriste-/verhoilumateriaali
+    embellishments:
+      name: Koristeet
+    embossing_project_type:
+      name: Kohokuviointiprojektityyppi
+    embouchure_hole_shape:
+      name: Suukappaleen aukon muoto
+    emergency/safety_sign_design:
+      name: Hätä-/turvakyltin suunnittelu
+    emergency_items_included:
+      name: Mukana hätätarvikkeet
+    enclosure_type:
+      name: Kotelointityyppi
+    energy_efficiency_class:
+      name: Energiatehokkuusluokka
+    energy_efficiency_class_hdr:
+      name: Energiatehokkuusluokka (Hdr, ylätason dynamiikka-alue)
+    energy_efficiency_class_sdr:
+      name: Energiatehokkuusluokka (Sdr, vakiotason dynamiikka-alue)
+    engine_design:
+      name: Moottorin muotoilu
+    engine_purpose:
+      name: Moottorin käyttötarkoitus
+    engine_type:
+      name: Moottorityyppi
+    engraving:
+      name: Kaiverrus
+    envelope_features:
+      name: Kirjekuoren ominaisuudet
+    envelope_seal_design:
+      name: Kirjekuoren sinetin suunnittelu
+    equipment_operation:
+      name: Laitteiston toiminta
+    era:
+      name: Aikakausi
+    esrb_rating:
+      name: ESRB-luokitus
+    ethernet_lan_interface_type:
+      name: Ethernet-lähiverkkoliitäntätyyppi
+    ev_battery_features:
+      name: EV-akun ominaisuudet
+    ev_battery_type:
+      name: EV-akkutyyppi
+    ev_connector/adapter_type:
+      name: EV-liitin-/sovitintyyppi
+    ev_conversion_kit_components:
+      name: EV-muunnossarjan komponentit
+    evaporation_technology:
+      name: Haihdutustekniikka
+    event_type:
+      name: Tapahtumatyyppi
+    exercise_equipment_included:
+      name: Mukana harjoitusvälineet
+    exercise_equipment_material:
+      name: Harjoitusvälinemateriaalit
+    exercise_machine_features:
+      name: Kuntoilukoneen ominaisuudet
+    exercise_mat_material:
+      name: Treenimaton materiaali
+    expansion_slots:
+      name: Laajennuslovet
+    exposure_control:
+      name: Altistuksen hallinta
+    extended_saxophone_range:
+      name: Laajennettu saksofonivalikoima
+    external_defibrillator_features:
+      name: Ulkoisen defibrillaattorin ominaisuudet
+    extinguisher_rating:
+      name: Sammuttimen luokitus
+    extinguishing_agent_type:
+      name: Sammutusainetyyppi
+    extraction_type:
+      name: Uuttotyyppi
+    extractor_tip_style:
+      name: Uuttimen kärjen tyyli
+    eye_pillow_shape:
+      name: Silmätyynyn muoto
+    eye_shadow_effect:
+      name: Luomivärivaikutelma
+    eyebrow_enhancer_color:
+      name: Kulmien tehostava väri
+    eyelash_applicator_design:
+      name: Ripsiasettimen muotoilu
+    eyelash_material:
+      name: Ripsien materiaali
+    eyelash_type:
+      name: Ripsien tyyppi
+    eyepiece/adapter_material:
+      name: Okulaarin/sovittimen materiaali
+    eyewear_frame_color:
+      name: Silmälasien kehyksen väri
+    eyewear_frame_design:
+      name: Silmälasien kehyksen suunnittelu
+    eyewear_frame_material:
+      name: Silmälasien kehyksen materiaali
+    eyewear_frame_pattern:
+      name: Silmälasien kehyksen kuvio
+    eyewear_frame_shape:
+      name: Silmälasien kehyksen muoto
+    eyewear_lens_color:
+      name: Silmälasien linssin väri
+    eyewear_lens_material:
+      name: Silmälasien linssin materiaali
+    eyewear_lens_pattern:
+      name: Silmälasien linssikuvio
+    fabric:
+      name: Kangas
+    fabric_structure:
+      name: Kankaan rakenne
+    face_area:
+      name: Kasvoalue
+    face_powder_color:
+      name: Kasvopuuteriväri
+    face_powder_type:
+      name: Kasvopuuterityyppi
+    faceplate_design:
+      name: Etulevyn suunnittelu
+    facility_sign_design:
+      name: Laitoskyltin suunnittelu
+    false_nail_application_method:
+      name: Tekokynsien levitysmenetelmä
+    fastener_finish:
+      name: Kiinnittimen viimeistely
+    fastener_material:
+      name: Kiinnitysmateriaali
+    fastener_type:
+      name: Kiinniketyyppi
+    fat_content:
+      name: Rasvapitoisuus
+    faucet_thread:
+      name: Hanan kierre
+    features:
+      name: Ominaisuudet
+    feed_system:
+      name: Syöttöjärjestelmä
+    feet_type:
+      name: Jalkatyyppi
+    felt_tip_design:
+      name: Huopakärjen muotoilu
+    feminine_sanitary_supply_features:
+      name: Naisellisten saniteettitarvikkeiden ominaisuudet
+    fencing_components:
+      name: Aitauksen komponentit
+    fiber_art_project_type:
+      name: Kuitutaideprojektityyppi
+    field_flatness:
+      name: Kentän tasaisuus
+    filament_type:
+      name: Filamenttityyppi
+    file_format_type:
+      name: Tiedostoformaattityyppi
+    file_shape:
+      name: Kansion muoto
+    filler_material:
+      name: Täyteaineen materiaali
+    filler_support:
+      name: Täyteainetuki
+    filler_type:
+      name: Täyteainetyyppi
+    filling/padding_project_type:
+      name: Täyttö-/pehmustusprojektityyppi
+    film_application_method:
+      name: Kalvon kiinnitystapa
+    film_format:
+      name: Filmiformaatti
+    film_type:
+      name: Filmityyppi
+    filter_material:
+      name: Suodatinmateriaali
+    filter_type:
+      name: Suodatintyyppi
+    filtering_modes:
+      name: Suodatustilat
+    filtration_class:
+      name: Suodatusluokka
+    fin_material:
+      name: Evän materiaali
+    fin_pocket_type:
+      name: Pursetaskutyyppi
+    fin_profile:
+      name: Purseprofiili
+    fingerboard_color:
+      name: Otelaudan väri
+    fingerboard_material:
+      name: Otelaudan materiaali
+    fingerboard_pattern:
+      name: Otelautakuvio
+    fingerprint_capture_method:
+      name: Sormenjälkien talteenottomenetelmä
+    finial_shape:
+      name: Päätykoristeen muoto
+    finish:
+      name: Viimeistely
+    fire_extinguisher_items_included:
+      name: Sammutustarvikkeet mukana
+    firmness:
+      name: Lujuus
+    first_aid_kit_components:
+      name: Ensiapulaukun komponentit
+    first_aid_kit_usage:
+      name: Ensiapulaukun käyttö
+    first_steps/crawlers_style:
+      name: Ensiaskeleet/konttaajat-tyyli
+    fish_type:
+      name: Kalatyyppi
+    fishing_rod_action:
+      name: Onkivavan toiminta
+    fishing_rod_power:
+      name: Onkivavan teho
+    fishing_wire_material:
+      name: Kalastuslangan materiaali
+    fit:
+      name: Sovite
+    fit_type:
+      name: Sovitetyyppi
+    fixation_type:
+      name: Kiinnitystyyppinen
+    flag_shape:
+      name: Lipun muoto
+    flare_type:
+      name: Leimahdustyyppi
+    flash_card_theme:
+      name: Muistikortin teema
+    flash_modes:
+      name: Salamatilat
+    flash_type:
+      name: Salamatyyppi
+    flashing_material:
+      name: Pellityksen materiaali
+    flat_shoe_style:
+      name: Tasakenkätyyli
+    flatware_material:
+      name: Astiamateriaali
+    flatware_pieces_included:
+      name: Mukana ruokailuvälineet
+    flavor:
+      name: Maku
+    flavor_profile:
+      name: Makuprofiili
+    flexibility_rating:
+      name: Joustavuusluokitus
+    floral_wire_design:
+      name: Kukkalankasuunnittelu
+    flour/grain_type:
+      name: Jauho-/viljatyyppi
+    flow_rate_type:
+      name: Virtausnopeustyyppi
+    flower_color:
+      name: Kukan väri
+    flower_pattern:
+      name: Kukkakuvio
+    flue_type:
+      name: Savupiipun tyyppi
+    fluid_type:
+      name: Nestetyyppi
+    flush_plate_color:
+      name: Huuhtelulevyn väri
+    flush_plate_pattern:
+      name: Huuhtelulevyn kuvio
+    flush_system:
+      name: Huuhtelujärjestelmä
+    flute_configuration:
+      name: Huilun konfiguraatio
+    foam_form:
+      name: Vaahdon olomuoto
+    focus_adjustment:
+      name: Tarkennuksen säätö
+    focus_device_type:
+      name: Tarkennuslaitetyyppi
+    focus_type:
+      name: Tarkennustyyppi
+    fold_type:
+      name: Taitetyyppi
+    folder/report_cover_material:
+      name: Kansion/raportin kansimateriaali
+    folding_mechanism:
+      name: Taittomekanismi
+    font_style:
+      name: Fonttityyli
+    food_bag_material:
+      name: Ruokapussin materiaali
+    food_dispenser_type:
+      name: Ruoka-automaattityyppi
+    food_product_form:
+      name: Ruokatuotemuoto
+    food_storage_material:
+      name: Ruoan säilytysmateriaali
+    food_supplement_form:
+      name: Ravintolisämuoto
+    footage_type:
+      name: Kuvamateriaalityyppi
+    footboard_type:
+      name: Astinlautatyyppi
+    footwear_color:
+      name: Jalkineiden väri
+    footwear_material:
+      name: Jalkineiden materiaali
+    footwear_pattern:
+      name: Jalkineiden kuvio
+    format_supported:
+      name: Tuettu formaatti
+    formula_level:
+      name: Kaavan taso
+    fossil_type:
+      name: Fossiilityyppi
+    foundation_color:
+      name: Meikkivoide
+    foundation_material:
+      name: Meikkivoiteen materiaali
+    foundation_pattern:
+      name: Meikkivoiteen kuvio
+    fragrance:
+      name: Hajuste
+    fragrance_level:
+      name: Tuoksutaso
+    frame_color:
+      name: Kehyksen väri
+    frame_design:
+      name: Rungon muotoilu
+    frame_material:
+      name: Kehyksen materiaali
+    frame_pattern:
+      name: Rungon kuvio
+    frame_style:
+      name: Kehyksen tyyli
+    frequency/radio_bands_supported:
+      name: Tuetut taajuudet/radiokaistat
+    frequency_type:
+      name: Taajuustyyppi
+    frequency_weighting:
+      name: Taajuuspainotus
+    frog_material:
+      name: Jousen kannan materiaali
+    fruit_source:
+      name: Hedelmälähde
+    fuel_additives:
+      name: Polttoaineen lisäaineet
+    fuel_container_features:
+      name: Polttoainesäiliön ominaisuudet
+    fuel_grade:
+      name: Polttoaineluokka
+    fuel_purity:
+      name: Polttoaineen puhtaus
+    fuel_source:
+      name: Polttoainelähde
+    fuel_supply:
+      name: Polttoaineen syöttö
+    furniture/fixture_color:
+      name: Huonekalujen/kalusteiden väri
+    furniture/fixture_features:
+      name: Huonekalujen/kalusteiden ominaisuudet
+    furniture/fixture_material:
+      name: Huonekalujen/kalusteiden materiaali
+    furniture/fixture_pattern:
+      name: Huonekalujen/kalusteiden kuvio
+    game_components:
+      name: Pelikomponentit
+    game_difficulty:
+      name: Pelin vaikeusaste
+    game_features:
+      name: Pelin ominaisuudet
+    game_name:
+      name: Pelin nimi
+    gameplay_skills:
+      name: Pelaamistaidot
+    games_included:
+      name: Mukana tulevat pelit
+    garage_door_material:
+      name: Autotallin oven materiaali
+    gardening_use:
+      name: Puutarhanhoitokäyttö
+    garment_steamer_design:
+      name: Vaatehöyrystimen muotoilu
+    gases_detected:
+      name: Havaitut kaasut
+    gate_mounting_type:
+      name: Portin kiinnitystyyppi
+    gauge_type:
+      name: Mittatyyppi
+    gear_material:
+      name: Vaihteen materiaali
+    gear_ratio:
+      name: Välityssuhde
+    gearing_type:
+      name: Vaihteistotyyppi
+    gel_strength:
+      name: Geelin vahvuus
+    genre:
+      name: Lajityyppi
+    geological_era:
+      name: Geologinen aikakausi
+    gift_bag_handle_design:
+      name: Lahjakassin kantokahvan muotoilu
+    gift_set_format:
+      name: Lahjasarjaformaatti
+    gin_variety:
+      name: Ginivalikoima
+    glaze_finish:
+      name: Lasiteviimeistely
+    glazing_type:
+      name: Lasitustyyppi
+    glitter_shape:
+      name: Kimalteen muoto
+    glucose_meter_features:
+      name: Glukoosimittarin ominaisuudet
+    glue_gun_features:
+      name: Liimapistoolin ominaisuudet
+    glue_gun_operation:
+      name: Liimapistoolin toiminta
+    glue_gun_technology:
+      name: Liimapistoolitekniikka
+    glue_strength:
+      name: Liiman vahvuus
+    golf_ball_type:
+      name: Golfpallokotelo
+    golf_equipment_included:
+      name: Mukana golfvarusteet
+    gps_compatible_device:
+      name: GPS-yhteensopiva laite
+    gps_device_features:
+      name: GPS-laitteen ominaisuudet
+    gps_map_type:
+      name: GPS-kartan tyyppi
+    gps_software_focus:
+      name: GPS-ohjelmiston tarkennus
+    grading:
+      name: Luokittelu
+    grain:
+      name: Vilja
+    grape_variety:
+      name: Rypälelajike
+    graphics_card_type:
+      name: Grafiikkakorttityyppi
+    graphics_tablet_accessories_included:
+      name: Grafiikkatabletin tarvikkeet mukana
+    graphics_tablet_specialized_features:
+      name: Grafiikkatabletin erikoisominaisuudet
+    gravel/substrate_material:
+      name: Soran/kasvualustan materiaali
+    grease_filter_material:
+      name: Rasvansuodattimen materiaali
+    grip_texture:
+      name: Kädensijan tekstuuri
+    grip_type:
+      name: Otetyyppi
+    grit_type:
+      name: Hiekkatyyppi
+    grooming_kit_format:
+      name: Siistimissarjaformaatti
+    guitar_fitting/part_type:
+      name: Kitaran sovitus/osatyyppi
+    guitar_size:
+      name: Kitaran koko
+    gutter_fitting_type:
+      name: Kourun asennustyyppi
+    gutter_style:
+      name: Kourutyyli
+    habitat_material:
+      name: Elinympäristön materiaali
+    hair_care_finish:
+      name: Hiustenhoitoviimeistely
+    hair_care_items_included:
+      name: Mukana hiustenhoitotuotteet
+    hair_care_technology:
+      name: Hiustenhoitotekniikka
+    hair_color/shade:
+      name: Hiusten väri/sävy
+    hair_loss_type:
+      name: Hiustenlähtötyyppi
+    hair_shear_type:
+      name: Hiusten leikkaustyyppi
+    hair_styling_items_included:
+      name: Mukana hiusten muotoilutuotteet
+    hair_styling_tool_features:
+      name: Hiusten muotoilutyökalun ominaisuudet
+    hair_type:
+      name: Hiustyyppi
+    hammer_head_material:
+      name: Vasaran pään materiaali
+    hand_side:
+      name: Kämmenpuoli
+    hand_warmer_type:
+      name: Käsienlämmittimen tyyppi
+    handcuff_lock_type:
+      name: Käsirautojen lukkotyyppi
+    handle_color:
+      name: Kahvan väri
+    handle_design:
+      name: Kahvan muotoilu
+    handle_grip_texture:
+      name: Kädensijan tekstuuri
+    handle_material:
+      name: Kädensijan materiaali
+    handle_pattern:
+      name: Kahvan kuvio
+    handle_type:
+      name: Kahvatyyppi
+    handset_type:
+      name: Luurityyppi
+    handwear_features:
+      name: Käsivaatteiden ominaisuudet
+    handwear_material:
+      name: Käsivaatteiden materiaali
+    handwear_type:
+      name: Käsivaatteen tyyppi
+    hanging_chair_design:
+      name: Riippuvan tuolin rakenne
+    hard_cider_variety:
+      name: Siiderivalikoima
+    hard_drive_features:
+      name: Kiintolevyn ominaisuudet
+    hard_drive_form_factor:
+      name: Kiintolevyn muotokerroin
+    hard_drive_installation:
+      name: Kiintolevyn asennus
+    hardhat_class:
+      name: Suojakypäräluokka
+    hardness:
+      name: Kovuus
+    hardware_finish:
+      name: Rautatavaran viimeistely
+    hardware_material:
+      name: Laitteiston materiaali
+    hardware_mounting_type:
+      name: Laitteiston asennustapa
+    hardwood_lumber_grade:
+      name: Kovapuun sahatavaraluokka
+    harness_closure_type:
+      name: Valjaiden sulkemistyyppi
+    harp_size:
+      name: Harpun koko
+    hatch_suitable_location:
+      name: Luukun sopiva sijainti
+    hazmat_suit_design:
+      name: Kemikaalisuojapuvun muotoilu
+    hdr_format:
+      name: Hdr-formaatti
+    headjoint_cut:
+      name: Puskuliitosleikkaus
+    headphone_jack_type:
+      name: Kuulokejakkityyppi
+    headphone_style:
+      name: Kuulokkeiden tyyli
+    headwear_features:
+      name: Päähineiden ominaisuudet
+    hearing_aid_features:
+      name: Kuulolaitteiden ominaisuudet
+    hearing_aid_material:
+      name: Kuulolaitemateriaali
+    heat_function:
+      name: Lämpötoiminto
+    heat_level:
+      name: Lämpötaso
+    heat_settings:
+      name: Lämpöasetukset
+    heat_source:
+      name: Lämmön lähde
+    heating_instructions:
+      name: Lämmitysohjeet
+    heating_method:
+      name: Lämmitysmenetelmä
+    heating_speed:
+      name: Lämmitysnopeus
+    heel_height_type:
+      name: Kengänkorkotyyppi
+    heel_shoe_type:
+      name: Korkokengän tyyppi
+    height_adjustment:
+      name: Korkeuden säätö
+    helmet_shade_design:
+      name: Kypärän aurinkosuojan muotoilu
+    hitch_class:
+      name: Hinauskoukkuluokka
+    hitch_type:
+      name: Vetokoukkutyyppi
+    hockey_equipment_included:
+      name: Mukana jääkiekkovarusteet
+    hold_level:
+      name: Pitotaso
+    hook_design:
+      name: Koukun muotoilu
+    hook_grip_design:
+      name: Koukun kädensijan muotoilu
+    hook_size:
+      name: Koukun koko
+    hook_type:
+      name: Koukkutyyppi
+    hoop_shape:
+      name: Renkaan muoto
+    horse_category:
+      name: Hevosluokka
+    horse_grooming_accessories_included:
+      name: Mukana hevosten hoitotarvikkeet
+    hose_material:
+      name: Letkun materiaali
+    host_interface:
+      name: Isäntäkäyttöliittymä
+    housing_color:
+      name: Kotelon väri
+    housing_material:
+      name: Kotelon materiaali
+    housing_pattern:
+      name: Asunnon malli
+    hub/switch_storage_options:
+      name: Keskittimen/kytkimen tallennusvaihtoehdot
+    humidifier_design:
+      name: Ilmankostuttimen muotoilu
+    humidity_control:
+      name: Kosteudensäätö
+    humidy_control:
+      name: Kosteuden säätö
+    hunting/survival_knife_design:
+      name: Metsästys-/selviytymisveitsen suunnittelu
+    hunting_blind_design:
+      name: Metsästysteltan suunnittelu
+    hvac_control_type:
+      name: LVI-ohjaustyyppi
+    ice_pack_type:
+      name: Jäähaudetyyppi
+    icon_type:
+      name: Kuvaketyyppi
+    ignition_system:
+      name: Sytytysjärjestelmä
+    illumination_technique:
+      name: Valaistustekniikka
+    image_formats_supported:
+      name: Tuetut kuvaformaatit
+    image_sensor_size:
+      name: Kuva-anturin koko
+    immobilizer_type:
+      name: Ajonestolaitetyyppi
+    incense_fragrance:
+      name: Suitsukkeen tuoksu
+    incense_kit_items_included:
+      name: Mukana suitsukepakkaus
+    incense_type:
+      name: Suitsuketyyppi
+    incontinence_aid_features:
+      name: Inkontinenssiavun ominaisuudet
+    industry_focus:
+      name: Toimialan painopiste
+    infant_age_group:
+      name: Pikkulapsen ikäryhmä
+    inflation_method:
+      name: Inflaatiomenetelmä
+    ingredient_category:
+      name: Ainesosaluokka
+    ingredient_origin:
+      name: Ainesosan alkuperä
+    ingredients:
+      name: Ainesosat
+    ink_application_technique:
+      name: Musteen levitystekniikka
+    ink_color:
+      name: Musteväri
+    ink_form:
+      name: Musteen olomuoto
+    ink_pattern:
+      name: Musteen kuvio
+    ink_type:
+      name: Mustetyyppi
+    inline_skating_style:
+      name: Rullaluistelutyyli
+    input/output_ports:
+      name: Tulo-/lähtöportit
+    input_connection:
+      name: Tuloliitäntä
+    instruction_set_architecture:
+      name: Ohjesarjan arkkitehtuuri
+    instrument/accessory_finish:
+      name: Instrumentin/lisävarusteen viimeistely
+    instrument_accessory_material:
+      name: Instrumentin lisävarusteen materiaali
+    instrument_bow_material:
+      name: Instrumentin jousimateriaali
+    instrument_color:
+      name: Instrumentin väri
+    instrument_controller_type:
+      name: Instrumentin ohjaintyyppi
+    instrument_material:
+      name: Instrumentin materiaali
+    instrument_part_material:
+      name: Instrumentin osan materiaali
+    instrument_pattern:
+      name: Instrumentin kuvio
+    instrument_string_color:
+      name: Instrumentin kielen väri
+    instrument_string_material:
+      name: Instrumentin kielten materiaali
+    instrument_string_pattern:
+      name: Instrumentin kielen kuvio
+    instrument_support_type:
+      name: Instrumentin tukityyppi
+    insulation_material:
+      name: Eristysmateriaali
+    intended_application:
+      name: Tarkoitettu käyttökohde
+    interface_type:
+      name: Käyttöliittymätyyppi
+    internal_drive_form_factor_supported:
+      name: Tuetun sisäisen levyaseman muototekijä
+    intimate_apparel_features:
+      name: Intiimien vaatteiden ominaisuudet
+    inverter_type:
+      name: Vaihtosuuntaintyyppi
+    invitation_personalization_design:
+      name: Kutsun personoinnin suunnittelu
+    ironing_features:
+      name: Silitysominaisuudet
+    item_condition:
+      name: Tuotteen kunto
+    item_material:
+      name: Kohteen materiaali
+    item_style:
+      name: Tuotteen tyyli
+    j_cup_type:
+      name: J-kuppityyppi
+    jaw_material:
+      name: Leuan materiaali
+    jewelry_finding_type:
+      name: Korujen etsintätyyppi
+    jewelry_material:
+      name: Korumateriaali
+    jewelry_project_type:
+      name: Koruprojektityyppi
+    jewelry_set_type:
+      name: Korusarjatyyppi
+    jewelry_type:
+      name: Korutyyppi
+    joint_connection:
+      name: Liitoksen yhteys
+    joint_face_type:
+      name: Liitoksen kasvotyyppi
+    joint_style:
+      name: Liitostyyli
+    jump_rope_design:
+      name: Hyppynarun suunnittelu
+    jumping_surface_color:
+      name: Hyppypinnan väri
+    jumping_surface_material:
+      name: Hyppypintamateriaali
+    jumping_surface_pattern:
+      name: Hyppypinnan kuvio
+    karaoke_modes:
+      name: Karaoketilat
+    kerosene_application:
+      name: Paloöljyn käyttökohde
+    key_purpose:
+      name: Kiilan käyttötarkoitus
+    keyboard_action:
+      name: Näppäimistön toiminta
+    keyboard_format:
+      name: Näppäimistöformaatti
+    keyboard_key_type:
+      name: Näppäimistön näppäintyyppi
+    keyboard_language:
+      name: Näppäimistön kieli
+    keyboard_layout:
+      name: Näppäimistön asettelu
+    keyboard_port_type:
+      name: Näppäimistön porttityyppi
+    keyboard_specialized_features:
+      name: Näppäimistön erikoisominaisuudet
+    keyboard_switch_type:
+      name: Näppäimistön kytkintyyppi
+    keyboard_type:
+      name: Näppäimistötyyppi
+    keypad_style:
+      name: Numerosormion tyyli
+    kit_construction_type:
+      name: Sarjan rakennetyyppi
+    kitchen/dining_furniture_items_included:
+      name: Keittiö-/ruokailukalusteet mukana
+    kitchen_utensil_items_included:
+      name: Mukana keittiövälineet
+    kitesurfing_style:
+      name: Leijalautailun tyyli
+    kneeboard_features:
+      name: Polvilaudan ominaisuudet
+    knife_type:
+      name: Veitsityyppi
+    knitting/padding_project_type:
+      name: Neulonta-/pehmusteprojektin tyyppi
+    knitting_project_type:
+      name: Neulontaprojektityyppi
+    knob/handle_design:
+      name: Nupin/kahvan muotoilu
+    knob_function:
+      name: Nuppitoiminto
+    knob_style:
+      name: Nupin tyyli
+    labeling_project_type:
+      name: Merkintäprojektin tyyppi
+    laboratory_freezer_design:
+      name: Laboratoriopakastimen muotoilu
+    lacrosse_equipment_included:
+      name: Lacrosse-varusteet mukana
+    ladder_type:
+      name: Tikastyyppi
+    lamination_mode:
+      name: Laminointitila
+    lamp_type:
+      name: Lampputyyppi
+    language:
+      name: Kieli
+    language_version:
+      name: Kieliversio
+    laser_color:
+      name: Laserin väri
+    laser_light_source:
+      name: Laservalonlähde
+    laser_pattern:
+      name: Laser-kuvio
+    lathe_application:
+      name: Sorvisovellus
+    laundry_detergent_features:
+      name: Pyykinpesuaineen ominaisuudet
+    lead_grade:
+      name: Johtoluokka
+    leash_design:
+      name: Taluttimen suunnittelu
+    leather/vinyl_texture:
+      name: Nahka-/vinyylitekstuuri
+    lectern_mounting_type:
+      name: Puhujankorokkeen asennustapa
+    leg_color:
+      name: Jalkojen väri
+    leg_lock_type:
+      name: Lahjetyyppi
+    leg_material:
+      name: Jalkojen materiaali
+    leg_pattern:
+      name: Lahkeen kuvio
+    leg_sections:
+      name: Lahjeosuudet
+    lens/slide_material:
+      name: Linssi-/liukumateriaali
+    lens_cap_compatible_device:
+      name: Objektiiviyhteensopiva laite
+    lens_coating:
+      name: Linssin pinnoite
+    lens_color:
+      name: Linssin väri
+    lens_configuration:
+      name: Linssin konfiguraatio
+    lens_filter_effects:
+      name: Objektiivin suodintehosteet
+    lens_filter_type:
+      name: Objektiivin suodintyyppi
+    lens_pattern:
+      name: Linssin kuvio
+    lens_polarization:
+      name: Linssin polarisaatio
+    lens_storage_type:
+      name: Linssin säilytystyyppi
+    lens_type:
+      name: Linssityyppi
+    license_type:
+      name: Lisenssityyppi
+    lid_material:
+      name: Kannen materiaali
+    lid_type:
+      name: Kansityyppi
+    life_jacket_features:
+      name: Pelastusliivien ominaisuudet
+    light_attachment_type:
+      name: Kevyt lisäosatyyppi
+    light_color:
+      name: Valon väri
+    light_control:
+      name: Valon säätö
+    light_design:
+      name: Valosuunnittelu
+    light_exposure_modes:
+      name: Valotustilat
+    light_filtering:
+      name: Valonsuodatus
+    light_options:
+      name: Valovaihtoehdot
+    light_pattern:
+      name: Valon kuvio
+    light_source:
+      name: Valonlähde
+    light_spectrum:
+      name: Valospektri
+    light_temperature:
+      name: Valon lämpötila
+    light_type:
+      name: Valotyyppi
+    lighting_features:
+      name: Valaistusominaisuudet
+    lighting_options:
+      name: Valaistusvaihtoehdot
+    line/rope_type:
+      name: Naru-/köysityyppi
+    line_spacing_options:
+      name: Rivivälivaihtoehdot
+    liner_features:
+      name: Rajauskynän ominaisuudet
+    lip_gloss_effect:
+      name: Huulikiiltovaikutelma
+    lip_liner_design:
+      name: Huultenrajauskynän muotoilu
+    lip_plate_material:
+      name: Huulilevyn materiaali
+    lipstick_effect:
+      name: Huulipunavaikutelma
+    liqueur_variety:
+      name: Liköörivalikoima
+    livestock_food_ingredients:
+      name: Karjan ruoan ainesosat
+    lnb_output:
+      name: Lnb-lähtö
+    lnb_technology:
+      name: Lnb-tekniikka
+    load_capacity:
+      name: Kuormituskapasiteetti
+    loading_ramp_type:
+      name: Lastausramppityyppi
+    loading_type:
+      name: Kuormitustyyppi
+    lock_placement:
+      name: Lukon sijoitus
+    lock_type:
+      name: Lukkotyyppi
+    locking_mechanism:
+      name: Lukitusmekanismi
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Voiteluaineen leivitys
+    lubricant_composition:
+      name: Voiteluaineen koostumus
+    lubricant_dispenser_type:
+      name: Voiteluaineen annostelijatyyppi
+    lubricant_form:
+      name: Voiteluaineen olomuoto
+    luggage/bag_closure:
+      name: Matkatavaroiden/laukun suljin
+    lumber/wood_type:
+      name: Puutavara-/puutyyppi
+    lyre/flip_folder_attachment_type:
+      name: Lyyra-/selailukansion lisäosatyyppi
+    magnet_type:
+      name: Magneettityyppi
+    magnification:
+      name: Suurennus
+    makeup_color/shade:
+      name: Meikin väri/sävy
+    makeup_features:
+      name: Meikkiominaisuudet
+    mallet_material:
+      name: Malletin materiaali
+    manufacturer_type:
+      name: Valmistajatyyppi
+    marine_navigator_features:
+      name: Merinavigaattorin ominaisuudet
+    marker_tip_design:
+      name: Huopakynän kärjen muotoilu
+    mascara_effect:
+      name: Ripsivärivaikutelma
+    mask_type:
+      name: Maskityyppi
+    masonry_material:
+      name: Muurausmateriaali
+    masonry_product_form:
+      name: Muuraustuotteen muoto
+    massage_area:
+      name: Hieronta-alue
+    massage_stone_texture:
+      name: Hierontakivien rakenne
+    massage_technique:
+      name: Hierontatekniikka
+    mat/rug_shape:
+      name: Mattojen muoto
+    mat_base_material:
+      name: Maton pohjamateriaali
+    mat_features:
+      name: Maton ominaisuudet
+    material:
+      name: Materiaali
+    material_firmness:
+      name: Materiaalin lujuus
+    material_hardness:
+      name: Materiaalin kovuus
+    maternity_clothing_features:
+      name: Äitiysvaatteiden ominaisuudet
+    maternity_sleepwear_style:
+      name: Äitiysuniasujen tyyli
+    mattress_features:
+      name: Patjan ominaisuudet
+    maximum_magnification:
+      name: Enimmäissuurennus
+    measuring_method:
+      name: Mittausmenetelmä
+    measuring_tool_features:
+      name: Mittaustyökalun ominaisuudet
+    measuring_type:
+      name: Mittaustyyppi
+    meat_cut:
+      name: Leikattu liha
+    meat_type:
+      name: Lihatyyppi
+    media_access:
+      name: Mediapääsy
+    media_content_type:
+      name: Mediasisältötyyppi
+    media_format:
+      name: Mediaformaatti
+    media_section:
+      name: Mediaosio
+    media_theme:
+      name: Median teema
+    medical_alarm_features:
+      name: Lääketieteelliset hälytysominaisuudet
+    medical_identification_type:
+      name: Lääketieteellinen tunnistustyyppi
+    medical_syringe_purpose:
+      name: Lääkinnällisen ruiskun tarkoitus
+    medical_tape_material:
+      name: Lääketieteellinen teippimateriaali
+    medicine/drug_form:
+      name: Lääkkeiden ja rohdosten muoto
+    medicine/supplement_form:
+      name: Lääkkeiden ja ravintolisien muoto
+    medium:
+      name: Keskikokoinen
+    melodica_style:
+      name: Melodikatyyli
+    memory_channels:
+      name: Muistikanavat
+    memory_form_factor:
+      name: Muistin muototekijä
+    memory_storage_type:
+      name: Muistin tallennustyyppi
+    memory_technology:
+      name: Muistiteknologia
+    menstrual_cup_shape:
+      name: Kuukautiskupin muoto
+    metal_detector_features:
+      name: Metallinpaljastimen ominaisuudet
+    metal_molding_application:
+      name: Metallin muovaussovellus
+    meter_type:
+      name: Mittarityyppi
+    metrics_supported:
+      name: Tuetut mittarit
+    microphone_thread:
+      name: Mikrofonikierre
+    microphone_type:
+      name: Mikrofonityyppi
+    microscope_features:
+      name: Mikroskoopin ominaisuudet
+    microscope_slide_material:
+      name: Mikroskoopin objektilasien materiaali
+    midi_connectivity:
+      name: Midi-liitettävyys
+    mineral_class:
+      name: Mineraaliluokka
+    minimum_magnification:
+      name: Vähimmäissuurennus
+    mirror_handle_design:
+      name: Peilikahvan muotoilu
+    mixer_type:
+      name: Sekoitintyyppi
+    mobile_mounting_type:
+      name: Siirrettävä asennustyyppi
+    mobile_movement:
+      name: Mobiililiike
+    mobile_phone_case_features:
+      name: Matkapuhelimen kotelon ominaisuudet
+    mobility/accessibility_equipment_features:
+      name: Liikkuvuus-/esteettömyyslaitteiden ominaisuudet
+    mobility_scooter_type:
+      name: Invalidimopedityyppi
+    model_control_technology:
+      name: Malliohjaustekniikka
+    model_train_accessory_type:
+      name: Pienoismallijunien lisävarustetyyppi
+    model_train_theme:
+      name: Mallijunan teema
+    modulation_method:
+      name: Modulaatiomenetelmä
+    moisturizer_type:
+      name: Kosteusvoide tyyppi
+    mold/cut_shape:
+      name: Muotoiltu/leikattu muoto
+    mold_shape:
+      name: Muotin muoto
+    molding_application:
+      name: Muovaussovellus
+    molding_shape:
+      name: Muovailun muoto
+    monitor/screen_specialized_features:
+      name: Monitorin/näytön erikoisominaisuudet
+    monitor_mounting_type:
+      name: Näytön kiinnitystyyppi
+    monitor_shape:
+      name: Näytön muoto
+    monitor_specialized_features:
+      name: Monitorin erikoisominaisuudet
+    monitor_type:
+      name: Näyttölaitetyyppi
+    monocular_design:
+      name: Monokulaarin muotoilu
+    motherboard_chipset_family:
+      name: Emolevyn piirisarjaperhe
+    motherboard_form_factor:
+      name: Emolevyn muotokerroin
+    motherboard_memory_features:
+      name: Emolevyn muistiominaisuudet
+    motion:
+      name: Liike
+    motion_sensor_type:
+      name: Liiketunnistimen tyyppi
+    motor_starting_method:
+      name: Moottorin käynnistysmenetelmä
+    motor_vehicle_placement:
+      name: Moottoriajoneuvon sijoitus
+    motor_vehicle_type:
+      name: Moottoriajoneuvotyyppi
+    motorcycle/scooter_type:
+      name: Moottoripyörä-/skootterityyppi
+    motorcycle_drive_type:
+      name: Moottoripyörän vetotapa
+    motorcycle_glove_purpose:
+      name: Moottoripyöräkäsineiden käyttötarkoitus
+    motorcycle_tire_type:
+      name: Moottoripyörän rengastyyppi
+    mount/stand_features:
+      name: Kiinnityksen/telineen ominaisuudet
+    mount_material:
+      name: Kiinnitysmateriaali
+    mounting_hardware:
+      name: Asennuslaitteisto
+    mounting_type:
+      name: Asennustyyppinen
+    mouse/trackball_features:
+      name: Hiiren/ohjauspallon ominaisuudet
+    mouse_pad_features:
+      name: Hiirimaton ominaisuudet
+    mouse_port_type:
+      name: Hiiriporttityyppi
+    mouse_technology:
+      name: Hiiriteknologia
+    mouthgard_design:
+      name: Hammassuojan suunnittelu
+    mouthpiece:
+      name: Suukappale
+    moving/shipping_box_material:
+      name: Muutto- ja lähetyslaatikot
+    mp3_player_accessories_included:
+      name: Mukana MP3-soitintarvikkeita
+    mpaa_rating:
+      name: Mpaa-luokitus
+    multi_gpu_technology:
+      name: Moni-Gpu-teknologia
+    muscle_stimulator_design:
+      name: Lihasstimulaattorin muotoilu
+    music_genre:
+      name: Musiikkilaji
+    music_stand_design:
+      name: Nuottitelineen muotoilu
+    musical_key:
+      name: Sävellaji
+    nail_art_items_included:
+      name: Mukana kynsituotteet
+    nail_care_features:
+      name: Kynsienhoito-ominaisuudet
+    nail_design:
+      name: Kynsien muotoilu
+    nail_polish_drying_form:
+      name: Kynsilakan kuivausmuoto
+    nail_shape:
+      name: Kynnen muoto
+    national/regional_rating:
+      name: Kansallinen/alueellinen luokitus
+    native_aspect_ratio:
+      name: Alkuperäinen kuvasuhde
+    nebulizer_design:
+      name: Nebulisaattorin muotoilu
+    nebulizer_technology:
+      name: Sumutinteknologia
+    neck_color:
+      name: Kaulan väri
+    neck_material:
+      name: Kaulan materiaali
+    neck_pattern:
+      name: Kaulan kuvio
+    necklace_design:
+      name: Kaulakorun suunnittelu
+    neckline:
+      name: Pääntie
+    needle_eye_type:
+      name: Neulansilmätyyppi
+    needle_gauge:
+      name: Neulakoetin
+    needle_housing_material:
+      name: Neulan kotelon materiaali
+    needle_material:
+      name: Neulan materiaali
+    needle_size:
+      name: Neulan koko
+    needlecraft_kit_type:
+      name: Ompelusetin tyyppi
+    negative/slide_storage_type:
+      name: Negatiivien ja diojen säilytystapa
+    net_material:
+      name: Verkon materiaali
+    net_mounting_type:
+      name: Verkkoasennustyyppi
+    network_cable_interface:
+      name: Verkkokaapeliliitäntä
+    network_protocols_supported:
+      name: Tuetut verkkoprotokollat
+    networking_standards:
+      name: Verkkostandardit
+    nightgown_style:
+      name: Yöpaidan tyyli
+    nipple_material:
+      name: Tuttipullon tutin materiaali
+    nipple_shape:
+      name: Tuttipullon tutin muoto
+    nipple_type:
+      name: Nippatyyppi
+    nock_material:
+      name: Nokki-materiaali
+    noise_intensity:
+      name: Melun voimakkuus
+    notepad_cover_type:
+      name: Muistilehtiön kannen tyyppi
+    notepad_design:
+      name: Muistilehtiön muotoilu
+    nozzle_type:
+      name: Suutintyyppi
+    nursery_theme:
+      name: Lastenhuoneen teema
+    nursing_cover_coverage:
+      name: Imetyssuojan peittävyys
+    nursing_pad_design:
+      name: Imetystyynyn muotoilu
+    nursing_pillow_shape:
+      name: Imetystyynyn muoto
+    nut/seed_type:
+      name: Pähkinä-/siementyyppi
+    nut_butter_variety:
+      name: Pähkinävoivalikoima
+    nut_form:
+      name: Mutterin ulkomuoto
+    nut_processing_method:
+      name: Pähkinöiden käsittelymenetelmä
+    nutrient_content:
+      name: Ravintoainesisältö
+    oboe_key_system:
+      name: Oboe sävellajijärjestelmä
+    ocarina_style:
+      name: Okariinatyyli
+    occasion:
+      name: Tilaisuus
+    occasion_style:
+      name: Tilaisuuden tyyli
+    office_cart_features:
+      name: Toimistokärryjen ominaisuudet
+    office_instrument_material:
+      name: Toimiston instrumenttimateriaalit
+    office_supply_material:
+      name: Toimisto­tarvikemateriaali
+    oil_type:
+      name: Öljyn tyyppi
+    one_piece_style:
+      name: Yksiosainen tyyli
+    open/closed_sign_design:
+      name: Auki/kiinni-kyltin suunnittelu
+    opening_direction:
+      name: Avaussuunta
+    opening_mechanism:
+      name: Avausmekanismi
+    operating_mode:
+      name: Toimintatila
+    operating_system:
+      name: Käyttöjärjestelmät
+    operation_method:
+      name: Toimintatapa
+    optical_drive_type:
+      name: Optinen levyasematyyppi
+    optical_frame_design:
+      name: Optisen kehyksen muotoilu
+    optical_zoom:
+      name: Optinen zoomi
+    organizer_type:
+      name: Järjestäjätyyppi
+    orientation:
+      name: Suuntautuminen
+    outdoor_equipment_features:
+      name: Ulkovarusteiden ominaisuudet
+    outdoor_furniture_items_included:
+      name: Mukana ulkokalusteet
+    outdoor_power_accessories_included:
+      name: Mukana ulkokäyttöisten voimatyökalujen lisätarvikkeet
+    outdoor_walking_activity:
+      name: Ulkona kävelyn toiminta
+    outerwear_clothing_features:
+      name: Päällysvaatteiden ominaisuudet
+    outlet_type:
+      name: Ulostulotyyppi
+    output_connection:
+      name: Lähtöliitäntä
+    output_level:
+      name: Ulostulotaso
+    output_waveform:
+      name: Lähtöaaltomuoto
+    oven_accessories_included:
+      name: Mukana uunitarvikkeet
+    oxygen_tank_valve_type:
+      name: Happisäiliön venttiilityyppi
+    pacifier/teether_design:
+      name: Tutin/purulelun muotoilu
+    package_type:
+      name: Pakkaustyyppi
+    packing_materials_included:
+      name: Mukana pakkausmateriaaleja
+    pad_display_profile:
+      name: Padin näyttöprofiili
+    pad_type:
+      name: Pehmiketyyppi
+    paddle/oar_material:
+      name: Melan/airon materiaali
+    paddle_equipment_included:
+      name: Melavarusteet mukana
+    paddleboard_features:
+      name: Melalaudan ominaisuudet
+    page_layout:
+      name: Sivuasettelu
+    page_size:
+      name: Sivukoko
+    paint/dye_form:
+      name: Maalin/väriaineen muoto
+    paint_brush_design:
+      name: Siveltimen muotoilu
+    paint_finish:
+      name: Maaliviimeistely
+    paint_form:
+      name: Maalin olomuoto
+    paint_medium_type:
+      name: Maalivälinetyyppi
+    paint_type:
+      name: Maalityyppi
+    paintball/airsoft_equipment_included:
+      name: Mukana paintball/airsoft-varusteet
+    paintball_equipment_included:
+      name: Mukana paintball-varusteet
+    painting_canvas_material:
+      name: Maalauksen kanvaasimateriaali
+    pairing_method:
+      name: Pariliittämismenetelmä
+    palette_design:
+      name: Paletin muotoilu
+    palette_knife_shape:
+      name: Palettiveitsen muoto
+    panel_specification:
+      name: Paneelin määrittely
+    panel_termination:
+      name: Paneelin päättyminen
+    pants_length_type:
+      name: Housujen pituustyyppi
+    pantyhose_style:
+      name: Sukkahousujen tyyli
+    paper_finish:
+      name: Paperin viimeistely
+    paper_format:
+      name: Paperiformaatti
+    paper_size:
+      name: Paperin koko
+    paper_texture:
+      name: Paperin rakenne
+    paper_type:
+      name: Paperityyppi
+    paperweight_design:
+      name: Paperipainon muotoilu
+    papier_mache_shape:
+      name: Paperimassa­n muoto
+    parachuting_activity:
+      name: Laskuvarjohyppytoiminta
+    parallel_processing_technology_support:
+      name: Tuettu rinnakkainen käsittelytekniikka
+    parking_camera_features:
+      name: Pysäköintikameran ominaisuudet
+    parking_sign_design:
+      name: Pysäköintikyltin suunnittelu
+    passband:
+      name: Päästökaista
+    pasta_shape_type:
+      name: Pastan muodon tyyppi
+    pasta_type:
+      name: Pastatyyppi
+    patch_shape:
+      name: Paikan muoto
+    pattern:
+      name: Kuvio
+    pattern_distribution_format:
+      name: Kuvion jakeluformaatti
+    pcb_type:
+      name: PCB-tyyppi
+    pedal_polarity:
+      name: Pedaalin napaisuus
+    pegi_rating:
+      name: PEGI-luokitus
+    pen/felt_tip_design:
+      name: Kynän/huopakärkikynän muotoilu
+    pen/pencil_features:
+      name: Kynän/lyijykynän ominaisuudet
+    pen_color:
+      name: Täytekynän väri
+    pen_features:
+      name: Kynän ominaisuudet
+    pen_pattern:
+      name: Kynän kuvio
+    pen_tip_design:
+      name: Kynän kärjen muotoilu
+    pen_type:
+      name: Kynätyyppi
+    pencil_features:
+      name: Lyijykynän ominaisuudet
+    pencil_sharpener_design:
+      name: Kynänteroittimen muotoilu
+    pencil_type:
+      name: Lyijykynätyyppi
+    percussion_stand_design:
+      name: Lyömäsoitintelineen muotoilu
+    percussion_tip_shape:
+      name: Lyöntikapulan kärjen muoto
+    performance_metrics:
+      name: Suorituskykymittarit
+    peroxide_content:
+      name: Peroksidipitoisuus
+    personal_watercraft_type:
+      name: Vesiskootterin tyyppi
+    personalization_design:
+      name: Personoinnin suunnittelu
+    personalization_options:
+      name: Personointivaihtoehdot
+    pest_control_method:
+      name: Tuholaistorjuntamenetelmä
+    pet_apparel/bedding_features:
+      name: Lemmikkieläinten vaatteet/vuodevaatteet
+    pet_apparel_features:
+      name: Lemmikkieläinten vaatteet
+    pet_bedding_features:
+      name: Lemmikkieläinten vuodevaatteet
+    pet_control_accessory_features:
+      name: Lemmikkieläinten hallintavarusteiden ominaisuudet
+    pet_dietary_preferences:
+      name: Ruokavaliomieltymykset
+    pet_dietary_requirements:
+      name: Lemmikkien ruokavaliovaatimukset
+    pet_food_flavor:
+      name: Lemmikkiruoan maku
+    pet_food_form:
+      name: Lemmikkieläinten ruokamuoto
+    pet_food_supplements:
+      name: Lemmikkieläinten ravintolisät
+    pet_hair_dryer_design:
+      name: Lemmikin turkinkuivaajat
+    pet_hair_dryer_speed_settings:
+      name: Lemmikkieläinten turkinkuivaajan nopeusasetukset
+    pet_medical_collar_design:
+      name: Lemmikkieläinten kaulurin muotoilu
+    pet_medical_supply_type:
+      name: Lemmikkieläinten terveystuotteiden tyyppi
+    pet_monitor_items_included:
+      name: Mukana lemmikkimonitorituotteita
+    pet_nail_tool_type:
+      name: Lemmikin kynsienhoitovälineet
+    pet_pad_features:
+      name: Lemmikkityynyn ominaisuudet
+    pet_spray/solution_type:
+      name: Lemmikkieläinsuihke/liuostyyppi
+    pet_supply_product_form:
+      name: Lemmikkitavaran tuotemuoto
+    pet_thermometer_design:
+      name: Lemmikin kuumemittarin muotoilu
+    pet_trainer_type:
+      name: Lemmikkieläinten kouluttajan tyyppi
+    pet_treat_texture:
+      name: Lemmikkiherkun rakenne
+    pet_treat_type:
+      name: Lemmikkiherkun rakenne
+    phase_type:
+      name: Vaihetyyppi
+    photo_effects_type:
+      name: Valokuvatehostetyyppi
+    photographic_chemical_form:
+      name: Valokuvauskemiallinen muoto
+    photographic_paper_size:
+      name: Valokuvapaperin koko
+    photographic_paper_type:
+      name: Valokuvapaperityyppi
+    piano_additional_features:
+      name: Pianon lisäominaisuudet
+    piano_pedals:
+      name: Pianon pedaalit
+    piano_size:
+      name: Pianon koko
+    pick_design:
+      name: Puikon muotoilu
+    pickup_design:
+      name: Pickup-muotoilu
+    pickup_mounting_type:
+      name: Avolavan asennustapa
+    pickup_position:
+      name: Avolavan asento
+    pickup_type:
+      name: Avolavatyyppi
+    pig_feed_stage:
+      name: Sikojen rehukoroke
+    pile_type:
+      name: Paalutyyppi
+    pillow_shape:
+      name: Tyynyn muoto
+    pin_size:
+      name: Sokan koko
+    pinata_design:
+      name: Pi√±ata muotoilu
+    ping_pong_equipment_included:
+      name: Mukana pingisvälineet
+    ping_pong_robot_features:
+      name: Pingisrobotin ominaisuudet
+    pipe_clamp_design:
+      name: Putkipuristimen muotoilu
+    pipe_shape:
+      name: Putken muoto
+    placement_supported:
+      name: Tuettu sijoittelu
+    plant_characteristics:
+      name: Kasvin ominaisuudet
+    plant_class:
+      name: Kasviluokka
+    plant_name:
+      name: Kasvin nimi
+    plant_support_material:
+      name: Kasvien tukimateriaali
+    plate_type:
+      name: Laattatyyppi
+    play_equipment_items_included:
+      name: Mukana leikkivälineet
+    play_slide_design:
+      name: Leikkiliukumäen suunnittelu
+    play_vehicle_propulsion:
+      name: Leikkiajoneuvon käyttövoima
+    play_yard_design_features:
+      name: Leikkipihan suunnitteluominaisuudet
+    playback_disc_formats:
+      name: Toistolevyformaatit
+    player/recorder_specialized_features:
+      name: Soittimen/tallentimen erikoisominaisuudet
+    player_drive_type:
+      name: Soittimen levyasematyyppi
+    player_position:
+      name: Soittimen sijainti
+    player_specialized_features:
+      name: Soittimen erikoisominaisuudet
+    playhouse_design:
+      name: Leikkimökin muotoilu
+    playset_features:
+      name: Pelisetin ominaisuudet
+    plug_type:
+      name: Pistoketyyppi
+    plug_type_input:
+      name: Pistoketyyppi (tulo)
+    plug_type_output:
+      name: Pistoketyyppi (lähtö)
+    plumbing_primer_application:
+      name: Putkiston pohjusteen levittäminen
+    plumbing_trap_design:
+      name: Putkiston vesilukon muotoilu
+    plunger_shape:
+      name: Männän muoto
+    plywood_grade:
+      name: Vanerilaatu
+    pneumatic_conveyor_operation:
+      name: Pneumaattisen kuljettimen toiminta
+    poe_standard:
+      name: PoE-standardi
+    point_design:
+      name: Pistesuunnittelu
+    pointing_device:
+      name: Osoitinlaite
+    polar_pattern:
+      name: Polaarikuvio
+    polarization:
+      name: Polarisaatio
+    pole/post_material:
+      name: Pylväs-/tolppamateriaali
+    pole_color:
+      name: Pylvään väri
+    pole_material:
+      name: Varren materiaali
+    pole_pattern:
+      name: Pylvään malli
+    policy_sign_design:
+      name: Poliisikyltin suunnittelu
+    polish_dry_form:
+      name: Kiiltävä kuivamuoto
+    polish_remover_form:
+      name: Kynsilakan poistoaineen olomuoto
+    polish_type:
+      name: Kiillotustyyppi
+    polyphony:
+      name: Polyfonia
+    portability:
+      name: Siirrettävyys
+    post_material:
+      name: Tolpan materiaali
+    postage_stamp_features:
+      name: Postimerkin ominaisuudet
+    potential_extract:
+      name: Potentiaalinen uute
+    pottery/sculpting_project_type:
+      name: Keramiikka-/kuvanveistoprojektityyppi
+    potty/toilet_seat_design:
+      name: Potan/wc-istuimen muotoilu
+    potty_training_kit_components:
+      name: Pottaharjoittelupakkauksen komponentit
+    power_source:
+      name: Tehonlähde
+    pregnancy_test_sensitivity:
+      name: Raskaustestin herkkyys
+    presentation_supply_features:
+      name: Esitystarvikkeiden ominaisuudet
+    preservation_type:
+      name: Säilöntätyyppi
+    pretend_electronics_toy_type:
+      name: Leluelektroniikan tyyppi
+    pretend_housekeeping_toy_type:
+      name: Leikkikodinkoneiden tyyppi
+    primary_region:
+      name: Ensisijainen alue
+    primer_use:
+      name: Pohjusteen käyttö
+    print_technology:
+      name: Tulostustekniikka
+    printer/copier_specialized_features:
+      name: Tulostimen/kopiokoneen erikoisominaisuudet
+    printer_accessories_included:
+      name: Mukana tulostintarvikkeita
+    printer_functions:
+      name: Tulostimen toiminnot
+    printing_color:
+      name: Tulostusväri
+    printing_method:
+      name: Tulostusmenetelmä
+    processor_cores:
+      name: Suorittimen ytimet
+    processor_family:
+      name: Suoritinperhe
+    processor_socket:
+      name: Suorittimen liitäntä
+    processor_technology:
+      name: Prosessoriteknologia
+    product_benefits:
+      name: Tuote-edut
+    product_certifications_standards:
+      name: Tuotesertifioinnit ja -standardit
+    product_form:
+      name: Tuotelomake
+    product_formulation:
+      name: Tuotteen koostumus
+    product_manual_area:
+      name: Tuotteen manuaalialue
+    product_sterility:
+      name: Tuotteen steriiliys
+    program_format:
+      name: Ohjelmaformaatti
+    projection_design:
+      name: Heijastamisen suunnittelu
+    projector_light_source:
+      name: Projektorin valonlähde
+    prop_theme:
+      name: Lavasteen teema
+    propane_application:
+      name: Propaanin käyttökohde
+    propeller_blade_design:
+      name: Potkurin lavan muotoilu
+    prophy_cup_design:
+      name: Ennaltaehkäisevä lääkemittasuunnittelu
+    propulsion_type:
+      name: Työntövoimatyyppinen
+    protection_type:
+      name: Suojaustyyppi
+    protective_gear_features:
+      name: Suojavarusteiden ominaisuudet
+    protective_mask_design:
+      name: Suojamaskin suunnittelu
+    protective_mask_features:
+      name: Suojamaskin ominaisuudet
+    pstn_connectivity_options:
+      name: Yleisen valintaisen puhelinverkon (Pstn:n) liitettävyysvaihtoehdot
+    publication_frequency:
+      name: Julkaisutiheys
+    publication_type:
+      name: Julkaisutyyppi
+    pull_up_bar:
+      name: Ylösvetotanko
+    pump_accessories:
+      name: Pumpputarvikkeet
+    pump_speed_settings:
+      name: Pumpun nopeusasetukset
+    punching/training_bag_material:
+      name: Nyrkkeily- ja harjoitussäkit
+    puppet_theme:
+      name: Nukketeema
+    puppet_type:
+      name: Nukketyyppi
+    puzzle_theme:
+      name: Palapelin teema
+    puzzle_type:
+      name: Palapelin tyyppi
+    quiver_style:
+      name: Nuoliviinin tyyli
+    rack_design:
+      name: Telineen muotoilu
+    rack_type:
+      name: Telinetyyppi
+    racket_gauge:
+      name: Mailamitta
+    racket_material:
+      name: Mailan materiaali
+    racket_string_design:
+      name: Mailan jänteen suunnittelu
+    racket_string_material:
+      name: Mailan jänteen materiaali
+    radar_bands:
+      name: Tutkataajuuskaista
+    radar_technology:
+      name: Tutkatekniikka
+    radio_case_design:
+      name: Radiokotelon muotoilu
+    radio_features:
+      name: Radion ominaisuudet
+    ramp_type:
+      name: Ramppityyppi
+    range_type:
+      name: Vaihteluvälityyppi
+    rarity:
+      name: Harvinaisuus
+    razor_flexibility:
+      name: Partakoneen joustavuus
+    razor_head_design:
+      name: Partakoneen pään muotoilu
+    razor_type:
+      name: Partakonetyyppi
+    read/write_speed:
+      name: Luku-/kirjoitusnopeus
+    reading_toy_type:
+      name: Lukulelun tyyppi
+    receipt_paper_features:
+      name: Kuittipaperin ominaisuudet
+    reclining_function:
+      name: Kallistustoiminto
+    recommended_age_group:
+      name: Suositeltu ikäryhmä
+    recommended_skill_level:
+      name: Suositeltu taitotaso
+    recommended_use:
+      name: Suositeltu käyttötapa
+    recorder_fingering_system:
+      name: Nokkahuilun sormitusjärjestelmä
+    recorder_specialized_features:
+      name: Tallentimen erikoisominaisuudet
+    recording_accessories_included:
+      name: Mukana tallennustarvikkeita
+    recording_quality:
+      name: Tallennuslaatu
+    recreational_vehicle_type:
+      name: Matkailuautotyyppi
+    reed_strength:
+      name: Puhaltimen voimakkuus
+    reel_capacity:
+      name: Kelan kapasiteetti
+    reflector_design:
+      name: Heijastimen muotoilu
+    regenerative_braking_features:
+      name: Regeneratiivisen jarrutuksen ominaisuudet
+    region:
+      name: Seutu
+    region_code:
+      name: Aluekoodi
+    release_schedule:
+      name: Julkaisuaikataulu
+    remote_technology:
+      name: Etäteknologia
+    removable_storage_formats_supported:
+      name: Tuetut poistettavat tallennusformaatit
+    reptile/amphibian_food_form:
+      name: Matelijoiden/sammakkoeläinten ruokamuoto
+    reptile/amphibian_habitat_supply_type:
+      name: Matelijoiden/sammakkoeläinten elinympäristön tarjontatyyppi
+    research_focus:
+      name: Tutkimuksen painopiste
+    research_methodology:
+      name: Tutkimusmenetelmä
+    resistance_level:
+      name: Vastustaso
+    resistance_system:
+      name: Vastusjärjestelmä
+    result_display:
+      name: Tulosnäyttö
+    retail/sale_sign_design:
+      name: Jälleen-/alennusmyyntikyltin suunnittelu
+    reticle_plane:
+      name: Hiusristikkotaso
+    reticle_type:
+      name: Hiusristikkotyyppi
+    rfid_frequency:
+      name: Radiotaajuustunnistus (Rfid-taajuus)
+    riding_style:
+      name: Ratsastustyyli
+    riding_toy_propulsion_type:
+      name: Ajolelun työntötapa
+    rim/wheel_design:
+      name: Vanteen/pyörän muotoilu
+    ring_design:
+      name: Renkaan suunnittelu
+    ring_size:
+      name: Sormuksen koko
+    riser_color:
+      name: Nousujohdon väri
+    riser_material:
+      name: Nousujohdon materiaali
+    riser_pattern:
+      name: Nousujohdon kuvio
+    rivet_form:
+      name: Niitin ulkomuoto
+    road_sign_design:
+      name: Tiekyltin muotoilu
+    rock_composition:
+      name: Kallion koostumus
+    rock_formation:
+      name: Kalliomuodostelma
+    rocker_type:
+      name: Jalastyyppi
+    rod_color:
+      name: Tangon väri
+    rod_material:
+      name: Vavan materiaali
+    rod_pattern:
+      name: Tankokuvio
+    rod_shape:
+      name: Vavan muoto
+    roller_head:
+      name: Jalaksen pää
+    roller_material:
+      name: Rullan materiaali
+    roller_type:
+      name: Rullatyyppi
+    roof_decor_shape:
+      name: Kattokoristeen muoto
+    rosin_form:
+      name: Hartsin olomuoto
+    rosin_grade:
+      name: Hartsiluokka
+    rotating_direction:
+      name: Pyörimissuunta
+    rotator_control_technology:
+      name: Rotaattorin ohjaustekniikka
+    rug/mat_features:
+      name: Mattojen/jalkamattojen ominaisuudet
+    rug/mat_material:
+      name: Mattojen/jalkamattojen materiaali
+    rug/mat_shape:
+      name: Mattojen/jalkamattojen muoto
+    rug_features:
+      name: Maton ominaisuudet
+    rug_material:
+      name: Maton materiaali
+    rug_shape:
+      name: Maton muoto
+    rum_grade:
+      name: Rommiluokka
+    saddle_base_color:
+      name: Satulan pohjaväri
+    saddle_base_material:
+      name: Satulan pohjamateriaali
+    saddle_base_pattern:
+      name: Satulan pohjakuvio
+    saddle_material:
+      name: Satulan materiaali
+    saddle_seat_color:
+      name: Satulaistuimen väri
+    saddle_seat_material:
+      name: Satulaistuimen materiaali
+    saddle_seat_pattern:
+      name: Satulaistuimen kuvio
+    safety_certifications:
+      name: Turvallisuussertifikaatit
+    safety_device_installation:
+      name: Turvalaitteiden asennus
+    safety_equipment_material:
+      name: Harjoitusvälinemateriaalit
+    safety_rail_installation:
+      name: Turvakaiteen asennus
+    sailboat_type:
+      name: Purjevenetyyppi
+    sandal_style:
+      name: Sandaalityyli
+    sandblaster_application:
+      name: Hiekkapuhallussovellus
+    sander_type:
+      name: Hiomakonetyyppi
+    sanding_application:
+      name: Hiontasovellus
+    satellite_coverage_area:
+      name: Satelliitin peittoalue
+    satellite_network_type:
+      name: Satelliittiverkkotyyppi
+    sauna_accessories_included:
+      name: Mukana saunatarvikkeet
+    scaffolding_mounting_type:
+      name: Rakennustelineen asennustapa
+    scale_material:
+      name: Vaa'an materiaali
+    scale_model_accessory_type:
+      name: Pienoismallien lisätarviketyyppi
+    scale_model_kit_type:
+      name: Pienoismallisarjan tyyppi
+    scale_model_material:
+      name: Pienoismallimateriaali
+    scale_model_theme:
+      name: Pienoismallin teema
+    scalpel_blade_material:
+      name: Leikkausveitsen terän materiaali
+    scalpel_blade_number:
+      name: Leikkausveitsen terän numero
+    scalpel_blade_shape:
+      name: Leikkausveitsen terän muoto
+    scalpel_handle_number:
+      name: Leikkausveitsen kahvan numero
+    scan_converter_features:
+      name: Skannausmuuntimen ominaisuudet
+    scanner_features:
+      name: Skannerin ominaisuudet
+    scanner_sensor_type:
+      name: Skannerianturityyppi
+    scarf/shawl_style:
+      name: Huivin/hartiahuivin tyyli
+    scene_modes:
+      name: Kuvaelmatilat
+    scent:
+      name: Tuoksu
+    scissor_blade_type:
+      name: Saksien terän tyyppi
+    scope/sight_design:
+      name: Tähystyslaitteen/tähtäimen muotoilu
+    scope/sight_features:
+      name: Tähtäimen/kiikaritähtäimen ominaisuudet
+    scope_design:
+      name: Kiikaritähtäimen muotoilu
+    scope_lens_type:
+      name: Kiikaritähtäimen linssityyppi
+    scoreboard_features:
+      name: Tulostaulun ominaisuudet
+    scrapbook_paper_type:
+      name: Leikekirjan paperityyppi
+    screen/display_design:
+      name: Näyttöruudun/näytön muotoilu
+    screen_material:
+      name: Suojan materiaali
+    screen_specialized_features:
+      name: Näytön erikoisominaisuudet
+    seafood_type:
+      name: Merenelävätyyppi
+    seal_stamp_design:
+      name: Sinettileiman muotoilu
+    season:
+      name: Kausi
+    seat_color:
+      name: Istuimen väri
+    seat_cushioning:
+      name: Istuintyynyt
+    seat_pattern:
+      name: Istuimen kuvio
+    seat_shape:
+      name: Istuimen muoto
+    seat_structure:
+      name: Istuimen rakenne
+    seat_type:
+      name: Istuintyyppi
+    seat_upholstery_color:
+      name: Istuinverhoilun väri
+    seat_upholstery_material:
+      name: Istuimen verhoilumateriaali
+    seat_upholstery_pattern:
+      name: Istuimen verhoilukuvio
+    security_algorithms:
+      name: Turvallisuusalgoritmit
+    security_level:
+      name: Turvallisuustaso
+    sensor/measuring_tool_features:
+      name: Anturin/mittaustyökalun ominaisuudet
+    sensor_features:
+      name: Anturin ominaisuudet
+    sensor_type:
+      name: Anturityyppi
+    sequin/glitter_shape:
+      name: Paljetin/kimalteen muoto
+    sequin_shape:
+      name: Paljetin muoto
+    serum_target_areas:
+      name: Seerumin kohdealueet
+    service_type:
+      name: Palvelutyyppi
+    sewing_foot_type:
+      name: Ompelukoneen paininjalkatyyppi
+    sewing_machine_part_category:
+      name: Ompelukoneen osaluokka
+    sfx_control_technology:
+      name: SFX-ohjaustekniikka
+    shaft_color:
+      name: Varren väri
+    shaft_flex:
+      name: Akselin jousto
+    shaft_material:
+      name: Varren materiaali
+    shaft_orientation:
+      name: Akselin suuntaus
+    shaft_pattern:
+      name: Akselin kuvio
+    shampoo/conditioner_effect:
+      name: Shampoon/hoitoaineen vaikutus
+    shampoo/conditioner_items_included:
+      name: Mukana shampoo/hoitoaineet
+    shampoo_type:
+      name: Shampootyyppi
+    shape:
+      name: Muoto
+    shapewear_support_level:
+      name: Muotoilevien alusasujen tukitaso
+    shaving_cream_formulation:
+      name: Partavaahdon formulointi
+    shaving_kit_components:
+      name: Pakkauksen komponentit
+    sheen/gloss_level:
+      name: Loisto-/kiiltotaso
+    sheet_color:
+      name: Arkin väri
+    sheet_pattern:
+      name: Arkkien kuvio
+    shelf_color:
+      name: Hyllyn väri
+    shelf_material:
+      name: Hyllymateriaali
+    shelf_pattern:
+      name: Arkkien kuvio
+    shell/frame_color:
+      name: Kuoren/kehyksen väri
+    shell/frame_material:
+      name: Kuori/runkomateriaali
+    shell/frame_pattern:
+      name: Kuori/runkomateriaali
+    shingle/tile_material:
+      name: Paanu-/laattamateriaali
+    shoe_binding_type:
+      name: Kengänsidontatapa
+    shoe_features:
+      name: Kengän ominaisuudet
+    shoe_fit:
+      name: Kengän istuvuus
+    shoe_size:
+      name: Kengänkoko
+    shooting_modes:
+      name: Kuvaustilat
+    shopping_bag_material:
+      name: Ostoskassin materiaali
+    shower_base_design:
+      name: Suihkualtaan muotoilu
+    shower_curtain_mounting_type:
+      name: Suihkuverhon kiinnitystyyppi
+    shower_design:
+      name: Suihkun muotoilu
+    shower_features:
+      name: Suihkun ominaisuudet
+    shower_opening_type:
+      name: Suihkuaukon tyyppi
+    shrink_ratio:
+      name: Kutistussuhde
+    shutter_finish:
+      name: Sulkimen viimeistely
+    siding_material:
+      name: Sivumateriaali
+    signature_placement:
+      name: Allekirjoituksen sijoittelu
+    silencer/blimp_type:
+      name: Äänenvaimennin-/äänisuojaintyyppi
+    sim_card_capability:
+      name: Sim-korttivalmius
+    sim_card_type:
+      name: Sim-korttityyppi
+    sim_card_type_1:
+      name: Sim-korttityyppi 1
+    sim_card_type_2:
+      name: Sim-korttityyppi 2
+    sink_mounting_type:
+      name: Altaan asennustapa
+    sink_shape:
+      name: Altaan muoto
+    sink_type:
+      name: Allastyyppi
+    sinker_material:
+      name: Painon materiaali
+    size:
+      name: Koko
+    skateboarding_style:
+      name: Rullalautailutyyli
+    ski_construction:
+      name: Suksien rakenne
+    skiing_style:
+      name: Hiihtotyyli
+    skill_level:
+      name: Taitotaso
+    skin_care_effect:
+      name: Ihonhoitovaikutus
+    skin_care_features:
+      name: Ihonhoito-ominaisuudet
+    skin_care_mask_type:
+      name: Ihonhoitonaamion tyyppi
+    skin_tone:
+      name: Ihonväri
+    skin_undertone:
+      name: Ihon pohjasävy
+    skirt/dress_length_type:
+      name: Hameen/mekon pituustyyppi
+    skirt_style:
+      name: Hameen tyyli
+    slat_color:
+      name: Listan väri
+    slat_material:
+      name: Sälemateriaali
+    slat_pattern:
+      name: Listakuvio
+    sleeve_length_type:
+      name: Holkin pituustyyppi
+    slip_texture:
+      name: Suikaleen tekstuuri
+    slipper_style:
+      name: Slipperien tyyli
+    slot_machine_type:
+      name: Peliautomaatin tyyppi
+    small_animal_dietary_requirements:
+      name: Pieneläinten ruokavaliovaatimukset
+    small_animal_food_form:
+      name: Pieneläinruokamuoto
+    small_animal_food_ingredients:
+      name: Pieneläinruoan ainesosat
+    small_animal_habitat/cage_type:
+      name: Pieneläinten asuinpaikkojen ja häkkien tyyli
+    smart_tv_platform:
+      name: Äly-TV-alusta
+    smart_watch_features:
+      name: Älykellon ominaisuudet
+    sneaker_style:
+      name: Lenkkarityyli
+    snorkel_shape:
+      name: Snorkkelin muoto
+    snowboard_construction:
+      name: Lumilaudan rakenne
+    snowboard_design:
+      name: Lumilaudan muotoilu
+    snowboarding_style:
+      name: Lumilautailutyyli
+    snowmobile_type:
+      name: Moottorikelkkatyyppi
+    socket_driver_tip:
+      name: Pistorasiaohjaimen kärki
+    socket_type:
+      name: Pistorasiatyyppi
+    soda_maker_accessories_included:
+      name: Mukana hiilihapotuslaitteen lisätarvikkeet
+    soda_variety:
+      name: Soodavalikoima
+    sofa_features:
+      name: Sohvan ominaisuudet
+    softball_discipline:
+      name: Softball-kuri
+    softbox_mounting_type:
+      name: Tasovalon kiinnitystapa
+    softbox_shape:
+      name: Tasovalon muoto
+    software_features:
+      name: Ohjelmiston ominaisuudet
+    software_tool_type:
+      name: Ohjelmistotyökalutyyppi
+    softwood_lumber_grade:
+      name: Havupuun sahatavaraluokka
+    solar_cell_type:
+      name: Aurinkokennotyyppi
+    solar_panel_connections:
+      name: Aurinkopaneelien kytkennät
+    solar_panel_design:
+      name: Aurinkopaneelin muotoilu
+    solder/flux_application:
+      name: Juotteen/sulatteen käyttökohde
+    soleplate_type:
+      name: Aluslaattatyyppi
+    solubility:
+      name: Liukoisuus
+    solution_type:
+      name: Liuostyyppi
+    solvent/thinner_application:
+      name: Liuottimen/ohenteen levittäminen
+    solvent_application:
+      name: Liuottimen levittäminen
+    soothing_sounds:
+      name: Rauhoittavia ääniä
+    sound_controls:
+      name: Ääniohjaimet
+    sound_effects:
+      name: Ääniefektit
+    sound_insulation:
+      name: Äänieristys
+    sound_options:
+      name: Ääniasetukset
+    speaker_configuration:
+      name: Kaiuttimen konfiguraatio
+    speaker_design:
+      name: Kaiuttimen muotoilu
+    speaker_features:
+      name: Kaiuttimen ominaisuudet
+    speaker_technology:
+      name: Kaiutinteknologia
+    speakerphone_type:
+      name: Kaiutinpuhelintyyppi
+    speed_settings:
+      name: Nopeusasetukset
+    spf_level:
+      name: Aurinkosuojakerroin (Spf-taso)
+    spike_design:
+      name: Piikin muotoilu
+    spinner_type:
+      name: Pyörintyyppi
+    spirit_dilution:
+      name: Alkoholin laimennus
+    splitter/switch_features:
+      name: Haaroittimen/kytkimen ominaisuudet
+    splitter_use:
+      name: Halkaisimen käyttö
+    sponge_shape:
+      name: Sienen muoto
+    spool_color:
+      name: Kelan väri
+    spool_material:
+      name: Kelan materiaali
+    spool_pattern:
+      name: Kelan kuvio
+    sport:
+      name: Urheilu
+    sports_logo:
+      name: Urheilulogo
+    sports_theme:
+      name: Urheiluteema
+    spout_type:
+      name: Kourutyyppi
+    spreader_type:
+      name: Levitintyyppi
+    sprinkler_head_type:
+      name: Sprinklerin pään tyyppi
+    sprinkler_shape:
+      name: Sadettimen muoto
+    squeegee_blade_design:
+      name: Vetolastan terän muotoilu
+    stack_configuration:
+      name: Pinon konfiguraatio
+    stage:
+      name: Vaihe
+    stair_lifts_control_type:
+      name: Porrashissit ohjaustyyppi
+    staircase_features:
+      name: Portaiden ominaisuudet
+    staircase_type:
+      name: Porrastyyppi
+    stamp_theme:
+      name: Leiman teema
+    stamp_type:
+      name: Leimatyyppi
+    stand/display_type:
+      name: Jalustan/näytön tyyppi
+    staple_wire_gauge:
+      name: Niittilangan mittari
+    stapler_features:
+      name: Nitojan ominaisuudet
+    star_rating:
+      name: Tähtiluokitus
+    start_type:
+      name: Aloitustyyppi
+    station_type:
+      name: Asematyyppi
+    stationery_binding_type:
+      name: Paperitavaran sidostyyppi
+    stem_length:
+      name: Varren pituus
+    stencil/cut_shape:
+      name: Sapluunan/leikkauksen muoto
+    step_type:
+      name: Askelmatyyppi
+    sterilization_cycle_time:
+      name: Sterilointijakson aika
+    sterilization_instructions:
+      name: Sterilointiohjeet
+    sterilization_method:
+      name: Sterilointimenetelmä
+    stethoscope_design:
+      name: Stetoskoopin muotoilu
+    stethoscope_technology:
+      name: Stetoskooppiteknologia
+    stick_material:
+      name: Nokki-materiaali
+    stiffness:
+      name: Jäykkyys
+    stimulator_tip_shape:
+      name: Stimulaattorin kärjen muoto
+    stone_material:
+      name: Kivimateriaali
+    stone_name:
+      name: Kiven nimi
+    stone_shape:
+      name: Kiven muoto
+    stone_type:
+      name: Kivityyppi
+    stopband:
+      name: Estokaista
+    stopwatch_features:
+      name: Sekuntikellon ominaisuudet
+    storage_drive_interface_type:
+      name: Tallennusaseman käyttöliittymätyyppi
+    storage_drive_interfaces_supported:
+      name: Tuetut tallennusaseman käyttöliittymät
+    storage_drive_type_installed:
+      name: Tallennusasematyyppi asennettu
+    storage_media_type:
+      name: Tallennusvälinetyyppi
+    storage_tank_application:
+      name: Varastointisäiliön käyttökohde
+    storage_types_supported:
+      name: Tuetut tallennustyypit
+    stove_airflow:
+      name: Lieden ilmavirtaus
+    stove_top_type:
+      name: Liesitason tyyppi
+    strap_design:
+      name: Hihnan muotoilu
+    straw/stirrer_design:
+      name: Pillin/sekoittimen muotoilu
+    stretcher/gurney_intended_use:
+      name: Paarien / pyörällisen vuoteen käyttötarkoitus
+    string_color:
+      name: Langan väri
+    string_instrument_size:
+      name: Jousisoittimen koko
+    string_material:
+      name: Kielen materiaali
+    string_pattern:
+      name: Langan malli
+    stripper_application:
+      name: Irrottimen levittäminen
+    stroller_features:
+      name: Lastenvaunujen ominaisuudet
+    stroller_wheel_type:
+      name: Lastenrattaiden pyörätyyppi
+    style:
+      name: Tyyli
+    stylus_type:
+      name: Piirrintyyppi
+    subject_area:
+      name: Aihealue
+    subscription_type:
+      name: Tilaustyyppi
+    substrate_features:
+      name: Alustan ominaisuudet
+    suction_cup_color:
+      name: Imukupin väri
+    suction_cup_material:
+      name: Imukuppimateriaali
+    suction_cup_pattern:
+      name: Imukuppikuvio
+    suction_levels:
+      name: Imutasot
+    suitable_for_angling_type:
+      name: Soveltuu ongintatyyppiin
+    suitable_for_animal_type:
+      name: Soveltuu eläintyypille
+    suitable_for_art_technique:
+      name: Sopii taidetekniikkaan
+    suitable_for_bird_type:
+      name: Soveltuu lintutyypille
+    suitable_for_boat_type:
+      name: Sopii venetyypille
+    suitable_for_body/facial_hair:
+      name: Sopii vartalon/kasvojen karvoille
+    suitable_for_breed_size:
+      name: Sopii rodun kokoon
+    suitable_for_bug_type:
+      name: Soveltuu hyönteistyypille
+    suitable_for_camera/optics_device:
+      name: Sopii kamera-/optiikkalaitteille
+    suitable_for_camera_type:
+      name: Soveltuu kameratyypille
+    suitable_for_camping_activity:
+      name: Soveltuu retkeilyyn
+    suitable_for_chair_type:
+      name: Soveltuu tuolityypille
+    suitable_for_container_type:
+      name: Sopii konttityyppiin
+    suitable_for_crafting_material:
+      name: Sopii askartelumateriaaleille
+    suitable_for_door_type:
+      name: Soveltuu ovityyppiin
+    suitable_for_egg_type:
+      name: Sopii munatyypille
+    suitable_for_fabric_type:
+      name: Soveltuu kangastyyppiin
+    suitable_for_fire_class:
+      name: Soveltuu paloluokkaan
+    suitable_for_fish_type:
+      name: Soveltuu kalatyypille
+    suitable_for_food_processor_type:
+      name: Soveltuu yleiskoneen tyypille
+    suitable_for_furniture_type:
+      name: Soveltuu huonekalutyypille
+    suitable_for_gas_type:
+      name: Soveltuu kaasutyypille
+    suitable_for_hair_type:
+      name: Soveltuu hiustyyppiin
+    suitable_for_material_type:
+      name: Soveltuu materiaalityyppiin
+    suitable_for_pest_type:
+      name: Soveltuu tuholaistyypille
+    suitable_for_pipe_type:
+      name: Soveltuu putkityyppiin
+    suitable_for_pool_type:
+      name: Soveltuu allastyypille
+    suitable_for_power_equipment_type:
+      name: Soveltuu voimalaitteille
+    suitable_for_precious_material:
+      name: Sopii arvokkaille materiaaleille
+    suitable_for_printer_type:
+      name: Soveltuu tulostintyypille
+    suitable_for_skin_tone:
+      name: Soveltuu ihonsävyyn
+    suitable_for_skin_type:
+      name: Soveltuu Ihotyyppiin
+    suitable_for_snowshoeing_activity:
+      name: Soveltuu lumikenkäilyyn
+    suitable_for_storage_type:
+      name: Soveltuu varastointityypille
+    suitable_for_toothbrush:
+      name: Soveltuu hammasharjaan
+    suitable_for_vehicle_type:
+      name: Soveltuu ajoneuvotyyppiin
+    suitable_for_water_feature_type:
+      name: Soveltuu vesiominaisuustyyppiin
+    suitable_for_water_type:
+      name: Soveltuu vesityyppiin
+    suitable_for_weapon_type:
+      name: Sopii asetyypille
+    suitable_installation:
+      name: Sopiva asennus
+    suitable_location:
+      name: Soveltuu sijaintiin
+    suitable_space:
+      name: Sopiva tila
+    suitcase_handle_type:
+      name: Matkalaukun kahvatyyppi
+    sulfur_content:
+      name: Rikkipitoisuus
+    sunlight:
+      name: Auringonvalo
+    support/brace_material:
+      name: Tuki/tukimateriaali
+    supported_language:
+      name: Tuettu kieli
+    surface_texture:
+      name: Pintamateriaali
+    surfboard_features:
+      name: Surffilaudan ominaisuudet
+    surveillance_camera_design:
+      name: Valvontakameran muotoilu
+    surveillance_camera_mounting_type:
+      name: Valvontakameran kiinnitystapa
+    surverying_accessories_included:
+      name: Mukana mittaustarvikkeet
+    suspender_style:
+      name: Henkselien tyyli
+    sustainability:
+      name: Kestävyys
+    swab_material:
+      name: Vanupuikkomateriaali
+    swimwear_features:
+      name: Uimapukujen ominaisuudet
+    swing_style:
+      name: Heiluntatyyli
+    swing_weighting:
+      name: Heilunnan painotus
+    switch_control_type:
+      name: Kytkimen ohjaustapa
+    switching_method:
+      name: Vaihtomenetelmä
+    synthesis_method:
+      name: Synteesimenetelmä
+    system_of_measurement:
+      name: Mittausjärjestelmä
+    system_range:
+      name: Järjestelmäalue
+    systems_supported:
+      name: Tuetut järjestelmät
+    tab_style:
+      name: Välilehden tyyli
+    tabletop_color:
+      name: Pöytälevyn väri
+    tabletop_material:
+      name: Pöytälevyn materiaali
+    tabletop_pattern:
+      name: Pöytälevyn kuvio
+    tabletop_shape:
+      name: Pöytälevyn muoto
+    tableware_material:
+      name: Pöytäastiamateriaali
+    tack/pushpin_head_design:
+      name: Salvan/nastan pään muotoilu
+    tag_fastening:
+      name: Nimilapun kiinnitys
+    tampon_absorbency_level:
+      name: Tamponin imukykytaso
+    tampon_features:
+      name: Tamponin ominaisuudet
+    tan_type:
+      name: Tangenttityyppi
+    tank_color:
+      name: Säiliön väri
+    tank_material:
+      name: Säiliön materiaali
+    tank_pattern:
+      name: Tankin kuvio
+    tape_material:
+      name: Teippimateriaali
+    target_audience:
+      name: Kohdeyleisö
+    target_gender:
+      name: Kohdesukupuoli
+    targeted_pests:
+      name: Kohteena olevat tuholaiset
+    targeted_stains:
+      name: Kohteena olevat tahrat
+    tea_input_type:
+      name: Teensyöttötyyppi
+    technology_level:
+      name: Teknologiataso
+    teeth_material:
+      name: Hampaiden materiaali
+    telephone_cable_interface:
+      name: Puhelimen kaapeliliitäntä
+    telephone_style:
+      name: Puhelimen tyyli
+    telescope_level:
+      name: Teleskoopin taso
+    telescope_tracking_system:
+      name: Teleskooppiseurantajärjestelmä
+    television_shape:
+      name: Television muoto
+    television_specialized_features:
+      name: Television erikoisominaisuudet
+    temperature:
+      name: Lämpötila
+    temperature_control:
+      name: Lämpötilan säätö
+    temperature_measurement:
+      name: Lämpötilan mittaus
+    template_type:
+      name: Sivupohjatyyppi
+    temple_color:
+      name: Sangan väri
+    temple_pattern:
+      name: Temppelikuvio
+    tension:
+      name: Jännitys
+    tequila_variety:
+      name: Tequilavalikoima
+    terminal_operation:
+      name: Päätelaitteen toiminta
+    terrain:
+      name: Maasto
+    test_format:
+      name: Testiformaatti
+    test_method:
+      name: Testausmenetelmä
+    test_sample:
+      name: Testinäyte
+    tetherball_equipment_included:
+      name: Mukana salkopallovarusteet
+    text_plate_material:
+      name: Tekstilevyn materiaali
+    textile_craft_machine_features:
+      name: Tekstiilikäsityökoneen ominaisuudet
+    textile_craft_project_type:
+      name: Tekstiilikäsityöprojektityyppi
+    texture:
+      name: Rakenne
+    texture_level:
+      name: Tekstuuritaso
+    theme:
+      name: Teema
+    thermal_detector_type:
+      name: Lämpöilmaisintyyppi
+    thermocouple_type:
+      name: Lämpösähköparityyppi
+    thickness_type:
+      name: Paksuustyyppi
+    thinner_application:
+      name: Ohenteen levittäminen
+    thread_direction:
+      name: Kierteen suunta
+    threaded_rod_size:
+      name: Kierretangon koko
+    throw_pillow_shape:
+      name: Sisustustyynyn muoto
+    ticket_additional_features:
+      name: Lippujen lisäominaisuudet
+    ticket_type:
+      name: Lipputyyppi
+    tile_design:
+      name: Laatan muotoilu
+    tile_game_type:
+      name: Laattapelin tyyppi
+    tile_installation_method:
+      name: Laattojen asennusmenetelmä
+    tile_look:
+      name: Laatan ulkonäkö
+    tile_material:
+      name: Laattojen materiaali
+    tile_texture:
+      name: Laatan rakenne
+    time_period:
+      name: Ajanjakso
+    time_signatures:
+      name: Tahtilajimerkinnät
+    time_weighting:
+      name: Aikapainotus
+    timepiece_features:
+      name: Kellon ominaisuudet
+    timer_design:
+      name: Ajastimen muotoilu
+    timer_features:
+      name: Ajastimen ominaisuudet
+    timer_type:
+      name: Ajastintyyppi
+    tip_design:
+      name: Kärjen muotoilu
+    tip_material:
+      name: Kärjen materiaali
+    tip_opening:
+      name: Kärjen aukko
+    tip_style:
+      name: Kärjen tyyli
+    tip_type:
+      name: Kärkityyppi
+    tire_bead_type:
+      name: Renkaan helmatyyppi
+    tobacco_type:
+      name: Tupakkatyyppi
+    toddler_bed_features:
+      name: Taaperon sängyn ominaisuudet
+    toe_spacer_design:
+      name: Varpaiden erottimen muotoilu
+    toe_strap_type:
+      name: Varvashihnan tyyppi
+    toe_style:
+      name: Kengänkärjen tyyli
+    toilet/bidet_mounting_type:
+      name: WC/bidee-asennustyyppi
+    toilet_cover_design:
+      name: WC-istuimen kannen muotoilu
+    toilet_cover_features:
+      name: WC-kannen ominaisuudet
+    toilet_mounting_type:
+      name: WC-istuimen asennustapa
+    toilet_shape:
+      name: WC-istuimen muoto
+    tom_tom_design:
+      name: Tom-tomin muotoilu
+    tool/utensil_material:
+      name: Työkalun/työvälineen materiaali
+    tool_key_tip:
+      name: Työkaluavaimen kärki
+    tool_mobility:
+      name: Työkalun liikkuvuus
+    tool_operation:
+      name: Työkalun toiminta
+    toothpaste_type:
+      name: Hammastahnatyyppi
+    toothpick_design:
+      name: Hammastikun muotoilu
+    top_color:
+      name: Päällyksen väri
+    top_length_type:
+      name: Topin pituustyyppi
+    top_material:
+      name: Päällyksen materiaali
+    top_pattern:
+      name: Yläkuvio
+    top_surface_material:
+      name: Päällyspintamateriaali
+    tote_handle_type:
+      name: Kassin kahvatyyppi
+    totem_design:
+      name: Toteemin muotoilu
+    touch_capabilities:
+      name: Kosketusominaisuudet
+    touchscreen_technology:
+      name: Kosketusnäyttöteknologia
+    toy/game_material:
+      name: Lelu-/pelimateriaali
+    toy_figure_features:
+      name: Leluhahmon ominaisuudet
+    toy_figure_theme:
+      name: Leluhahmon teema
+    toy_tool_type:
+      name: Lelutyökalutyyppi
+    tracking_metrics:
+      name: Seurantamittaristo
+    tracking_purpose:
+      name: Seurannan tarkoitus
+    tractor_accessories_included:
+      name: Mukana traktoritarvikkeet
+    trade_show_display_features:
+      name: Messunäyttöjen ominaisuudet
+    trading_card_packaging:
+      name: Keräilykuvien pakkaus
+    traffic_control_device_features:
+      name: Liikenteenohjauslaitteen ominaisuudet
+    trail_camera_design:
+      name: Riistakameran muotoilu
+    trailer_type:
+      name: Perävaunutyyppi
+    training_data_requirements:
+      name: Koulutusdatavaatimukset
+    trampoline_design:
+      name: Trampoliinin muotoilu
+    transcriber/dictation_system_features:
+      name: Transkriptori-/sanelujärjestelmän ominaisuudet
+    transfer_boards_surface_type:
+      name: Siirtolevyjen pintatyyppi
+    transfer_paper_technique:
+      name: Siirtopaperitekniikka
+    transmission_type:
+      name: Voimansiirtotyyppi
+    trash_can_features:
+      name: Roskakoriominaisuudet
+    travel_pillow_shape:
+      name: Matkatyynyn muoto
+    treatment_area:
+      name: Hoitoalue
+    treatment_objective:
+      name: Hoidon tavoite
+    treatment_texture:
+      name: Hoitokoostumus
+    treatment_type:
+      name: Hoitotyyppi
+    tree_stand_material:
+      name: Puun jalustan materiaali
+    trellis_design:
+      name: Säleikön muotoilu
+    tricycle_design:
+      name: Kolmipyörän muotoilu
+    tricycle_propulsion_type:
+      name: Kolmipyörän käyttövoimatyyppi
+    trip_type:
+      name: Matkatyyppi
+    tripod/monopod_attachment_type:
+      name: Kolmi-/yksijalkaisen jalustan kiinnitystyyppi
+    tripod/monopod_head_type:
+      name: Kolmi-/yksijalkaisen jalustapäätyyppi
+    tripod_handle_type:
+      name: Kolmijalustan kahvan tyyppi
+    trophy_design:
+      name: Pokaalin muotoilu
+    truck_type:
+      name: Kuorma-autotyyppi
+    tube_component:
+      name: Putkikomponentti
+    tube_configuration:
+      name: Putken konfiguraatio
+    tuner_design:
+      name: Virittimen suunnittelu
+    tuner_type:
+      name: Viritintyyppi
+    tuning_fork_design:
+      name: Virityshaarukan muotoilu
+    tuning_fork_frequency:
+      name: Virityshaarukan taajuus
+    tuning_modes:
+      name: Viritystilat
+    tuning_pitch:
+      name: Virityskorkeus
+    tuning_range:
+      name: Viritysalue
+    undershirt_style:
+      name: Aluspaidan tyyli
+    underwear_style:
+      name: Alusvaatteiden tyyli
+    units_of_measurement:
+      name: Mittayksiköt
+    update_frequency:
+      name: Päivitystaajuus
+    upholstery_color:
+      name: Verhoilun väri
+    upholstery_material:
+      name: Verhoilumateriaali
+    upholstery_pattern:
+      name: Verhoilukuvio
+    urinal_mounting_type:
+      name: Urinaalin asennustapa
+    usage_conditions:
+      name: Käyttöolosuhteet
+    usage_frequency:
+      name: Käyttötaajuus
+    usage_type:
+      name: Käyttötyyppi
+    usb_standard:
+      name: USB-standardi
+    user_type:
+      name: Käyttäjätyyppi
+    utility/maintenance_task_type:
+      name: Apuohjelma-/ylläpitotehtävätyyppi
+    uv_protection:
+      name: UV-suojaus
+    vacuum_air_filtering_technology:
+      name: Imurin ilmansuodatusteknologia
+    valve_type:
+      name: Venttiilityyppi
+    van_type:
+      name: Pakettiautotyyppi
+    vaping_style:
+      name: Höyrystystyyli
+    varnish/finish_application:
+      name: Lakan/viimeistelyaineen levittäminen
+    vase_shape:
+      name: Maljakon muoto
+    vdi_protocol_support:
+      name: Vdi-protokollan tuki
+    vehicle_alarm/lock_features:
+      name: Ajoneuvon hälytin/lukko-ominaisuudet
+    vehicle_application_area:
+      name: Ajoneuvon sovellusalue
+    vehicle_audio_system_features:
+      name: Ajoneuvon audiojärjestelmän ominaisuudet
+    vehicle_braking_features:
+      name: Ajoneuvon jarrujen ominaisuudet
+    vehicle_cleaning_item_features:
+      name: Ajoneuvojen puhdistuskohteen ominaisuudet
+    vehicle_decor_features:
+      name: Ajoneuvojen sisustusominaisuudet
+    vehicle_drive/handling_features:
+      name: Ajoneuvon ajo-/käsittelyominaisuudet
+    vehicle_engine/part_features:
+      name: Ajoneuvon moottorin/osien ominaisuudet
+    vehicle_engine_features:
+      name: Ajoneuvon moottorin ominaisuudet
+    vehicle_engine_part_features:
+      name: Ajoneuvon moottorin osien ominaisuudet
+    vehicle_exhaust_type:
+      name: Ajoneuvon pakoputkityyppi
+    vehicle_features:
+      name: Ajoneuvon ominaisuudet
+    vehicle_fluid_features:
+      name: Ajoneuvon nesteiden ominaisuudet
+    vehicle_fluid_type:
+      name: Ajoneuvon nestetyyppi
+    vehicle_frame/body_features:
+      name: Ajoneuvon rungon/korin ominaisuudet
+    vehicle_mirror_design:
+      name: Auton peilien muotoilu
+    vehicle_mirror_features:
+      name: Auton peilien ominaisuudet
+    vehicle_mirror_type:
+      name: Ajoneuvon peilin tyyppi
+    vehicle_oil_features:
+      name: Ajoneuvon öljyn ominaisuudet
+    vehicle_paint_type:
+      name: Ajoneuvon maalityyppi
+    vehicle_placement:
+      name: Ajoneuvon sijoittelu
+    vehicle_seating_features:
+      name: Ajoneuvon istuinominaisuudet
+    vehicle_suspension_features:
+      name: Ajoneuvon jousituksen ominaisuudet
+    vehicle_tire_type:
+      name: Ajoneuvon rengastyyppi
+    vehicle_type:
+      name: Ajoneuvotyyppi
+    verification_technology:
+      name: Varmennustekniikka
+    vg/pg_ratio:
+      name: VG/PG-suhde
+    video_codecs/formats_supported:
+      name: Tuetut videokoodekit/-formaatit
+    video_game_content_features:
+      name: Videopelien sisällön ominaisuudet
+    video_game_genre:
+      name: Videopelilajityyppi
+    video_game_platform:
+      name: Videopelialusta
+    video_game_sub_genre:
+      name: Videopelien alalaji
+    video_port_type:
+      name: Videoporttityyppi
+    video_region_code:
+      name: Videon aluekoodi
+    video_resolution_supported:
+      name: Tuettu videoresoluutio
+    viewing_area_height:
+      name: Katselualueen korkeus
+    viewing_area_width:
+      name: Katselualueen leveys
+    vinegar_drink_variety:
+      name: Etikkajuomavalikoima
+    vinegar_variety:
+      name: Etikkavalikoima
+    viscosity:
+      name: Viskositeetti
+    visual_effect:
+      name: Visuaalinen tehoste
+    voip_protocol_support:
+      name: Voip-protokollan tuki
+    wader_type:
+      name: Kahluuhousujen tyyppi
+    waist_rise:
+      name: Vyötärön nosto
+    wall_material:
+      name: Seinämateriaali
+    wall_patching_application:
+      name: Seinienpaikkaussovellus
+    wall_plate_style:
+      name: Seinälevyn tyyli
+    wallet_features:
+      name: Lompakon ominaisuudet
+    wallpaper_application_method:
+      name: Tapetin kiinnitystapa
+    wallpaper_theme:
+      name: Taustakuvan teema
+    warning_category:
+      name: Varoitusluokka
+    washer/dryer_features:
+      name: Pesukoneen/kuivausrummun ominaisuudet
+    washer_form:
+      name: Pesukoneen ulkomuoto
+    washing_machine_features:
+      name: Pyykinpesukoneen ominaisuudet
+    washing_method:
+      name: Pesumenetelmä
+    washing_programs:
+      name: Pesuohjelmat
+    waste_bag_features:
+      name: Jätepussin ominaisuudet
+    waste_bag_material:
+      name: Jätepussin materiaali
+    watch/band_material:
+      name: Kellon/hihnan materiaali
+    watch_accessory_style:
+      name: Kellon lisätuotteen tyyli
+    watch_display:
+      name: Kellon näyttö
+    watch_features:
+      name: Kellon ominaisuudet
+    watch_material:
+      name: Kellon materiaali
+    water_filter_application:
+      name: Vedensuodatinsovellus
+    water_sport:
+      name: Vesiurheilu
+    watercraft_engine_control_type:
+      name: Aluksen moottorin ohjaustapa
+    watercraft_features:
+      name: Vesikulkuneuvojen ominaisuudet
+    watercraft_motor_mounting_type:
+      name: Aluksen moottorin asennustapa
+    watercraft_propulsion_type:
+      name: Vesikulkuneuvon käyttövoimatyyppi
+    watercraft_steering_wheel_type:
+      name: Aluksen ohjauspyörätyyppi
+    watercraft_type:
+      name: Alustyyppi
+    waveski_features:
+      name: Waveskin ominaisuudet
+    wax_application_method:
+      name: Vahan levitysmenetelmä
+    wax_type:
+      name: Vahatyyppi
+    weather_strip_design:
+      name: Tiivistenauhan muotoilu
+    weather_supply_application_method:
+      name: Säätarvikkeiden käyttömenetelmä
+    weatherization_application:
+      name: Tiivistyssovellus
+    webcam_design:
+      name: Verkkokameran muotoilu
+    weight_bar_activity:
+      name: Painotangon toiminta
+    weight_bar_type:
+      name: Painotankotyyppi
+    weight_type:
+      name: Painotyyppi
+    weight_unit_supported:
+      name: Tuettu painoyksikkö
+    welding_helmet_features:
+      name: Hitsauskypärän ominaisuudet
+    wet_bag_features:
+      name: Märkäpussin ominaisuudet
+    wheel_hardness:
+      name: Pyörän kovuus
+    wheel_hub_placement:
+      name: Pyörän keskiön sijoittelu
+    wheel_part_type:
+      name: Pyörän osan tyyppi
+    wheel_type:
+      name: Pyörätyyppi
+    wheelchair_type:
+      name: Pyörätuolityyppi
+    whiskey_style:
+      name: Viskin tyyli
+    whiskey_variety:
+      name: Viskivalikoima
+    wi_fi_band:
+      name: Wi-Fi-kaista
+    wi_fi_standard:
+      name: Wi-Fi-standardi
+    winder_features:
+      name: Rajauskynän ominaisuudet
+    windlass_design:
+      name: Tuulilasien muotoilu
+    window_treatment_material:
+      name: Ikkunankäsittelymateriaali
+    windsurfing_board_style:
+      name: Purjelautailun tyyli
+    wine_rack_design:
+      name: Viinitelineen muotoilu
+    wine_sweetness:
+      name: Viinin makeus
+    wine_variety:
+      name: Viinivalikoima
+    wipe_dispenser/warmer_features:
+      name: Pyyheannostelijan/-lämmittimen ominaisuudet
+    wipe_dispenser_features:
+      name: Pyyheannostelijan ominaisuudet
+    wipe_fragrance:
+      name: Pyyheliinan tuoksu
+    wipe_packaging:
+      name: Pyyheliinapakkaus
+    wipe_warmer_features:
+      name: Pyyhelämmittimen ominaisuudet
+    wire/rope_material:
+      name: Vaijerin/köyden materiaali
+    wire_thickness:
+      name: Metallilangan paksuus
+    woodwind_care_items_included:
+      name: Mukana puupuhaltimien hoitotuotteita
+    work_capacity:
+      name: Työkapasiteetti
+    wreath_design:
+      name: Seppeleen muotoilu
+    yacht_type:
+      name: Jahtityyppi
+    yarn_weight_category:
+      name: Langan painoluokka
+    zipper_pull_style:
+      name: Vetoketjun tyyli
+    zoom_type:
+      name: Zoomityyppi

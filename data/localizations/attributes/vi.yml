@@ -1,0 +1,4531 @@
+---
+vi:
+  attributes:
+    3d_glasses_material:
+      name: Vật liệu kính 3D
+    abrasive_material:
+      name: Vật liệu kết dính
+    absinthe_style:
+      name: Phong cách rượu absinthe
+    absinthe_variety:
+      name: Loại rượu absinthe
+    absorbency_level:
+      name: Mức độ hấp thụ
+    absorbent_hygiene_product_features:
+      name: Tính năng sản phẩm vệ sinh thấm hút
+    academic_level:
+      name: Trình độ học thuật
+    accessory_material:
+      name: Vật liệu phụ kiện
+    accessory_size:
+      name: Kích cỡ phụ kiện
+    accordion_tuning:
+      name: Điều chỉnh đàn phong cầm
+    active_ingredient:
+      name: Thành phần hoạt tính
+    activewear_clothing_features:
+      name: Đặc điểm quần áo thể thao
+    activity:
+      name: Hoạt động
+    activity_tracker_design:
+      name: Thiết kế theo dõi hoạt động
+    acupuncture_model_format:
+      name: Định dạng mô hình châm cứu
+    acupuncture_model_type:
+      name: Loại mô hình châm cứu
+    additional_animation_software_features:
+      name: Các tính năng phần mềm hoạt hình bổ sung
+    additional_design_software_type:
+      name: Loại phần mềm thiết kế bổ sung
+    additional_financial_software_features:
+      name: Các tính năng phần mềm tài chính bổ sung
+    additional_graphic_software_features:
+      name: Các tính năng phần mềm đồ họa bổ sung
+    additional_publishing_software_features:
+      name: Các tính năng phần mềm xuất bản bổ sung
+    additional_security_software_features:
+      name: Các tính năng phần mềm bảo mật bổ sung
+    adhesive_type:
+      name: Loại chất kết dính
+    aftershave_product_form:
+      name: Mẫu sản phẩm sau cạo râu
+    age_group:
+      name: Nhóm tuổi
+    age_restrictions:
+      name: Hạn chế về độ tuổi
+    ai_application:
+      name: Ứng dụng trí tuệ nhân tạo
+    air_freshener_form:
+      name: Dạng bộ lọc không khí
+    air_mattress_features:
+      name: Tính năng nệm hơi
+    airbrush_feed_type:
+      name: Loại nguồn cấp phun sơn
+    airbrush_operation_method:
+      name: Phương pháp vận hành phun sơn
+    airsoft_equipment_included:
+      name: Bao gồm thiết bị súng hơi hạng nhẹ
+    album_type:
+      name: Loại album
+    alert_type:
+      name: Loại cảnh báo
+    allergen_information:
+      name: Thông tin về chất gây dị ứng
+    allergen_test_type:
+      name: Loại thử nghiệm chất gây dị ứng
+    allergens:
+      name: Chất gây dị ứng
+    allergy_friendly_features:
+      name: Tính năng chống dị ứng
+    amplifier/booster_suitable_location:
+      name: Vị trí phù hợp của Bộ khuếch đại/Booster
+    amplifier_class:
+      name: Lớp bộ khuếch đại
+    amplifier_configuration:
+      name: Cấu hình bộ khuếch đại
+    anchor_type:
+      name: Loại neo
+    anemometer_application:
+      name: Ứng dụng máy đo gió
+    angles_supported:
+      name: Góc được hỗ trợ
+    angling_style:
+      name: Kiểu câu cá
+    animal_feed_form:
+      name: Mẫu thức ăn chăn nuôi
+    animal_type:
+      name: Loại động vật
+    antenna_type:
+      name: Loại ăng-ten
+    anti_agin_skin_care_type:
+      name: Loại chăm sóc da chống lão hóa
+    antifreeze_type:
+      name: Loại chất chống đông
+    application_area:
+      name: Khu vực ứng dụng
+    application_method:
+      name: Phương pháp ứng dụng
+    applicator_material:
+      name: Vật liệu dặm
+    applicator_type:
+      name: Loại dụng cụ
+    applique/patch_shape:
+      name: Hình dạng đính/vá
+    applique_shape:
+      name: Hình dạng đính
+    aquarium_filter_features:
+      name: Tính năng lọc bể cá
+    aquarium_light_spectrum:
+      name: Quang phổ ánh sáng bể cá
+    aquarium_overflow_box_design:
+      name: Thiết kế hộp thu nước bể cá
+    archery_activity:
+      name: Hoạt động bắn cung
+    archery_equipment_included:
+      name: Bao gồm thiết bị bắn cung
+    archery_style:
+      name: Phong cách bắn cung
+    aromatherapy:
+      name: Liệu pháp mùi hương
+    arrangement:
+      name: Cách sắp đặt
+    arrow/bolt_material:
+      name: Vật liệu mũi tên/bu lông
+    arrow_fletching_material:
+      name: Vật liệu gắn vây cho mũi tên
+    arrow_material:
+      name: Vật liệu mũi tên
+    art/crafting_tool_material:
+      name: Vật liệu dụng cụ thủ công mỹ nghệ/nghệ thuật
+    art_fixative_application_method:
+      name: Phương pháp dán keo nghệ thuật
+    art_style:
+      name: Phong cách nghệ thuật
+    artwork_frame_material:
+      name: Vật liệu khung tranh nghệ thuật
+    artwork_type:
+      name: Loại tác phẩm
+    assisted_braking_technology:
+      name: Công nghệ phanh hỗ trợ
+    attachment_method:
+      name: Phương pháp đính kèm
+    attachment_options:
+      name: Tuỳ chọn đính kèm
+    attachment_type:
+      name: Loại tệp đính kèm
+    atv/off_road_tire_type:
+      name: Loại lốp xe vượt địa hình/lốp địa hình
+    audio/scan_converter_features:
+      name: Tính năng chuyển đổi âm thanh/quét
+    audio_codecs/formats_supported:
+      name: Các codec/định dạng âm thanh được hỗ trợ
+    audio_connectivity:
+      name: Kết nối âm thanh
+    audio_converter_features:
+      name: Tính năng chuyển đổi âm thanh
+    audio_d/a_converter_dac:
+      name: Bộ chuyển đổi D/A âm thanh (Dac)
+    audio_mixer_type:
+      name: Loại bộ trộn âm thanh
+    audio_output_channel:
+      name: Kênh đầu ra âm thanh
+    audio_output_format:
+      name: Định dạng đầu ra âm thanh
+    audio_player/recorder_features:
+      name: Tính năng phát/ghi âm thanh
+    audio_purpose:
+      name: Mục đích của âm thanh
+    audio_technology:
+      name: Công nghệ âm thanh
+    authentication_technology:
+      name: Công nghệ xác thực
+    authenticity:
+      name: Tính xác thực
+    auto_focusing_modes:
+      name: Chế độ lấy nét tự động
+    autoclave_sterilization_method:
+      name: Phương pháp khử trùng bằng nồi hấp
+    autograph_type:
+      name: Loại chữ ký
+    automation:
+      name: Tự động hoá
+    award_design:
+      name: Thiết kế giải thưởng
+    award_occasion:
+      name: Dịp trao giải
+    awning_construction_type:
+      name: Kiểu nhà có mái hiên
+    awning_design:
+      name: Thiết kế mái hiên
+    baby/toddler_car_seat_features:
+      name: Tính năng ghế ngồi ô tô cho trẻ nhỏ/trẻ tập đi
+    baby/toddler_clothing_features:
+      name: Tính năng quần áo trẻ em/trẻ tập đi
+    baby/toddler_equipment_safety_features:
+      name: Các tính năng an toàn của thiết bị dành cho trẻ sơ sinh/trẻ tập đi
+    baby/toddler_furniture_features:
+      name: Đặc điểm nội thất dành cho trẻ sơ sinh/trẻ tập đi
+    baby/toddler_furniture_items_included:
+      name: Bao gồm đồ đạc dành cho trẻ sơ sinh/trẻ tập đi
+    baby/toddler_hat_style:
+      name: Kiểu mũ trẻ em/trẻ tập đi
+    baby/toddler_hosiery_style:
+      name: Phong cách hàng dệt kim cho trẻ sơ sinh/trẻ tập đi
+    baby/toddler_seat_features:
+      name: Tính năng ghế trẻ em/trẻ tập đi
+    baby/toddler_sleepwear_style:
+      name: Kiểu đồ ngủ trẻ em/trẻ tập đi
+    baby_drink_packaging:
+      name: Bao bì đồ uống trẻ em
+    baby_equipment_safety_features:
+      name: Tính năng an toàn của thiết bị trẻ em
+    baby_food_flavor:
+      name: Hương vị thức ăn trẻ em
+    baby_formula_format:
+      name: Sữa bột công thức cho bé
+    baby_gift_items_included:
+      name: Bao gồm các vật dụng cho bé
+    baby_health_items_included:
+      name: Bao gồm các mặt hàng sức khỏe cho bé
+    baby_monitor_features:
+      name: Tính năng giám sát trẻ sơ sinh
+    baby_snack_flavor:
+      name: Hương vị đồ ăn nhẹ cho bé
+    baby_snack_texture:
+      name: Kết cấu đồ ăn nhẹ cho bé
+    back_type:
+      name: Kiểu lưng
+    background_design:
+      name: Thiết kế hậu cảnh
+    backing_color:
+      name: Màu nền
+    backing_material:
+      name: Vật liệu nền
+    backing_pattern:
+      name: Họa tiết nền
+    backrest_type:
+      name: Loại tựa lưng
+    backrest_upholstery_color:
+      name: Màu sắc bọc tựa lưng
+    backrest_upholstery_material:
+      name: Chất liệu bọc hỗ trợ lưng
+    backrest_upholstery_pattern:
+      name: Họa tiết bọc tựa lưng
+    bag/case_closure:
+      name: Túi đựng/Vỏ bảo vệ
+    bag/case_features:
+      name: Tính năng túi/hộp
+    bag/case_material:
+      name: Vật liệu túi/hộp
+    bag/case_storage_features:
+      name: Tính năng túi/hộp bảo quản
+    bag_closure:
+      name: Kiểu khóa túi
+    bag_strap_type:
+      name: Kiểu dây đeo túi
+    bag_style:
+      name: Kiểu túi
+    bag_type:
+      name: Loại túi
+    bakery_items_included:
+      name: Bao gồm đồ nướng
+    bakeware_features:
+      name: Tính năng đồ nướng
+    bakeware_items_included:
+      name: Bao gồm đồ nướng
+    bakeware_pieces_included:
+      name: Bao gồm các khay nướng
+    bakeware_shape:
+      name: Hình dạng đồ nướng
+    baking_purpose:
+      name: Mục đích nướng bánh
+    baking_sheet_material:
+      name: Vật liệu giấy nướng
+    ball_material:
+      name: Vật liệu bóng
+    ball_size:
+      name: Kích cỡ quả bóng
+    balloon_kit_items_included:
+      name: Bộ sản phẩm bóng bay đi kèm
+    balloon_shape:
+      name: Hình dạng bóng bay
+    band_color:
+      name: Màu dây đeo
+    band_material:
+      name: Chất liệu dây đeo
+    band_pattern:
+      name: Họa tiết vòng đeo tay
+    band_strength:
+      name: Độ bền nẹp
+    banner_design:
+      name: Thiết kế biểu ngữ
+    bar_mounting_type:
+      name: Loại lắp thanh
+    barcode_scanner_interface:
+      name: Giao diện máy quét mã vạch
+    barcode_supported:
+      name: Mã vạch được hỗ trợ
+    barrel_material:
+      name: Chất liệu thùng
+    barware_items_included:
+      name: Bao gồm các các đồ dùng quầy bar
+    barware_material:
+      name: Vật liệu quầy bar
+    base_oil:
+      name: Dầu nền
+    base_spirit:
+      name: Rượu nền
+    base_type:
+      name: Loại chất nền
+    baseball/softball_ball_type:
+      name: Loại bóng chày/bóng mềm
+    basket_material:
+      name: Vật liệu giỏ
+    basketball_equipment_included:
+      name: Bao gồm thiết bị bóng rổ
+    bass_button_configuration:
+      name: Cấu hình nút bass
+    bat_material:
+      name: Vật liệu gậy đánh bóng
+    bat_standard:
+      name: Tiêu chuẩn gậy
+    bathroom_furniture_items_included:
+      name: Bao gồm đồ dùng phòng tắm
+    bathtub_base_design:
+      name: Thiết kế chân bồn tắm
+    bathtub_features:
+      name: Tính năng bồn tắm
+    bathtub_skirt_shape:
+      name: Hình dạng viền bồn tắm
+    baton_grip_design:
+      name: Thiết kế tay cầm dùi cui
+    battery_cell_type:
+      name: Loại tế bào pin
+    battery_features:
+      name: Tính năng pin
+    battery_management_features:
+      name: Tính năng quản lý pin
+    battery_size:
+      name: Dung lượng pin
+    battery_technology:
+      name: Công nghệ pin
+    battery_type:
+      name: Loại pin
+    bead_shape:
+      name: Hình dạng hạt cườm
+    beat_subdivisions:
+      name: Chia nhỏ nhịp
+    beater_head_size:
+      name: Kích thước đầu gậy trống
+    bed/frame_features:
+      name: Tính năng giường/khung
+    bed_pan_type:
+      name: Loại bô dẹt
+    bedding_pieces_included:
+      name: Bao gồm cả bộ đồ phòng ngủ
+    bedding_size:
+      name: Kích cỡ giường
+    beer_style:
+      name: Phong cách bia
+    beer_variety:
+      name: Loại bia
+    bell_design:
+      name: Thiết kế chuông
+    bell_size:
+      name: Cỡ chuông
+    bell_sound:
+      name: Âm thanh chuông
+    belt_type:
+      name: Loại dây an toàn
+    best_uses:
+      name: Cách sử dụng phù hợp nhất
+    bevel_type:
+      name: Kiểu vát
+    beverage_product_form:
+      name: Mẫu sản phẩm đồ uống
+    bib_design:
+      name: Thiết kế yếm dãi
+    bicycle_brake_type:
+      name: Loại phanh xe đạp
+    bicycle_features:
+      name: Tính năng xe đạp
+    bidet_mounting_type:
+      name: Kiểu giá đỡ chậu vệ sinh
+    binder_ring_shape:
+      name: Hình dạng bìa còng
+    binding_mount:
+      name: Khung gắn
+    binding_style:
+      name: Kiểu gắn
+    binocular/monocular_design:
+      name: Thiết kế hai mắt/một mắt
+    binocular_design:
+      name: Thiết kế ống nhòm
+    biometric_monitor_accessory_features:
+      name: Tính năng phụ kiện màn hình sinh trắc học
+    bios_type:
+      name: Loại BIOS
+    bird_cage/stand_design:
+      name: Thiết kế lồng chim/giá đỡ
+    bird_food_form:
+      name: Dạng thức ăn cho chim
+    bird_food_ingredients:
+      name: Nguyên liệu thức ăn cho chim
+    bird_treat_type:
+      name: Loại thức ăn cho chim
+    birthday_candle_design:
+      name: Thiết kế nến sinh nhật
+    birthday_candle_type:
+      name: Loại nến sinh nhật
+    bitter_variety:
+      name: Loại vị đắng
+    blade_curve:
+      name: Đường cong lưỡi
+    blade_design:
+      name: Thiết kế lưỡi
+    blade_material:
+      name: Chất liệu lưỡi
+    blade_type:
+      name: Loại lưỡi
+    blanket_color:
+      name: Màu chăn
+    blanket_pattern:
+      name: Họa tiết chăn
+    blending_type:
+      name: Kiểu pha trộn
+    blind/shade_style:
+      name: Kiểu màn che
+    blood_test_kit_components:
+      name: Thành phần của bộ xét nghiệm máu
+    board_concave_shape:
+      name: Tấm ván có hình dạng lõm
+    board_game_features:
+      name: Tính năng trò chơi cờ bàn
+    board_game_mechanics:
+      name: Cơ chế trò chơi cờ bàn
+    board_material:
+      name: Vật liệu ván
+    board_mounting_type:
+      name: Kiểu giá đỡ bảng
+    board_profile:
+      name: Hình dạng ván
+    board_surface:
+      name: Bề mặt bảng
+    board_type:
+      name: Loại ván
+    boat_type:
+      name: Loại thuyền
+    body/facial_hair_type:
+      name: Kem làm nhạt màu lông mặt và thân
+    body_area:
+      name: Vùng cơ thể
+    body_color:
+      name: Màu sắc tổng thể
+    body_jewelry_type:
+      name: Loại trang sức cơ thể
+    body_material:
+      name: Vật liệu vỏ
+    body_paint/foundation_type:
+      name: Loại phấn nền/sơn cơ thể
+    body_pattern:
+      name: Vẽ cơ thể
+    bodyboard_features:
+      name: Tính năng ván lướt sóng nằm
+    boiler_system:
+      name: Hệ thống nồi hơi
+    bolt_form:
+      name: Dạng chốt cửa
+    bolt_material:
+      name: Vật liệu bulông
+    book/file_cover_material:
+      name: Vật liệu bìa sách/bìa hồ sơ
+    book_cover_material:
+      name: Vật liệu bìa sách
+    book_cover_type:
+      name: Loại bìa sách
+    bookmark_design:
+      name: Thiết kế dấu trang
+    bookmark_shape:
+      name: Hình dạng dấu trang
+    boot_style:
+      name: Kiểu giày
+    boot_type:
+      name: Loại ủng
+    borescope_design:
+      name: Thiết kế kính nội soi
+    bottle/container_closure:
+      name: Nắp chai/hộp đựng
+    bottle_closure_type:
+      name: Kiểu đóng chai
+    bottle_design:
+      name: Thiết kế chai
+    bottle_material:
+      name: Vật liệu chai
+    bottle_sterilizer_features:
+      name: Tính năng tiệt trùng bình sữa
+    bottle_type:
+      name: Loại chai
+    bottle_warmer/sterilizer_features:
+      name: Tính năng hâm nóng/tiệt trùng bình sữa
+    bottle_warmer_features:
+      name: Tính năng hâm sữa
+    bottom_surface_material:
+      name: Vật liệu bề mặt đáy
+    bow/crossbow_features:
+      name: Tính năng cung/nỏ
+    bow_features:
+      name: Tính năng cung
+    bow_hair_material:
+      name: Vật liệu nơ kẹp tóc
+    bow_material:
+      name: Chất liệu nơ
+    box_type:
+      name: Loại hộp
+    bra_closure_type:
+      name: Loại áo ngực có móc gài
+    bra_coverage:
+      name: Áo ngực che phủ tạo khe
+    bra_features:
+      name: Tính năng áo ngực
+    bra_strap_type:
+      name: Loại dây áo ngực
+    bra_style:
+      name: Kiểu áo ngực
+    bra_support_level:
+      name: Mức nâng của áo ngực
+    bracelet_design:
+      name: Thiết kế vòng tay
+    bracket/brace_design:
+      name: Thiết kế khung/nẹp
+    brandy_variety:
+      name: Loại rượu mạnh
+    breath_sprays_certifications:
+      name: Chứng nhận thuốc xịt hơi thở
+    bridge/router_advanced_features:
+      name: Các tính năng nâng cao của Bridge/Router
+    brightness_levels:
+      name: Mức độ sáng
+    bristle_material:
+      name: Chất liệu lông
+    bristle_shape:
+      name: Kiểu dáng lông
+    broadhead/field_point_material:
+      name: Vật liệu đầu rộng/điểm trường
+    brush_application:
+      name: Ứng dụng cọ vẽ
+    brush_head_usage:
+      name: Cách sử dụng đầu chuốt
+    brush_material:
+      name: Vật liệu cọ
+    brush_size:
+      name: Kích cỡ cọ
+    brush_type:
+      name: Loại cọ
+    bug_type:
+      name: Loại lỗi
+    building_board_material:
+      name: Vật liệu các tông xây dựng
+    building_consumable_form:
+      name: Mẫu vật liệu xây dựng
+    building_toy_type:
+      name: Loại đồ chơi xây dựng
+    bulb_cap_type:
+      name: Loại đui đèn
+    bulb_shape:
+      name: Hình dạng bóng đèn
+    bulb_size:
+      name: Cỡ bóng đèn
+    bulb_type:
+      name: Loại bóng đèn
+    bulldozer_blade_type:
+      name: Loại lưỡi máy ủi
+    bullet_protection_level:
+      name: Cấp bảo vệ chống đạn
+    bullhorn_features:
+      name: Tính năng loa pin
+    bullion_form:
+      name: Dạng vàng bạc
+    burner_material:
+      name: Vật liệu đèn dầu
+    butt_cap_color:
+      name: Màu nắp mông
+    butt_cap_material:
+      name: Chất liệu bọc cần câu cá
+    butt_cap_pattern:
+      name: Mẫu nắp vợt
+    button/snap_closure_type:
+      name: Kiểu nút/khóa đóng
+    cabinet_type:
+      name: Loại tủ
+    cable_housing_material:
+      name: Vật liệu vỏ cáp
+    cable_shielding:
+      name: Vỏ chống nhiễu dây cáp
+    cable_type:
+      name: Loại dây cáp
+    cage_type:
+      name: Loại khung
+    calculator_accessory_type:
+      name: Loại phụ kiện máy tính
+    calculator_features:
+      name: Tính năng máy tính
+    calendar/organizer_features:
+      name: Tính năng Lịch/Sắp xếp
+    calendar_format:
+      name: Định dạng lịch
+    cam_system:
+      name: Hệ thống cam
+    camera_attachment:
+      name: Phụ tùng máy ảnh
+    camera_button/knob_type:
+      name: Loại nút/núm máy ảnh
+    camera_control_type:
+      name: Loại điều khiển máy ảnh
+    camera_display_technology:
+      name: Công nghệ màn hình hiển thị
+    camera_features:
+      name: Vật liệu ống kính máy ảnh
+    camera_gear_type:
+      name: Loại phụ kiện máy ảnh
+    camera_hd_type:
+      name: Loại HD của camera
+    camera_lens_material:
+      name: Vật liệu ống kính máy ảnh
+    camera_lens_type:
+      name: Loại ống kính máy ảnh
+    camera_mounting_type:
+      name: Loại giá đỡ máy ảnh
+    camera_sensor_type:
+      name: Loại cảm biến máy ảnh
+    camera_shape:
+      name: Kiểu dáng máy ảnh
+    candle_kit_items_included:
+      name: Bộ nến đi kèm
+    candle_material:
+      name: Vật liệu nến
+    candle_shape:
+      name: Hình nến
+    candle_type:
+      name: Loại nến
+    canned_meat_variety:
+      name: Loại thịt đóng hộp
+    canopy_color:
+      name: Màu canopy
+    canopy_material:
+      name: Chất liệu mái che
+    canopy_pattern:
+      name: Mẫu canopy
+    canvas_finish:
+      name: Độ hoàn thiện tranh sơn dầu
+    canvas_material:
+      name: Vật liệu canvas
+    canvas_texture:
+      name: Kết cấu tranh sơn dầu
+    car_freshener_fragrance:
+      name: Nước hoa khử mùi ô tô
+    car_seat_installation:
+      name: Lắp đặt ghế ô tô
+    car_seat_orientation:
+      name: Định hướng ghế ô tô
+    car_type:
+      name: Loại ô tô
+    carabiner_gate_type:
+      name: Kiểu đóng mở móc carabiner
+    carabiner_shape:
+      name: Hình dạng carabiner
+    card/adapter_installation:
+      name: Lắp thẻ/bộ chuyển đổi
+    card_attributes:
+      name: Thuộc tính thẻ
+    card_design:
+      name: Thiết kế thẻ
+    card_format:
+      name: Định dạng thẻ
+    card_holder_design:
+      name: Thiết kế ngăn đựng thẻ
+    card_size:
+      name: Cỡ thẻ
+    care_instructions:
+      name: Hướng dẫn bảo quản
+    carry_options:
+      name: Cách đeo
+    carrying_positions:
+      name: Vị trí đeo
+    carrying_type:
+      name: Kiểu đeo
+    cart_design:
+      name: Thiết kế xe đẩy hàng
+    cart_type:
+      name: Loại xe đẩy hàng
+    cartridge_type:
+      name: Loại đầu máy quay đĩa
+    case_color:
+      name: Màu vỏ
+    case_pattern:
+      name: Mẫu vỏ
+    case_type:
+      name: Loại ốp
+    cassette_adapter_type:
+      name: Loại bộ chuyển đổi băng cát-xét
+    cat_age_group:
+      name: Nhóm tuổi mèo
+    cat_litter_formula:
+      name: Công thức cát vệ sinh hữu cơ cho mèo
+    cbd_ingredients:
+      name: Thành phần CBD
+    celebration_type:
+      name: Kiểu lễ kỷ niệm
+    chain_link_type:
+      name: Kiểu mắt xích dây chuyền
+    chain_type:
+      name: Loại dây xích
+    chair/sofa_features:
+      name: Tính năng ghế/sofa
+    chair_features:
+      name: Tính năng ghế
+    chalkboard_surface:
+      name: Bề mặt bảng đen
+    changing_mat/tray_features:
+      name: Tính năng chiếu/tấm thay tã
+    changing_mat_features:
+      name: Tính năng chiếu thay tã
+    changing_tray_features:
+      name: Tính năng tấm thay tá
+    charger_type:
+      name: Loại bộ sạc
+    charging_cable_type:
+      name: Loại cáp sạc
+    charging_level:
+      name: Mức sạc
+    charging_method:
+      name: Phương pháp sạc
+    chassis_type:
+      name: Loại vỏ máy tính
+    chemical_application:
+      name: Ứng dụng hóa chất
+    chemical_container_type:
+      name: Loại thùng chứa hoá chất
+    chemical_grade:
+      name: Cấp hoá chất
+    chemical_product_form:
+      name: Mẫu sản phẩm hoá chất
+    chemical_purity:
+      name: Độ tinh khiết hoá học
+    chemical_safety_features:
+      name: Tính an toàn hoá chất
+    chicken_feed_stage:
+      name: Giai đoạn cho gà ăn
+    child_seat_placement:
+      name: Vị trí ghế trẻ em
+    chipper_technology:
+      name: Công nghệ máy băm gỗ
+    chiropractic_table_design:
+      name: Thiết kế bàn nắn khớp
+    chuck_type:
+      name: Loại đầu kẹp mũi khoan
+    cigar_body:
+      name: Độ đậm của xì gà
+    circuit_board_features:
+      name: Tính năng bảng mạch
+    circuit_breaker_design:
+      name: Thiết kế bộ cầu giao tự động
+    circuit_breaker_panel_form:
+      name: Mẫu bảng cầu giao tự động
+    circuit_breaker_type:
+      name: Loại cầu dao tự động
+    clarinet_key_system:
+      name: Hệ thống phím kèn Clarinet
+    clasp_type:
+      name: Loại khoá
+    claw_design:
+      name: Thiết kế kẹp
+    clay/slip_texture:
+      name: Kết cấu đất sét
+    clay_texture:
+      name: Kết cấu đất sét
+    cleaner_purpose:
+      name: Mục đích máy hút bụi
+    cleaning_instructions:
+      name: Hướng dẫn vệ sinh
+    cleaning_purpose:
+      name: Mục đích làm sạch
+    cleaning_surfaces:
+      name: Bề mặt làm sạch
+    cleat_type:
+      name: Loại cọc đầu dây
+    climbing_activity:
+      name: Hoạt động leo núi
+    clip_type:
+      name: Loại gá kẹp
+    clipper/trimmer_type:
+      name: Loại tông đơ
+    closure_style:
+      name: Kiểu đóng
+    closure_type:
+      name: Loại đóng
+    clothing_accessory_material:
+      name: Vật liệu phụ kiện quần áo
+    clothing_features:
+      name: Tính năng quần áo
+    club_subset:
+      name: Nhóm gậy
+    club_type:
+      name: Loại gậy
+    coating/sealant_application:
+      name: Ứng dụng lớp phủ/chất bịt kín
+    cocktail_decoration_design:
+      name: Đồ trang trí cocktail
+    cocktail_decoration_material:
+      name: Vật liệu trang trí cocktail
+    coffee/tea_set_pieces_included:
+      name: Bao gồm bộ đồ uống trà/cà phê
+    coffee_creamer_variety:
+      name: Loại kem pha cà phê
+    coffee_input_type:
+      name: Loại cà phê đầu vào
+    coffee_product_form:
+      name: Mẫu sản phẩm cà phê
+    coffee_roast:
+      name: Mức độ rang cà phê
+    coil_connection:
+      name: Cuộn điện
+    coin_material:
+      name: Vật liệu tiền xu
+    collar/mount_compatible_device:
+      name: Thiết bị tương thích với Vòng đai/Giá đỡ
+    collar/mount_design:
+      name: Thiết kế Vòng đai/giá đỡ
+    collar_lock_type:
+      name: Loại khóa cổ
+    color:
+      name: Màu
+    color_accuracy_standards:
+      name: Tiêu chuẩn về độ chính xác màu
+    color_saturation:
+      name: Độ bão hoà màu
+    communication_device_features:
+      name: Tính năng thiết bị liên lạc
+    communication_protocols:
+      name: Giao thức truyền thông
+    compass_style:
+      name: Kiểu la bàn
+    compatible_aircraft_type:
+      name: Loại máy bay tương thích
+    compatible_amplifier:
+      name: Bộ khuếch đại tương thích
+    compatible_aquarium:
+      name: Bể cá tương thích
+    compatible_baby_bottle_design:
+      name: Thiết kế bình sữa tương thích
+    compatible_baby_carrier_type:
+      name: Loại xe đẩy em bé tương thích
+    compatible_baby_chair_type:
+      name: Loại ghế trẻ em tương thích
+    compatible_baby_transport_type:
+      name: Loại vận chuyển em bé tương thích
+    compatible_ball_type:
+      name: Loại bóng tương thích
+    compatible_battery_size:
+      name: Kích thước pin tương thích
+    compatible_battery_technology:
+      name: Công nghệ pin tương thích
+    compatible_bench_positions:
+      name: Vị trí ghế tập tạ tương thích
+    compatible_bike_type:
+      name: Loại xe đạp tương thích
+    compatible_brass_instrument:
+      name: Dụng cụ ống lót tương thích
+    compatible_clarinet_type:
+      name: Loại kèn clarinet tương thích
+    compatible_cosmetic_tools:
+      name: Dụng cụ thẩm mỹ tương thích
+    compatible_device:
+      name: Thiết bị tương thích
+    compatible_drum_configuration:
+      name: Cấu hình trống tương thích
+    compatible_electric/acoustic_instrument:
+      name: Nhạc cụ dùng điện/không dùng điện tương thích
+    compatible_electronic_card_type:
+      name: Loại thẻ điện tử tương thích
+    compatible_exercises:
+      name: Bài tập tương thích
+    compatible_filament:
+      name: Dây tóc tương thích
+    compatible_film_type:
+      name: Loại phim tương thích
+    compatible_flute_type:
+      name: Loại sáo tương thích
+    compatible_game_format:
+      name: Định dạng trò chơi tương thích
+    compatible_gardening_tool:
+      name: Dụng cụ làm vườn tương thích
+    compatible_hair_color:
+      name: Màu tóc phù hợp
+    compatible_hammock_design:
+      name: Thiết kế võng tương thích
+    compatible_harmonica_type:
+      name: Loại kèn harmonica tương thích
+    compatible_hdcp:
+      name: HDCP tương thích
+    compatible_instrument:
+      name: Dụng cụ tương thích
+    compatible_keyboard_configuration:
+      name: Cấu hình bàn phím tương thích
+    compatible_lock_type:
+      name: Loại khoá tương thích
+    compatible_makeup:
+      name: Trang điểm tương thích
+    compatible_mattress_size:
+      name: Kích cỡ nệm tương thích
+    compatible_memory_cards:
+      name: Thẻ nhớ tương thích
+    compatible_microphone_thread:
+      name: Ren micrô tương thích
+    compatible_motherboard_form_factor:
+      name: Hệ số hình dạng bảng mạch chính tương thích
+    compatible_oboe_type:
+      name: Loại oboe tương thích
+    compatible_operating_system:
+      name: Hệ điều hành tương thích
+    compatible_orchestral_string_instrument:
+      name: Nhạc cụ dây trong dàn nhạc tương thích
+    compatible_paper_size:
+      name: Kích thước giấy tương thích
+    compatible_patient_profile:
+      name: Bệnh án tương thích
+    compatible_percussion_instrument:
+      name: Nhạc cụ gõ tương thích
+    compatible_play_vehicle_type:
+      name: Loại xe đồ chơi tương thích
+    compatible_player:
+      name: Trình phát tương thích
+    compatible_printer:
+      name: Máy in tương thích
+    compatible_processor_series:
+      name: Dòng bộ xử lý tương thích
+    compatible_programming_languages:
+      name: Ngôn ngữ lập trình tương thích
+    compatible_recipes:
+      name: Công thức phù hợp
+    compatible_resolution:
+      name: Độ phân giải tương thích
+    compatible_seat_type:
+      name: Loại ghế tương thích
+    compatible_shoe_size:
+      name: Cỡ giày tương thích
+    compatible_software_platform:
+      name: Nền tảng phần mềm tương thích
+    compatible_special_effects_device:
+      name: Thiết bị hiệu ứng đặc biệt tương thích
+    compatible_stove_top_type:
+      name: Loại mặt bếp tương thích
+    compatible_string_instrument:
+      name: Nhạc cụ dây tương thích
+    compatible_stroller_type:
+      name: Loại xe đẩy tương thích
+    compatible_vacuum_type:
+      name: Loại máy hút bụi tương thích
+    compatible_vehicle:
+      name: Xe tương thích
+    compatible_walking_aid_equipment:
+      name: Thiết bị hỗ trợ đi bộ tương thích
+    compatible_weight_lifting_accessory:
+      name: Phụ kiện nâng tạ tương thích
+    compliance_certifications:
+      name: Chứng nhận tuân thủ
+    component_output_type:
+      name: Loại đầu ra thành phần
+    component_package_type:
+      name: Loại bao bì tương thích
+    compression_format:
+      name: Định dạng nén
+    compression_level:
+      name: Mức độ nén
+    computer_accessories_included:
+      name: Phụ kiện máy tính đi kèm
+    computer_form:
+      name: Dạng máy tính
+    computer_server_features:
+      name: Tính năng máy chủ máy tính
+    computer_specialized_features:
+      name: Tính năng chuyên dụng của máy tính
+    concertina_button_configuration:
+      name: Cấu hình nút Concertina
+    condition:
+      name: Điều kiện
+    conditioner_effect:
+      name: Tác dụng của dầu xả
+    condom_type:
+      name: Loại bao cao su
+    connecting_thread:
+      name: Chuỗi kết nối
+    connection_method:
+      name: Phương thức kết nối
+    connection_type:
+      name: Loại kết nối
+    connectivity_technology:
+      name: Công nghệ kết nối
+    connector_design:
+      name: Thiết kế đầu nối
+    connector_gender:
+      name: Giới tính đầu nối
+    console_system:
+      name: Hệ thống điều khiển
+    constitutive_ingredients:
+      name: Thành phần cấu tạo
+    construction_set_theme:
+      name: Chủ đề bộ xây dựng
+    contrast:
+      name: Độ tương phản
+    contrast_ratio_typical:
+      name: Tỷ lệ tương phản (Điển hình)
+    control_functions:
+      name: Chức năng điều khiển
+    control_method:
+      name: Phương pháp điều khiển
+    control_technology:
+      name: Công nghệ điều khiển
+    control_type:
+      name: Loại điều khiển
+    controller_design:
+      name: Thiết kế bộ điều khiển
+    controller_drive_type:
+      name: Loại truyền động điều khiển
+    converter_functionality:
+      name: Chức năng chuyển đổi
+    conveyor_operation:
+      name: Vận hành băng tải
+    cooking_method:
+      name: Phương pháp nấu
+    cooking_wine_variety:
+      name: Loại rượu nấu ăn
+    cookware/bakeware_features:
+      name: Tính năng của dụng cụ nấu nướng/đồ nướng
+    cookware/bakeware_material:
+      name: Vật liệu dụng cụ nấu nướng/đồ nướng
+    cookware_features:
+      name: Tính năng dụng cụ nấu nướng
+    cookware_items_included:
+      name: Bao gồm các dụng cụ nấu nướng
+    cooling_technology:
+      name: Công nghệ làm mát
+    cord_fastening_system:
+      name: Hệ thống siết dây
+    core_color:
+      name: Màu chủ đạo
+    core_material:
+      name: Vật liệu nhồi lõi
+    core_pattern:
+      name: Họa tiết chủ đạo
+    corrector_features:
+      name: Tính năng sửa lỗi
+    corsage/boutonniere_design:
+      name: Thiết kế hoa cài áo/lỗ khuy
+    cosmetic_condition:
+      name: Tình trạng mỹ phẩm
+    cosmetic_finish:
+      name: Lớp kết thúc của mỹ phẩm
+    cosmetic_function:
+      name: Công dụng của mỹ phẩm
+    costume_theme:
+      name: Chủ đề trang phục
+    counter_shape:
+      name: Hình dạnh tủ quầy
+    country:
+      name: Quốc gia
+    cover_closure_design:
+      name: Thiết kế đóng nắp
+    cover_color:
+      name: Màu bìa
+    cover_features:
+      name: Tính năng nắp
+    cover_material:
+      name: Vật liệu phủ
+    cover_pattern:
+      name: Mẫu bìa
+    cover_type:
+      name: Loại tấm che
+    coverage_area:
+      name: Diện tích che phủ
+    coverage_region:
+      name: Vùng phủ sóng
+    craft/sculpting_project_type:
+      name: Loại dự án Thủ công/Điêu khắc
+    craft_cutter/embosser_type:
+      name: Loại máy cắt/in nổi thủ công
+    craft_decoration_maker_type:
+      name: Loại dụng cụ trang trí thủ công
+    craft_knife_design:
+      name: Thiết kế dao thủ công
+    craft_pipe_cleaner_design:
+      name: Thiết kế thanh uốn thủ công
+    craft_project_type:
+      name: Loại dự án thủ công
+    crafting_frame/stretcher_features:
+      name: Tính năng khung/khuôn làm đồ thủ công
+    crafting_frame_features:
+      name: Tính năng khung làm đồ thủ công
+    crafting_hoop_features:
+      name: Tính năng vành làm đồ thủ công
+    crafting_mat/pad_features:
+      name: Tính năng thảm/đệm làm đồ thủ công
+    crafting_stretcher_features:
+      name: Tính năng khuôn làm đồ thủ công
+    crampon_attachment_type:
+      name: Loại đính kèm móc sắt
+    creative_art_project_type:
+      name: Loại dự án nghệ thuật sáng tạo
+    crib/toddler_bed_features:
+      name: Tính năng giường cũi/giường cho trẻ tập đi
+    crib_features:
+      name: Tính năng cũi
+    cricket_equipment_included:
+      name: Bao gồm thiết bị cricket
+    crutch_type:
+      name: Loại nạng
+    crystal_system:
+      name: Hệ tinh thể
+    cue_style:
+      name: Kiểu gậy bi-a
+    cue_type:
+      name: Loại gậy bi-a
+    cue_wrap:
+      name: Bọc cán gậy bi-a
+    cuisine:
+      name: Ẩm thực
+    culinary_botanical_name:
+      name: Tên thực vật ẩm thực
+    cup_size:
+      name: Cỡ cúp ngực
+    curler_type:
+      name: Loại dụng cụ uốn tóc
+    currencies_supported:
+      name: Loại tiền tệ được hỗ trợ
+    currency:
+      name: Đơn vị tiền tệ
+    currency_type:
+      name: Loại tiền
+    customer_support_channels:
+      name: Kênh hỗ trợ khách hàng
+    customization:
+      name: Tùy chỉnh
+    cutter_options:
+      name: Tùy chọn máy cắt
+    cutting_method:
+      name: Phương pháp cắt
+    cycling_style:
+      name: Phong cách đạp xe
+    data_network:
+      name: Mạng dữ liệu
+    decoration_material:
+      name: Vật liệu trang trí
+    decorative_stamp_design:
+      name: Thiết kế tem trang trí
+    denomination:
+      name: Mệnh giá
+    dental_floss_shape:
+      name: Hình chỉ nha khoa
+    dental_floss_thickness_level:
+      name: Mức độ dày chỉ nha khoa
+    dental_floss_type:
+      name: Loại chỉ nha khoa
+    dental_mouthgard_recommended_use:
+      name: Máng bảo vệ miệng khuyên dùng
+    dental_mouthguard_certifications:
+      name: Chứng nhận bảo vệ miệng nha khoa
+    dental_paste_flavor:
+      name: Hương kem đánh răng
+    dental_repair_kit_certifications:
+      name: Chứng nhận bộ dụng cụ sửa răng
+    dental_water_jet_operation:
+      name: Vận hành tia nước nha khoa
+    dentistry_items_included:
+      name: Các mặt hàng nha khoa đi kèm
+    denture_base_color:
+      name: Màu hàm giả
+    denture_coverage:
+      name: Bảo hiểm răng giả
+    denture_design:
+      name: Thiết kế răng giả
+    denture_teeth_color:
+      name: Màu răng giả
+    deployment_type:
+      name: Loại triển khai
+    desk_organizer_features:
+      name: Tính năng sắp xếp bàn làm việc
+    desk_size:
+      name: Kích thước bàn
+    detailed_ingredients:
+      name: Thành phần chi tiết
+    detectable_drugs:
+      name: Thuốc có thể phát hiện
+    detector_operation_mode:
+      name: Chế độ hoạt động của máy dò
+    detector_sensitivity:
+      name: Độ nhạy của máy dò
+    detector_type:
+      name: Loại máy dò
+    developmental_features:
+      name: Tính năng phát triển
+    device_interface:
+      name: Giao diện thiết bị
+    device_technology:
+      name: Công nghệ của thiết bị
+    dexterity_skills:
+      name: Kỹ năng khéo tay
+    dial_color:
+      name: Màu mặt số
+    dial_pattern:
+      name: Kiểu quay số
+    diaper_bag_additional_features:
+      name: Tính năng bổ sung của túi đựng bỉm sữa
+    diaper_bag_material:
+      name: Vật liệu túi đựng bỉm sữa
+    diaper_bag_style:
+      name: Kiểu dáng túi đựng bỉm sữa
+    diaper_features:
+      name: Tính năng tã
+    diaper_kit_components:
+      name: Thành phần bộ tã
+    diaper_organizer_features:
+      name: Tính năng sắp xếp tã
+    diaper_size:
+      name: Cỡ tã
+    diaper_type:
+      name: Loại tã
+    dice_shape:
+      name: Hình dáng xúc xắc
+    dielectric_type:
+      name: Loại điện môi
+    dietary_preferences:
+      name: Sở thích chế độ ăn uống
+    dietary_supplements:
+      name: Thực phẩm chức năng
+    dietary_use:
+      name: Sử dụng chế độ ăn uống
+    difficulty_level:
+      name: Cấp độ khó
+    diffuser_design:
+      name: Thiết kế máy khuếch tán
+    digital_sound_processing:
+      name: Xử lý âm thanh kỹ thuật số
+    dinnerware_pieces_included:
+      name: Bao gồm bộ dụng cụ ăn
+    dirt_separating_method:
+      name: Phương pháp tách bụi bẩn
+    discharge_type:
+      name: Lưu lượng xả
+    disk_format_type:
+      name: Loại định dạng đĩa
+    dispenser_type:
+      name: Loại thiết bị phân phối
+    display_board_features:
+      name: Tính năng màn hình hiển thị
+    display_color_mode:
+      name: Chế độ hiển thị màu
+    display_features:
+      name: Tính năng hiển thị
+    display_mode:
+      name: Chế độ hiển thị
+    display_recommended_use:
+      name: Hiển thị khuyến nghị sử dụng
+    display_resolution:
+      name: Độ phân giải màn hình
+    display_sign_design:
+      name: Thiết kế bảng hiệu hiển thị
+    display_technology:
+      name: Công nghệ màn hình
+    disposable/reusable_bag_features:
+      name: Tính năng túi dùng một lần/tái sử dụng
+    disposable/reusable_item_material:
+      name: Vật liệu dùng một lần/tái sử dụng
+    disposable_bag_features:
+      name: Tính năng túi dùng một lần
+    disposable_bag_material:
+      name: Vật liệu túi dùng một lần
+    disposable_glove_features:
+      name: Tính năng găng tay dùng một lần
+    disposable_tableware_material:
+      name: Vật liệu bộ đồ ăn dùng một lần
+    dive_computer_items_included:
+      name: Bao gồm các vật dụng máy tính đi lặn
+    diving/snorkeling_equipment_included:
+      name: Bao gồm thiết bị lặn/lặn ống thở
+    diving_regulator_style:
+      name: Kiểu điều áp lặn
+    dj_equipment_features:
+      name: Tính năng thiết bị DJ
+    dj_software_compatibility:
+      name: Khả năng tương thích phần mềm DJ
+    dog_age_group:
+      name: Nhóm tuổi chó
+    dog_diaper_size:
+      name: Kích thước bỉm cho chó
+    dog_diaper_type:
+      name: Loại bỉm cho chó
+    dog_house_features:
+      name: Đặc điểm chuồng chó
+    dog_kennel/run_features:
+      name: Tính năng chuồng chó
+    dog_kennel_features:
+      name: Tính năng chuồng chó
+    dog_pen_features:
+      name: Tính năng chuồng chó
+    dog_toy_type:
+      name: Loại đồ chơi cho chó
+    doll/playset_features:
+      name: Tính năng búp bê/bộ đồ chơi
+    doll_features:
+      name: Tính năng búp bê
+    doll_type:
+      name: Loại búp bê
+    door/frame_application:
+      name: Ứng dụng cửa/khung
+    door_application:
+      name: Ứng dụng cửa
+    door_closer_application:
+      name: Ứng dụng tay co thuỷ lực
+    door_closer_design:
+      name: Thiết kế tay co thuỷ lực
+    door_color:
+      name: Màu cửa
+    door_frame_application:
+      name: Ứng dụng khung cửa
+    door_frame_finish:
+      name: Hoàn thiện khung cửa
+    door_glass_finish:
+      name: Hoàn thiện cửa kính
+    door_insulation:
+      name: Cách nhiệt cửa
+    door_knob_function:
+      name: Chức năng núm cửa
+    door_mat_base_color:
+      name: Màu nền thảm cửa
+    door_mat_base_material:
+      name: Vật liệu nền thảm cửa
+    door_mat_base_pattern:
+      name: Họa tiết nền thảm cửa
+    door_mat_surface_material:
+      name: Vật liệu bề mặt thảm cửa
+    door_material:
+      name: Chất liệu cửa
+    door_pattern:
+      name: Mẫu cửa
+    door_stop_placement:
+      name: Vị trí chặn cửa
+    door_stopper_design:
+      name: Thiết kế chặn cửa
+    door_suitable_location:
+      name: Vị trí cửa phù hợp
+    door_surface_finish:
+      name: Độ hoàn thiện bề mặt cửa
+    door_type:
+      name: Loại cửa
+    double_stroller_configuration:
+      name: Cấu hình xe đẩy đôi
+    download_format:
+      name: Định dạng tải xuống
+    drain_location:
+      name: Vị trí thoát nước
+    drawing/painting_kit_items_included:
+      name: ác bộ dụng cụ vẽ/sơn đi kèm
+    dress_form_features:
+      name: Đặc điểm mẫu váy
+    dress_occasion:
+      name: Kiểu váy
+    dress_style:
+      name: Phong cách váy
+    drill_features:
+      name: Tính năng khoan
+    drilling_method:
+      name: Phương pháp khoan
+    drilling_rig_orientation:
+      name: Định hướng giàn khoan
+    drinkware_material:
+      name: Vật liệu đồ đựng đồ uống
+    drinkware_pieces_included:
+      name: Bao gồm bộ dụng cụ uống
+    drive_size:
+      name: Kích thước ổ đĩa
+    drive_type:
+      name: Loại dẫn động
+    drum_configuration:
+      name: Hình dạng trống
+    drum_hardware_adjustability:
+      name: Khả năng điều chỉnh phần cứng trống
+    drum_hardware_material:
+      name: Vật liệu phần cứng trống
+    dry/wet_cleaning:
+      name: Giặt khô/ướt
+    dry_bean_variety:
+      name: Loại đậu khô
+    dryer_features:
+      name: Tính năng máy sấy
+    dryer_technology:
+      name: Công nghệ máy sấy
+    drying_speed:
+      name: Tốc độ sấy
+    duct_design:
+      name: Thiết kế ống dẫn
+    duct_shape:
+      name: Hình dạng ống dẫn
+    duplexing_technology:
+      name: Công nghệ in hai mặt
+    durability_features:
+      name: Tính năng độ bền
+    dust_container_type:
+      name: Loại thùng chứa bụi
+    dust_mask_type:
+      name: Loại mặt nạ chống bụi
+    dye_form:
+      name: Dạng thuốc nhuộm
+    dynamic_level:
+      name: Cấp độ động
+    e_book_formats_supported:
+      name: Định dạng sách điện tử được hỗ trợ
+    e_cigarette/vaporizer_style:
+      name: Dạng thuốc lá điện tử/máy hoá hơi
+    e_liquid_flavor:
+      name: Hương vị tinh dầu thuốc lá điện tử
+    e_liquid_variety:
+      name: Loại tinh dầu thuốc lá điện tử
+    e_reader_display_technology:
+      name: Công nghệ hiển thị máy đọc sách điện tử
+    ear_care_application_method:
+      name: Phương pháp ứng dụng chăm sóc tai
+    earphone_features:
+      name: Tính năng tai nghe
+    earplug_use:
+      name: Sử dụng nút tai
+    earring_design:
+      name: Thiết kế hoa tai
+    edge_style:
+      name: Kiểu cạnh mép
+    edge_type:
+      name: Loại cạnh
+    education_level:
+      name: Trình độ học vấn
+    egg_decorating_items_included:
+      name: Bao gồm các vật dụng trang trí trứng
+    egg_turning:
+      name: Ấp trứng
+    electronic_drum_components:
+      name: Linh kiện trống điện tử
+    electronic_game_genre:
+      name: Thể loại trò chơi điện tử
+    embellishment/trim_material:
+      name: Vật liệu trang trí/viền
+    embellishments:
+      name: Đồ trang trí
+    embossing_project_type:
+      name: Loại dự án dập nổi
+    embouchure_hole_shape:
+      name: Hình dạng lỗ thêu
+    emergency/safety_sign_design:
+      name: Thiết kế biển báo khẩn cấp/an toàn
+    emergency_items_included:
+      name: Bao gồm các vật dụng khẩn cấp
+    enclosure_type:
+      name: Kiểu đóng mở
+    energy_efficiency_class:
+      name: Cấp hiệu suất năng lượng
+    energy_efficiency_class_hdr:
+      name: Cấp hiệu suất năng lượng (Hdr)
+    energy_efficiency_class_sdr:
+      name: Cấp hiệu suất năng lượng (Sdr)
+    engine_design:
+      name: Thiết kế động cơ
+    engine_purpose:
+      name: Mục đích của động cơ
+    engine_type:
+      name: Loại động cơ
+    engraving:
+      name: Điêu khắc
+    envelope_features:
+      name: Tính năng phong bì
+    envelope_seal_design:
+      name: Thiết kế tem phong bì
+    equipment_operation:
+      name: Hoạt động thiết bị
+    era:
+      name: Thời kỳ
+    esrb_rating:
+      name: Xếp hạng từ Ủy ban Đánh giá Phần mềm Giải trí
+    ethernet_lan_interface_type:
+      name: Loại giao diện LAN Ethernet
+    ev_battery_features:
+      name: Tính năng của pin EV
+    ev_battery_type:
+      name: Loại pin xe điện
+    ev_connector/adapter_type:
+      name: Loại đầu nối/bộ chuyển đổi sạc xe điện
+    ev_conversion_kit_components:
+      name: Các thành phần của bộ chuyển đổi sạc xe điện
+    evaporation_technology:
+      name: Công nghệ bay hơi
+    event_type:
+      name: Loại sự kiện
+    exercise_equipment_included:
+      name: Bao gồm thiết bị tập thể dục
+    exercise_equipment_material:
+      name: Vật liệu thiết bị tập thể dục
+    exercise_machine_features:
+      name: Tính năng máy tập thể dục
+    exercise_mat_material:
+      name: Vật liệu thảm tập
+    expansion_slots:
+      name: Khe cắm mở rộng
+    exposure_control:
+      name: Kiểm soát phơi sáng
+    extended_saxophone_range:
+      name: Phạm vi saxophone mở rộng
+    external_defibrillator_features:
+      name: Tính năng máy khử rung tim bên ngoài
+    extinguisher_rating:
+      name: Cấp bình chữa cháy
+    extinguishing_agent_type:
+      name: Loại chất chữa cháy
+    extraction_type:
+      name: Loại chiết xuất
+    extractor_tip_style:
+      name: Kiểu đầu bộ chiết
+    eye_pillow_shape:
+      name: Kiểu dáng gối mắt
+    eye_shadow_effect:
+      name: Hiệu ứng của phấn mắt
+    eyebrow_enhancer_color:
+      name: Màu dưỡng long mày
+    eyelash_applicator_design:
+      name: Thiết kế kẹp gắn mi giả
+    eyelash_material:
+      name: Vật liệu lông mi
+    eyelash_type:
+      name: Loại lông mi
+    eyepiece/adapter_material:
+      name: Vật liệu thị kính/bộ chuyển đổi
+    eyewear_frame_color:
+      name: Màu gọng kính
+    eyewear_frame_design:
+      name: Thiết kế gọng kính
+    eyewear_frame_material:
+      name: Vật liệu gọng kính
+    eyewear_frame_pattern:
+      name: Mẫu gọng kính
+    eyewear_frame_shape:
+      name: Hình dáng gọng kính
+    eyewear_lens_color:
+      name: Màu sắc tròng kính
+    eyewear_lens_material:
+      name: Vật liệu tròng kính
+    eyewear_lens_pattern:
+      name: Mẫu tròng kính
+    fabric:
+      name: Vải
+    fabric_structure:
+      name: Cấu trúc vải
+    face_area:
+      name: Vùng khuôn mặt
+    face_powder_color:
+      name: Màu phấn phủ
+    face_powder_type:
+      name: Loại phấn phủ
+    faceplate_design:
+      name: Thiết kế tấm mặt
+    facility_sign_design:
+      name: Thiết kế biển hiệu cơ sở
+    false_nail_application_method:
+      name: Phương pháp dán móng tay giả
+    fastener_finish:
+      name: Độ hoàn thiện chốt cửa
+    fastener_material:
+      name: Vật liệu chốt
+    fastener_type:
+      name: Loại khóa
+    fat_content:
+      name: Hàm lượng chất béo
+    faucet_thread:
+      name: Đầu nối vòi nước
+    features:
+      name: Tính năng
+    feed_system:
+      name: Hệ thống nguồn cấp
+    feet_type:
+      name: Loại bàn chân
+    felt_tip_design:
+      name: Thiết kế đầu nỉ
+    feminine_sanitary_supply_features:
+      name: Tính năng sản phẩm vệ sinh phụ nữ
+    fencing_components:
+      name: Bộ phận của hàng rào
+    fiber_art_project_type:
+      name: Loại dự án nghệ thuật sợi
+    field_flatness:
+      name: Độ phẳng trường
+    filament_type:
+      name: Loại sợi
+    file_format_type:
+      name: Loại định dạng tệp
+    file_shape:
+      name: Hình dạng máy chà nhám giũa
+    filler_material:
+      name: Vật liệu làm đầy
+    filler_support:
+      name: Hỗ trợ chất làm đầy
+    filler_type:
+      name: Loại chất làm đầy
+    filling/padding_project_type:
+      name: Loại dự án điền/đệm
+    film_application_method:
+      name: Phương pháp ứng dụng phim
+    film_format:
+      name: Định dạng phim
+    film_type:
+      name: Loại phim
+    filter_material:
+      name: Vật liệu bộ lọc
+    filter_type:
+      name: Loại bộ lọc
+    filtering_modes:
+      name: Kiểu lọc
+    filtration_class:
+      name: Lớp lọc
+    fin_material:
+      name: Vật liệu vây
+    fin_pocket_type:
+      name: Loại chân nhái
+    fin_profile:
+      name: Biên dạng cánh
+    fingerboard_color:
+      name: Màu bàn phím
+    fingerboard_material:
+      name: Chất liệu phím đàn
+    fingerboard_pattern:
+      name: Mẫu bàn phím
+    fingerprint_capture_method:
+      name: Phương pháp chụp dấu vân tay
+    finial_shape:
+      name: Hình dạng cuối cùng
+    finish:
+      name: Lớp hoàn thiện
+    fire_extinguisher_items_included:
+      name: Đi kèm thiết bị bình chữa cháy
+    firmness:
+      name: Độ cứng
+    first_aid_kit_components:
+      name: Thành phần của bộ sơ cứu
+    first_aid_kit_usage:
+      name: Cách sử dụng bộ sơ cứu
+    first_steps/crawlers_style:
+      name: Các bước đầu tiên/kiểu trình thu thập thông tin
+    fish_type:
+      name: Loại cá
+    fishing_rod_action:
+      name: Độ nảy của cần câu
+    fishing_rod_power:
+      name: Khả năng chịu lực của cần câu
+    fishing_wire_material:
+      name: Vật liệu dây câu
+    fit:
+      name: Vừa vặn
+    fit_type:
+      name: Loại vừa vặn
+    fixation_type:
+      name: Loại cố định
+    flag_shape:
+      name: Hình lá cờ
+    flare_type:
+      name: Loại ngọn lửa
+    flash_card_theme:
+      name: Chủ đề thẻ flash
+    flash_modes:
+      name: Chế độ đèn nháy
+    flash_type:
+      name: Loại đèn nháy
+    flashing_material:
+      name: Vật liệu flashing
+    flat_shoe_style:
+      name: Kiểu giày đế bằng
+    flatware_material:
+      name: Vật liệu đồ dẹt để bàn ăn
+    flatware_pieces_included:
+      name: Bao gồm bộ dụng cụ dao dĩa
+    flavor:
+      name: Hương vị
+    flavor_profile:
+      name: Mô tả hương vị
+    flexibility_rating:
+      name: Đánh giá khả năng thích ứng
+    floral_wire_design:
+      name: Thiết kế dây ruy băng bó hoa
+    flour/grain_type:
+      name: Loại bột/hạt
+    flow_rate_type:
+      name: Loại tốc độ dòng chảy
+    flower_color:
+      name: Màu hoa
+    flower_pattern:
+      name: Họa tiết hoa
+    flue_type:
+      name: Loại ống khói
+    fluid_type:
+      name: Loại chất lỏng
+    flush_plate_color:
+      name: Màu tấm xả
+    flush_plate_pattern:
+      name: Mẫu phiến ghép phẳng
+    flush_system:
+      name: Hệ thống xả
+    flute_configuration:
+      name: Cấu hình sáo
+    foam_form:
+      name: Dạng bọt
+    focus_adjustment:
+      name: Điều chỉnh tiêu cự
+    focus_device_type:
+      name: Loại thiết bị tập trung
+    focus_type:
+      name: Loại tiêu cự
+    fold_type:
+      name: Kiểu gấp
+    folder/report_cover_material:
+      name: Vật liệu bìa báo cáo/kẹp hồ sơ
+    folding_mechanism:
+      name: Cơ chế gấp
+    font_style:
+      name: Kiểu phông chữ
+    food_bag_material:
+      name: Vật liệu túi đựng thực phẩm
+    food_dispenser_type:
+      name: Loại máy cấp liệu
+    food_product_form:
+      name: Mẫu sản phẩm thực phẩm
+    food_storage_material:
+      name: Vật liệu bảo quản thực phẩm
+    food_supplement_form:
+      name: Dạng thực phẩm bổ sung
+    footage_type:
+      name: Loại cảnh quay thô
+    footboard_type:
+      name: Loại tấm để chân
+    footwear_color:
+      name: Màu giày dép
+    footwear_material:
+      name: Vật liệu giày dép
+    footwear_pattern:
+      name: Mẫu giày dép
+    format_supported:
+      name: Định dạng được hỗ trợ
+    formula_level:
+      name: Cấp công thức
+    fossil_type:
+      name: Loại hoá thạch
+    foundation_color:
+      name: Màu nền
+    foundation_material:
+      name: Vật liệu nền
+    foundation_pattern:
+      name: Họa tiết nền
+    fragrance:
+      name: Hương thơm
+    fragrance_level:
+      name: Mức độ hương thơm
+    frame_color:
+      name: Khung màu
+    frame_design:
+      name: Thiết kế khung
+    frame_material:
+      name: Chất liệu khung
+    frame_pattern:
+      name: Mẫu khung
+    frame_style:
+      name: Kiểu khung
+    frequency/radio_bands_supported:
+      name: Tần số/dải vô tuyến được hỗ trợ
+    frequency_type:
+      name: Loại tần số
+    frequency_weighting:
+      name: Tần trọng số
+    frog_material:
+      name: Chất liệu quai
+    fruit_source:
+      name: Nguồn trái cây
+    fuel_additives:
+      name: Phụ gia nhiên liệu
+    fuel_container_features:
+      name: Tính năng thùng chứa nhiên liệu
+    fuel_grade:
+      name: Cấp nhiên liệu
+    fuel_purity:
+      name: Độ tinh khiết của nhiên liệu
+    fuel_source:
+      name: Nguồn nhiên liệu
+    fuel_supply:
+      name: Cung cấp nhiên liệu
+    furniture/fixture_color:
+      name: Màu sắc đồ nội thất/đồ gá
+    furniture/fixture_features:
+      name: Tính năng đồ nội thất/đồ gá
+    furniture/fixture_material:
+      name: Vật liệu đồ nội thất/đồ gá
+    furniture/fixture_pattern:
+      name: Mẫu đồ nội thất/đồ gá
+    game_components:
+      name: Thành phần của trò chơi
+    game_difficulty:
+      name: Độ khó của trò chơi
+    game_features:
+      name: Tính năng trò chơi
+    game_name:
+      name: Tên trò chơi
+    gameplay_skills:
+      name: Kỹ năng chơi
+    games_included:
+      name: Các trò chơi đi kèm
+    garage_door_material:
+      name: Vật liệu cửa gara
+    gardening_use:
+      name: Sử dụng làm vườn
+    garment_steamer_design:
+      name: Thiết kế bàn là ủi hơi nước
+    gases_detected:
+      name: Phát hiện khí
+    gate_mounting_type:
+      name: Kiểu hệ thống lắp cổng
+    gauge_type:
+      name: Loại máy đo
+    gear_material:
+      name: Vật liệu bánh răng
+    gear_ratio:
+      name: Tỉ số truyền
+    gearing_type:
+      name: Loại ăn khớp
+    gel_strength:
+      name: Độ bền gel
+    genre:
+      name: Thể loại
+    geological_era:
+      name: Kỷ địa chất
+    gift_bag_handle_design:
+      name: Thiết kế tay cầm túi quà tặng
+    gift_set_format:
+      name: Dạng bộ quà tặng
+    gin_variety:
+      name: Loại rượu Gin
+    glaze_finish:
+      name: Độ hoàn thiện lớp men
+    glazing_type:
+      name: Loại cửa kính
+    glitter_shape:
+      name: Hình dạng nhũ
+    glucose_meter_features:
+      name: Tính năng của máy đo đường huyết
+    glue_gun_features:
+      name: Tính năng súng bắn keo
+    glue_gun_operation:
+      name: Vận hành súng bắn keo
+    glue_gun_technology:
+      name: Công nghệ súng bắn keo
+    glue_strength:
+      name: Độ bền keo
+    golf_ball_type:
+      name: Loại bóng golf
+    golf_equipment_included:
+      name: Bao gồm thiết bị chơi gôn
+    gps_compatible_device:
+      name: Thiết bị định vị toàn cầu tương thích
+    gps_device_features:
+      name: Tính năng thiết bị GPS
+    gps_map_type:
+      name: Loại bản đồ GPS
+    gps_software_focus:
+      name: Tiêu cụ phần mềm GPS
+    grading:
+      name: Phân loại
+    grain:
+      name: Hạt
+    grape_variety:
+      name: Giống nho
+    graphics_card_type:
+      name: Loại card đồ họa
+    graphics_tablet_accessories_included:
+      name: Đi kèm phụ kiện máy tính bảng đồ họa
+    graphics_tablet_specialized_features:
+      name: Tính năng chuyên dụng của máy tính bảng đồ họa
+    gravel/substrate_material:
+      name: Vật liệu sỏi/chất nền
+    grease_filter_material:
+      name: Vật liệu lọc dầu mỡ
+    grip_texture:
+      name: Kết cấu tay cầm
+    grip_type:
+      name: Loại kẹp
+    grit_type:
+      name: Loại hạt đá
+    grooming_kit_format:
+      name: Dạng bộ dụng cụ chải chuốt
+    guitar_fitting/part_type:
+      name: Loại phụ tùng/lắp đàn guitar
+    guitar_size:
+      name: Cỡ đàn guitar
+    gutter_fitting_type:
+      name: Loại khớp nối máng xối
+    gutter_style:
+      name: Kiểu máng xối
+    habitat_material:
+      name: Vật liệu môi trường sống
+    hair_care_finish:
+      name: Bước hoàn thiện chăm sóc tóc
+    hair_care_items_included:
+      name: Đi kèm sản phẩm chăm sóc tóc
+    hair_care_technology:
+      name: Công nghệ chăm sóc tóc
+    hair_color/shade:
+      name: Màu tóc
+    hair_loss_type:
+      name: Loại rụng tóc
+    hair_shear_type:
+      name: Kiểu cắt tóc
+    hair_styling_items_included:
+      name: Đi kèm sản phẩm tạo kiểu tóc
+    hair_styling_tool_features:
+      name: Tính năng dụng cụ tạo kiểu tóc
+    hair_type:
+      name: Kiêu tóc
+    hammer_head_material:
+      name: Vật liệu đầu búa
+    hand_side:
+      name: Phía tay
+    hand_warmer_type:
+      name: Loại miếng dán giữ nhiệt
+    handcuff_lock_type:
+      name: Loại khóa còng tay
+    handle_color:
+      name: Màu sắc tay cầm
+    handle_design:
+      name: Thiết kế tay cầm
+    handle_grip_texture:
+      name: Kết cấu tay cầm
+    handle_material:
+      name: Xử lý vật liệu
+    handle_pattern:
+      name: Mẫu tay cầm
+    handle_type:
+      name: Loại tay cầm
+    handset_type:
+      name: Loại thiết bị cầm tay
+    handwear_features:
+      name: Tính năng găng tay
+    handwear_material:
+      name: Vật liệu găng tay
+    handwear_type:
+      name: Loại găng tay
+    hanging_chair_design:
+      name: Thiết kế ghế xích đu
+    hard_cider_variety:
+      name: Loại đồ uống trái cây lên men có cồn
+    hard_drive_features:
+      name: Tính năng ổ cứng
+    hard_drive_form_factor:
+      name: Dạng thức ổ cứng
+    hard_drive_installation:
+      name: Lắp đặt ổ cứng
+    hardhat_class:
+      name: Loại mũ cứng
+    hardness:
+      name: Độ cứng
+    hardware_finish:
+      name: Hoàn thiện phần cứng
+    hardware_material:
+      name: Vật liệu phần cứng
+    hardware_mounting_type:
+      name: Loại giá đỡ phần cứng
+    hardwood_lumber_grade:
+      name: Phân loại gỗ cứng
+    harness_closure_type:
+      name: Loại dây đóng
+    harp_size:
+      name: Kích cỡ đàn hạc
+    hatch_suitable_location:
+      name: Vị trí cửa sập phù hợp
+    hazmat_suit_design:
+      name: Thiết kế quần áo bảo hộ
+    hdr_format:
+      name: Định dạng Hdr
+    headjoint_cut:
+      name: Đường cắt khớp đầu
+    headphone_jack_type:
+      name: Loại giắc cắm tai nghe chụp tai
+    headphone_style:
+      name: Loại tai nghe chụp tai
+    headwear_features:
+      name: Tính năng mũ nón
+    hearing_aid_features:
+      name: Tính năng trợ thính
+    hearing_aid_material:
+      name: Vật liệu trợ thính
+    heat_function:
+      name: Chức năng của nhiệt
+    heat_level:
+      name: Mức nhiệt
+    heat_settings:
+      name: Cài đặt mức nhiệt
+    heat_source:
+      name: Nguồn nhiệt
+    heating_instructions:
+      name: Hướng dẫn cấp nhiệt
+    heating_method:
+      name: Phương pháp cấp nhiệt
+    heating_speed:
+      name: Tốc độ gia nhiệt
+    heel_height_type:
+      name: Loại chiều cao gót giày
+    heel_shoe_type:
+      name: Kiểu già caoy gót
+    height_adjustment:
+      name: Điều chỉnh chiều cao
+    helmet_shade_design:
+      name: Thiết kế độ bóng của mũ bảo hiểm
+    hitch_class:
+      name: Loại móc
+    hitch_type:
+      name: Loại móc kéo
+    hockey_equipment_included:
+      name: Bao gồm thiết bị khúc côn cầu
+    hold_level:
+      name: Mức độ giữ nếp
+    hook_design:
+      name: Thiết kế móc
+    hook_grip_design:
+      name: Thiết kế tay cầm móc
+    hook_size:
+      name: Kích cỡ móc
+    hook_type:
+      name: Loại móc
+    hoop_shape:
+      name: Hình vòng
+    horse_category:
+      name: Hạng mục ngựa
+    horse_grooming_accessories_included:
+      name: Đi kèm phụ kiện chải lông ngựa
+    hose_material:
+      name: Vật liệu ống
+    host_interface:
+      name: Giao diện máy chủ
+    housing_color:
+      name: Màu nhà ở
+    housing_material:
+      name: Vật liệu nhà ở
+    housing_pattern:
+      name: Mô hình nhà ở
+    hub/switch_storage_options:
+      name: Tùy chọn lưu trữ Hub/Switch
+    humidifier_design:
+      name: Thiết kế máy tạo độ ẩm
+    humidity_control:
+      name: Kiểm soát độ ẩm
+    humidy_control:
+      name: Kiểm soát độ ẩm
+    hunting/survival_knife_design:
+      name: Thiết kế dao cắm trại
+    hunting_blind_design:
+      name: Thiết kế vải ngụy trang săn bắn
+    hvac_control_type:
+      name: Loại điều khiển điều hoà không khí
+    ice_pack_type:
+      name: Loại túi đựng đá
+    icon_type:
+      name: Loại biểu tượng
+    ignition_system:
+      name: Hệ thống đánh lửa
+    illumination_technique:
+      name: Kỹ thuật chiếu sáng
+    image_formats_supported:
+      name: Định dạng hình ảnh được hỗ trợ
+    image_sensor_size:
+      name: Kích thước cảm biến ảnh
+    immobilizer_type:
+      name: Loại hệ thống khoá động
+    incense_fragrance:
+      name: Mùi khói thơm
+    incense_kit_items_included:
+      name: Đi kèm bộ nhang
+    incense_type:
+      name: Loại nhang
+    incontinence_aid_features:
+      name: Tính năng sản phẩm dành cho tình trạng không tự chủ vệ sinh
+    industry_focus:
+      name: Trọng tâm ngành
+    infant_age_group:
+      name: Nhóm tuổi sơ sinh
+    inflation_method:
+      name: Phương pháp bơm
+    ingredient_category:
+      name: Danh mục nguyên liệu
+    ingredient_origin:
+      name: Nguồn gốc thành phần
+    ingredients:
+      name: Nguyên liệu
+    ink_application_technique:
+      name: Kỹ thuật bôi mực
+    ink_color:
+      name: Màu mực
+    ink_form:
+      name: Dạng mực
+    ink_pattern:
+      name: Mẫu mực
+    ink_type:
+      name: Loại mực
+    inline_skating_style:
+      name: Phong cách trượt băng
+    input/output_ports:
+      name: Cổng đầu vào/đầu ra
+    input_connection:
+      name: Kết nối đầu vào
+    instruction_set_architecture:
+      name: Kiến trúc tập lệnh
+    instrument/accessory_finish:
+      name: Độ hoàn thiện dụng cụ/phụ kiện
+    instrument_accessory_material:
+      name: Vật liệu phụ kiện nhạc cụ
+    instrument_bow_material:
+      name: Vật liệu vĩ nhạc cụ
+    instrument_color:
+      name: Màu nhạc cụ
+    instrument_controller_type:
+      name: Loại bộ điều khiển dụng cụ
+    instrument_material:
+      name: Vật liệu nhạc cụ
+    instrument_part_material:
+      name: Vật liệu bộ phận nhạc cụ
+    instrument_pattern:
+      name: Mẫu nhạc cụ
+    instrument_string_color:
+      name: Màu dây nhạc cụ
+    instrument_string_material:
+      name: Vật liệu dây nhạc cụ
+    instrument_string_pattern:
+      name: Mẫu dây nhạc cụ
+    instrument_support_type:
+      name: Loại kệ để nhạc cụ
+    insulation_material:
+      name: Vật liệu cách nhiệt
+    intended_application:
+      name: Ứng dụng dự định
+    interface_type:
+      name: Loại giao diện
+    internal_drive_form_factor_supported:
+      name: Dạng thức ổ đĩa trong được hỗ trợ
+    intimate_apparel_features:
+      name: Tính năng đồ lót
+    inverter_type:
+      name: Loại biến tần
+    invitation_personalization_design:
+      name: Thiết kế cá nhân hóa lời mời
+    ironing_features:
+      name: Tính năng ủi
+    item_condition:
+      name: Tình trạng sản phẩm
+    item_material:
+      name: Vật liệu sản phẩm
+    item_style:
+      name: Kiểu mặt hàng
+    j_cup_type:
+      name: Loại cúp ngực J
+    jaw_material:
+      name: Chất liệu nẹp
+    jewelry_finding_type:
+      name: Loại tìm đồ trang sức
+    jewelry_material:
+      name: Vật liệu trang sức
+    jewelry_project_type:
+      name: Loại dự án trang sức
+    jewelry_set_type:
+      name: Loại bộ trang sức
+    jewelry_type:
+      name: Loại trang sức
+    joint_connection:
+      name: Kết nối chung
+    joint_face_type:
+      name: Kiểu mặt khớp
+    joint_style:
+      name: Kiểu khớp nối
+    jump_rope_design:
+      name: Thiết kế dây nhảy
+    jumping_surface_color:
+      name: Màu bề mặt thảm lò xò
+    jumping_surface_material:
+      name: Vật liệu tấm nhún
+    jumping_surface_pattern:
+      name: Mẫu bề mặt thảm lò xo
+    karaoke_modes:
+      name: Chế độ karaoke
+    kerosene_application:
+      name: Ứng dụng dầu hỏa
+    key_purpose:
+      name: Mục đích chính
+    keyboard_action:
+      name: Thao tác trên bàn phím
+    keyboard_format:
+      name: Định dạng bàn phím
+    keyboard_key_type:
+      name: Loại phím bàn phím
+    keyboard_language:
+      name: Ngôn ngữ bàn phím
+    keyboard_layout:
+      name: Bố cục bàn phím
+    keyboard_port_type:
+      name: Loại cổng kết nối với bàn phím
+    keyboard_specialized_features:
+      name: Tính năng chuyên dụng của bàn phím
+    keyboard_switch_type:
+      name: Loại bộ chuyển đổi bàn phím
+    keyboard_type:
+      name: Loại bàn phím
+    keypad_style:
+      name: Kiểu bộ phím
+    kit_construction_type:
+      name: Loại kết cấu xây dựng
+    kitchen/dining_furniture_items_included:
+      name: Đi kèm đồ dùng nhà bếp
+    kitchen_utensil_items_included:
+      name: Đã bao gồm các vật dụng nhà bếp
+    kitesurfing_style:
+      name: Loại lướt ván diều
+    kneeboard_features:
+      name: Tính năng ván quỳ lướt sóng
+    knife_type:
+      name: Loại dao
+    knitting/padding_project_type:
+      name: Loại dự án đệm/lót
+    knitting_project_type:
+      name: Loại dự án đan
+    knob/handle_design:
+      name: Thiết kế quả đấm/tay cầm cửa
+    knob_function:
+      name: Chức năng tay nắm cửa
+    knob_style:
+      name: Kiểu quả đấm cửa
+    labeling_project_type:
+      name: Loại dự án dán nhãn
+    laboratory_freezer_design:
+      name: Thiết kế tủ đông trong phòng thí nghiệm
+    lacrosse_equipment_included:
+      name: Bao gồm thiết bị bóng vợt
+    ladder_type:
+      name: Loại thang
+    lamination_mode:
+      name: Chế độ cán
+    lamp_type:
+      name: Loại đèn
+    language:
+      name: Ngôn ngữ
+    language_version:
+      name: Phiên bản ngôn ngữ
+    laser_color:
+      name: Màu laze
+    laser_light_source:
+      name: Nguồn ánh sáng laze
+    laser_pattern:
+      name: Mẫu laser
+    lathe_application:
+      name: Ứng dụng máy tiện
+    laundry_detergent_features:
+      name: Tính năng giặt tẩy
+    lead_grade:
+      name: Loại chì
+    leash_design:
+      name: Thiết kế dây xích
+    leather/vinyl_texture:
+      name: Kết cấu da/nhựa vinyl
+    lectern_mounting_type:
+      name: Kiểu giá đỡ bục giảng
+    leg_color:
+      name: Màu chân ghế
+    leg_lock_type:
+      name: Loại khoá bằng chân
+    leg_material:
+      name: Chất liệu chân ghế
+    leg_pattern:
+      name: Kiểu chân
+    leg_sections:
+      name: Phần chân
+    lens/slide_material:
+      name: Vật liệu ống kính
+    lens_cap_compatible_device:
+      name: Thiết bị tương thích với nắp ống kính
+    lens_coating:
+      name: Lớp phủ trên ống kính
+    lens_color:
+      name: Màu ống kính
+    lens_configuration:
+      name: Cấu hình ống kính
+    lens_filter_effects:
+      name: Hiệu ứng bộ lọc ống kính
+    lens_filter_type:
+      name: Loại bộ lọc ống kính
+    lens_pattern:
+      name: Mẫu ống kính
+    lens_polarization:
+      name: Phân cực ống kính
+    lens_storage_type:
+      name: Loại túi đựng ống kính
+    lens_type:
+      name: Loại ống kính
+    license_type:
+      name: Loại giấy phép
+    lid_material:
+      name: Chất liệu nắp
+    lid_type:
+      name: Loại nắp
+    life_jacket_features:
+      name: Tính năng áo phao
+    light_attachment_type:
+      name: Loại phụ kiện đèn
+    light_color:
+      name: Màu sáng
+    light_control:
+      name: Kiểm soát ánh sáng
+    light_design:
+      name: Thiết kế chiếu sáng
+    light_exposure_modes:
+      name: Chế độ phơi sáng
+    light_filtering:
+      name: Lớp lọc ánh sáng
+    light_options:
+      name: Tuỳ chọn ánh sáng
+    light_pattern:
+      name: Mẫu đèn
+    light_source:
+      name: Nguồn sáng
+    light_spectrum:
+      name: Quang phổ ánh sáng
+    light_temperature:
+      name: Nhiệt độ ánh sáng
+    light_type:
+      name: Loại ánh sáng
+    lighting_features:
+      name: Tính năng chiếu sáng
+    lighting_options:
+      name: Tùy chọn chiếu sáng
+    line/rope_type:
+      name: Loại dây thép/dây thừng
+    line_spacing_options:
+      name: Tuỳ chọn khoảng cách dòng
+    liner_features:
+      name: Tính năng chì kẻ môi
+    lip_gloss_effect:
+      name: Hiệu ứng son bóng
+    lip_liner_design:
+      name: Thiết kế chì kẻ môi
+    lip_plate_material:
+      name: Chất liệu tấm kê môi
+    lipstick_effect:
+      name: Hiệu ứng son môi
+    liqueur_variety:
+      name: Loại rượu mùi
+    livestock_food_ingredients:
+      name: Nguyên liệu thức ăn chăn nuôi
+    lnb_output:
+      name: Đầu ra Lnb
+    lnb_technology:
+      name: Công nghệ Lnb
+    load_capacity:
+      name: Dung lượng tải
+    loading_ramp_type:
+      name: Loại cầu dẫn
+    loading_type:
+      name: Loại tải
+    lock_placement:
+      name: Vị trí khóa
+    lock_type:
+      name: Loại khoá
+    locking_mechanism:
+      name: Cơ chế khoá
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Ứng dụng bôi trơn
+    lubricant_composition:
+      name: Thành phần bôi trơn
+    lubricant_dispenser_type:
+      name: Loại máy cấp dầu bôi trơn
+    lubricant_form:
+      name: Dạng chất bôi trơn
+    luggage/bag_closure:
+      name: Hành lý/túi đựng
+    lumber/wood_type:
+      name: Loại gỗ
+    lyre/flip_folder_attachment_type:
+      name: Loại dụng cụ gập/lật giấy đính kèm
+    magnet_type:
+      name: Loại nam châm
+    magnification:
+      name: Độ phóng đại
+    makeup_color/shade:
+      name: Màu trang điểm
+    makeup_features:
+      name: Tính năng trang điểm
+    mallet_material:
+      name: Vật liệu búa gỗ
+    manufacturer_type:
+      name: Loại nhà sản xuất
+    marine_navigator_features:
+      name: Tính năng hoa tiêu hàng hải
+    marker_tip_design:
+      name: Thiết kế đầu bút đánh dấu
+    mascara_effect:
+      name: Hiệu ứng mascara
+    mask_type:
+      name: Loại mặt nạ
+    masonry_material:
+      name: Vật liệu masonry
+    masonry_product_form:
+      name: Mẫu sản phẩm gạch
+    massage_area:
+      name: Vùng mát xa
+    massage_stone_texture:
+      name: Kết cấu đá mát-xa
+    massage_technique:
+      name: Kỹ thuật xoa bóp
+    mat/rug_shape:
+      name: Hình dạng chiếu/thảm
+    mat_base_material:
+      name: Vật liệu nền thảm
+    mat_features:
+      name: Tính năng thảm
+    material:
+      name: Vật liệu
+    material_firmness:
+      name: Độ rắn chắc của vật liệu
+    material_hardness:
+      name: Độ cứng của vật liệu
+    maternity_clothing_features:
+      name: Đặc điểm quần áo bà bầu
+    maternity_sleepwear_style:
+      name: Kiểu dáng đồ ngủ bà bầu
+    mattress_features:
+      name: Tính năng nệm
+    maximum_magnification:
+      name: Độ phóng đại tối đa
+    measuring_method:
+      name: Phương pháp đo
+    measuring_tool_features:
+      name: Tính năng dụng cụ đo
+    measuring_type:
+      name: Kiểu đo
+    meat_cut:
+      name: Cắt thịt
+    meat_type:
+      name: Loại thịt
+    media_access:
+      name: Truy cập phương tiện truyền thông
+    media_content_type:
+      name: Loại nội dung truyền thông
+    media_format:
+      name: Định dạng phương tiện truyền thông
+    media_section:
+      name: Phần truyền thông
+    media_theme:
+      name: Chủ đề truyền thông
+    medical_alarm_features:
+      name: Tính năng cảnh báo y tế
+    medical_identification_type:
+      name: Loại nhận dạng y tế
+    medical_syringe_purpose:
+      name: Mục đích của ống tiêm y tế
+    medical_tape_material:
+      name: Vật liệu băng y tế
+    medicine/drug_form:
+      name: Dạng thuốc
+    medicine/supplement_form:
+      name: Mẫu thuốc/thực phẩm bổ sung
+    medium:
+      name: Vừa
+    melodica_style:
+      name: Phong cách du dương
+    memory_channels:
+      name: Kênh bộ nhớ
+    memory_form_factor:
+      name: Dạng thức bộ nhớ
+    memory_storage_type:
+      name: Loại lưu trữ của bộ nhớ
+    memory_technology:
+      name: Công nghệ bộ nhớ
+    menstrual_cup_shape:
+      name: Hình dạng cốc nguyệt san
+    metal_detector_features:
+      name: Tính năng máy dò kim loại
+    metal_molding_application:
+      name: Ứng dụng đúc kim loại
+    meter_type:
+      name: Loại đồng hồ đo
+    metrics_supported:
+      name: Chỉ số được hỗ trợ
+    microphone_thread:
+      name: Ren micrô
+    microphone_type:
+      name: Loại micrô
+    microscope_features:
+      name: Tính năng kính hiển vi
+    microscope_slide_material:
+      name: Vật liệu bản kính hiển vi
+    midi_connectivity:
+      name: Khả năng kết nối MIDI
+    mineral_class:
+      name: Phân loại khoáng sản
+    minimum_magnification:
+      name: Độ phóng đại tối thiểu
+    mirror_handle_design:
+      name: Thiết kế tay cầm gương
+    mixer_type:
+      name: Loại máy trộn
+    mobile_mounting_type:
+      name: Kiểu gắn di động
+    mobile_movement:
+      name: Chuyển động di động
+    mobile_phone_case_features:
+      name: Tính năng ốp lưng điện thoại di động
+    mobility/accessibility_equipment_features:
+      name: Tính năng thiết bị hỗ trợ tiếp cận/di chuyển
+    mobility_scooter_type:
+      name: Loại xe tay ga di động
+    model_control_technology:
+      name: Công nghệ điều khiển mô hình
+    model_train_accessory_type:
+      name: Loại phụ kiện tàu hoả mô hình
+    model_train_theme:
+      name: Chủ đề tàu mô hình
+    modulation_method:
+      name: Phương pháp điều chế
+    moisturizer_type:
+      name: Loại kem dưỡng ẩm
+    mold/cut_shape:
+      name: Hình dạng khuôn/cắt
+    mold_shape:
+      name: Hình dạng khuôn
+    molding_application:
+      name: Ứng dụng đúc
+    molding_shape:
+      name: Hình dạng khuôn
+    monitor/screen_specialized_features:
+      name: Tính năng chuyên dụng của màn hình
+    monitor_mounting_type:
+      name: Kiểu gắn màn hình
+    monitor_shape:
+      name: Hình dạng màn hình
+    monitor_specialized_features:
+      name: Giám sát các tính năng chuyên dụng
+    monitor_type:
+      name: Loại màn hình
+    monocular_design:
+      name: Thiết kế ống nhòm một mắt
+    motherboard_chipset_family:
+      name: Dòng chipset của bo mạch chủ
+    motherboard_form_factor:
+      name: Dạng thức của bo mạch chủ
+    motherboard_memory_features:
+      name: Tính năng bộ nhớ bo mạch chủ
+    motion:
+      name: Chuyển động
+    motion_sensor_type:
+      name: Loại cảm biến chuyển động
+    motor_starting_method:
+      name: Phương pháp khởi động của động cơ
+    motor_vehicle_placement:
+      name: Vị trí xe cơ giới
+    motor_vehicle_type:
+      name: Loại xe cơ giới
+    motorcycle/scooter_type:
+      name: Loại xe máy/xe tay ga
+    motorcycle_drive_type:
+      name: Loại dẫn động xe máy
+    motorcycle_glove_purpose:
+      name: Mục đích găng tay xe máy
+    motorcycle_tire_type:
+      name: Loại lốp xe gắn máy
+    mount/stand_features:
+      name: Tính năng giá lắp/chân đế
+    mount_material:
+      name: Vật liệu gắn kết
+    mounting_hardware:
+      name: Phần cứng lắp ghép
+    mounting_type:
+      name: Kiểu hệ thống lắp ráp
+    mouse/trackball_features:
+      name: Tính năng chuột/bi xoay
+    mouse_pad_features:
+      name: Tính năng bàn di chuột
+    mouse_port_type:
+      name: Loại cổng cắm chuột
+    mouse_technology:
+      name: Công nghệ chuột
+    mouthgard_design:
+      name: Thiết kế máng bảo vệ miệng
+    mouthpiece:
+      name: Miệng xả
+    moving/shipping_box_material:
+      name: Vật liệu hộp di chuyển/vận chuyển
+    mp3_player_accessories_included:
+      name: Phụ kiện máy nghe nhạc MP3 đi kèm
+    mpaa_rating:
+      name: Phân loại MPAA
+    multi_gpu_technology:
+      name: Công nghệ đa GPU
+    muscle_stimulator_design:
+      name: Thiết kế kích thích cơ bắp
+    music_genre:
+      name: Thể loại âm nhạc
+    music_stand_design:
+      name: Thiết kế giá nhạc
+    musical_key:
+      name: Phím nhạc
+    nail_art_items_included:
+      name: Đi kèm các sản phẩm làm móng
+    nail_care_features:
+      name: Tính năng chăm sóc móng
+    nail_design:
+      name: Thiết kế móng
+    nail_polish_drying_form:
+      name: Kiểu làm khô sơn móng tay
+    nail_shape:
+      name: Kiểu dáng móng tay
+    national/regional_rating:
+      name: Xếp hạng quốc gia/khu vực
+    native_aspect_ratio:
+      name: Tỷ lệ khung hình thực
+    nebulizer_design:
+      name: Thiết kế máy phun sương
+    nebulizer_technology:
+      name: Công nghệ máy thở khí dung
+    neck_color:
+      name: Màu vòng đeo cổ
+    neck_material:
+      name: Chất liệu ngõng trục
+    neck_pattern:
+      name: Mẫu vòng đeo cổ
+    necklace_design:
+      name: Thiết kế vòng cổ
+    neckline:
+      name: Đường viền cổ áo
+    needle_eye_type:
+      name: Loại mắt kim
+    needle_gauge:
+      name: Máy đo kim
+    needle_housing_material:
+      name: Vật liệu vỏ kim
+    needle_material:
+      name: Vật liệu kim
+    needle_size:
+      name: Kích cỡ kim
+    needlecraft_kit_type:
+      name: Loại bộ dụng cụ may vá
+    negative/slide_storage_type:
+      name: Loại lưu trữ âm bản/bản kính dương
+    net_material:
+      name: Vật liệu lưới
+    net_mounting_type:
+      name: Kiểu lắp lưới
+    network_cable_interface:
+      name: Giao diện cáp mạng
+    network_protocols_supported:
+      name: Giao thức mạng được hỗ trợ
+    networking_standards:
+      name: Tiêu chuẩn mạng
+    nightgown_style:
+      name: Kiểu váy ngủ
+    nipple_material:
+      name: Vật liệu kim
+    nipple_shape:
+      name: Kiểu dáng núm vú
+    nipple_type:
+      name: Loại núm vú
+    nock_material:
+      name: Vật liệu vòng đeo cổ
+    noise_intensity:
+      name: Cường độ tiếng ồn
+    notepad_cover_type:
+      name: Loại bìa sổ tay
+    notepad_design:
+      name: Thiết kế sổ tay
+    nozzle_type:
+      name: Các loại xịt
+    nursery_theme:
+      name: Chủ đề vườn ươm
+    nursing_cover_coverage:
+      name: Bảo hiểm điều dưỡng
+    nursing_pad_design:
+      name: Thiết kế tấm lót điều dưỡng
+    nursing_pillow_shape:
+      name: Hình dạng gối cho bé bú
+    nut/seed_type:
+      name: Loại hạt
+    nut_butter_variety:
+      name: Loại bơ hạt
+    nut_form:
+      name: Dạng đai ốc
+    nut_processing_method:
+      name: Phương pháp chế biến hạt
+    nutrient_content:
+      name: Hàm lượng chất dinh dưỡng
+    oboe_key_system:
+      name: Hệ thống phím kèn Oboe
+    ocarina_style:
+      name: Phong cách ocarina
+    occasion:
+      name: Dịp
+    occasion_style:
+      name: Phong cách ngày lễ
+    office_cart_features:
+      name: Tính năng xe đẩy văn phòng
+    office_instrument_material:
+      name: Vật liệu đồ dùng văn phòng
+    office_supply_material:
+      name: Vật tư văn phòng
+    oil_type:
+      name: Loại dầu
+    one_piece_style:
+      name: Kiểu liền thân
+    open/closed_sign_design:
+      name: Biển thông báo đóng/mở cửa
+    opening_direction:
+      name: Hướng mở
+    opening_mechanism:
+      name: Cơ chế mở
+    operating_mode:
+      name: Chế độ hoạt động
+    operating_system:
+      name: Hệ điều hành
+    operation_method:
+      name: Phương thức hoạt động
+    optical_drive_type:
+      name: Loại ổ đĩa quang
+    optical_frame_design:
+      name: Thiết kế khung quang
+    optical_zoom:
+      name: Thu phóng quang học
+    organizer_type:
+      name: Loại bộ cáp sạc
+    orientation:
+      name: Định hướng
+    outdoor_equipment_features:
+      name: Tính năng thiết bị ngoài trời
+    outdoor_furniture_items_included:
+      name: Đi kèm đồ nội thất ngoài trời
+    outdoor_power_accessories_included:
+      name: Bao gồm phụ kiện điện ngoài trời
+    outdoor_walking_activity:
+      name: Hoạt động đi bộ ngoài trời
+    outerwear_clothing_features:
+      name: Tính năng quần áo khoác ngoài
+    outlet_type:
+      name: Loại ổ cắm
+    output_connection:
+      name: Kết nối đầu ra
+    output_level:
+      name: Trình độ đầu ra
+    output_waveform:
+      name: Dạng sóng đầu ra
+    oven_accessories_included:
+      name: Phụ kiện đi kèm lò nướng
+    oxygen_tank_valve_type:
+      name: Loại van bình oxy
+    pacifier/teether_design:
+      name: Thiết kế ti/gặm nướu giả
+    package_type:
+      name: Loại kiện hàng
+    packing_materials_included:
+      name: Vật liệu đóng gói đi kèm
+    pad_display_profile:
+      name: Hồ sơ hiển thị đệm
+    pad_type:
+      name: Loại miếng đệm
+    paddle/oar_material:
+      name: Vật liệu mái chèo
+    paddle_equipment_included:
+      name: Đi kèm thiết bị mái chèo
+    paddleboard_features:
+      name: Tính năng ván chèo
+    page_layout:
+      name: Bố cục trang
+    page_size:
+      name: Cỡ trang
+    paint/dye_form:
+      name: Dạng sơn/nhuộm
+    paint_brush_design:
+      name: Loại cọ sơn
+    paint_finish:
+      name: Độ hoàn thiện lớp sơn
+    paint_form:
+      name: Mẫu sơn
+    paint_medium_type:
+      name: Loại dung môi sơn
+    paint_type:
+      name: Loại sơn
+    paintball/airsoft_equipment_included:
+      name: Bao gồm thiết bị bắn súng sơn/súng hơi hạng nhẹ
+    paintball_equipment_included:
+      name: Bao gồm thiết bị bắn súng sơn
+    painting_canvas_material:
+      name: Vật liệu canvas vẽ tranh
+    pairing_method:
+      name: Phương pháp ghép nối
+    palette_design:
+      name: Thiết kế bảng màu
+    palette_knife_shape:
+      name: Hình dạng dao trộn màu
+    panel_specification:
+      name: Thông số kỹ thuật của bảng điều khiển
+    panel_termination:
+      name: Đầu cuối bảng điều khiển
+    pants_length_type:
+      name: Loại chiều dài quần
+    pantyhose_style:
+      name: Phong cách quần tất da chân
+    paper_finish:
+      name: Độ hoàn thiện giấy
+    paper_format:
+      name: Định dạng giấy
+    paper_size:
+      name: Khổ giấy
+    paper_texture:
+      name: Kết cấu giấy
+    paper_type:
+      name: Loại giấy
+    paperweight_design:
+      name: Thiết kế chặn giấy
+    papier_mache_shape:
+      name: Hình dạng giấy bồi
+    parachuting_activity:
+      name: Hoạt động nhảy dù
+    parallel_processing_technology_support:
+      name: Hỗ trợ công nghệ xử lý song song
+    parking_camera_features:
+      name: Tính năng camera đỗ xe
+    parking_sign_design:
+      name: Thiết kế biển báo đỗ xe
+    passband:
+      name: Dải thông
+    pasta_shape_type:
+      name: Loại mì ống
+    pasta_type:
+      name: Loại mì ống
+    patch_shape:
+      name: Hình dạng vá
+    pattern:
+      name: Mẫu
+    pattern_distribution_format:
+      name: Định dạng phân phối mẫu
+    pcb_type:
+      name: Loại PCB
+    pedal_polarity:
+      name: Bàn đạp phân cực
+    pegi_rating:
+      name: Xếp hạng từ hệ thống phân loại trò chơi điện tử của châu Âu
+    pen/felt_tip_design:
+      name: Thiết kế bút mực/bút dạ
+    pen/pencil_features:
+      name: Tính năng bút mực/bút chì
+    pen_color:
+      name: Màu bút
+    pen_features:
+      name: Tính năng bút mực
+    pen_pattern:
+      name: Mẫu bút mực
+    pen_tip_design:
+      name: Thiết kế đầu bút
+    pen_type:
+      name: Loại bút
+    pencil_features:
+      name: Tính năng bút chì
+    pencil_sharpener_design:
+      name: Thiết kế gọt bút chì
+    pencil_type:
+      name: Loại bút chì
+    percussion_stand_design:
+      name: Thiết kế giá đỡ bộ gõ
+    percussion_tip_shape:
+      name: Hình dạng đầu bộ gõ
+    performance_metrics:
+      name: Số liệu hiệu suất
+    peroxide_content:
+      name: Hàm lượng peroxide
+    personal_watercraft_type:
+      name: Loại tàu thủy cá nhân
+    personalization_design:
+      name: Thiết kế cá nhân hóa
+    personalization_options:
+      name: Tùy chọn cá nhân hóa
+    pest_control_method:
+      name: Phương pháp kiểm soát côn trùng gây hại
+    pet_apparel/bedding_features:
+      name: Tính năng trang phục/giường cho thú cưng
+    pet_apparel_features:
+      name: Tính năng trang phục thú cưng
+    pet_bedding_features:
+      name: Đặc điểm giường cho thú cưng
+    pet_control_accessory_features:
+      name: Tính năng phụ kiện kiểm soát thú cưng
+    pet_dietary_preferences:
+      name: Tùy chọn đồ ăn thú cưng
+    pet_dietary_requirements:
+      name: Yêu cầu về chế độ ăn của thú cưng
+    pet_food_flavor:
+      name: Hương vị thức ăn vật nuôi
+    pet_food_form:
+      name: Dạng thức ăn cho thú cưng
+    pet_food_supplements:
+      name: Thức ăn bổ sung cho thú cưng
+    pet_hair_dryer_design:
+      name: Thiết kế máy sấy tóc cho thú cưng
+    pet_hair_dryer_speed_settings:
+      name: Cài đặt tốc độ máy sấy tóc cho thú cưng
+    pet_medical_collar_design:
+      name: Thiết kế vòng cổ y tế cho thú cưng
+    pet_medical_supply_type:
+      name: Loại vật tư y tế cho thú cưng
+    pet_monitor_items_included:
+      name: Bao gồm các vật dụng theo dõi thú cưng
+    pet_nail_tool_type:
+      name: Loại dụng cụ làm móng cho thú cưng
+    pet_pad_features:
+      name: Tính năng tấm lót thú cưng
+    pet_spray/solution_type:
+      name: Loại dung dịch/thuốc xịt dành cho thú cưng
+    pet_supply_product_form:
+      name: Mẫu sản phẩm cung cấp thú cưng
+    pet_thermometer_design:
+      name: Thiết kế nhiệt kế thú cưng
+    pet_trainer_type:
+      name: Loại dụng cụ huấn luyện thú cưng
+    pet_treat_texture:
+      name: Kết cấu hạt dành cho thú cưng
+    pet_treat_type:
+      name: Loại bánh thưởng cho thú cưng
+    phase_type:
+      name: Loại thời kì
+    photo_effects_type:
+      name: Loại hiệu ứng hình ảnh
+    photographic_chemical_form:
+      name: Hóa chất rửa ảnh
+    photographic_paper_size:
+      name: Kích thước giấy ảnh
+    photographic_paper_type:
+      name: Loại giấy ảnh
+    piano_additional_features:
+      name: Các tính năng bổ sung của đàn piano
+    piano_pedals:
+      name: Bàn đạp đàn piano
+    piano_size:
+      name: Cỡ đàn piano
+    pick_design:
+      name: Thiết kế kim
+    pickup_design:
+      name: Thiết kế xe bán tải
+    pickup_mounting_type:
+      name: Kiểu giá đỡ bộ phận giữ kim máy quay đĩa
+    pickup_position:
+      name: Vị trí bộ phận giữ kim máy quay đĩa
+    pickup_type:
+      name: Kiểu bộ phận giữ kim máy quay đĩa
+    pig_feed_stage:
+      name: Giai đoạn cho lợn ăn
+    pile_type:
+      name: Loại cọc
+    pillow_shape:
+      name: Kiểu dáng gối
+    pin_size:
+      name: Kích cỡ ghim
+    pinata_design:
+      name: Thiết kế Pi√±ata
+    ping_pong_equipment_included:
+      name: Bao gồm thiết bị bóng bàn
+    ping_pong_robot_features:
+      name: Tính năng robot bóng bàn
+    pipe_clamp_design:
+      name: Thiết kế kẹp ống
+    pipe_shape:
+      name: Hình dạng ống dẫn
+    placement_supported:
+      name: Vị trí được hỗ trợ
+    plant_characteristics:
+      name: Đặc điểm thực vật
+    plant_class:
+      name: Lớp thực vật
+    plant_name:
+      name: Tên thực vật
+    plant_support_material:
+      name: Vật liệu giàn trồng cây
+    plate_type:
+      name: Loại tấm
+    play_equipment_items_included:
+      name: Đi kèm đồ dùng vui chơi
+    play_slide_design:
+      name: Thiết kế cầu trượt
+    play_vehicle_propulsion:
+      name: Động cơ đẩy xe đồ chơi
+    play_yard_design_features:
+      name: Tính năng thiết kế sân chơi
+    playback_disc_formats:
+      name: Định dạng đĩa phát lại
+    player/recorder_specialized_features:
+      name: Các tính năng chuyên dụng của đầu phát/đầu ghi
+    player_drive_type:
+      name: Loại dẫn động máy phát
+    player_position:
+      name: Vị trí cầu thủ
+    player_specialized_features:
+      name: Tính năng chuyên dụng của máy chơi game
+    playhouse_design:
+      name: Thiết kế nhà vui chơi
+    playset_features:
+      name: Tính năng bộ đồ chơi
+    plug_type:
+      name: Loại ổ cắm
+    plug_type_input:
+      name: Loại phích cắm (đầu vào)
+    plug_type_output:
+      name: Loại phích cắm (đầu ra)
+    plumbing_primer_application:
+      name: Ứng dụng sơn lót hệ thống ống nước
+    plumbing_trap_design:
+      name: Thiết kế bẫy ống nước
+    plunger_shape:
+      name: Hình dạng pit tông
+    plywood_grade:
+      name: Phân loại ván ép
+    pneumatic_conveyor_operation:
+      name: Vận hành băng tải khí nén
+    poe_standard:
+      name: Tiêu chuẩn Poe
+    point_design:
+      name: Thiết kế điểm
+    pointing_device:
+      name: Thiết bị trỏ
+    polar_pattern:
+      name: Mô hình cực
+    polarization:
+      name: Phân cực
+    pole/post_material:
+      name: Vật liệu cọc
+    pole_color:
+      name: Màu cọc
+    pole_material:
+      name: Chất liệu cọc
+    pole_pattern:
+      name: Mẫu cọc
+    policy_sign_design:
+      name: Thiết kế bảng hiệu chính sách
+    polish_dry_form:
+      name: Kiểu sơn móng khô
+    polish_remover_form:
+      name: Nước tẩy sơn móng
+    polish_type:
+      name: Loại đánh bóng
+    polyphony:
+      name: Tính đa âm
+    portability:
+      name: Tính linh động
+    post_material:
+      name: Vật liệu cột trụ
+    postage_stamp_features:
+      name: Đặc điểm tem bưu chính
+    potential_extract:
+      name: Chiết xuất tiềm năng
+    pottery/sculpting_project_type:
+      name: Loại dự án Đồ gốm/Điêu khắc
+    potty/toilet_seat_design:
+      name: Thiết kế bô/Bồn cầu
+    potty_training_kit_components:
+      name: Các thành phần của bộ dụng cụ tập ngồi bô
+    power_source:
+      name: Nguồn năng lượng
+    pregnancy_test_sensitivity:
+      name: Độ nhạy của que thử thai
+    presentation_supply_features:
+      name: Tính năng cung cấp bài thuyết trình
+    preservation_type:
+      name: Loại bảo quản
+    pretend_electronics_toy_type:
+      name: Loại đồ chơi điện tử giả vờ
+    pretend_housekeeping_toy_type:
+      name: Loại đồ chơi dọn phòng giả vờ
+    primary_region:
+      name: Vùng sơ cấp
+    primer_use:
+      name: Sử dụng sơn lót
+    print_technology:
+      name: Công nghệ in
+    printer/copier_specialized_features:
+      name: Tính năng chuyên dụng của máy in/photocopy
+    printer_accessories_included:
+      name: Phụ kiện máy in đi kèm
+    printer_functions:
+      name: Chức năng của máy in
+    printing_color:
+      name: Màu in
+    printing_method:
+      name: Phương pháp in
+    processor_cores:
+      name: Lõi bộ xử lý
+    processor_family:
+      name: Dòng bộ xử lý
+    processor_socket:
+      name: Ổ cắm bộ xử lý
+    processor_technology:
+      name: Công nghệ xử lý
+    product_benefits:
+      name: Lợi ích của sản phẩm
+    product_certifications_standards:
+      name: Chứng nhận & tiêu chuẩn sản phẩm
+    product_form:
+      name: Hình thức sản phẩm
+    product_formulation:
+      name: Hình thức sản phẩm
+    product_manual_area:
+      name: Khu vực hướng dẫn sử dụng sản phẩm
+    product_sterility:
+      name: Độ vô trùng của sản phẩm
+    program_format:
+      name: Định dạng chương trình
+    projection_design:
+      name: Thiết kế hình chiếu
+    projector_light_source:
+      name: Nguồn đèn máy chiếu
+    prop_theme:
+      name: Chủ đề chống đỡ
+    propane_application:
+      name: Ứng dụng khí dầu hoả
+    propeller_blade_design:
+      name: Thiết kế cánh quạt
+    prophy_cup_design:
+      name: Loại đài cao su đánh bóng
+    propulsion_type:
+      name: Loại động cơ đẩy
+    protection_type:
+      name: Loại bảo vệ
+    protective_gear_features:
+      name: Tính năng thiết bị bảo hộ
+    protective_mask_design:
+      name: Thiết kế mặt nạ bảo vệ
+    protective_mask_features:
+      name: Tính năng mặt nạ bảo vệ
+    pstn_connectivity_options:
+      name: Tuỳ chọn kết nối PSTN
+    publication_frequency:
+      name: Tần suất xuất bản
+    publication_type:
+      name: Loại xuất bản
+    pull_up_bar:
+      name: Thanh xà
+    pump_accessories:
+      name: Phụ kiện bơm
+    pump_speed_settings:
+      name: Cài đặt tốc độ bơm
+    punching/training_bag_material:
+      name: Vật liệu bao cát đấm bốc
+    puppet_theme:
+      name: Chủ đề con rối
+    puppet_type:
+      name: Loại con rối
+    puzzle_theme:
+      name: Chủ đề câu đố
+    puzzle_type:
+      name: Loại giải đố
+    quiver_style:
+      name: Kiểu bao tên
+    rack_design:
+      name: Thiết kế giá đỡ
+    rack_type:
+      name: Loại giá đỡ
+    racket_gauge:
+      name: Đường kính dây cước vợt
+    racket_material:
+      name: Vật liệu vợt
+    racket_string_design:
+      name: Thiết kế cước đan vợt
+    racket_string_material:
+      name: Vật liệu cước đan vợt
+    radar_bands:
+      name: Dải radar
+    radar_technology:
+      name: Công nghệ radar
+    radio_case_design:
+      name: Thiết kế vỏ đài phát thanh
+    radio_features:
+      name: Tính năng phát thanh
+    ramp_type:
+      name: Loại đường dốc trượt
+    range_type:
+      name: Loại phạm vi
+    rarity:
+      name: Độ hiếm
+    razor_flexibility:
+      name: Dao cạo linh hoạt
+    razor_head_design:
+      name: Thiết kế đầu dao cạo
+    razor_type:
+      name: Loại dao cạo
+    read/write_speed:
+      name: Tốc độ đọc/ghi
+    reading_toy_type:
+      name: Loại đồ chơi đọc sách
+    receipt_paper_features:
+      name: Đặc điểm giấy biên nhận
+    reclining_function:
+      name: Chức năng ngả lưng
+    recommended_age_group:
+      name: Nhóm tuổi được đề xuất
+    recommended_skill_level:
+      name: Cấp độ kỹ năng được đề xuất
+    recommended_use:
+      name: Mục đích sử dụng được khuyến cáo
+    recorder_fingering_system:
+      name: Hệ thống sáo
+    recorder_specialized_features:
+      name: Tính năng chuyên dụng của máy ghi âm
+    recording_accessories_included:
+      name: Phụ kiện ghi âm đi kèm
+    recording_quality:
+      name: Chất lượng ghi âm
+    recreational_vehicle_type:
+      name: Loại xe dã ngoại
+    reed_strength:
+      name: Độ bền lưỡi gà
+    reel_capacity:
+      name: Ding tích cuộn phim
+    reflector_design:
+      name: Thiết kế máy phản xạ
+    regenerative_braking_features:
+      name: Tính năng phanh tái sinh
+    region:
+      name: Khu vực
+    region_code:
+      name: Mã vùng
+    release_schedule:
+      name: Lịch phát hành
+    remote_technology:
+      name: Công nghệ điều khiển từ xa
+    removable_storage_formats_supported:
+      name: Các định dạng lưu trữ di động được hỗ trợ
+    reptile/amphibian_food_form:
+      name: Thức ăn của động vật bò sát/lưỡng cư
+    reptile/amphibian_habitat_supply_type:
+      name: Loại môi trường sống cho động vật bò sát/lưỡng cư
+    research_focus:
+      name: Trọng tâm nghiên cứu
+    research_methodology:
+      name: Phương pháp nghiên cứu
+    resistance_level:
+      name: Mức độ kháng
+    resistance_system:
+      name: Hệ thống kháng
+    result_display:
+      name: Hiển thị kết quả
+    retail/sale_sign_design:
+      name: Thiết kế biển hiệu bán lẻ/giảm giá
+    reticle_plane:
+      name: Tiêu diện kẻ
+    reticle_type:
+      name: Loại đường chữ thập
+    rfid_frequency:
+      name: Tần số RFID
+    riding_style:
+      name: Kiểu đạp xe
+    riding_toy_propulsion_type:
+      name: Loại động cơ đẩy đồ chơi cưỡi ngựa
+    rim/wheel_design:
+      name: Thiết kế vành/bánh xe
+    ring_design:
+      name: Thiết kế nhẫn
+    ring_size:
+      name: Kích cỡ nhẫn
+    riser_color:
+      name: Màu bậc thang
+    riser_material:
+      name: Vật liệu nâng
+    riser_pattern:
+      name: Mẫu bậc thang
+    rivet_form:
+      name: Dạng đinh tán
+    road_sign_design:
+      name: Thiết kế biển báo đường bộ
+    rock_composition:
+      name: Thành phần đá
+    rock_formation:
+      name: Quá trình hình thành đá
+    rocker_type:
+      name: Kiểu rocker
+    rod_color:
+      name: Màu cần
+    rod_material:
+      name: Vật liệu dây đeo bằng đồng
+    rod_pattern:
+      name: Mẫu cần
+    rod_shape:
+      name: Hình cần câu
+    roller_head:
+      name: Đầu lăn
+    roller_material:
+      name: Vật liệu duỗi
+    roller_type:
+      name: Loại đầu lăn
+    roof_decor_shape:
+      name: Kiểu dáng trang trí mái nhà
+    rosin_form:
+      name: Dạng nhựa thông
+    rosin_grade:
+      name: Loại nhựa thông
+    rotating_direction:
+      name: Hướng quay
+    rotator_control_technology:
+      name: Công nghệ điều khiển máy quay
+    rug/mat_features:
+      name: Tính năng thảm/chiếu
+    rug/mat_material:
+      name: Vật liệu thảm/chiếu
+    rug/mat_shape:
+      name: Hình dạng thảm/chiếu
+    rug_features:
+      name: Tính năng thảm
+    rug_material:
+      name: Vật liệu thảm
+    rug_shape:
+      name: Hình dạng thảm
+    rum_grade:
+      name: Loại rượu rum
+    saddle_base_color:
+      name: Màu đế yên
+    saddle_base_material:
+      name: Vật liệu đế yên
+    saddle_base_pattern:
+      name: Mẫu đế yên
+    saddle_material:
+      name: Chất liệu yên xe
+    saddle_seat_color:
+      name: Màu ghế yên
+    saddle_seat_material:
+      name: Vật liệu ghế yên
+    saddle_seat_pattern:
+      name: Mẫu ghế yên
+    safety_certifications:
+      name: Chứng nhận an toàn
+    safety_device_installation:
+      name: Lắp đặt thiết bị an toàn
+    safety_equipment_material:
+      name: Vật liệu thiết bị an toàn
+    safety_rail_installation:
+      name: Lắp đặt đường ray an toàn
+    sailboat_type:
+      name: Loại thuyền buồm
+    sandal_style:
+      name: Kiểu sandal
+    sandblaster_application:
+      name: Ứng dụng thiết bị phun cát
+    sander_type:
+      name: Loại máy mài
+    sanding_application:
+      name: Ứng dụng chà nhám
+    satellite_coverage_area:
+      name: Vùng phủ sóng vệ tinh
+    satellite_network_type:
+      name: Loại mạng vệ tinh
+    sauna_accessories_included:
+      name: Đi kèm pụ kiện xông hơi
+    scaffolding_mounting_type:
+      name: Kiểu giá đỡ giàn giáo
+    scale_material:
+      name: Chất liệu vảy
+    scale_model_accessory_type:
+      name: Loại phụ kiện mô hình theo tỷ lệ
+    scale_model_kit_type:
+      name: Loại bộ mô hình
+    scale_model_material:
+      name: Vật liệu mô hình
+    scale_model_theme:
+      name: Chủ đề mô hình quy mô
+    scalpel_blade_material:
+      name: Vật liệu lưỡi dao mổ
+    scalpel_blade_number:
+      name: Số lưỡi dao mổ
+    scalpel_blade_shape:
+      name: Hình dạng lưỡi dao mổ
+    scalpel_handle_number:
+      name: Số cán dao mổ
+    scan_converter_features:
+      name: Tính năng chuyển đổi quét
+    scanner_features:
+      name: Tính năng máy quét
+    scanner_sensor_type:
+      name: Loại cảm biến máy quét
+    scarf/shawl_style:
+      name: Kiểu khăn quàng cổ/khăn choàng
+    scene_modes:
+      name: Chế độ cảnh
+    scent:
+      name: Mùi hương
+    scissor_blade_type:
+      name: Loại lưỡi kéo
+    scope/sight_design:
+      name: Thiết kế phạm vi/tầm nhìn
+    scope/sight_features:
+      name: Tính năng lấy nét/tầm nhìn
+    scope_design:
+      name: Thiết kế lấy nét
+    scope_lens_type:
+      name: Loại ống kính lấy nét
+    scoreboard_features:
+      name: Tính năng bảng tỷ số
+    scrapbook_paper_type:
+      name: Loại giấy sổ lưu niệm
+    screen/display_design:
+      name: Thiết kế màn hình/hiển thị
+    screen_material:
+      name: Chất liệu màn hình
+    screen_specialized_features:
+      name: Tính năng chuyên dụng của màn hình
+    seafood_type:
+      name: Loại hải sản
+    seal_stamp_design:
+      name: Thiết kế tem niêm phong
+    season:
+      name: Mùa
+    seat_color:
+      name: Màu ghế
+    seat_cushioning:
+      name: Đệm ghế
+    seat_pattern:
+      name: Hoạ tiết ghế
+    seat_shape:
+      name: Hình dạng chỗ ngồi
+    seat_structure:
+      name: Cấu trúc ghế
+    seat_type:
+      name: Loại ghế
+    seat_upholstery_color:
+      name: Màu sắc bọc ghế
+    seat_upholstery_material:
+      name: Chất liệu bọc ghế
+    seat_upholstery_pattern:
+      name: Mẫu bọc ghế
+    security_algorithms:
+      name: Thuật toán bảo mật
+    security_level:
+      name: Cấp độ bảo mật
+    sensor/measuring_tool_features:
+      name: Tính năng của cảm biến/dụng cụ đo lường
+    sensor_features:
+      name: Tính năng cảm biến
+    sensor_type:
+      name: Loại cảm biến
+    sequin/glitter_shape:
+      name: Hình dạng vải kim sa/nhũ
+    sequin_shape:
+      name: Hình dạng vải kim sa
+    serum_target_areas:
+      name: Vùng mục tiêu huyết thanh
+    service_type:
+      name: Loại dịch vụ
+    sewing_foot_type:
+      name: Loại chân vịt máy may
+    sewing_machine_part_category:
+      name: Danh mục bộ phận máy may
+    sfx_control_technology:
+      name: Công nghệ điều khiển hiệu ứng đặc biệt
+    shaft_color:
+      name: Màu trục
+    shaft_flex:
+      name: Độ cứng thân gậy
+    shaft_material:
+      name: Vật liệu trục
+    shaft_orientation:
+      name: Định hướng trục
+    shaft_pattern:
+      name: Mẫu trục
+    shampoo/conditioner_effect:
+      name: Tác dụng dầu gội/dầu xả
+    shampoo/conditioner_items_included:
+      name: Đi kèm các sản phẩm dầu gội/dầu xả
+    shampoo_type:
+      name: Loại dầu gội
+    shape:
+      name: Hình dạng
+    shapewear_support_level:
+      name: Mức nâng ngực định hình
+    shaving_cream_formulation:
+      name: Công thức kem cạo râu
+    shaving_kit_components:
+      name: Cấu tạo bộ dụng cụ cạo râu
+    sheen/gloss_level:
+      name: Độ sáng/độ bóng
+    sheet_color:
+      name: Màu khăn trải
+    sheet_pattern:
+      name: Mẫu tấm
+    shelf_color:
+      name: Màu kệ
+    shelf_material:
+      name: Chất liệu kệ đỡ
+    shelf_pattern:
+      name: Mẫu kệ
+    shell/frame_color:
+      name: Màu vỏ/khung
+    shell/frame_material:
+      name: Vật liệu vỏ/khung
+    shell/frame_pattern:
+      name: Mẫu vỏ/khung
+    shingle/tile_material:
+      name: Vật liệu lợp/ngói
+    shoe_binding_type:
+      name: Kiểu gắn giày
+    shoe_features:
+      name: Tính năng giày
+    shoe_fit:
+      name: Độ vừa của giày
+    shoe_size:
+      name: Kích cỡ giày
+    shooting_modes:
+      name: Chế độ chụp
+    shopping_bag_material:
+      name: Vật liệu túi mua sắm
+    shower_base_design:
+      name: Thiết kế chân vòi hoa sen
+    shower_curtain_mounting_type:
+      name: Kiểu lắp rèm tắm
+    shower_design:
+      name: Thiết kế vòi hoa sen
+    shower_features:
+      name: Tính năng vòi hoa sen
+    shower_opening_type:
+      name: Kiểu mở vòi hoa sen
+    shrink_ratio:
+      name: Tỷ lệ co ngót
+    shutter_finish:
+      name: Độ hoàn thiện màn trập
+    siding_material:
+      name: Vật liệu vách ngoài
+    signature_placement:
+      name: Vị trí chữ ký
+    silencer/blimp_type:
+      name: Loại tiêu âm/lọc gió
+    sim_card_capability:
+      name: Dung lượng thẻ sim
+    sim_card_type:
+      name: Loại thẻ sim
+    sim_card_type_1:
+      name: Thẻ SIM loại 1
+    sim_card_type_2:
+      name: Thẻ SIM loại 2
+    sink_mounting_type:
+      name: Kiểu giá đỡ bồn rửa
+    sink_shape:
+      name: Hình dạng bồn rửa
+    sink_type:
+      name: Loại bồn rửa
+    sinker_material:
+      name: Vật liệu bồn rửa
+    size:
+      name: Kích cỡ
+    skateboarding_style:
+      name: Phong cách trượt ván
+    ski_construction:
+      name: Xây dựng ván trượt tuyết
+    skiing_style:
+      name: Phong cách đồ bơi
+    skill_level:
+      name: Cấp độ kỹ năng
+    skin_care_effect:
+      name: Hiệu quả chăm sóc da
+    skin_care_features:
+      name: Tính năng chăm sóc da
+    skin_care_mask_type:
+      name: Loại mặt nạ chăm sóc da
+    skin_tone:
+      name: Màu da
+    skin_undertone:
+      name: Sắc độ da
+    skirt/dress_length_type:
+      name: Váy/Loại chiều dài váy
+    skirt_style:
+      name: Kiểu chân váy
+    slat_color:
+      name: Màu đá đen
+    slat_material:
+      name: Chất liệu thanh
+    slat_pattern:
+      name: Mẫu đá đen
+    sleeve_length_type:
+      name: Loại chiều dài tay áo
+    slip_texture:
+      name: Kết cấu trượt
+    slipper_style:
+      name: Kiểu dép quai ngang
+    slot_machine_type:
+      name: Loại máy đánh bạc
+    small_animal_dietary_requirements:
+      name: Yêu cầu về chế độ ăn của động vật nhỏ
+    small_animal_food_form:
+      name: Dạng thức ăn động vật nhỏ
+    small_animal_food_ingredients:
+      name: Nguyên liệu thức ăn động vật nhỏ
+    small_animal_habitat/cage_type:
+      name: Môi trường sống/loại lồng của động vật nhỏ
+    smart_tv_platform:
+      name: Nền tảng TV thông minh
+    smart_watch_features:
+      name: Tính năng đồng hồ thông minh
+    sneaker_style:
+      name: Phong cách giày thể thao
+    snorkel_shape:
+      name: Hình dạng ống thở
+    snowboard_construction:
+      name: Xây dựng ván trượt tuyết
+    snowboard_design:
+      name: Thiết kế ván trượt tuyết
+    snowboarding_style:
+      name: Phong cách trượt ván trên tuyết
+    snowmobile_type:
+      name: Loại xe trượt tuyết
+    socket_driver_tip:
+      name: Đầu tua vít vặn tuýp
+    socket_type:
+      name: Loại ổ cắm
+    soda_maker_accessories_included:
+      name: Phụ kiện máy làm soda đi kèm
+    soda_variety:
+      name: Loại soda
+    sofa_features:
+      name: Tính năng ghế sofa
+    softball_discipline:
+      name: Môn bóng mềm
+    softbox_mounting_type:
+      name: Loại giá đỡ hộp làm mềm ánh sáng
+    softbox_shape:
+      name: Hình dạng hộp làm mềm ánh sáng
+    software_features:
+      name: Các tính năng phần mềm
+    software_tool_type:
+      name: Loại công cụ phần mềm
+    softwood_lumber_grade:
+      name: Phân loại gỗ mềm
+    solar_cell_type:
+      name: Loại pin mặt trời
+    solar_panel_connections:
+      name: Kết nối bảng điều khiển năng lượng mặt trời
+    solar_panel_design:
+      name: Thiết kế tấm pin mặt trời
+    solder/flux_application:
+      name: Ứng dụng hàn/luồng
+    soleplate_type:
+      name: Loại đế
+    solubility:
+      name: Độ hoà tan
+    solution_type:
+      name: Loại dung dịch
+    solvent/thinner_application:
+      name: Ứng dụng dung môi hoà tan/chất pha loãng
+    solvent_application:
+      name: Ứng dụng dung môi hoà tan
+    soothing_sounds:
+      name: Âm thanh êm dịu
+    sound_controls:
+      name: Điều khiển âm thanh
+    sound_effects:
+      name: Hiệu ứng âm thanh
+    sound_insulation:
+      name: Cách âm
+    sound_options:
+      name: Tuỳ chọn âm thanh
+    speaker_configuration:
+      name: Cấu hình loa
+    speaker_design:
+      name: Thiết kế loa
+    speaker_features:
+      name: Tính năng loa
+    speaker_technology:
+      name: Công nghệ loa
+    speakerphone_type:
+      name: Loại loa ngoài
+    speed_settings:
+      name: Cài đặt tốc độ
+    spf_level:
+      name: Cấp độ SPF
+    spike_design:
+      name: Thiết kế hàng rào nhọn
+    spinner_type:
+      name: Loại vòng quay
+    spirit_dilution:
+      name: Pha loãng rượu
+    splitter/switch_features:
+      name: Tính năng bộ chia quang/công tắc
+    splitter_use:
+      name: Mục đích sử dụng bộ chia
+    sponge_shape:
+      name: Kiểu dáng miếng dặm phấn
+    spool_color:
+      name: Màu ống chỉ
+    spool_material:
+      name: Chất liệu ống chỉ
+    spool_pattern:
+      name: Mẫu ống chỉ
+    sport:
+      name: Môn thể thao
+    sports_logo:
+      name: Logo thể thao
+    sports_theme:
+      name: Chủ đề thể thao
+    spout_type:
+      name: Loại vòi
+    spreader_type:
+      name: Loại thanh giằng
+    sprinkler_head_type:
+      name: Loại đầu phun
+    sprinkler_shape:
+      name: Hình dạng vòi phun nước
+    squeegee_blade_design:
+      name: Thiết kế lưỡi gạt
+    stack_configuration:
+      name: Cấu hình ngăn xếp
+    stage:
+      name: Giai đoạn
+    stair_lifts_control_type:
+      name: Loại điều khiển ghế cầu thang
+    staircase_features:
+      name: Tính năng cầu thang
+    staircase_type:
+      name: Loại cầu thang
+    stamp_theme:
+      name: Chủ đề tem
+    stamp_type:
+      name: Loại con dấu
+    stand/display_type:
+      name: Loại chân đế/màn hình
+    staple_wire_gauge:
+      name: Máy đo dây ghim
+    stapler_features:
+      name: Tính năng dập ghim
+    star_rating:
+      name: Xếp hạng sao
+    start_type:
+      name: Loại khởi động
+    station_type:
+      name: Loại trạm
+    stationery_binding_type:
+      name: Kiểu gắn văn phòng phẩm
+    stem_length:
+      name: Chiều dài thân
+    stencil/cut_shape:
+      name: Hình dạng khuôn tô/hình cắt
+    step_type:
+      name: Loại bước
+    sterilization_cycle_time:
+      name: Thời gian chu kỳ khử trùng
+    sterilization_instructions:
+      name: Hướng dẫn khử trùng
+    sterilization_method:
+      name: Phương pháp khử trùng
+    stethoscope_design:
+      name: Thiết kế ống nghe
+    stethoscope_technology:
+      name: Công nghệ ống nghe
+    stick_material:
+      name: Vật liệu dính
+    stiffness:
+      name: Độ cứng
+    stimulator_tip_shape:
+      name: Hình dạng đầu kích thích
+    stone_material:
+      name: Vật liệu đá
+    stone_name:
+      name: Tên đá
+    stone_shape:
+      name: Hình dạng đá
+    stone_type:
+      name: Loại đá
+    stopband:
+      name: Dải chặn
+    stopwatch_features:
+      name: Tính năng đồng hồ bấm giờ
+    storage_drive_interface_type:
+      name: Loại giao diện ổ lưu trữ
+    storage_drive_interfaces_supported:
+      name: Giao diện ổ lưu trữ được hỗ trợ
+    storage_drive_type_installed:
+      name: Loại ổ lưu trữ đã cài đặt
+    storage_media_type:
+      name: Loại phương tiện lưu trữ
+    storage_tank_application:
+      name: Ứng dụng bể chứa
+    storage_types_supported:
+      name: Loại bộ nhớ được hỗ trợ
+    stove_airflow:
+      name: Luồng khí của bếp
+    stove_top_type:
+      name: Loại mặt bếp
+    strap_design:
+      name: Thiết kế dây đeo
+    straw/stirrer_design:
+      name: Thiết kế ống hút/thìa khuấy
+    stretcher/gurney_intended_use:
+      name: Mục đích sử dụng của cáng/băng ca
+    string_color:
+      name: Màu dây
+    string_instrument_size:
+      name: Kích thước nhạc cụ dây
+    string_material:
+      name: Chất liệu dây
+    string_pattern:
+      name: Mẫu dây
+    stripper_application:
+      name: Ứng dụng dung môi cạo bỏ sơn
+    stroller_features:
+      name: Tính năng xe đẩy
+    stroller_wheel_type:
+      name: Loại bánh xe đẩy
+    style:
+      name: Phong cách
+    stylus_type:
+      name: Loại kim máy hát
+    subject_area:
+      name: Phạm vi chủ đề
+    subscription_type:
+      name: Loại gói đăng ký
+    substrate_features:
+      name: Tính năng chất nền
+    suction_cup_color:
+      name: Màu bầu giác
+    suction_cup_material:
+      name: Chất liệu bầu giác
+    suction_cup_pattern:
+      name: Mẫu cốc hút
+    suction_levels:
+      name: Mức độ hút
+    suitable_for_angling_type:
+      name: Phù hợp với kiểu câu cá
+    suitable_for_animal_type:
+      name: Phù hợp với loại động vật
+    suitable_for_art_technique:
+      name: Phù hợp với kỹ thuật nghệ thuật
+    suitable_for_bird_type:
+      name: Phù hợp với loại chim
+    suitable_for_boat_type:
+      name: Phù hợp với loại thuyền
+    suitable_for_body/facial_hair:
+      name: Phù hợp với lông cơ thể/mặt
+    suitable_for_breed_size:
+      name: Phù hợp với kích cỡ giống động vật
+    suitable_for_bug_type:
+      name: Thích hợp cho loại lỗi
+    suitable_for_camera/optics_device:
+      name: Phù hợp với máy ảnh/thiết bị quang học
+    suitable_for_camera_type:
+      name: Phù hợp với loại camera
+    suitable_for_camping_activity:
+      name: Thích hợp cho hoạt động cắm trại
+    suitable_for_chair_type:
+      name: Phù hợp với loại ghế
+    suitable_for_container_type:
+      name: Phù hợp với loại thùng chứa
+    suitable_for_crafting_material:
+      name: Thích hợp làm vật liệu chế tạo
+    suitable_for_door_type:
+      name: Phù hợp với loại cửa
+    suitable_for_egg_type:
+      name: Phù hợp với loại trứng
+    suitable_for_fabric_type:
+      name: Phù hợp với loại vải
+    suitable_for_fire_class:
+      name: Phù hợp với mức chịu lửa
+    suitable_for_fish_type:
+      name: Phù hợp với loại cá
+    suitable_for_food_processor_type:
+      name: Thích hợp cho loại máy chế biến thực phẩm
+    suitable_for_furniture_type:
+      name: Phù hợp với loại nội thất
+    suitable_for_gas_type:
+      name: Thích hợp cho loại khí
+    suitable_for_hair_type:
+      name: Phù hợp với loại tóc
+    suitable_for_material_type:
+      name: Phù hợp với loại vật liệu
+    suitable_for_pest_type:
+      name: Phù hợp với loại sâu bệnh
+    suitable_for_pipe_type:
+      name: Phù hợp với loại ống
+    suitable_for_pool_type:
+      name: Thích hợp cho loại hồ bơi
+    suitable_for_power_equipment_type:
+      name: Phù hợp với loại thiết bị điện
+    suitable_for_precious_material:
+      name: Phù hợp với vật liệu quý
+    suitable_for_printer_type:
+      name: Phù hợp với loại máy in
+    suitable_for_skin_tone:
+      name: Phù hợp với màu da
+    suitable_for_skin_type:
+      name: Phù hợp với loại da
+    suitable_for_snowshoeing_activity:
+      name: Thích hợp cho hoạt động trượt tuyết
+    suitable_for_storage_type:
+      name: Phù hợp với loại hình lưu trữ
+    suitable_for_toothbrush:
+      name: Phù hợp với bàn chải đánh răng
+    suitable_for_vehicle_type:
+      name: Phù hợp với loại xe
+    suitable_for_water_feature_type:
+      name: Phù hợp với loại tính năng của nước
+    suitable_for_water_type:
+      name: Phù hợp với loại nước
+    suitable_for_weapon_type:
+      name: Phù hợp với loại vũ khí
+    suitable_installation:
+      name: Lắp đặt phù hợp
+    suitable_location:
+      name: Vị trí phù hợp
+    suitable_space:
+      name: Không gian phù hợp
+    suitcase_handle_type:
+      name: Loại tay cầm vali
+    sulfur_content:
+      name: Hàm lượng lưu huỳnh
+    sunlight:
+      name: Ánh nắng
+    support/brace_material:
+      name: Vật liệu nâng đỡ/nẹp
+    supported_language:
+      name: Ngôn ngữ được hỗ trợ
+    surface_texture:
+      name: Kết cấu bề mặt
+    surfboard_features:
+      name: Tính năng ván lướt sóng
+    surveillance_camera_design:
+      name: Thiết kế máy ảnh giám sát
+    surveillance_camera_mounting_type:
+      name: Loại giá đỡ máy ảnh giám sát
+    surverying_accessories_included:
+      name: Đi kèm phụ kiện thăm dò
+    suspender_style:
+      name: Kiểu dây đeo
+    sustainability:
+      name: Tính bền vững
+    swab_material:
+      name: Vật liệu gạc
+    swimwear_features:
+      name: Tính năng đồ bơi
+    swing_style:
+      name: Kiểu bơi
+    swing_weighting:
+      name: Trọng lượng xoay
+    switch_control_type:
+      name: Loại điều khiển chuyển mạch
+    switching_method:
+      name: Phương pháp chuyển đổi
+    synthesis_method:
+      name: Phương pháp tổng hợp
+    system_of_measurement:
+      name: Hệ thống đo lường
+    system_range:
+      name: Phạm vi hệ thống
+    systems_supported:
+      name: Hệ thống được hỗ trợ
+    tab_style:
+      name: Kiểu nhãn
+    tabletop_color:
+      name: Màu bàn cờ
+    tabletop_material:
+      name: Chất liệu bàn cờ
+    tabletop_pattern:
+      name: Mẫu bàn cờ
+    tabletop_shape:
+      name: Hình dạng bàn cờ
+    tableware_material:
+      name: Vật liệu bộ đồ ăn
+    tack/pushpin_head_design:
+      name: Thiết kế đầu đinh/ghim
+    tag_fastening:
+      name: Dây thít
+    tampon_absorbency_level:
+      name: Mức độ thấm hút của băng vệ sinh
+    tampon_features:
+      name: Tính năng băng vệ sinh
+    tan_type:
+      name: Loại rám nắng
+    tank_color:
+      name: Màu bể
+    tank_material:
+      name: Chất liệu bể
+    tank_pattern:
+      name: Mẫu xe tăng
+    tape_material:
+      name: Chất liệu băng
+    target_audience:
+      name: Đối tượng mục tiêu
+    target_gender:
+      name: Giới tính mục tiêu
+    targeted_pests:
+      name: Các loài gây hại
+    targeted_stains:
+      name: Xóa vết làm bẩn
+    tea_input_type:
+      name: Loại trà đầu vào
+    technology_level:
+      name: Trình độ công nghệ
+    teeth_material:
+      name: Chất liệu răng
+    telephone_cable_interface:
+      name: Giao diện cáp điện thoại
+    telephone_style:
+      name: Kiểu điện thoại
+    telescope_level:
+      name: Cấp độ kính viễn vọng
+    telescope_tracking_system:
+      name: Hệ thống theo dõi kính viễn vọng
+    television_shape:
+      name: Kiểu dáng ti vi
+    television_specialized_features:
+      name: Tính năng chuyên dụng của TV
+    temperature:
+      name: Nhiệt độ
+    temperature_control:
+      name: Điều khiển nhiệt độ
+    temperature_measurement:
+      name: Đo nhiệt độ
+    template_type:
+      name: Loại mẫu
+    temple_color:
+      name: Bảng màu
+    temple_pattern:
+      name: Họa tiết đền chùa
+    tension:
+      name: Độ căng
+    tequila_variety:
+      name: Loại rượu Tequila
+    terminal_operation:
+      name: Vận hành thiết bị đầu cuối
+    terrain:
+      name: Địa hình
+    test_format:
+      name: Định dạng xét nghiệm
+    test_method:
+      name: Phương pháp xét nghiệm
+    test_sample:
+      name: Mẫu xét nghiệm
+    tetherball_equipment_included:
+      name: Bao gồm thiết bị Tetherball
+    text_plate_material:
+      name: Chất liệu tấm văn bản
+    textile_craft_machine_features:
+      name: Tính năng khung cửi
+    textile_craft_project_type:
+      name: Loại dự án dệt thủ công
+    texture:
+      name: Kết cấu
+    texture_level:
+      name: Mức độ kết cấu
+    theme:
+      name: Chủ đề
+    thermal_detector_type:
+      name: Loại máy dò nhiệt
+    thermocouple_type:
+      name: Loại cặp nhiệt điện
+    thickness_type:
+      name: Loại độ dày
+    thinner_application:
+      name: Ứng dụng chất pha loãng
+    thread_direction:
+      name: Vị trí ren
+    threaded_rod_size:
+      name: Kích thước thanh ren
+    throw_pillow_shape:
+      name: Hình dạng gối kê
+    ticket_additional_features:
+      name: Các tính năng bổ sung của vé
+    ticket_type:
+      name: Loại vé
+    tile_design:
+      name: Thiết kế gạch lát
+    tile_game_type:
+      name: Loại trò chơi xếp gạch
+    tile_installation_method:
+      name: Phương pháp lát gạch
+    tile_look:
+      name: Kiểu gạch lát
+    tile_material:
+      name: Vật liệu gạch
+    tile_texture:
+      name: Kết cấu gạch lát
+    time_period:
+      name: Khoảng thời gian
+    time_signatures:
+      name: Số chỉ nhịp
+    time_weighting:
+      name: Trọng số thời gian
+    timepiece_features:
+      name: Tính năng đồng hồ
+    timer_design:
+      name: Thiết kế hẹn giờ
+    timer_features:
+      name: Tính năng hẹn giờ
+    timer_type:
+      name: Loại bộ hẹn giờ
+    tip_design:
+      name: Thiết kế đầu
+    tip_material:
+      name: Chất liệu mút
+    tip_opening:
+      name: Độ mở của đầu
+    tip_style:
+      name: Kiểu đầu
+    tip_type:
+      name: Loại đầu
+    tire_bead_type:
+      name: Loại mép lốp
+    tobacco_type:
+      name: Loại thuốc lá
+    toddler_bed_features:
+      name: Tính năng giường cho trẻ tập đi
+    toe_spacer_design:
+      name: Thiết kế miếng đệm ngón chân
+    toe_strap_type:
+      name: Loại dây đeo chân
+    toe_style:
+      name: Kiểu mũi giày
+    toilet/bidet_mounting_type:
+      name: Loại gắn bồn cầu/vòi cịt vệ sinh
+    toilet_cover_design:
+      name: Thiết kế nắp bồn cầu
+    toilet_cover_features:
+      name: Tính năng nắp bồn cầu
+    toilet_mounting_type:
+      name: Kiểu giá đỡ nhà vệ sinh
+    toilet_shape:
+      name: Hình dạng nhà vệ sinh
+    tom_tom_design:
+      name: Thiết kế tom-tom
+    tool/utensil_material:
+      name: Vật liệu dụng cụ/đồ dùng
+    tool_key_tip:
+      name: Đầu phím công cụ
+    tool_mobility:
+      name: Tính di động của dụng cụ
+    tool_operation:
+      name: Vận hành công cụ
+    toothpaste_type:
+      name: Loại kem đánh răng
+    toothpick_design:
+      name: Thiết kế tăm
+    top_color:
+      name: Màu hàng đầu
+    top_length_type:
+      name: Loại chiều dài trên
+    top_material:
+      name: Chất liệu hàng đầu
+    top_pattern:
+      name: Mẫu áo
+    top_surface_material:
+      name: Vật liệu bề mặt trên cùng
+    tote_handle_type:
+      name: Loại tay cầm túi
+    totem_design:
+      name: Thiết kế vật tổ
+    touch_capabilities:
+      name: Khả năng cảm ứng
+    touchscreen_technology:
+      name: Công nghệ màn hình cảm ứng
+    toy/game_material:
+      name: Vật liệu đồ chơi/trò chơi
+    toy_figure_features:
+      name: Tính năng đồ chơi
+    toy_figure_theme:
+      name: Chủ đề đồ chơi
+    toy_tool_type:
+      name: Loại dụng cụ đồ chơi
+    tracking_metrics:
+      name: Số liệu theo dõi
+    tracking_purpose:
+      name: Mục đích theo dõi
+    tractor_accessories_included:
+      name: Đi kèm linh kiện máy kéo
+    trade_show_display_features:
+      name: Tính năng trưng bày triển lãm thương mại
+    trading_card_packaging:
+      name: Bao bì thẻ trao đổi
+    traffic_control_device_features:
+      name: Tính năng của thiết bị điều khiển giao thông
+    trail_camera_design:
+      name: Thiết kế máy ảnh hành trình
+    trailer_type:
+      name: Loại toa moóc
+    training_data_requirements:
+      name: Yêu cầu dữ liệu đào tạo
+    trampoline_design:
+      name: Thiết kế tấm bạt lò xo
+    transcriber/dictation_system_features:
+      name: Tính năng của hệ thống ghi chép/đọc chính tả
+    transfer_boards_surface_type:
+      name: Loại bề mặt tấm đổi chỗ
+    transfer_paper_technique:
+      name: Kỹ thuật giấy in chuyển nhiệt
+    transmission_type:
+      name: Loại truyền
+    trash_can_features:
+      name: Tính năng thùng rác
+    travel_pillow_shape:
+      name: Kiểu dáng gối kê cổ đi du lịch
+    treatment_area:
+      name: Khu vực điều trị
+    treatment_objective:
+      name: Mục tiêu điều trị
+    treatment_texture:
+      name: Kết cấu đặc trị
+    treatment_type:
+      name: Loại điều trị
+    tree_stand_material:
+      name: Vật liệu giá đỡ cây
+    trellis_design:
+      name: Thiết kế lưới mắt cáo
+    tricycle_design:
+      name: Thiết kế xe ba bánh
+    tricycle_propulsion_type:
+      name: Loại động cơ đẩy ba bánh
+    trip_type:
+      name: Loại cơ cấu nhả
+    tripod/monopod_attachment_type:
+      name: Loại phụ kiện giá đỡ ba chân/một chân
+    tripod/monopod_head_type:
+      name: Loại giá đỡ ba chân/giá đỡ một chân
+    tripod_handle_type:
+      name: Loại tay cầm ba chân
+    trophy_design:
+      name: Thiết kế cúp
+    truck_type:
+      name: Loại xe tải
+    tube_component:
+      name: Thành phần đèn ống
+    tube_configuration:
+      name: Hình dạng đèn ống
+    tuner_design:
+      name: Thiết kế bộ chỉnh tần số
+    tuner_type:
+      name: Loại dụng cụ chỉnh
+    tuning_fork_design:
+      name: Thiết kế âm thoa
+    tuning_fork_frequency:
+      name: Tần số âm thoa
+    tuning_modes:
+      name: Chế độ điều chỉnh
+    tuning_pitch:
+      name: Khóa điều chỉnh dây
+    tuning_range:
+      name: Phạm vi điều chỉnh
+    undershirt_style:
+      name: Kiểu áo lót
+    underwear_style:
+      name: Đồ lót
+    units_of_measurement:
+      name: Các đơn vị đo lường
+    update_frequency:
+      name: Tần suất cập nhật
+    upholstery_color:
+      name: Màu bọc ghế
+    upholstery_material:
+      name: Vật liệu bọc
+    upholstery_pattern:
+      name: Mẫu bọc ghế
+    urinal_mounting_type:
+      name: Kiểu giá đỡ bồn tiểu
+    usage_conditions:
+      name: Điều kiện sử dụng
+    usage_frequency:
+      name: Tần suất sử dụng
+    usage_type:
+      name: Loại cách sử dụng
+    usb_standard:
+      name: Tiêu chuẩn USB
+    user_type:
+      name: Loại người dùng
+    utility/maintenance_task_type:
+      name: Loại công tác Tiện ích/Bảo trì
+    uv_protection:
+      name: Chống tia cực tím
+    vacuum_air_filtering_technology:
+      name: Công nghệ lọc không khí chân không
+    valve_type:
+      name: Loại van
+    van_type:
+      name: Loại xe van
+    vaping_style:
+      name: Dạng hít khói
+    varnish/finish_application:
+      name: Ứng dụng sơn bóng/lớp hoàn thiện
+    vase_shape:
+      name: Hình dáng bình hoa
+    vdi_protocol_support:
+      name: Hỗ trợ giao thức VDI
+    vehicle_alarm/lock_features:
+      name: Tính năng báo động/khóa xe
+    vehicle_application_area:
+      name: Khu vực ứng dụng xe
+    vehicle_audio_system_features:
+      name: Tính năng hệ thống âm thanh trên xe
+    vehicle_braking_features:
+      name: Tính năng phanh xe
+    vehicle_cleaning_item_features:
+      name: Tính năng sản phẩm vệ sinh xe
+    vehicle_decor_features:
+      name: Tính năng trang trí xe
+    vehicle_drive/handling_features:
+      name: Tính năng điều khiển xe
+    vehicle_engine/part_features:
+      name: Tính năng động cơ/bộ phận của xe
+    vehicle_engine_features:
+      name: Tính năng động cơ xe
+    vehicle_engine_part_features:
+      name: Tính năng bộ phận động cơ xe
+    vehicle_exhaust_type:
+      name: Loại khí xả của xe
+    vehicle_features:
+      name: Tính năng xe
+    vehicle_fluid_features:
+      name: Tính năng chất lỏng của xe
+    vehicle_fluid_type:
+      name: Loại chất lỏng xe
+    vehicle_frame/body_features:
+      name: Đặc điểm khung/thân xe
+    vehicle_mirror_design:
+      name: Thiết kế gương xe
+    vehicle_mirror_features:
+      name: Tính năng gương xe
+    vehicle_mirror_type:
+      name: Loại gương xe
+    vehicle_oil_features:
+      name: Tính năng dầu xe
+    vehicle_paint_type:
+      name: Loại sơn xe
+    vehicle_placement:
+      name: Vị trí xe
+    vehicle_seating_features:
+      name: Tính năng ghế ngồi trên xe
+    vehicle_suspension_features:
+      name: Tính năng bộ phận giảm xóc cho xe
+    vehicle_tire_type:
+      name: Loại lốp xe
+    vehicle_type:
+      name: Loại xe
+    verification_technology:
+      name: Công nghệ xác minh
+    vg/pg_ratio:
+      name: Tỷ lệ VG/PG
+    video_codecs/formats_supported:
+      name: Các codec/định dạnh video được hỗ trợ
+    video_game_content_features:
+      name: Tính năng nội dung trò chơi điện tử
+    video_game_genre:
+      name: Thể loại trò chơi điện tử
+    video_game_platform:
+      name: Nền tảng trò chơi điện tử
+    video_game_sub_genre:
+      name: Thể loại phụ của trò chơi điện tử
+    video_port_type:
+      name: Loại cổng video
+    video_region_code:
+      name: Mã vùng video
+    video_resolution_supported:
+      name: Độ phân giải video được hỗ trợ
+    viewing_area_height:
+      name: Chiều cao khu vực xem
+    viewing_area_width:
+      name: Chiều rộng khu vực xem
+    vinegar_drink_variety:
+      name: Loại đồ uống từ giấm
+    vinegar_variety:
+      name: Loại giấm
+    viscosity:
+      name: Độ nhớt
+    visual_effect:
+      name: Hiệu ứng hình ảnh
+    voip_protocol_support:
+      name: Hỗ trợ giao thức Voip
+    wader_type:
+      name: Loại ủng lội nước
+    waist_rise:
+      name: Độ cao cạp
+    wall_material:
+      name: Chất liệu tường
+    wall_patching_application:
+      name: Ứng dụng vá tường
+    wall_plate_style:
+      name: Phong cách đĩa gắn tường
+    wallet_features:
+      name: Tính năng ví
+    wallpaper_application_method:
+      name: Phương pháp ứng dụng hình nền
+    wallpaper_theme:
+      name: Chủ đề hình nền
+    warning_category:
+      name: Danh mục cảnh báo
+    washer/dryer_features:
+      name: Tính năng máy giặt/máy sấy
+    washer_form:
+      name: Dạng vòng đệm
+    washing_machine_features:
+      name: Tính năng máy giặt
+    washing_method:
+      name: Phương pháp giặt
+    washing_programs:
+      name: Chương trình giặt
+    waste_bag_features:
+      name: Tính năng túi đựng rác
+    waste_bag_material:
+      name: Vật liệu túi đựng rác
+    watch/band_material:
+      name: Vật liệu đồng hồ/dây đeo
+    watch_accessory_style:
+      name: Kiểu dáng phụ kiện đồng hồ
+    watch_display:
+      name: Màn hình đồng hồ
+    watch_features:
+      name: Tính năng đồng hồ
+    watch_material:
+      name: Vật liệu đồng hồ
+    water_filter_application:
+      name: Ứng dụng lọc nước
+    water_sport:
+      name: Thể thao nước
+    watercraft_engine_control_type:
+      name: Loại điều khiển động cơ tàu thủy
+    watercraft_features:
+      name: Đặc điểm tàu thủy
+    watercraft_motor_mounting_type:
+      name: Loại giá đỡ động cơ tàu thủy
+    watercraft_propulsion_type:
+      name: Loại động cơ đẩy tàu thủy
+    watercraft_steering_wheel_type:
+      name: Loại vô tay lái tàu thuỷ
+    watercraft_type:
+      name: Loại tàu thuỷ
+    waveski_features:
+      name: Tính năng Waveski
+    wax_application_method:
+      name: Phương pháp bôi sáp
+    wax_type:
+      name: Loại sáp
+    weather_strip_design:
+      name: Thiết kế dải thời tiết
+    weather_supply_application_method:
+      name: Phương pháp ứng dụng thời tiết
+    weatherization_application:
+      name: Ứng dụng phong hóa
+    webcam_design:
+      name: Thiết kế webcam
+    weight_bar_activity:
+      name: Hoạt động của thanh tạ
+    weight_bar_type:
+      name: Loại thanh tạ
+    weight_type:
+      name: Loại quả cân
+    weight_unit_supported:
+      name: Đơn vị trọng lượng được hỗ trợ
+    welding_helmet_features:
+      name: Đặc điểm mũ hàn
+    wet_bag_features:
+      name: Tính năng túi ướt
+    wheel_hardness:
+      name: Độ cứng bánh xe
+    wheel_hub_placement:
+      name: Vị trí ổ trục bánh xe
+    wheel_part_type:
+      name: Loại bộ phận bánh xe
+    wheel_type:
+      name: Loại bánh xe
+    wheelchair_type:
+      name: Loại xe lăn
+    whiskey_style:
+      name: Phong cách rượu whisky
+    whiskey_variety:
+      name: Loại rượu whisky
+    wi_fi_band:
+      name: Băng tần Wi-Fi
+    wi_fi_standard:
+      name: Tiêu chuẩn Wi-Fi
+    winder_features:
+      name: Tính năng cuộn dây
+    windlass_design:
+      name: Thiết kế kính chắn gió
+    window_treatment_material:
+      name: Vật liệu xử lý cửa sổ
+    windsurfing_board_style:
+      name: Kiểu ván lướt sóng
+    wine_rack_design:
+      name: Thiết kế kệ rượu
+    wine_sweetness:
+      name: Vị ngọt của rượu vang
+    wine_variety:
+      name: Loại rượu vang
+    wipe_dispenser/warmer_features:
+      name: Tính năng làm ấm/phân phối khăn lau
+    wipe_dispenser_features:
+      name: Tính năng phân phối khăn lau
+    wipe_fragrance:
+      name: Bay hương thơm
+    wipe_packaging:
+      name: Lau bao bì
+    wipe_warmer_features:
+      name: Tính năng làm ấm khăn lau
+    wire/rope_material:
+      name: Vật liệu dây/dây thừng
+    wire_thickness:
+      name: Độ dày của dây
+    woodwind_care_items_included:
+      name: Bao gồm các thiết bị chăm sóc nhạc cụ hơi
+    work_capacity:
+      name: Năng lực công việc
+    wreath_design:
+      name: Thiết kế vòng hoa
+    yacht_type:
+      name: Loại du thuyền
+    yarn_weight_category:
+      name: Loại trọng lượng sợi
+    zipper_pull_style:
+      name: Kiểu dây kéo
+    zoom_type:
+      name: Loại thu phóng

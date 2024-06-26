@@ -1,0 +1,4531 @@
+---
+sv:
+  attributes:
+    3d_glasses_material:
+      name: 3D-glasögon - material
+    abrasive_material:
+      name: Slipande material
+    absinthe_style:
+      name: Absintstil
+    absinthe_variety:
+      name: Absintsort
+    absorbency_level:
+      name: Absorptionsnivå
+    absorbent_hygiene_product_features:
+      name: Detaljer för absorberande hygienprodukter
+    academic_level:
+      name: Akademisk nivå
+    accessory_material:
+      name: Tillbehör - material
+    accessory_size:
+      name: Tillbehörsstorlek
+    accordion_tuning:
+      name: Stämning av dragspel
+    active_ingredient:
+      name: Aktiv ingrediens
+    activewear_clothing_features:
+      name: Detaljer för träningskläder
+    activity:
+      name: Aktivitet
+    activity_tracker_design:
+      name: Design på aktivitetsspårare
+    acupuncture_model_format:
+      name: Format på akupunkturmodell
+    acupuncture_model_type:
+      name: Typ av akupunkturmodell
+    additional_animation_software_features:
+      name: Ytterligare detaljer för programvara för animering
+    additional_design_software_type:
+      name: Typ av ytterligare programvara för design
+    additional_financial_software_features:
+      name: Ytterligare detaljer för programvara för ekonomi
+    additional_graphic_software_features:
+      name: Ytterligare detaljer för grafisk programvara
+    additional_publishing_software_features:
+      name: Ytterligare detaljer för programvara för publicering
+    additional_security_software_features:
+      name: Ytterligare detaljer för programvara för säkerhet
+    adhesive_type:
+      name: Typ av lim
+    aftershave_product_form:
+      name: Produktform för aftershave
+    age_group:
+      name: Åldersgrupp
+    age_restrictions:
+      name: Åldersbegränsningar
+    ai_application:
+      name: AI-applikation
+    air_freshener_form:
+      name: Form av luftfräschare
+    air_mattress_features:
+      name: Detaljer för luftmadrass
+    airbrush_feed_type:
+      name: Typ av matning för airbrush
+    airbrush_operation_method:
+      name: Driftmetod airbrush
+    airsoft_equipment_included:
+      name: Airsoft-utrustning som ingår
+    album_type:
+      name: Albumtyp
+    alert_type:
+      name: Varningstyp
+    allergen_information:
+      name: Allergeninformation
+    allergen_test_type:
+      name: Allergentesttyp
+    allergens:
+      name: Allergener
+    allergy_friendly_features:
+      name: Detaljer för allergivänligt
+    amplifier/booster_suitable_location:
+      name: Lämplig plats för förstärkare/booster
+    amplifier_class:
+      name: Förstärkarklass
+    amplifier_configuration:
+      name: Förstärkarkonfiguration
+    anchor_type:
+      name: Typ av förankring
+    anemometer_application:
+      name: Tillämpning för vindmätare
+    angles_supported:
+      name: Stödda vinklar
+    angling_style:
+      name: Metestil
+    animal_feed_form:
+      name: Djurfoderform
+    animal_type:
+      name: Typ av djur
+    antenna_type:
+      name: Typ av antenn
+    anti_agin_skin_care_type:
+      name: Typ av åldersbekämpande hudvård
+    antifreeze_type:
+      name: Typ av frostskyddsmedel
+    application_area:
+      name: Appliceringsområde
+    application_method:
+      name: Appliceringsmetod
+    applicator_material:
+      name: Applikatormaterial
+    applicator_type:
+      name: Typ av applikator
+    applique/patch_shape:
+      name: Form på applikation/lapp
+    applique_shape:
+      name: Applikationsform
+    aquarium_filter_features:
+      name: Detaljer för akvariumfilter
+    aquarium_light_spectrum:
+      name: Ljusspektrum för akvarium
+    aquarium_overflow_box_design:
+      name: Design på uppsamlingslådor för akvarie
+    archery_activity:
+      name: Bågskytteaktivitet
+    archery_equipment_included:
+      name: Bågskytteutrustning som ingår
+    archery_style:
+      name: Bågskytte stil
+    aromatherapy:
+      name: Aromaterapi
+    arrangement:
+      name: Arrangemang
+    arrow/bolt_material:
+      name: Pil/skäkta - material
+    arrow_fletching_material:
+      name: Pilfjädring - material
+    arrow_material:
+      name: Pil - material
+    art/crafting_tool_material:
+      name: Konst- och hobbyverktyg - material
+    art_fixative_application_method:
+      name: Appliceringsmetod för konstfixativ
+    art_style:
+      name: Konststil
+    artwork_frame_material:
+      name: Konstram - material
+    artwork_type:
+      name: Typ av konstverk
+    assisted_braking_technology:
+      name: Teknologi assisterad bromsning
+    attachment_method:
+      name: Fastsättningsmetod
+    attachment_options:
+      name: Fastsättningsalternativ
+    attachment_type:
+      name: Fastsättningstyp
+    atv/off_road_tire_type:
+      name: Däcktyp för fyrhjuling/terrängfordon
+    audio/scan_converter_features:
+      name: Detaljer för ljud- och skanningskonverterare
+    audio_codecs/formats_supported:
+      name: Kompatibla ljudkodekar/-format
+    audio_connectivity:
+      name: Ljudanslutning
+    audio_converter_features:
+      name: Detaljer för ljudkonverterare
+    audio_d/a_converter_dac:
+      name: Ljud D/A-konverterare (Dac)
+    audio_mixer_type:
+      name: Typ av ljudmixer
+    audio_output_channel:
+      name: Ljudutgångskanal
+    audio_output_format:
+      name: Ljudutgångsformat
+    audio_player/recorder_features:
+      name: Detaljer för ljudspelare/inspelare
+    audio_purpose:
+      name: Ljudändamål
+    audio_technology:
+      name: Ljudteknik
+    authentication_technology:
+      name: Autentiseringsteknik
+    authenticity:
+      name: Autenticitet
+    auto_focusing_modes:
+      name: Autofokuslägen
+    autoclave_sterilization_method:
+      name: Steriliseringsmetod med autoklav
+    autograph_type:
+      name: Typ av autograf
+    automation:
+      name: Automatisering
+    award_design:
+      name: Prisdesign
+    award_occasion:
+      name: Pristillfälle
+    awning_construction_type:
+      name: Markistyp
+    awning_design:
+      name: Design på markis
+    baby/toddler_car_seat_features:
+      name: Detaljer för bilbarnstolar
+    baby/toddler_clothing_features:
+      name: Detaljer för baby- och småbarnskläder
+    baby/toddler_equipment_safety_features:
+      name: Säkerhetsfunktioner baby- och småbarnsutrustning
+    baby/toddler_furniture_features:
+      name: Detaljer för baby- och småbarnsmöbler
+    baby/toddler_furniture_items_included:
+      name: Baby-/småbarnsmöbler som ingår
+    baby/toddler_hat_style:
+      name: Stil på mössa för baby/småbarn
+    baby/toddler_hosiery_style:
+      name: Stil på strumpor och trikåer för baby/småbarn
+    baby/toddler_seat_features:
+      name: Detaljer för baby-/barnstolar
+    baby/toddler_sleepwear_style:
+      name: Stil på baby-/barnpyjamas
+    baby_drink_packaging:
+      name: Förpackningsmaterial barndryck
+    baby_equipment_safety_features:
+      name: Säkerhetsfunktioner babyutrustning
+    baby_food_flavor:
+      name: Smak på barnmat
+    baby_formula_format:
+      name: Format på bröstmjölksersättning
+    baby_gift_items_included:
+      name: Babypresentartiklar ingår
+    baby_health_items_included:
+      name: Babyhälsoartiklar ingår
+    baby_monitor_features:
+      name: Detaljer för babyvakt
+    baby_snack_flavor:
+      name: Smak på bebissnacks
+    baby_snack_texture:
+      name: Konsistens på bebissnacks
+    back_type:
+      name: Typ av baksida
+    background_design:
+      name: Bakgrundsdesign
+    backing_color:
+      name: Färg på baksidan
+    backing_material:
+      name: Stödmaterial
+    backing_pattern:
+      name: Mönster på baksidan
+    backrest_type:
+      name: Typ av ryggstöd
+    backrest_upholstery_color:
+      name: Färg på ryggstödsklädsel
+    backrest_upholstery_material:
+      name: Material på ryggstödsklädsel
+    backrest_upholstery_pattern:
+      name: Mönster på ryggstödsklädsel
+    bag/case_closure:
+      name: Väsk-/fodralstängning
+    bag/case_features:
+      name: Detaljer för väska/fodral
+    bag/case_material:
+      name: Väska/fodral - material
+    bag/case_storage_features:
+      name: Detaljer för väsk-/fodralförvaring
+    bag_closure:
+      name: Väskstängning
+    bag_strap_type:
+      name: Väskremstyp
+    bag_style:
+      name: Stil på väska
+    bag_type:
+      name: Väsktyp
+    bakery_items_included:
+      name: Bageriartiklar som ingår
+    bakeware_features:
+      name: Detaljer för bakredskap
+    bakeware_items_included:
+      name: Bakningsartiklar som ingår
+    bakeware_pieces_included:
+      name: Baktillbehör ingår
+    bakeware_shape:
+      name: Form på bakningsverktyg
+    baking_purpose:
+      name: Bakverk
+    baking_sheet_material:
+      name: Bakplåt - material
+    ball_material:
+      name: Boll - material
+    ball_size:
+      name: Bollstorlek
+    balloon_kit_items_included:
+      name: Ballongpaket ingår
+    balloon_shape:
+      name: Ballongform
+    band_color:
+      name: Bandfärg
+    band_material:
+      name: Bandmaterial
+    band_pattern:
+      name: Mönster på band
+    band_strength:
+      name: Bandstyrka
+    banner_design:
+      name: Bannerdesign
+    bar_mounting_type:
+      name: Typ av stångmontering
+    barcode_scanner_interface:
+      name: Gränssnitt för streckkodsläsare
+    barcode_supported:
+      name: Kompatibel streckkod
+    barrel_material:
+      name: Cylindermaterial
+    barware_items_included:
+      name: Bartillbehörsartiklar som ingår
+    barware_material:
+      name: Bartillbehör - material
+    base_oil:
+      name: Basolja
+    base_spirit:
+      name: Grundsprit
+    base_type:
+      name: Bastyp
+    baseball/softball_ball_type:
+      name: Typ av baseball och softball
+    basket_material:
+      name: Korg - material
+    basketball_equipment_included:
+      name: Basketutrustning som ingår
+    bass_button_configuration:
+      name: Uppsättning av basknappar
+    bat_material:
+      name: Slagträ - material
+    bat_standard:
+      name: Slagträ standard
+    bathroom_furniture_items_included:
+      name: Badrumsmöbelsartiklar som ingår
+    bathtub_base_design:
+      name: Design av badkarsbotten
+    bathtub_features:
+      name: Detaljer för badkar
+    bathtub_skirt_shape:
+      name: Badkarskjolform
+    baton_grip_design:
+      name: Batongreppsdesign
+    battery_cell_type:
+      name: Battericellstyp
+    battery_features:
+      name: Detaljer för batteri
+    battery_management_features:
+      name: Detaljer för batterihantering
+    battery_size:
+      name: Batteristorlek
+    battery_technology:
+      name: Batteriteknik
+    battery_type:
+      name: Batterityp
+    bead_shape:
+      name: Pärlform
+    beat_subdivisions:
+      name: Taktindelning
+    beater_head_size:
+      name: Visphuvudstorlek
+    bed/frame_features:
+      name: Detaljer för säng/ram
+    bed_pan_type:
+      name: Typ av sängpanna
+    bedding_pieces_included:
+      name: Sängkläder ingår
+    bedding_size:
+      name: Sängstorlek
+    beer_style:
+      name: Ölstil
+    beer_variety:
+      name: Ölsort
+    bell_design:
+      name: Klockdesign
+    bell_size:
+      name: Klockstorlek
+    bell_sound:
+      name: Klockljud
+    belt_type:
+      name: Typ av bälte
+    best_uses:
+      name: Bästa användningsområden
+    bevel_type:
+      name: Typ av avfasning
+    beverage_product_form:
+      name: Dryckesproduktform
+    bib_design:
+      name: Haklappsdesign
+    bicycle_brake_type:
+      name: Cykelbromstyp
+    bicycle_features:
+      name: Detaljer för cykel
+    bidet_mounting_type:
+      name: Monteringstyp för bidet
+    binder_ring_shape:
+      name: Pärmringform
+    binding_mount:
+      name: Bindande fäste
+    binding_style:
+      name: Bindningsstil
+    binocular/monocular_design:
+      name: Design på kikare och monokikare
+    binocular_design:
+      name: Kikarutförande
+    biometric_monitor_accessory_features:
+      name: Detaljer för tillbehör till biometrimätare
+    bios_type:
+      name: Typ av BIOS
+    bird_cage/stand_design:
+      name: Design på fågelbur/ställ
+    bird_food_form:
+      name: Fågelmatsform
+    bird_food_ingredients:
+      name: Ingredienser fågelmat
+    bird_treat_type:
+      name: Typ av fågelgodis
+    birthday_candle_design:
+      name: Design av födelsedagsljus
+    birthday_candle_type:
+      name: Typ av födelsedagsljus
+    bitter_variety:
+      name: Bitter sort
+    blade_curve:
+      name: Bladkurva
+    blade_design:
+      name: Bladutförande
+    blade_material:
+      name: Bladmaterial
+    blade_type:
+      name: Bladtyp
+    blanket_color:
+      name: Färg på filt
+    blanket_pattern:
+      name: Mönster på filt
+    blending_type:
+      name: Blandningstyp
+    blind/shade_style:
+      name: Stil på persienn/rullgardin
+    blood_test_kit_components:
+      name: Komponenter för blodprovssats
+    board_concave_shape:
+      name: Bräda med konkav form
+    board_game_features:
+      name: Detaljer för brädspel
+    board_game_mechanics:
+      name: Brädspelsmekanik
+    board_material:
+      name: Skivmaterial
+    board_mounting_type:
+      name: Skivmonteringstyp
+    board_profile:
+      name: Brädprofil
+    board_surface:
+      name: Skivyta
+    board_type:
+      name: Brädtyp
+    boat_type:
+      name: Båttyp
+    body/facial_hair_type:
+      name: Typ av kropps-/ansiktshår
+    body_area:
+      name: Kroppsdel
+    body_color:
+      name: Karossfärg
+    body_jewelry_type:
+      name: Typ av kroppssmycke
+    body_material:
+      name: Husmaterial
+    body_paint/foundation_type:
+      name: Typ av kroppsfärg/foundation
+    body_pattern:
+      name: Kroppsmönster
+    bodyboard_features:
+      name: Detaljer för bodyboard
+    boiler_system:
+      name: Pannsystem
+    bolt_form:
+      name: Bultform
+    bolt_material:
+      name: Bult - material
+    book/file_cover_material:
+      name: Bok-/arkivomslag - material
+    book_cover_material:
+      name: Bokomslag - material
+    book_cover_type:
+      name: Bokomslagstyp
+    bookmark_design:
+      name: Bokmärkesdesign
+    bookmark_shape:
+      name: Bokmärkesform
+    boot_style:
+      name: Kängstil
+    boot_type:
+      name: Kängtyp
+    borescope_design:
+      name: Boroskopdesign
+    bottle/container_closure:
+      name: Stängning av flaska/behållare
+    bottle_closure_type:
+      name: Typ av flaskförslutning
+    bottle_design:
+      name: Flaskdesign
+    bottle_material:
+      name: Flaska - material
+    bottle_sterilizer_features:
+      name: Detaljer för flasksterilisator
+    bottle_type:
+      name: Flasktyp
+    bottle_warmer/sterilizer_features:
+      name: Detaljer för flaskvärmare/-sterilisator
+    bottle_warmer_features:
+      name: Detaljer för flaskvärmare
+    bottom_surface_material:
+      name: Material på bottenytan
+    bow/crossbow_features:
+      name: Detaljer för pilbåge/armborst
+    bow_features:
+      name: Detaljer för pilbåge
+    bow_hair_material:
+      name: Hårrosett - material
+    bow_material:
+      name: Bågmaterial
+    box_type:
+      name: Lådtyp
+    bra_closure_type:
+      name: Typ av BH-knäppning
+    bra_coverage:
+      name: BH-täckning
+    bra_features:
+      name: Detaljer för bh
+    bra_strap_type:
+      name: BH-bandtyp
+    bra_style:
+      name: Stil på bh
+    bra_support_level:
+      name: BH-supportnivå
+    bracelet_design:
+      name: Design på armband
+    bracket/brace_design:
+      name: Utförande av hållare/konsol
+    brandy_variety:
+      name: Brandysort
+    breath_sprays_certifications:
+      name: Certifieringar för munsprayer
+    bridge/router_advanced_features:
+      name: Avancerade funktioner brygga/router
+    brightness_levels:
+      name: Ljusstyrkenivåer
+    bristle_material:
+      name: Borstmaterial
+    bristle_shape:
+      name: Borstform
+    broadhead/field_point_material:
+      name: Broadhead/Field Point - material
+    brush_application:
+      name: Penselapplicering
+    brush_head_usage:
+      name: Användning av borsthuvud
+    brush_material:
+      name: Borste - material
+    brush_size:
+      name: Borststorlek
+    brush_type:
+      name: Borsttyp
+    bug_type:
+      name: Buggtyp
+    building_board_material:
+      name: Byggskiva - material
+    building_consumable_form:
+      name: Form av förbrukningsmaterial för byggnation
+    building_toy_type:
+      name: Typ av byggleksak
+    bulb_cap_type:
+      name: Typ av glödlampssockel
+    bulb_shape:
+      name: Form på glödlampa
+    bulb_size:
+      name: Lampstorlek
+    bulb_type:
+      name: Typ av glödlampa
+    bulldozer_blade_type:
+      name: Bulldozerbladtyp
+    bullet_protection_level:
+      name: Kulskyddsnivå
+    bullhorn_features:
+      name: Detaljer för megafon
+    bullion_form:
+      name: Form på tackor
+    burner_material:
+      name: Brännarmaterial
+    butt_cap_color:
+      name: Färg på ändbutt
+    butt_cap_material:
+      name: Material på bakstycke
+    butt_cap_pattern:
+      name: Mönster på ändbutt
+    button/snap_closure_type:
+      name: Knapp-/snäppstängningstyp
+    cabinet_type:
+      name: Skåptyp
+    cable_housing_material:
+      name: Kabelhölje - material
+    cable_shielding:
+      name: Kabelskärmning
+    cable_type:
+      name: Kabeltyp
+    cage_type:
+      name: Burtyp
+    calculator_accessory_type:
+      name: Typ av räknartillbehör
+    calculator_features:
+      name: Detaljer för miniräknare
+    calendar/organizer_features:
+      name: Detaljer för kalender/organiserare
+    calendar_format:
+      name: Kalenderformat
+    cam_system:
+      name: Kamsystem
+    camera_attachment:
+      name: Kamerafäste
+    camera_button/knob_type:
+      name: Typ av knapp/ratt för kamera
+    camera_control_type:
+      name: Typ av kamerakontroll
+    camera_display_technology:
+      name: Kameradisplayteknik
+    camera_features:
+      name: Detaljer för kamera
+    camera_gear_type:
+      name: Typ av kamerautrustning
+    camera_hd_type:
+      name: Kamera HD-typ
+    camera_lens_material:
+      name: Kameraobjektiv - material
+    camera_lens_type:
+      name: Typ av kameraobjektiv
+    camera_mounting_type:
+      name: Kameramonteringstyp
+    camera_sensor_type:
+      name: Kamerasensortyp
+    camera_shape:
+      name: Kameraform
+    candle_kit_items_included:
+      name: Ljussatsartiklar ingår
+    candle_material:
+      name: Ljus - material
+    candle_shape:
+      name: Form på ljus
+    candle_type:
+      name: Ljustyp
+    canned_meat_variety:
+      name: Konserverat kött, sort
+    canopy_color:
+      name: Färg på canopy
+    canopy_material:
+      name: Sufflettmaterial
+    canopy_pattern:
+      name: Mönster på canopy
+    canvas_finish:
+      name: Canvasfinish
+    canvas_material:
+      name: Kanvas - material
+    canvas_texture:
+      name: Canvastextur
+    car_freshener_fragrance:
+      name: Doft för billuftfräschare
+    car_seat_installation:
+      name: Montering av bilbarnstol
+    car_seat_orientation:
+      name: Inriktning av bilbarnstol
+    car_type:
+      name: Biltyp
+    carabiner_gate_type:
+      name: Karbinhaketyp
+    carabiner_shape:
+      name: Form på karbinhake
+    card/adapter_installation:
+      name: Installation av kort/adapter
+    card_attributes:
+      name: Kortattribut
+    card_design:
+      name: Kortdesign
+    card_format:
+      name: Kortformat
+    card_holder_design:
+      name: Korthållardesign
+    card_size:
+      name: Kortstorlek
+    care_instructions:
+      name: Skötselråd
+    carry_options:
+      name: Bäralternativ
+    carrying_positions:
+      name: Bärställningar
+    carrying_type:
+      name: Bärtyp
+    cart_design:
+      name: Vagndesign
+    cart_type:
+      name: Vagntyp
+    cartridge_type:
+      name: Patrontyp
+    case_color:
+      name: Fodralfärg
+    case_pattern:
+      name: Mönster på fodral
+    case_type:
+      name: Fodraltyp
+    cassette_adapter_type:
+      name: Kassettadaptertyp
+    cat_age_group:
+      name: Åldersgrupp för katt
+    cat_litter_formula:
+      name: Typ av kattsand
+    cbd_ingredients:
+      name: Ingredienser CBD
+    celebration_type:
+      name: Typ av firande
+    chain_link_type:
+      name: Typ av kedjelänk
+    chain_type:
+      name: Kedjetyp
+    chair/sofa_features:
+      name: Detaljer för fåtölj/soffa
+    chair_features:
+      name: Detaljer för fåtölj
+    chalkboard_surface:
+      name: Griffeltavelyta
+    changing_mat/tray_features:
+      name: Detaljer för skötbädd/-bord
+    changing_mat_features:
+      name: Detaljer för skötbädd
+    changing_tray_features:
+      name: Detaljer för skötbord
+    charger_type:
+      name: Typ av laddare
+    charging_cable_type:
+      name: Typ av laddningskabel
+    charging_level:
+      name: Laddningsnivå
+    charging_method:
+      name: Laddningsmetod
+    chassis_type:
+      name: Chassityp
+    chemical_application:
+      name: Kemisk tillämpning
+    chemical_container_type:
+      name: Typ av kemikaliebehållare
+    chemical_grade:
+      name: Kemisk kvalitet
+    chemical_product_form:
+      name: Kemisk produktform
+    chemical_purity:
+      name: Kemisk renhet
+    chemical_safety_features:
+      name: Kemiska säkerhetsfunktioner
+    chicken_feed_stage:
+      name: Kycklingfoderstadium
+    child_seat_placement:
+      name: Montering av barnstol
+    chipper_technology:
+      name: Flisningsteknik
+    chiropractic_table_design:
+      name: Utformning av kiropraktikbord
+    chuck_type:
+      name: Chucktyp
+    cigar_body:
+      name: Cigarrkropp
+    circuit_board_features:
+      name: Detaljer för kretskort
+    circuit_breaker_design:
+      name: Utförande av automatsäkring
+    circuit_breaker_panel_form:
+      name: Form på automatsäkringspanel
+    circuit_breaker_type:
+      name: Strömbrytartyp
+    clarinet_key_system:
+      name: Nyckelsystem på klarinett
+    clasp_type:
+      name: Typ av spänne
+    claw_design:
+      name: Klodesign
+    clay/slip_texture:
+      name: Textur av lera/slip
+    clay_texture:
+      name: Lertextur
+    cleaner_purpose:
+      name: Rengöringsmedlets syfte
+    cleaning_instructions:
+      name: Rengöringsinstruktioner
+    cleaning_purpose:
+      name: Rengöringssyfte
+    cleaning_surfaces:
+      name: Rengöring av ytor
+    cleat_type:
+      name: Klosstyp
+    climbing_activity:
+      name: Klättringsaktivitet
+    clip_type:
+      name: Klämtyp
+    clipper/trimmer_type:
+      name: Typ av klippare/trimmer
+    closure_style:
+      name: Stängningsstil
+    closure_type:
+      name: Stängningstyp
+    clothing_accessory_material:
+      name: Kläder tillbehör - material
+    clothing_features:
+      name: Detaljer för kläder
+    club_subset:
+      name: Underset av golfklubbor
+    club_type:
+      name: Klubbtyp
+    coating/sealant_application:
+      name: Applicering av beläggning/fogmassa
+    cocktail_decoration_design:
+      name: Drinkdekoration
+    cocktail_decoration_material:
+      name: Drinkdekoration - material
+    coffee/tea_set_pieces_included:
+      name: Kaffe-/teservis ingår
+    coffee_creamer_variety:
+      name: Kaffecreamer sort
+    coffee_input_type:
+      name: Kaffeinmatningstyp
+    coffee_product_form:
+      name: Kaffeproduktform
+    coffee_roast:
+      name: Kafferost
+    coil_connection:
+      name: Spolanslutning
+    coin_material:
+      name: Mynt - material
+    collar/mount_compatible_device:
+      name: Enhet kompatibel med krage/fäste
+    collar/mount_design:
+      name: Design med krage/fäste
+    collar_lock_type:
+      name: Typ av kraglås
+    color:
+      name: Färg
+    color_accuracy_standards:
+      name: Standarder för färgnoggrannhet
+    color_saturation:
+      name: Färgmättnad
+    communication_device_features:
+      name: Detaljer för kommunikationsenhet
+    communication_protocols:
+      name: Kommunikationsprotokoll
+    compass_style:
+      name: Stil på Compass
+    compatible_aircraft_type:
+      name: Kompatibel flygplanstyp
+    compatible_amplifier:
+      name: Kompatibel förstärkare
+    compatible_aquarium:
+      name: Kompatibelt akvarium
+    compatible_baby_bottle_design:
+      name: Kompatibel nappflasksdesign
+    compatible_baby_carrier_type:
+      name: Kompatibel typ av bärsele
+    compatible_baby_chair_type:
+      name: Kompatibel barnstolstyp
+    compatible_baby_transport_type:
+      name: Kompatibel babytransporttyp
+    compatible_ball_type:
+      name: Kompatibel bolltyp
+    compatible_battery_size:
+      name: Kompatibel batteristorlek
+    compatible_battery_technology:
+      name: Kompatibel batteriteknik
+    compatible_bench_positions:
+      name: Kompatibla bänkpositioner
+    compatible_bike_type:
+      name: Kompatibel cykeltyp
+    compatible_brass_instrument:
+      name: Kompatibelt mässingsinstrument
+    compatible_clarinet_type:
+      name: Kompatibel klarinettyp
+    compatible_cosmetic_tools:
+      name: Kompatibla kosmetikverktyg
+    compatible_device:
+      name: Kompatibel enhet
+    compatible_drum_configuration:
+      name: Trumkonfiguration
+    compatible_electric/acoustic_instrument:
+      name: Kompatibelt elektriskt/akustiskt instrument
+    compatible_electronic_card_type:
+      name: Kompatibel elektronisk korttyp
+    compatible_exercises:
+      name: Kompatibla övningar
+    compatible_filament:
+      name: Kompatibelt filament
+    compatible_film_type:
+      name: Kompatibel filmtyp
+    compatible_flute_type:
+      name: Kompatibel flöjttyp
+    compatible_game_format:
+      name: Kompatibelt spelformat
+    compatible_gardening_tool:
+      name: Kompatibelt trädgårdsredskap
+    compatible_hair_color:
+      name: Kompatibel hårfärg
+    compatible_hammock_design:
+      name: Kompatibel hammockdesign
+    compatible_harmonica_type:
+      name: Kompatibel munspelstyp
+    compatible_hdcp:
+      name: Kompatibel Hdcp
+    compatible_instrument:
+      name: Kompatibelt instrument
+    compatible_keyboard_configuration:
+      name: Kompatibel tangentbordskonfiguration
+    compatible_lock_type:
+      name: Kompatibel låstyp
+    compatible_makeup:
+      name: Kompatibelt smink
+    compatible_mattress_size:
+      name: Kompatibel madrasstorlek
+    compatible_memory_cards:
+      name: Kompatibla minneskort
+    compatible_microphone_thread:
+      name: Kompatibel mikrofontråd
+    compatible_motherboard_form_factor:
+      name: Kompatibel moderkortsformfaktor
+    compatible_oboe_type:
+      name: Kompatibel oboetyp
+    compatible_operating_system:
+      name: Kompatibelt operativsystem
+    compatible_orchestral_string_instrument:
+      name: Kompatibelt orkesterstränginstrument
+    compatible_paper_size:
+      name: Kompatibel pappersstorlek
+    compatible_patient_profile:
+      name: Kompatibel patientprofil
+    compatible_percussion_instrument:
+      name: Kompatibelt slaginstrument
+    compatible_play_vehicle_type:
+      name: Kompatibel lekfordonstyp
+    compatible_player:
+      name: Kompatibel spelare
+    compatible_printer:
+      name: Kompatibel skrivare
+    compatible_processor_series:
+      name: Kompatibel processorserie
+    compatible_programming_languages:
+      name: Kompatibla programmeringsspråk
+    compatible_recipes:
+      name: Kompatibla recept
+    compatible_resolution:
+      name: Kompatibel upplösning
+    compatible_seat_type:
+      name: Kompatibel sätestyp
+    compatible_shoe_size:
+      name: Kompatibel skostorlek
+    compatible_software_platform:
+      name: Kompatibel programvaruplattform
+    compatible_special_effects_device:
+      name: Kompatibel enhet för specialeffekter
+    compatible_stove_top_type:
+      name: Typ av kompatibel spishäll
+    compatible_string_instrument:
+      name: Kompatibelt stränginstrument
+    compatible_stroller_type:
+      name: Kompatibel barnvagnstyp
+    compatible_vacuum_type:
+      name: Kompatibel vakuumtyp
+    compatible_vehicle:
+      name: Kompatibelt fordon
+    compatible_walking_aid_equipment:
+      name: Kompatibla gånghjälpmedel
+    compatible_weight_lifting_accessory:
+      name: Kompatibelt styrketräningstillbehör
+    compliance_certifications:
+      name: Efterlevnadscertifikat
+    component_output_type:
+      name: Komponentutgångstyp
+    component_package_type:
+      name: Förpackningstyp för komponent
+    compression_format:
+      name: Komprimeringsformat
+    compression_level:
+      name: Komprimeringsnivå
+    computer_accessories_included:
+      name: Datortillbehör ingår
+    computer_form:
+      name: Datorformulär
+    computer_server_features:
+      name: Detaljer för datorserver
+    computer_specialized_features:
+      name: Specialfunktioner för dator
+    concertina_button_configuration:
+      name: Knappuppsättning på concertina
+    condition:
+      name: Skick
+    conditioner_effect:
+      name: Balsameffekt
+    condom_type:
+      name: Kondomtyp
+    connecting_thread:
+      name: Anslutande tråd
+    connection_method:
+      name: Anslutningsmetod
+    connection_type:
+      name: Anslutningstyp
+    connectivity_technology:
+      name: Anslutningsteknik
+    connector_design:
+      name: Kontaktutförande
+    connector_gender:
+      name: Kön på kontakt
+    console_system:
+      name: Konsolsystem
+    constitutive_ingredients:
+      name: Innehåll
+    construction_set_theme:
+      name: Tema för byggset
+    contrast:
+      name: Kontrast
+    contrast_ratio_typical:
+      name: Kontrastförhållande (typiskt)
+    control_functions:
+      name: Styrfunktioner
+    control_method:
+      name: Styrmetod
+    control_technology:
+      name: Styrteknik
+    control_type:
+      name: Styrtyp
+    controller_design:
+      name: Controllerdesign
+    controller_drive_type:
+      name: Typ av controller
+    converter_functionality:
+      name: Konverterfunktion
+    conveyor_operation:
+      name: Transportördrift
+    cooking_method:
+      name: Tillagningsmetod
+    cooking_wine_variety:
+      name: Sort av matlagningsvin
+    cookware/bakeware_features:
+      name: Detaljer för verktyg för matlagning och bakning
+    cookware/bakeware_material:
+      name: Verktyg för matlagning och bakning - material
+    cookware_features:
+      name: Detaljer för verktyg för matlagning
+    cookware_items_included:
+      name: Köksartiklar som ingår
+    cooling_technology:
+      name: Kylteknik
+    cord_fastening_system:
+      name: Fästsystem för sladdar
+    core_color:
+      name: Färg på kärna
+    core_material:
+      name: Kärnmaterial
+    core_pattern:
+      name: Mönster på kärna
+    corrector_features:
+      name: Detaljer för korrigerare
+    corsage/boutonniere_design:
+      name: Corsage/Boutonni√®re-design
+    cosmetic_condition:
+      name: Kosmetiskt skick
+    cosmetic_finish:
+      name: Kosmetisk finish
+    cosmetic_function:
+      name: Kosmetisk funktion
+    costume_theme:
+      name: Kostymtema
+    counter_shape:
+      name: Skivform
+    country:
+      name: Land
+    cover_closure_design:
+      name: Design på lockförslutning
+    cover_color:
+      name: Färg på skydd
+    cover_features:
+      name: Detaljer för omslag
+    cover_material:
+      name: Skyddsmaterial
+    cover_pattern:
+      name: Mönster på skydd
+    cover_type:
+      name: Överdragstyp
+    coverage_area:
+      name: Täckningsområde
+    coverage_region:
+      name: Täckningsregion
+    craft/sculpting_project_type:
+      name: Typ av hantverk-/skulptureringsprojekt
+    craft_cutter/embosser_type:
+      name: Typ av Hobbykniv/embosser
+    craft_decoration_maker_type:
+      name: Typ av hobbydekorationsverktyg
+    craft_knife_design:
+      name: Hobbyknivsutförande
+    craft_pipe_cleaner_design:
+      name: Design på piprensare
+    craft_project_type:
+      name: Typ av hantverksprojekt
+    crafting_frame/stretcher_features:
+      name: Detaljer för konstram/stretcher
+    crafting_frame_features:
+      name: Detaljer för konstram
+    crafting_hoop_features:
+      name: Detaljer för hobbyring
+    crafting_mat/pad_features:
+      name: Detaljer för hobbymatta/-dyna
+    crafting_stretcher_features:
+      name: Detaljer för stretcher
+    crampon_attachment_type:
+      name: Typ av fäste för stegjärn
+    creative_art_project_type:
+      name: Typ av projekt för kreativt skapande
+    crib/toddler_bed_features:
+      name: Detaljer för spjälsäng/barnsäng
+    crib_features:
+      name: Detaljer för spjälsäng
+    cricket_equipment_included:
+      name: Cricket-utrustning som ingår
+    crutch_type:
+      name: Krycktyp
+    crystal_system:
+      name: Kristallsystem
+    cue_style:
+      name: Köstil
+    cue_type:
+      name: Kötyp
+    cue_wrap:
+      name: Kögrepp
+    cuisine:
+      name: Kök
+    culinary_botanical_name:
+      name: Kulinariskt botaniskt namn
+    cup_size:
+      name: Kupstorlek
+    curler_type:
+      name: Typ av locktång
+    currencies_supported:
+      name: Valutor som kan användas
+    currency:
+      name: Valuta
+    currency_type:
+      name: Valutatyp
+    customer_support_channels:
+      name: Kundsupportkanaler
+    customization:
+      name: Anpassning
+    cutter_options:
+      name: Knivalternativ
+    cutting_method:
+      name: Skärmetod
+    cycling_style:
+      name: Cykelstil
+    data_network:
+      name: Datanätverk
+    decoration_material:
+      name: Dekoration - material
+    decorative_stamp_design:
+      name: Dekorativ stämpeldesign
+    denomination:
+      name: Valör
+    dental_floss_shape:
+      name: Form på tandtråd
+    dental_floss_thickness_level:
+      name: Tjockleksnivå för tandtråd
+    dental_floss_type:
+      name: Typ av tandtråd
+    dental_mouthgard_recommended_use:
+      name: Rekommenderad användning av tandskydd
+    dental_mouthguard_certifications:
+      name: Certifieringar för tandskydd
+    dental_paste_flavor:
+      name: Tandkrämssmak
+    dental_repair_kit_certifications:
+      name: Certifieringar för tandreparationskit
+    dental_water_jet_operation:
+      name: Användning av dental vattenspruta
+    dentistry_items_included:
+      name: Tandvårdsartiklar ingår
+    denture_base_color:
+      name: Basfärg för tandprotes
+    denture_coverage:
+      name: Täckning tandprotes
+    denture_design:
+      name: Design på protes
+    denture_teeth_color:
+      name: Färg på tandproteser
+    deployment_type:
+      name: Implementeringstyp
+    desk_organizer_features:
+      name: Detaljer för skrivbordsorganiserare
+    desk_size:
+      name: Skrivbordsstorlek
+    detailed_ingredients:
+      name: Detaljerade ingredienser
+    detectable_drugs:
+      name: Detekterbara droger
+    detector_operation_mode:
+      name: Driftläge detektor
+    detector_sensitivity:
+      name: Detektorkänslighet
+    detector_type:
+      name: Detektortyp
+    developmental_features:
+      name: Utvecklingsegenskaper
+    device_interface:
+      name: Enhetsgränssnitt
+    device_technology:
+      name: Enhetsteknik
+    dexterity_skills:
+      name: Fingerfärdighet
+    dial_color:
+      name: Färg på urtavla
+    dial_pattern:
+      name: Mönster på klocka
+    diaper_bag_additional_features:
+      name: Tilläggsfunktioner för skötväska
+    diaper_bag_material:
+      name: Skötväska - material
+    diaper_bag_style:
+      name: Stil på skötväska
+    diaper_features:
+      name: Detaljer för blöjor
+    diaper_kit_components:
+      name: Delar i blöjkit
+    diaper_organizer_features:
+      name: Detaljer för blöjorganiserare
+    diaper_size:
+      name: Blöjstorlek
+    diaper_type:
+      name: Blöjtyp
+    dice_shape:
+      name: Tärningsform
+    dielectric_type:
+      name: Dielektrisk typ
+    dietary_preferences:
+      name: Kostpreferenser
+    dietary_supplements:
+      name: Kosttillskott
+    dietary_use:
+      name: Kostanvändning
+    difficulty_level:
+      name: Svårighetsgrad
+    diffuser_design:
+      name: Diffusorutförande
+    digital_sound_processing:
+      name: Digital ljudbearbetning
+    dinnerware_pieces_included:
+      name: Matservis ingår
+    dirt_separating_method:
+      name: Smutsavskiljningsmetod
+    discharge_type:
+      name: Uttömningstyp
+    disk_format_type:
+      name: Diskformattyp
+    dispenser_type:
+      name: Dispensertyp
+    display_board_features:
+      name: Detaljer för anslagstavla
+    display_color_mode:
+      name: Skärmfärgläge
+    display_features:
+      name: Detaljer för display
+    display_mode:
+      name: Displayläge
+    display_recommended_use:
+      name: Rekommenderad displayanvändning
+    display_resolution:
+      name: Skärmupplösning
+    display_sign_design:
+      name: Skyltdesign
+    display_technology:
+      name: Skärmteknik
+    disposable/reusable_bag_features:
+      name: Detaljer för engångs-/återanvändbar påse
+    disposable/reusable_item_material:
+      name: Engångsartiklar/återanvändbara artiklar - material
+    disposable_bag_features:
+      name: Detaljer för engångspåse
+    disposable_bag_material:
+      name: Engångspåsar - material
+    disposable_glove_features:
+      name: Detaljer för engångshandskar
+    disposable_tableware_material:
+      name: Engångsservis - material
+    dive_computer_items_included:
+      name: Dykdatorartiklar som ingår
+    diving/snorkeling_equipment_included:
+      name: Utrustning för dykning och snorkling som ingår
+    diving_regulator_style:
+      name: Stil på dykregulator
+    dj_equipment_features:
+      name: Detaljer för DJ-utrustning
+    dj_software_compatibility:
+      name: Kompatibilitet DJ-programvara
+    dog_age_group:
+      name: Åldersgrupp för hund
+    dog_diaper_size:
+      name: Hundblöjstorlek
+    dog_diaper_type:
+      name: Typ av hundblöja
+    dog_house_features:
+      name: Detaljer för hundkoja
+    dog_kennel/run_features:
+      name: Detaljer för hundbur/inhängnad
+    dog_kennel_features:
+      name: Detaljer för hundbur
+    dog_pen_features:
+      name: Detaljer för hundpenna
+    dog_toy_type:
+      name: Typ av hundleksak
+    doll/playset_features:
+      name: Detaljer för dock-/lekset
+    doll_features:
+      name: Detaljer för docka
+    doll_type:
+      name: Typ av docka
+    door/frame_application:
+      name: Dörr-/karmmontering
+    door_application:
+      name: Dörrtillämpning
+    door_closer_application:
+      name: Applicering av dörrstängare
+    door_closer_design:
+      name: Dörrstängarutförande
+    door_color:
+      name: Dörrfärg
+    door_frame_application:
+      name: Dörrkarmsapplicering
+    door_frame_finish:
+      name: Dörrkarmsytbehandling
+    door_glass_finish:
+      name: Dörrglasytbehandling
+    door_insulation:
+      name: Dörrisolering
+    door_knob_function:
+      name: Dörrvredsfunktion
+    door_mat_base_color:
+      name: Färg på bas för dörrmatta
+    door_mat_base_material:
+      name: Bas för dörrmatta - material
+    door_mat_base_pattern:
+      name: Mönster på bas för dörrmatta
+    door_mat_surface_material:
+      name: Överdel för dörrmatta - material
+    door_material:
+      name: Dörrmaterial
+    door_pattern:
+      name: Mönster på dörr
+    door_stop_placement:
+      name: Placering av dörrstopp
+    door_stopper_design:
+      name: Design på dörrstopp
+    door_suitable_location:
+      name: Lämplig dörrplats
+    door_surface_finish:
+      name: Dörrytbehandling
+    door_type:
+      name: Dörrtyp
+    double_stroller_configuration:
+      name: Dubbel barnvagnskonfiguration
+    download_format:
+      name: Nedladdningsformat
+    drain_location:
+      name: Avloppsplats
+    drawing/painting_kit_items_included:
+      name: Rit-/målarsats ingår
+    dress_form_features:
+      name: Detaljer för form av klänning
+    dress_occasion:
+      name: Klädtillfälle
+    dress_style:
+      name: Stil på klänning
+    drill_features:
+      name: Detaljer för borr
+    drilling_method:
+      name: Borrmetod
+    drilling_rig_orientation:
+      name: Borriggsorientering
+    drinkware_material:
+      name: Drinktillbehör - material
+    drinkware_pieces_included:
+      name: Glas ingår
+    drive_size:
+      name: Drivningsstorlek
+    drive_type:
+      name: Drivtyp
+    drum_configuration:
+      name: Trumkonfiguration
+    drum_hardware_adjustability:
+      name: Justerbarhet för trumman
+    drum_hardware_material:
+      name: Trumma hårdvara - material
+    dry/wet_cleaning:
+      name: Torr/våt rengöring
+    dry_bean_variety:
+      name: Sort av torra bönor
+    dryer_features:
+      name: Detaljer för tork
+    dryer_technology:
+      name: Torkarteknik
+    drying_speed:
+      name: Torkhastighet
+    duct_design:
+      name: Design på trumma
+    duct_shape:
+      name: Kanalform
+    duplexing_technology:
+      name: Duplexteknik
+    durability_features:
+      name: Detaljer för hållbarhet
+    dust_container_type:
+      name: Typ av dammbehållare
+    dust_mask_type:
+      name: Typ av dammask
+    dye_form:
+      name: Färgämnesform
+    dynamic_level:
+      name: Dynamisk nivå
+    e_book_formats_supported:
+      name: Kompatibla e-boksformat
+    e_cigarette/vaporizer_style:
+      name: Stil på e-cigarett/vaporizer
+    e_liquid_flavor:
+      name: E-vätskesmak
+    e_liquid_variety:
+      name: E-vätskesort
+    e_reader_display_technology:
+      name: Displayteknik för E-bokläsare
+    ear_care_application_method:
+      name: Appliceringsmetod för öronvård
+    earphone_features:
+      name: Detaljer för hörlurar
+    earplug_use:
+      name: Användning av öronproppar
+    earring_design:
+      name: Design på örhänge
+    edge_style:
+      name: Kantstil
+    edge_type:
+      name: Typ av kant
+    education_level:
+      name: Utbildningsnivå
+    egg_decorating_items_included:
+      name: Artiklar för äggdekoration ingår
+    egg_turning:
+      name: Äggvändning
+    electronic_drum_components:
+      name: Delar till elektroniska trumset
+    electronic_game_genre:
+      name: Genre elektroniskt spel
+    embellishment/trim_material:
+      name: Utsmyckning/trim - material
+    embellishments:
+      name: Utsmyckning
+    embossing_project_type:
+      name: Typ av präglingsprojekt
+    embouchure_hole_shape:
+      name: Hålform för embouchure
+    emergency/safety_sign_design:
+      name: Utformning av varnings-/säkerhetsskyltar
+    emergency_items_included:
+      name: Nödartiklar ingår
+    enclosure_type:
+      name: Locktyp
+    energy_efficiency_class:
+      name: Energieffektivitetsklass
+    energy_efficiency_class_hdr:
+      name: Energieffektivitetsklass (Hdr)
+    energy_efficiency_class_sdr:
+      name: Energieffektivitetsklass (Sdr)
+    engine_design:
+      name: Motorkonstruktion
+    engine_purpose:
+      name: Motorns syfte
+    engine_type:
+      name: Motortyp
+    engraving:
+      name: Gravering
+    envelope_features:
+      name: Detaljer för kuvert
+    envelope_seal_design:
+      name: Kuvertförseglingsdesign
+    equipment_operation:
+      name: Drift av utrustning
+    era:
+      name: Epok
+    esrb_rating:
+      name: ESRB-klassning
+    ethernet_lan_interface_type:
+      name: Ethernet LAN-gränssnittstyp
+    ev_battery_features:
+      name: Detaljer för elfordonsbatteri
+    ev_battery_type:
+      name: Batterityp för elfordon
+    ev_connector/adapter_type:
+      name: EV-kontakt/adaptertyp
+    ev_conversion_kit_components:
+      name: Komponenter för elfordonskonverteringssats
+    evaporation_technology:
+      name: Förångningsteknik
+    event_type:
+      name: Typ av evenemang
+    exercise_equipment_included:
+      name: Träningsutrustning som ingår
+    exercise_equipment_material:
+      name: Träningsutrustning - material
+    exercise_machine_features:
+      name: Detaljer för träningsmaskin
+    exercise_mat_material:
+      name: Träningsmatta - material
+    expansion_slots:
+      name: Expansionsplatser
+    exposure_control:
+      name: Exponeringskontroll
+    extended_saxophone_range:
+      name: Utökat saxofonomfång
+    external_defibrillator_features:
+      name: Detaljer för bärbar defibrillator
+    extinguisher_rating:
+      name: Brandsläckarklass
+    extinguishing_agent_type:
+      name: Typ av släckmedel
+    extraction_type:
+      name: Extraktionstyp
+    extractor_tip_style:
+      name: Stil på pormaskborttagare
+    eye_pillow_shape:
+      name: Form på ögonkudde
+    eye_shadow_effect:
+      name: Ögonskuggseffekt
+    eyebrow_enhancer_color:
+      name: Färg på ögonbrynsförbättrare
+    eyelash_applicator_design:
+      name: Design på applikator för lösögonfransar
+    eyelash_material:
+      name: Ögonfransar - material
+    eyelash_type:
+      name: Typ av ögonfrans
+    eyepiece/adapter_material:
+      name: Okular/adapter - material
+    eyewear_frame_color:
+      name: Färg på glasögonbågar
+    eyewear_frame_design:
+      name: Design på glasögonbågar
+    eyewear_frame_material:
+      name: Glasögonbågar - material
+    eyewear_frame_pattern:
+      name: Mönster på glasögonbågar
+    eyewear_frame_shape:
+      name: Form på glasögonbågar
+    eyewear_lens_color:
+      name: Färg på ögonlinser
+    eyewear_lens_material:
+      name: Ögonlinser - material
+    eyewear_lens_pattern:
+      name: Mönster på ögonlinser
+    fabric:
+      name: Tyg
+    fabric_structure:
+      name: Tygstruktur
+    face_area:
+      name: Ansiktsområde
+    face_powder_color:
+      name: Färg på ansiktspuder
+    face_powder_type:
+      name: Typ av ansiktspuder
+    faceplate_design:
+      name: Design på frontplatta
+    facility_sign_design:
+      name: Anläggningsskyltdesign
+    false_nail_application_method:
+      name: Appliceringsmetod för lösnaglar
+    fastener_finish:
+      name: Ytbehandling på fästelement
+    fastener_material:
+      name: Fästelement - material
+    fastener_type:
+      name: Typ av fästelement
+    fat_content:
+      name: Fetthalt
+    faucet_thread:
+      name: Krangänga
+    features:
+      name: Funktioner
+    feed_system:
+      name: Matningssystem
+    feet_type:
+      name: Fottyp
+    felt_tip_design:
+      name: Filtspetsutförande
+    feminine_sanitary_supply_features:
+      name: Detaljer för hygienartiklar för kvinnor
+    fencing_components:
+      name: Staketkomponenter
+    fiber_art_project_type:
+      name: Typ av fiberkonstprojekt
+    field_flatness:
+      name: Fältets planhet
+    filament_type:
+      name: Typ av filament
+    file_format_type:
+      name: Filformatstyp
+    file_shape:
+      name: Form på fil
+    filler_material:
+      name: Fyllnadsmaterial
+    filler_support:
+      name: Stoppning
+    filler_type:
+      name: Typ av stoppning
+    filling/padding_project_type:
+      name: Typ av fyllnings-/stoppningsprojekt
+    film_application_method:
+      name: Filmappliceringsmetod
+    film_format:
+      name: Filmformat
+    film_type:
+      name: Filmtyp
+    filter_material:
+      name: Filter - material
+    filter_type:
+      name: Filtertyp
+    filtering_modes:
+      name: Filtreringslägen
+    filtration_class:
+      name: Filtreringsklass
+    fin_material:
+      name: Fena - material
+    fin_pocket_type:
+      name: Typ av simfena
+    fin_profile:
+      name: Fenprofil
+    fingerboard_color:
+      name: Färg på fingerboard
+    fingerboard_material:
+      name: Greppbrädans material
+    fingerboard_pattern:
+      name: Mönster på fingerboard
+    fingerprint_capture_method:
+      name: Fingeravtrycksmetod
+    finial_shape:
+      name: Slutlig form
+    finish:
+      name: Finish
+    fire_extinguisher_items_included:
+      name: Brandsläckarartiklar som ingår
+    firmness:
+      name: Fasthet
+    first_aid_kit_components:
+      name: Delar i förstahjälpensats
+    first_aid_kit_usage:
+      name: Användning av förstahjälpenutrustning
+    first_steps/crawlers_style:
+      name: Stil på lära-gå-vagn/crawler
+    fish_type:
+      name: Typ av fisk
+    fishing_rod_action:
+      name: Fiskespö aktion
+    fishing_rod_power:
+      name: Fiskespö kraft
+    fishing_wire_material:
+      name: Fisketråd - material
+    fit:
+      name: Passform
+    fit_type:
+      name: Typ av montering
+    fixation_type:
+      name: Typ av fastsättning
+    flag_shape:
+      name: Flaggform
+    flare_type:
+      name: Typ av varningslampa
+    flash_card_theme:
+      name: Tema på frågekort
+    flash_modes:
+      name: Blixtlägen
+    flash_type:
+      name: Blixttyp
+    flashing_material:
+      name: Bandstål - material
+    flat_shoe_style:
+      name: Stil på platta skor
+    flatware_material:
+      name: Matbestick - material
+    flatware_pieces_included:
+      name: Bestick ingår
+    flavor:
+      name: Smak
+    flavor_profile:
+      name: Smakprofil
+    flexibility_rating:
+      name: Flexibilitetsklass
+    floral_wire_design:
+      name: Design på blomtråd
+    flour/grain_type:
+      name: Typ av mjöl/korn
+    flow_rate_type:
+      name: Typ av flödeshastighet
+    flower_color:
+      name: Blomfärg
+    flower_pattern:
+      name: Blommönster
+    flue_type:
+      name: Typ av rökrör
+    fluid_type:
+      name: Vätsketyp
+    flush_plate_color:
+      name: Färg på infälld platta
+    flush_plate_pattern:
+      name: Mönster på infälld platta
+    flush_system:
+      name: Spolsystem
+    flute_configuration:
+      name: Flöjtkonfiguration
+    foam_form:
+      name: Skumform
+    focus_adjustment:
+      name: Fokusjustering
+    focus_device_type:
+      name: Typ av skärpeenhet
+    focus_type:
+      name: Fokustyp
+    fold_type:
+      name: Typ av vikning
+    folder/report_cover_material:
+      name: Mapp/rapportomslag - material
+    folding_mechanism:
+      name: Vikmekanism
+    font_style:
+      name: Typsnitt
+    food_bag_material:
+      name: Matväska - material
+    food_dispenser_type:
+      name: Matdispensertyp
+    food_product_form:
+      name: Livsmedelsproduktform
+    food_storage_material:
+      name: Matförvaring - material
+    food_supplement_form:
+      name: Form av kosttillskott
+    footage_type:
+      name: Typ av bild- och filmmaterial
+    footboard_type:
+      name: Typ av fotbräda
+    footwear_color:
+      name: Färg på skor
+    footwear_material:
+      name: Skor - material
+    footwear_pattern:
+      name: Mönster på skor
+    format_supported:
+      name: Kompatibla format
+    formula_level:
+      name: Formelnivå
+    fossil_type:
+      name: Fossiltyp
+    foundation_color:
+      name: Färg på foundation
+    foundation_material:
+      name: Foundation - material
+    foundation_pattern:
+      name: Mönster på foundation
+    fragrance:
+      name: Doft
+    fragrance_level:
+      name: Doftnivå
+    frame_color:
+      name: Ramfärg
+    frame_design:
+      name: Ramdesign
+    frame_material:
+      name: Rammaterial
+    frame_pattern:
+      name: Rammönster
+    frame_style:
+      name: Stil på ram
+    frequency/radio_bands_supported:
+      name: Frekvens/radioband som stöds
+    frequency_type:
+      name: Typ av frekvens
+    frequency_weighting:
+      name: Frekvensvägning
+    frog_material:
+      name: Froschmaterial
+    fruit_source:
+      name: Fruktkälla
+    fuel_additives:
+      name: Bränsletillsatser
+    fuel_container_features:
+      name: Detaljer för bränslebehållare
+    fuel_grade:
+      name: Bränsleklass
+    fuel_purity:
+      name: Bränslerenhet
+    fuel_source:
+      name: Bränslekälla
+    fuel_supply:
+      name: Bränsletillförsel
+    furniture/fixture_color:
+      name: Färg på möbler/inredning
+    furniture/fixture_features:
+      name: Detaljer för möbler/inredning
+    furniture/fixture_material:
+      name: Möbler/inredning - material
+    furniture/fixture_pattern:
+      name: Mönster på möbler/inredning
+    game_components:
+      name: Spelkomponenter
+    game_difficulty:
+      name: Spelsvårighet
+    game_features:
+      name: Detaljer för spel
+    game_name:
+      name: Spelnamn
+    gameplay_skills:
+      name: Spelfärdigheter
+    games_included:
+      name: Spel ingår
+    garage_door_material:
+      name: Garagedörr - material
+    gardening_use:
+      name: Trädgårdsbruk
+    garment_steamer_design:
+      name: Design på apparater för ångning av kläder
+    gases_detected:
+      name: Upptäckta gaser
+    gate_mounting_type:
+      name: Grindmonteringstyp
+    gauge_type:
+      name: Typ av mätare
+    gear_material:
+      name: Utrustning - material
+    gear_ratio:
+      name: Växelförhållande
+    gearing_type:
+      name: Växeltyp
+    gel_strength:
+      name: Gelstyrka
+    genre:
+      name: Genre
+    geological_era:
+      name: Geologisk era
+    gift_bag_handle_design:
+      name: Design av presentpåshandtag
+    gift_set_format:
+      name: Format på gåvoset
+    gin_variety:
+      name: Ginsort
+    glaze_finish:
+      name: Glansig finish
+    glazing_type:
+      name: Typ av glasning
+    glitter_shape:
+      name: Glitterform
+    glucose_meter_features:
+      name: Detaljer för glukosmätare
+    glue_gun_features:
+      name: Detaljer för limpistol
+    glue_gun_operation:
+      name: Limpistoldrift
+    glue_gun_technology:
+      name: Limpistolteknik
+    glue_strength:
+      name: Limstyrka
+    golf_ball_type:
+      name: Typ av golfboll
+    golf_equipment_included:
+      name: Golfutrustning som ingår
+    gps_compatible_device:
+      name: GPS-kompatibel enhet
+    gps_device_features:
+      name: Detaljer för GPS-enhet
+    gps_map_type:
+      name: Typ av GPS-karta
+    gps_software_focus:
+      name: GPS-programvara fokus
+    grading:
+      name: Klassificering
+    grain:
+      name: Korn
+    grape_variety:
+      name: Druvsort
+    graphics_card_type:
+      name: Typ av grafikkort
+    graphics_tablet_accessories_included:
+      name: Tillbehör för digitalt ritbord som ingår
+    graphics_tablet_specialized_features:
+      name: Specialfunktioner för digitalt ritbord
+    gravel/substrate_material:
+      name: Grus/substrat - material
+    grease_filter_material:
+      name: Fettfiltermaterial
+    grip_texture:
+      name: Grepptextur
+    grip_type:
+      name: Grepptyp
+    grit_type:
+      name: Kornstorlek
+    grooming_kit_format:
+      name: Format på rakningssats
+    guitar_fitting/part_type:
+      name: Typ av gitarrbeslag/del
+    guitar_size:
+      name: Gitarrstorlek
+    gutter_fitting_type:
+      name: Monteringstyp för ränna
+    gutter_style:
+      name: Stil på hängränna
+    habitat_material:
+      name: Habitat - material
+    hair_care_finish:
+      name: Hårvårdsfinish
+    hair_care_items_included:
+      name: Hårvårdsartiklar som ingår
+    hair_care_technology:
+      name: Hårvårdsteknologi
+    hair_color/shade:
+      name: Hårfärg/-nyans
+    hair_loss_type:
+      name: Typ av håravfall
+    hair_shear_type:
+      name: Typ av hårsax
+    hair_styling_items_included:
+      name: Hårstylingartiklar som ingår
+    hair_styling_tool_features:
+      name: Detaljer för hårstylingverktyg
+    hair_type:
+      name: Hårtyp
+    hammer_head_material:
+      name: Hammarhuvud - material
+    hand_side:
+      name: Handsida
+    hand_warmer_type:
+      name: Typ av handvärmare
+    handcuff_lock_type:
+      name: Typ av handfängsellås
+    handle_color:
+      name: Handtagsfärg
+    handle_design:
+      name: Handtagsdesign
+    handle_grip_texture:
+      name: Greppstruktur på handtag
+    handle_material:
+      name: Handtagsmaterial
+    handle_pattern:
+      name: Mönster på handtag
+    handle_type:
+      name: Handtagstyp
+    handset_type:
+      name: Handenhetstyp
+    handwear_features:
+      name: Detaljer för handskar
+    handwear_material:
+      name: Handskar - material
+    handwear_type:
+      name: Typ av handskar
+    hanging_chair_design:
+      name: Design hängstol
+    hard_cider_variety:
+      name: Hård cider-sort
+    hard_drive_features:
+      name: Detaljer för hårddisk
+    hard_drive_form_factor:
+      name: Formfaktor på hårddisk
+    hard_drive_installation:
+      name: Installation av hårddisk
+    hardhat_class:
+      name: Hjälmklass
+    hardness:
+      name: Hårdhet
+    hardware_finish:
+      name: Ytbehandling på beslag
+    hardware_material:
+      name: Maskinvara - material
+    hardware_mounting_type:
+      name: Monteringstyp med beslag
+    hardwood_lumber_grade:
+      name: Lövträvirkeskvalitet
+    harness_closure_type:
+      name: Stängningstyp för sele
+    harp_size:
+      name: Harpstorlek
+    hatch_suitable_location:
+      name: Lämplig luckplats
+    hazmat_suit_design:
+      name: Hazmat-dräktdesign
+    hdr_format:
+      name: Hdr-format
+    headjoint_cut:
+      name: Munstycke
+    headphone_jack_type:
+      name: Typ av hörlursuttag
+    headphone_style:
+      name: Hörlursstil
+    headwear_features:
+      name: Detaljer för huvudbonader
+    hearing_aid_features:
+      name: Detaljer för hörselhjälpmedel
+    hearing_aid_material:
+      name: Hörselhjälpmedel - material
+    heat_function:
+      name: Värmefunktion
+    heat_level:
+      name: Värmenivå
+    heat_settings:
+      name: Värmeinställningar
+    heat_source:
+      name: Värmekälla
+    heating_instructions:
+      name: Uppvärmningsinstruktioner
+    heating_method:
+      name: Uppvärmningsmetod
+    heating_speed:
+      name: Uppvärmningshastighet
+    heel_height_type:
+      name: Klackhöjd typ
+    heel_shoe_type:
+      name: Typ av klackskor
+    height_adjustment:
+      name: Höjdjustering
+    helmet_shade_design:
+      name: Hjälmskärmsdesign
+    hitch_class:
+      name: Dragkroksklass
+    hitch_type:
+      name: Typ av draganordning
+    hockey_equipment_included:
+      name: Hockeyutrustning som ingår
+    hold_level:
+      name: Fixeringsgrad
+    hook_design:
+      name: Krokutförande
+    hook_grip_design:
+      name: Krokgreppsdesign
+    hook_size:
+      name: Krokstorlek
+    hook_type:
+      name: Kroktyp
+    hoop_shape:
+      name: Ringform
+    horse_category:
+      name: Hästkategori
+    horse_grooming_accessories_included:
+      name: Hästvårdstillbehör som ingår
+    hose_material:
+      name: Slang - material
+    host_interface:
+      name: Värdgränssnitt
+    housing_color:
+      name: Husets färg
+    housing_material:
+      name: Material för hundkoja
+    housing_pattern:
+      name: Mönster på hölje
+    hub/switch_storage_options:
+      name: Hubb/omkopplare lagringsalternativ
+    humidifier_design:
+      name: Design på luftfuktare
+    humidity_control:
+      name: Fuktighetskontroll
+    humidy_control:
+      name: Fuktkontroll
+    hunting/survival_knife_design:
+      name: Design på jakt-/överlevnadskniv
+    hunting_blind_design:
+      name: Design på jaktgömsle
+    hvac_control_type:
+      name: Typ av kontroller för värme, ventilation och luftkonditionering
+    ice_pack_type:
+      name: Typ av ispåse
+    icon_type:
+      name: Ikontyp
+    ignition_system:
+      name: Tändningssystem
+    illumination_technique:
+      name: Belysningsteknik
+    image_formats_supported:
+      name: Bildformat som stöds
+    image_sensor_size:
+      name: Bildsensorstorlek
+    immobilizer_type:
+      name: Typ av startspärr
+    incense_fragrance:
+      name: Doft av rökelse
+    incense_kit_items_included:
+      name: Rökelsekitsartiklar som ingår
+    incense_type:
+      name: Typ av rökelse
+    incontinence_aid_features:
+      name: Detaljer för inkontinenshjälpmedel
+    industry_focus:
+      name: Branschfokus
+    infant_age_group:
+      name: Åldersgrupp för spädbarn
+    inflation_method:
+      name: Inflationsmetod
+    ingredient_category:
+      name: Ingredienskategori
+    ingredient_origin:
+      name: Ingrediens ursprung
+    ingredients:
+      name: Ingredienser
+    ink_application_technique:
+      name: Bläckappliceringsteknik
+    ink_color:
+      name: Bläckfärg
+    ink_form:
+      name: Bläckform
+    ink_pattern:
+      name: Bläckmönster
+    ink_type:
+      name: Bläcktyp
+    inline_skating_style:
+      name: Inlinesåkning, stil
+    input/output_ports:
+      name: In-/utgångsportar
+    input_connection:
+      name: Ingångsanslutning
+    instruction_set_architecture:
+      name: Instruktionsarkitektur
+    instrument/accessory_finish:
+      name: Instrument-/tillbehörsfinish
+    instrument_accessory_material:
+      name: Instrument tillbehör - material
+    instrument_bow_material:
+      name: Instrument stråke - material
+    instrument_color:
+      name: Färg på instrument
+    instrument_controller_type:
+      name: Instrumentcontrollertyp
+    instrument_material:
+      name: Instrument - material
+    instrument_part_material:
+      name: Instrument del - material
+    instrument_pattern:
+      name: Instrumentmönster
+    instrument_string_color:
+      name: Färg på instrumentsträng
+    instrument_string_material:
+      name: Instrumentsträng - material
+    instrument_string_pattern:
+      name: Mönster på instrumentsträng
+    instrument_support_type:
+      name: Typ av instrumentstöd
+    insulation_material:
+      name: Isolering - material
+    intended_application:
+      name: Avsedd användning
+    interface_type:
+      name: Gränssnittstyp
+    internal_drive_form_factor_supported:
+      name: Kompatibel formfaktor för intern hårddisk
+    intimate_apparel_features:
+      name: Detaljer för intimplagg
+    inverter_type:
+      name: Typ av växelriktare
+    invitation_personalization_design:
+      name: Personlig design av inbjudningar
+    ironing_features:
+      name: Detaljer för strykning
+    item_condition:
+      name: Artikelns skick
+    item_material:
+      name: Artikel - material
+    item_style:
+      name: Artikelstil
+    j_cup_type:
+      name: Typ J-kopp
+    jaw_material:
+      name: Käkmaterial
+    jewelry_finding_type:
+      name: Typ av smyckesdelar
+    jewelry_material:
+      name: Smycken - material
+    jewelry_project_type:
+      name: Typ av smyckeprojekt
+    jewelry_set_type:
+      name: Typ av smyckesset
+    jewelry_type:
+      name: Typ av smycke
+    joint_connection:
+      name: Ledanslutning
+    joint_face_type:
+      name: Ledtyp fram
+    joint_style:
+      name: Ledstil
+    jump_rope_design:
+      name: Design på hopprep
+    jumping_surface_color:
+      name: Färg på hoppyta
+    jumping_surface_material:
+      name: Material för hoppyta
+    jumping_surface_pattern:
+      name: Mönster på hoppyta
+    karaoke_modes:
+      name: Karaokelägen
+    kerosene_application:
+      name: Applicering av fotogen
+    key_purpose:
+      name: Nyckelsyfte
+    keyboard_action:
+      name: Tangentbordsåtgärd
+    keyboard_format:
+      name: Tangentbordsformat
+    keyboard_key_type:
+      name: Typ av tangentbordstangent
+    keyboard_language:
+      name: Tangentbordsspråk
+    keyboard_layout:
+      name: Tangentbordslayout
+    keyboard_port_type:
+      name: Tangentbordsporttyp
+    keyboard_specialized_features:
+      name: Specialfunktioner tangentbord
+    keyboard_switch_type:
+      name: Typ av tangentbordsknappar
+    keyboard_type:
+      name: Tangentbordstyp
+    keypad_style:
+      name: Knappsatsstil
+    kit_construction_type:
+      name: Byggsatstyp
+    kitchen/dining_furniture_items_included:
+      name: Köks- och matrumsartiklar som ingår
+    kitchen_utensil_items_included:
+      name: Köksredskap ingår
+    kitesurfing_style:
+      name: Kitesurfingstil
+    kneeboard_features:
+      name: Detaljer för kneeboard
+    knife_type:
+      name: Knivtyp
+    knitting/padding_project_type:
+      name: Typ av stickning/stoppning
+    knitting_project_type:
+      name: Typ av stickningsprojekt
+    knob/handle_design:
+      name: Utförande på knopp/handtag
+    knob_function:
+      name: Vredfunktion
+    knob_style:
+      name: Knoppstil
+    labeling_project_type:
+      name: Typ av märkningsprojekt
+    laboratory_freezer_design:
+      name: Konstruktion av laboratoriefrysar
+    lacrosse_equipment_included:
+      name: Lacrosseutrustning som ingår
+    ladder_type:
+      name: Stegtyp
+    lamination_mode:
+      name: Lamineringsläge
+    lamp_type:
+      name: Lamptyp
+    language:
+      name: Språk
+    language_version:
+      name: Språkversion
+    laser_color:
+      name: Laserfärg
+    laser_light_source:
+      name: Laserljuskälla
+    laser_pattern:
+      name: Lasermönster
+    lathe_application:
+      name: Svarvtillämpning
+    laundry_detergent_features:
+      name: Detaljer för tvättmedel
+    lead_grade:
+      name: Blyertsklass
+    leash_design:
+      name: Design på koppel
+    leather/vinyl_texture:
+      name: Läder-/vinyltextur
+    lectern_mounting_type:
+      name: Monteringstyp för talarstol
+    leg_color:
+      name: Benfärg
+    leg_lock_type:
+      name: Benlåstyp
+    leg_material:
+      name: Benmaterial
+    leg_pattern:
+      name: Benmönster
+    leg_sections:
+      name: Bensektioner
+    lens/slide_material:
+      name: Objektiv/objektglas - material
+    lens_cap_compatible_device:
+      name: Enhet kompatibel med objektivlock
+    lens_coating:
+      name: Linsbeläggning
+    lens_color:
+      name: Linsfärg
+    lens_configuration:
+      name: Linskonfiguration
+    lens_filter_effects:
+      name: Objektivfiltereffekter
+    lens_filter_type:
+      name: Objektivfiltertyp
+    lens_pattern:
+      name: Objektivmönster
+    lens_polarization:
+      name: Linspolarisering
+    lens_storage_type:
+      name: Typ av objektivförvaring
+    lens_type:
+      name: Linstyp
+    license_type:
+      name: Licenstyp
+    lid_material:
+      name: Lockmaterial
+    lid_type:
+      name: Locktyp
+    life_jacket_features:
+      name: Detaljer för flytväst
+    light_attachment_type:
+      name: Typ av ljusfäste
+    light_color:
+      name: Belysningsfärg
+    light_control:
+      name: Ljuskontroll
+    light_design:
+      name: Lätt design
+    light_exposure_modes:
+      name: Ljusexponeringslägen
+    light_filtering:
+      name: Ljusfilter
+    light_options:
+      name: Ljusalternativ
+    light_pattern:
+      name: Ljusmönster
+    light_source:
+      name: Ljuskälla
+    light_spectrum:
+      name: Ljusspektrum
+    light_temperature:
+      name: Ljustemperatur
+    light_type:
+      name: Ljustyp
+    lighting_features:
+      name: Detaljer för belysning
+    lighting_options:
+      name: Belysningsalternativ
+    line/rope_type:
+      name: Typ av lina eller rep
+    line_spacing_options:
+      name: Radavståndsalternativ
+    liner_features:
+      name: Detaljer för läppenna
+    lip_gloss_effect:
+      name: Läppglanseffekt
+    lip_liner_design:
+      name: Design på läppenna
+    lip_plate_material:
+      name: Läpplattematerial
+    lipstick_effect:
+      name: Läppstiftseffekt
+    liqueur_variety:
+      name: Likörsort
+    livestock_food_ingredients:
+      name: Ingredienser för djurfoder
+    lnb_output:
+      name: Lnb-utgång
+    lnb_technology:
+      name: Lnb-teknik
+    load_capacity:
+      name: Lastkapacitet
+    loading_ramp_type:
+      name: Typ av lastramp
+    loading_type:
+      name: Laddningstyp
+    lock_placement:
+      name: Låsplacering
+    lock_type:
+      name: Låstyp
+    locking_mechanism:
+      name: Låsmekanism
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Applicering av glidmedel
+    lubricant_composition:
+      name: Glidmedelssammansättning
+    lubricant_dispenser_type:
+      name: Typ av smörjmedelsdispenser
+    lubricant_form:
+      name: Smörjmedelsform
+    luggage/bag_closure:
+      name: Bagage-/väskstängning
+    lumber/wood_type:
+      name: Typ av timmer/trä
+    lyre/flip_folder_attachment_type:
+      name: Fastsättningstyp för lyra/vändmapp
+    magnet_type:
+      name: Magnettyp
+    magnification:
+      name: Förstoring
+    makeup_color/shade:
+      name: Sminkfärg/-nyans
+    makeup_features:
+      name: Detaljer för smink
+    mallet_material:
+      name: Klubba - material
+    manufacturer_type:
+      name: Typ av tillverkare
+    marine_navigator_features:
+      name: Detaljer för Marine navigator
+    marker_tip_design:
+      name: Utförande av markeringspennspets
+    mascara_effect:
+      name: Maskaraeffekt
+    mask_type:
+      name: Masktyp
+    masonry_material:
+      name: Murverk - material
+    masonry_product_form:
+      name: Murverksproduktform
+    massage_area:
+      name: Massageområde
+    massage_stone_texture:
+      name: Textur massagestenar
+    massage_technique:
+      name: Massageteknik
+    mat/rug_shape:
+      name: Form på hallmatta/matta
+    mat_base_material:
+      name: Mattbas - material
+    mat_features:
+      name: Detaljer för hallmatta
+    material:
+      name: Material
+    material_firmness:
+      name: Materialfasthet
+    material_hardness:
+      name: Materialhårdhet
+    maternity_clothing_features:
+      name: Detaljer för mammakläder
+    maternity_sleepwear_style:
+      name: Stil på gravidpyjamas
+    mattress_features:
+      name: Detaljer för madrass
+    maximum_magnification:
+      name: Maximal förstoring
+    measuring_method:
+      name: Mätmetod
+    measuring_tool_features:
+      name: Detaljer för mätverktyg
+    measuring_type:
+      name: Mättyp
+    meat_cut:
+      name: Köttsnitt
+    meat_type:
+      name: Köttyp
+    media_access:
+      name: Medieåtkomst
+    media_content_type:
+      name: Typ av medieinnehåll
+    media_format:
+      name: Medieformat
+    media_section:
+      name: Avsnittet Media
+    media_theme:
+      name: Medietema
+    medical_alarm_features:
+      name: Detaljer för medicinska larm
+    medical_identification_type:
+      name: Typ av medicinsk identifiering
+    medical_syringe_purpose:
+      name: Syfte för medicinsk spruta
+    medical_tape_material:
+      name: Medicinsk tejp - material
+    medicine/drug_form:
+      name: Medicin- och läkemedelsform
+    medicine/supplement_form:
+      name: Form av medicin/tillskott
+    medium:
+      name: Medium
+    melodica_style:
+      name: Melodikastil
+    memory_channels:
+      name: Minneskanaler
+    memory_form_factor:
+      name: Minnesformfaktor
+    memory_storage_type:
+      name: Minneslagringstyp
+    memory_technology:
+      name: Minnesteknik
+    menstrual_cup_shape:
+      name: Form på menskopp
+    metal_detector_features:
+      name: Detaljer för metalldetektor
+    metal_molding_application:
+      name: Applicering av metallgjutning
+    meter_type:
+      name: Mätartyp
+    metrics_supported:
+      name: Mätvärden som stöds
+    microphone_thread:
+      name: Mikrofontråd
+    microphone_type:
+      name: Mikrofontyp
+    microscope_features:
+      name: Detaljer för mikroskop
+    microscope_slide_material:
+      name: Objektglas för mikroskop - material
+    midi_connectivity:
+      name: Midi-anslutbarhet
+    mineral_class:
+      name: Mineralklass
+    minimum_magnification:
+      name: Minsta förstoring
+    mirror_handle_design:
+      name: Spegelhandtagsdesign
+    mixer_type:
+      name: Mixertyp
+    mobile_mounting_type:
+      name: Typ av mobilmontering
+    mobile_movement:
+      name: Mobil rörelse
+    mobile_phone_case_features:
+      name: Detaljer för mobilskal
+    mobility/accessibility_equipment_features:
+      name: Detaljer för mobilitet/tillgänglighetsutrustning
+    mobility_scooter_type:
+      name: Permobiltyp
+    model_control_technology:
+      name: Modellstyrningsteknik
+    model_train_accessory_type:
+      name: Typ av tillbehör till modelljärnvägar
+    model_train_theme:
+      name: Modelltågstema
+    modulation_method:
+      name: Moduleringsmetod
+    moisturizer_type:
+      name: Typ av fuktkräm
+    mold/cut_shape:
+      name: Form på gjutform/kap
+    mold_shape:
+      name: Form på gjutform
+    molding_application:
+      name: Listtillämpning
+    molding_shape:
+      name: Listform
+    monitor/screen_specialized_features:
+      name: Specialfunktioner bildskärm/skärm
+    monitor_mounting_type:
+      name: Typ av bildskärmsmontering
+    monitor_shape:
+      name: Form på monitor
+    monitor_specialized_features:
+      name: Specialfunktioner bildskärm
+    monitor_type:
+      name: Monitortyp
+    monocular_design:
+      name: Utförande av monokulär kikare
+    motherboard_chipset_family:
+      name: Tillverkare av moderkort-kretsuppsättning
+    motherboard_form_factor:
+      name: Moderkortsformfaktor
+    motherboard_memory_features:
+      name: Detaljer för minne för moderkort
+    motion:
+      name: Rörelse
+    motion_sensor_type:
+      name: Typ av rörelsedetektor
+    motor_starting_method:
+      name: Motorstartmetod
+    motor_vehicle_placement:
+      name: Placering av motorfordon
+    motor_vehicle_type:
+      name: Typ av motorfordon
+    motorcycle/scooter_type:
+      name: Motorcykel-/skotertyp
+    motorcycle_drive_type:
+      name: Drivsystem för motorcykel
+    motorcycle_glove_purpose:
+      name: Syfte för motorcykelhandske
+    motorcycle_tire_type:
+      name: Typ av motorcykeldäck
+    mount/stand_features:
+      name: Monterings-/stativfunktioner
+    mount_material:
+      name: Fäste - material
+    mounting_hardware:
+      name: Monteringsutrustning
+    mounting_type:
+      name: Monteringstyp
+    mouse/trackball_features:
+      name: Detaljer för mus/trackball
+    mouse_pad_features:
+      name: Detaljer för musmatta
+    mouse_port_type:
+      name: Typ av musport
+    mouse_technology:
+      name: Musteknologi
+    mouthgard_design:
+      name: Design på munskydd
+    mouthpiece:
+      name: Munstycke
+    moving/shipping_box_material:
+      name: Flytt- och fraktlådor - material
+    mp3_player_accessories_included:
+      name: Tillbehör till MP3-spelare ingår
+    mpaa_rating:
+      name: Mpaa-klassning
+    multi_gpu_technology:
+      name: Multi-Gpu-teknik
+    muscle_stimulator_design:
+      name: Design på muskelstimulator
+    music_genre:
+      name: Musikgenre
+    music_stand_design:
+      name: Notställsdesign
+    musical_key:
+      name: Tonart
+    nail_art_items_included:
+      name: Nagelkonstartiklar som ingår
+    nail_care_features:
+      name: Detaljer för nagelvård
+    nail_design:
+      name: Nageldesign
+    nail_polish_drying_form:
+      name: Nagellackstork form
+    nail_shape:
+      name: Nagelform
+    national/regional_rating:
+      name: Nationell/regional klassning
+    native_aspect_ratio:
+      name: Inbyggt bildförhållande
+    nebulizer_design:
+      name: Design på nebulisator
+    nebulizer_technology:
+      name: Nebulisatorteknik
+    neck_color:
+      name: Färg på hals
+    neck_material:
+      name: Halsmaterial
+    neck_pattern:
+      name: Halsmönster
+    necklace_design:
+      name: Design på halsband
+    neckline:
+      name: Halsringning
+    needle_eye_type:
+      name: Typ av nålöga
+    needle_gauge:
+      name: Nålmätare
+    needle_housing_material:
+      name: Nålhölje - material
+    needle_material:
+      name: Nålmaterial
+    needle_size:
+      name: Nålstorlek
+    needlecraft_kit_type:
+      name: Typ av broderikit
+    negative/slide_storage_type:
+      name: Förvaring av negativ och diabilder
+    net_material:
+      name: Nät - material
+    net_mounting_type:
+      name: Typ av nätmontering
+    network_cable_interface:
+      name: Nätverkskabelgränssnitt
+    network_protocols_supported:
+      name: Kompatibla nätverksprotokoll
+    networking_standards:
+      name: Nätverksstandarder
+    nightgown_style:
+      name: Stil på nattlinnen
+    nipple_material:
+      name: Nippelmaterial
+    nipple_shape:
+      name: Nippelform
+    nipple_type:
+      name: Typ av nippel
+    nock_material:
+      name: Nock - material
+    noise_intensity:
+      name: Ljudintensitet
+    notepad_cover_type:
+      name: Typ av överdrag för anteckningsblock
+    notepad_design:
+      name: Design på anteckningsblock
+    nozzle_type:
+      name: Typ av munstycke
+    nursery_theme:
+      name: Barnrumstema
+    nursing_cover_coverage:
+      name: Amningsskydd, täckning
+    nursing_pad_design:
+      name: Design på amningsinlägg
+    nursing_pillow_shape:
+      name: Form på amningskudde
+    nut/seed_type:
+      name: Typ av nöt/frö
+    nut_butter_variety:
+      name: Sort av nötsmör
+    nut_form:
+      name: Mutterform
+    nut_processing_method:
+      name: Metod för bearbetning av nötter
+    nutrient_content:
+      name: Näringsinnehåll
+    oboe_key_system:
+      name: Nyckelsystem på oboe
+    ocarina_style:
+      name: Ocarinastil
+    occasion:
+      name: Tillfälle
+    occasion_style:
+      name: Typ av tillfälle
+    office_cart_features:
+      name: Detaljer för kontorsvagnar
+    office_instrument_material:
+      name: Kontorsvaror - material
+    office_supply_material:
+      name: Kontorsmaterial - material
+    oil_type:
+      name: Oljetyp
+    one_piece_style:
+      name: Stil på onepiece
+    open/closed_sign_design:
+      name: Utförande av öppet-/stängt-skylt
+    opening_direction:
+      name: Öppningsriktning
+    opening_mechanism:
+      name: Öppningsmekanism
+    operating_mode:
+      name: Driftläge
+    operating_system:
+      name: Operativsystem
+    operation_method:
+      name: Driftmetod
+    optical_drive_type:
+      name: Typ av optisk enhet
+    optical_frame_design:
+      name: Design på glasögonbåge
+    optical_zoom:
+      name: Optisk zoom
+    organizer_type:
+      name: Typ av arrangör
+    orientation:
+      name: Orientering
+    outdoor_equipment_features:
+      name: Detaljer för utomhusutrustning
+    outdoor_furniture_items_included:
+      name: Utomhusmöbelsartiklar som ingår
+    outdoor_power_accessories_included:
+      name: Tillbehör till utomhusström ingår
+    outdoor_walking_activity:
+      name: Utomhuspromenad
+    outerwear_clothing_features:
+      name: Detaljer för ytterkläder
+    outlet_type:
+      name: Typ av uttag
+    output_connection:
+      name: Utgångsanslutning
+    output_level:
+      name: Utgångsnivå
+    output_waveform:
+      name: Utgångsvågform
+    oven_accessories_included:
+      name: Ugnstillbehör ingår
+    oxygen_tank_valve_type:
+      name: Ventiltyp för syrgastank
+    pacifier/teether_design:
+      name: Design på napp/bitring
+    package_type:
+      name: Förpackningstyp
+    packing_materials_included:
+      name: Förpackningsmaterial ingår
+    pad_display_profile:
+      name: Visningsprofil för block
+    pad_type:
+      name: Typ av applikator
+    paddle/oar_material:
+      name: Paddel/åra - material
+    paddle_equipment_included:
+      name: Paddelutrustning som ingår
+    paddleboard_features:
+      name: Detaljer för paddleboard
+    page_layout:
+      name: Sidlayout
+    page_size:
+      name: Sidstorlek
+    paint/dye_form:
+      name: Färg-/Färgämnesform
+    paint_brush_design:
+      name: Penseldesign
+    paint_finish:
+      name: Färgfinish
+    paint_form:
+      name: Form av färg
+    paint_medium_type:
+      name: Typ av målningsmedium
+    paint_type:
+      name: Färgtyp
+    paintball/airsoft_equipment_included:
+      name: Paintball/airsoft-utrustning som ingår
+    paintball_equipment_included:
+      name: Paintball-utrustning som ingår
+    painting_canvas_material:
+      name: Målarduk - material
+    pairing_method:
+      name: Parkopplingsmetod
+    palette_design:
+      name: Palettdesign
+    palette_knife_shape:
+      name: Palettknivform
+    panel_specification:
+      name: Panelspecifikation
+    panel_termination:
+      name: Panelavslutning
+    pants_length_type:
+      name: Typ av byxlängd
+    pantyhose_style:
+      name: Stil på strumpbyxa
+    paper_finish:
+      name: Pappersfinish
+    paper_format:
+      name: Pappersformat
+    paper_size:
+      name: Pappersstorlek
+    paper_texture:
+      name: Papperstextur
+    paper_type:
+      name: Papperstyp
+    paperweight_design:
+      name: Brevpressutförande
+    papier_mache_shape:
+      name: Papier-maché-form
+    parachuting_activity:
+      name: Fallskärmshoppningsaktivitet
+    parallel_processing_technology_support:
+      name: Stöd för parallell bearbetningsteknik
+    parking_camera_features:
+      name: Detaljer för parkeringskamera
+    parking_sign_design:
+      name: Parkeringsskyltsdesign
+    passband:
+      name: Passband
+    pasta_shape_type:
+      name: Pastaform
+    pasta_type:
+      name: Pastatyp
+    patch_shape:
+      name: Lappform
+    pattern:
+      name: Mönster
+    pattern_distribution_format:
+      name: Mönsterfördelningsformat
+    pcb_type:
+      name: Typ av PCB
+    pedal_polarity:
+      name: Pedalpolaritet
+    pegi_rating:
+      name: PEGI-klassning
+    pen/felt_tip_design:
+      name: Design på penna/filtpenna
+    pen/pencil_features:
+      name: Detaljer för penna/blyertspenna
+    pen_color:
+      name: Pennfärg
+    pen_features:
+      name: Detaljer för penna
+    pen_pattern:
+      name: Pennmönster
+    pen_tip_design:
+      name: Pennspetsutförande
+    pen_type:
+      name: Typ av penna
+    pencil_features:
+      name: Detaljer för blyertspenna
+    pencil_sharpener_design:
+      name: Design på pennvässare
+    pencil_type:
+      name: Typ av blyertspenna
+    percussion_stand_design:
+      name: Utförande av slagverksstativ
+    percussion_tip_shape:
+      name: Form av slagverksspets
+    performance_metrics:
+      name: Prestandamätningar
+    peroxide_content:
+      name: Peroxidhalt
+    personal_watercraft_type:
+      name: Typ av vattenskoter
+    personalization_design:
+      name: Personlig design
+    personalization_options:
+      name: Anpassningsalternativ
+    pest_control_method:
+      name: Skadedjursbekämpningsmetod
+    pet_apparel/bedding_features:
+      name: Detaljer för husdjurskläder/-bäddar
+    pet_apparel_features:
+      name: Detaljer för husdjurskläder
+    pet_bedding_features:
+      name: Detaljer för bäddar för husdjur
+    pet_control_accessory_features:
+      name: Detaljer för tillbehör för kontroll av husdjur
+    pet_dietary_preferences:
+      name: Kostpreferenser för husdjur
+    pet_dietary_requirements:
+      name: Kostbehov för husdjur
+    pet_food_flavor:
+      name: Smak på husdjursfoder
+    pet_food_form:
+      name: Form för djurfoder
+    pet_food_supplements:
+      name: Kosttillskott för husdjur
+    pet_hair_dryer_design:
+      name: Design på hårtork för husdjur
+    pet_hair_dryer_speed_settings:
+      name: Hastighetsinställningar för hårtork för husdjur
+    pet_medical_collar_design:
+      name: Design på medicinsk krage för husdjur
+    pet_medical_supply_type:
+      name: Typ av sjukvårdsartiklar för husdjur
+    pet_monitor_items_included:
+      name: Tillbehör för djurvakt ingår
+    pet_nail_tool_type:
+      name: Typ av kloverktyg för husdjur
+    pet_pad_features:
+      name: Detaljer för dyna för husdjur
+    pet_spray/solution_type:
+      name: Typ av spray/medel för husdjur
+    pet_supply_product_form:
+      name: Formulär för husdjursprodukter
+    pet_thermometer_design:
+      name: Design på husdjurstermometer
+    pet_trainer_type:
+      name: Typ av hundtränare
+    pet_treat_texture:
+      name: Konsistens på husdjursgodis
+    pet_treat_type:
+      name: Typ av hundgodis
+    phase_type:
+      name: Fastyp
+    photo_effects_type:
+      name: Fotoeffekttyp
+    photographic_chemical_form:
+      name: Fotografisk kemisk form
+    photographic_paper_size:
+      name: Fotografisk pappersstorlek
+    photographic_paper_type:
+      name: Fotografisk papperstyp
+    piano_additional_features:
+      name: Tilläggsfunktioner för piano
+    piano_pedals:
+      name: Pianopedaler
+    piano_size:
+      name: Pianostorlek
+    pick_design:
+      name: Plektrumutförande
+    pickup_design:
+      name: Design på pickup
+    pickup_mounting_type:
+      name: Pickupmonteringstyp
+    pickup_position:
+      name: Plats för pickup
+    pickup_type:
+      name: Pickuptyp
+    pig_feed_stage:
+      name: Grisfoderstadium
+    pile_type:
+      name: Luggtyp
+    pillow_shape:
+      name: Kuddform
+    pin_size:
+      name: Stiftstorlek
+    pinata_design:
+      name: Pi√±ata design
+    ping_pong_equipment_included:
+      name: Bordtennisutrustning som ingår
+    ping_pong_robot_features:
+      name: Detaljer för bordtennisrobot
+    pipe_clamp_design:
+      name: Utförande av rörklämma
+    pipe_shape:
+      name: Rörform
+    placement_supported:
+      name: Möjlig placering
+    plant_characteristics:
+      name: Egenskaper hos växt
+    plant_class:
+      name: Växtklass
+    plant_name:
+      name: Växtens namn
+    plant_support_material:
+      name: Växtstöd - material
+    plate_type:
+      name: Typ av tallrik
+    play_equipment_items_included:
+      name: Spelutrustningsartiklar som ingår
+    play_slide_design:
+      name: Rutschkana - design
+    play_vehicle_propulsion:
+      name: Spela framdrivning av fordon
+    play_yard_design_features:
+      name: Detaljer för design av lekhage
+    playback_disc_formats:
+      name: Format på uppspelningsskivor
+    player/recorder_specialized_features:
+      name: Specialfunktioner spelare/inspelare
+    player_drive_type:
+      name: Drivtyp för spelare
+    player_position:
+      name: Spelarposition
+    player_specialized_features:
+      name: Specialfunktioner spelare
+    playhouse_design:
+      name: Lekstugekonstruktion
+    playset_features:
+      name: Detaljer för lekset
+    plug_type:
+      name: Pluggtyp
+    plug_type_input:
+      name: Kontakttyp (ingång)
+    plug_type_output:
+      name: Kontakttyp (utgång)
+    plumbing_primer_application:
+      name: Applicering av primer för rörledningar
+    plumbing_trap_design:
+      name: Vattenlåskonstruktion
+    plunger_shape:
+      name: Kolvform
+    plywood_grade:
+      name: Plywoodkvalitet
+    pneumatic_conveyor_operation:
+      name: Pneumatisk transportördrift
+    poe_standard:
+      name: PoE-standard
+    point_design:
+      name: Spetsdesign
+    pointing_device:
+      name: Pekdon
+    polar_pattern:
+      name: Polarmönster
+    polarization:
+      name: Polarisering
+    pole/post_material:
+      name: Stolpe/påle - material
+    pole_color:
+      name: Färg på stång
+    pole_material:
+      name: Stångmaterial
+    pole_pattern:
+      name: Stolpmönster
+    policy_sign_design:
+      name: Design av regelskylt
+    polish_dry_form:
+      name: Polish torr form
+    polish_remover_form:
+      name: Form på nagellacksborttagare
+    polish_type:
+      name: Typ av polermedel
+    polyphony:
+      name: Polyfoni
+    portability:
+      name: Bärbarhet
+    post_material:
+      name: Påle - material
+    postage_stamp_features:
+      name: Detaljer för frimärke
+    potential_extract:
+      name: Potentiellt extrakt
+    pottery/sculpting_project_type:
+      name: Typ av keramik-/skulptureringsprojekt
+    potty/toilet_seat_design:
+      name: Design på pott-/toalettsits
+    potty_training_kit_components:
+      name: Delar i potträningskit
+    power_source:
+      name: Strömkälla
+    pregnancy_test_sensitivity:
+      name: Graviditetstestkänslighet
+    presentation_supply_features:
+      name: Detaljer för presentationsförsörjning
+    preservation_type:
+      name: Konserveringstyp
+    pretend_electronics_toy_type:
+      name: Typ av låtsaselektronikleksak
+    pretend_housekeeping_toy_type:
+      name: Typ av hushållsutrustningsleksak
+    primary_region:
+      name: Primär region
+    primer_use:
+      name: Användningsområde för primer
+    print_technology:
+      name: Tryckteknik
+    printer/copier_specialized_features:
+      name: Specialfunktioner skrivare/kopiator
+    printer_accessories_included:
+      name: Skrivartillbehör ingår
+    printer_functions:
+      name: Skrivarfunktioner
+    printing_color:
+      name: Utskriftsfärg
+    printing_method:
+      name: Utskriftsmetod
+    processor_cores:
+      name: Processorkärnor
+    processor_family:
+      name: Processorfamilj
+    processor_socket:
+      name: Processoruttag
+    processor_technology:
+      name: Processorteknik
+    product_benefits:
+      name: Produktfördelar
+    product_certifications_standards:
+      name: Produktcertifieringar och -standarder
+    product_form:
+      name: Produktform
+    product_formulation:
+      name: Produktformulering
+    product_manual_area:
+      name: Produktmanualområde
+    product_sterility:
+      name: Produktsterilitet
+    program_format:
+      name: Programformat
+    projection_design:
+      name: Projektionsutförande
+    projector_light_source:
+      name: Ljuskälla för projektor
+    prop_theme:
+      name: Rekvisitatema
+    propane_application:
+      name: Propantillämpning
+    propeller_blade_design:
+      name: Propellerbladskonstruktion
+    prophy_cup_design:
+      name: Design på profylaxkopp
+    propulsion_type:
+      name: Typ av framdrivning
+    protection_type:
+      name: Skyddstyp
+    protective_gear_features:
+      name: Detaljer för skyddsutrustning
+    protective_mask_design:
+      name: Design på skyddsmask
+    protective_mask_features:
+      name: Detaljer för skyddsmask
+    pstn_connectivity_options:
+      name: Pstn-anslutningsalternativ
+    publication_frequency:
+      name: Publiceringsfrekvens
+    publication_type:
+      name: Publikationstyp
+    pull_up_bar:
+      name: Pull-up-stång
+    pump_accessories:
+      name: Pumptillbehör
+    pump_speed_settings:
+      name: Pumphastighetsinställningar
+    punching/training_bag_material:
+      name: Boxnings-/träningssäck - material
+    puppet_theme:
+      name: Docktema
+    puppet_type:
+      name: Docktyp
+    puzzle_theme:
+      name: Pusseltema
+    puzzle_type:
+      name: Typ av pussel
+    quiver_style:
+      name: Kogerstil
+    rack_design:
+      name: Hyllställsdesign
+    rack_type:
+      name: Typ av hyllställ
+    racket_gauge:
+      name: Strängtjocklek
+    racket_material:
+      name: Racket - material
+    racket_string_design:
+      name: Design på racketsträng
+    racket_string_material:
+      name: Racketsträng - material
+    radar_bands:
+      name: Radarband
+    radar_technology:
+      name: Radarteknik
+    radio_case_design:
+      name: Radiofodralsdesign
+    radio_features:
+      name: Detaljer för radio
+    ramp_type:
+      name: Ramptyp
+    range_type:
+      name: Räckviddstyp
+    rarity:
+      name: Sällsynthet
+    razor_flexibility:
+      name: Rakapparat flexibilitet
+    razor_head_design:
+      name: Design på rakapparatshuvud
+    razor_type:
+      name: Typ av rakhyvel
+    read/write_speed:
+      name: Läs-/skrivhastighet
+    reading_toy_type:
+      name: Typ av läsleksak
+    receipt_paper_features:
+      name: Detaljer för kvittopapper
+    reclining_function:
+      name: Lutningsfunktion
+    recommended_age_group:
+      name: Rekommenderad åldersgrupp
+    recommended_skill_level:
+      name: Rekommenderad kompetensnivå
+    recommended_use:
+      name: Rekommenderad användning
+    recorder_fingering_system:
+      name: Fingersättningssystem på blockflöjt
+    recorder_specialized_features:
+      name: Specialfunktioner inspelare
+    recording_accessories_included:
+      name: Inspelningstillbehör ingår
+    recording_quality:
+      name: Inspelningskvalitet
+    recreational_vehicle_type:
+      name: Typ av fritidsfordon
+    reed_strength:
+      name: Rörbladsstyrka
+    reel_capacity:
+      name: Rullkapacitet
+    reflector_design:
+      name: Reflektorutförande
+    regenerative_braking_features:
+      name: Detaljer för regenerativ broms
+    region:
+      name: Region
+    region_code:
+      name: Regionkod
+    release_schedule:
+      name: Utgivningsschema
+    remote_technology:
+      name: Fjärrteknik
+    removable_storage_formats_supported:
+      name: Kompatibla format på flyttbar lagringsmedia
+    reptile/amphibian_food_form:
+      name: Foderform för reptil/amfibie
+    reptile/amphibian_habitat_supply_type:
+      name: Typ av terrarie för reptil/amfibie
+    research_focus:
+      name: Forskningsfokus
+    research_methodology:
+      name: Forskningsmetodik
+    resistance_level:
+      name: Motståndsnivå
+    resistance_system:
+      name: Motståndssystem
+    result_display:
+      name: Resultatvisning
+    retail/sale_sign_design:
+      name: Utförande av rea-/försäljningsskylt
+    reticle_plane:
+      name: Riktmedelsplan
+    reticle_type:
+      name: Hårkorstyp
+    rfid_frequency:
+      name: Rfid-frekvens
+    riding_style:
+      name: Körstil
+    riding_toy_propulsion_type:
+      name: Framdrivningstyp ridleksak
+    rim/wheel_design:
+      name: Fälg-/hjulutförande
+    ring_design:
+      name: Design på ring
+    ring_size:
+      name: Ringstorlek
+    riser_color:
+      name: Färg på stigarledning
+    riser_material:
+      name: Bågmaterial
+    riser_pattern:
+      name: Mönster på stigarledning
+    rivet_form:
+      name: Nitform
+    road_sign_design:
+      name: Vägskyltsdesign
+    rock_composition:
+      name: Stensammansättning
+    rock_formation:
+      name: Stenformation
+    rocker_type:
+      name: Rockertyp
+    rod_color:
+      name: Färg på stav
+    rod_material:
+      name: Stavmaterial
+    rod_pattern:
+      name: Mönster på stav
+    rod_shape:
+      name: Stångform
+    roller_head:
+      name: Rullhuvud
+    roller_material:
+      name: Rollermaterial
+    roller_type:
+      name: Rulltyp
+    roof_decor_shape:
+      name: Takdekorform
+    rosin_form:
+      name: Hartsform
+    rosin_grade:
+      name: Hartskvalitet
+    rotating_direction:
+      name: Rotationsriktning
+    rotator_control_technology:
+      name: Rotatorstyrteknik
+    rug/mat_features:
+      name: Detaljer för matta/hallmatta
+    rug/mat_material:
+      name: Matta/hallmatta - material
+    rug/mat_shape:
+      name: Form på matta/hallmatta
+    rug_features:
+      name: Detaljer för matta
+    rug_material:
+      name: Matta - material
+    rug_shape:
+      name: Form på matta
+    rum_grade:
+      name: Romsort
+    saddle_base_color:
+      name: Färg på sadelbas
+    saddle_base_material:
+      name: Sadelbas - material
+    saddle_base_pattern:
+      name: Mönster på sadelbas
+    saddle_material:
+      name: Sadelmaterial
+    saddle_seat_color:
+      name: Färg på sadelsits
+    saddle_seat_material:
+      name: Sadelsits - material
+    saddle_seat_pattern:
+      name: Mönster på sadelsits
+    safety_certifications:
+      name: Säkerhetscertifieringar
+    safety_device_installation:
+      name: Installation av säkerhetsanordning
+    safety_equipment_material:
+      name: Säkerhetsutrustning - material
+    safety_rail_installation:
+      name: Installation av säkerhetsskena
+    sailboat_type:
+      name: Segelbåtstyp
+    sandal_style:
+      name: Stil på sandaler
+    sandblaster_application:
+      name: Tillämpning för sandbläster
+    sander_type:
+      name: Sliptyp
+    sanding_application:
+      name: Sliptillämpning
+    satellite_coverage_area:
+      name: Satellittäckningsområde
+    satellite_network_type:
+      name: Satellitnätverkstyp
+    sauna_accessories_included:
+      name: Bastutillbehör som ingår
+    scaffolding_mounting_type:
+      name: Monteringstyp för ställning
+    scale_material:
+      name: Vågmaterial
+    scale_model_accessory_type:
+      name: Tillbehörstyp skalmodell
+    scale_model_kit_type:
+      name: Typ av kit för modellbyggen
+    scale_model_material:
+      name: Skalmodell - material
+    scale_model_theme:
+      name: Tema för modellbygge
+    scalpel_blade_material:
+      name: Skalpellblad - material
+    scalpel_blade_number:
+      name: Skalpellbladsnummer
+    scalpel_blade_shape:
+      name: Form på skalpellblad
+    scalpel_handle_number:
+      name: Skalpellhandtagsnummer
+    scan_converter_features:
+      name: Detaljer för skanningskonverterare
+    scanner_features:
+      name: Detaljer för skanner
+    scanner_sensor_type:
+      name: Sensortyp i streckkodsläsare
+    scarf/shawl_style:
+      name: Stil på scarf/sjal
+    scene_modes:
+      name: Scenlägen
+    scent:
+      name: Doft
+    scissor_blade_type:
+      name: Typ av saxblad
+    scope/sight_design:
+      name: Utförande av kikarsikte/sikte
+    scope/sight_features:
+      name: Detaljer för kikarsikte/sikte
+    scope_design:
+      name: Design på kikarsikte
+    scope_lens_type:
+      name: Typ av objektiv för kikarsikte
+    scoreboard_features:
+      name: Detaljer för resultattavla
+    scrapbook_paper_type:
+      name: Scrapbook-papperstyp
+    screen/display_design:
+      name: Skärm-/displaydesign
+    screen_material:
+      name: Skärmmaterial
+    screen_specialized_features:
+      name: Specialfunktioner skärm
+    seafood_type:
+      name: Typ av skaldjur
+    seal_stamp_design:
+      name: Sigillstämpeldesign
+    season:
+      name: Säsong
+    seat_color:
+      name: Sätesfärg
+    seat_cushioning:
+      name: Sätesdämpning
+    seat_pattern:
+      name: Sätesmönster
+    seat_shape:
+      name: Sätesform
+    seat_structure:
+      name: Sätesstruktur
+    seat_type:
+      name: Sätestyp
+    seat_upholstery_color:
+      name: Färg på sätesklädsel
+    seat_upholstery_material:
+      name: Material på sätesklädsel
+    seat_upholstery_pattern:
+      name: Mönster på sätesklädsel
+    security_algorithms:
+      name: Säkerhetsalgoritmer
+    security_level:
+      name: Säkerhetsnivå
+    sensor/measuring_tool_features:
+      name: Detaljer för sensor-/mätverktyg
+    sensor_features:
+      name: Detaljer för sensor
+    sensor_type:
+      name: Sensortyp
+    sequin/glitter_shape:
+      name: Paljett-/glitterform
+    sequin_shape:
+      name: Paljettform
+    serum_target_areas:
+      name: Målområden för serum
+    service_type:
+      name: Typ av tjänst
+    sewing_foot_type:
+      name: Typ av sömnadsfot
+    sewing_machine_part_category:
+      name: Kategori för symaskinsdelar
+    sfx_control_technology:
+      name: SFX styrteknik
+    shaft_color:
+      name: Skaftfärg
+    shaft_flex:
+      name: Skaftflexibilitet
+    shaft_material:
+      name: Skaftmaterial
+    shaft_orientation:
+      name: Axelorientering
+    shaft_pattern:
+      name: Mönster på skaft
+    shampoo/conditioner_effect:
+      name: Effekt på schampo/balsam
+    shampoo/conditioner_items_included:
+      name: Schampo-/balsamartiklar som ingår
+    shampoo_type:
+      name: Typ av schampo
+    shape:
+      name: Form
+    shapewear_support_level:
+      name: Supportnivå för formgivande plagg
+    shaving_cream_formulation:
+      name: Rakgelsformula
+    shaving_kit_components:
+      name: Delar i rakningssats
+    sheen/gloss_level:
+      name: Glansnivå
+    sheet_color:
+      name: Bladfärg
+    sheet_pattern:
+      name: Mönster på ark
+    shelf_color:
+      name: Färg på hylla
+    shelf_material:
+      name: Hyllmaterial
+    shelf_pattern:
+      name: Mönster på hylla
+    shell/frame_color:
+      name: Färg på hylla/ram
+    shell/frame_material:
+      name: Skal/ram - material
+    shell/frame_pattern:
+      name: Mönster på hylla/ram
+    shingle/tile_material:
+      name: Shingel/panna - material
+    shoe_binding_type:
+      name: Skobindningstyp
+    shoe_features:
+      name: Detaljer för skor
+    shoe_fit:
+      name: Skopassform
+    shoe_size:
+      name: Skostorlek
+    shooting_modes:
+      name: Fotograferingslägen
+    shopping_bag_material:
+      name: Shoppingkasse - material
+    shower_base_design:
+      name: Utformning av duschkabin
+    shower_curtain_mounting_type:
+      name: Typ av montering för duschdraperi
+    shower_design:
+      name: Duschdesign
+    shower_features:
+      name: Detaljer för dusch
+    shower_opening_type:
+      name: Typ av duschöppning
+    shrink_ratio:
+      name: Krympförhållande
+    shutter_finish:
+      name: Ytbehandling på fönsterlucka
+    siding_material:
+      name: Fasad - material
+    signature_placement:
+      name: Signaturplacering
+    silencer/blimp_type:
+      name: Typ av ljuddämpare och blimp
+    sim_card_capability:
+      name: Simkortskapacitet
+    sim_card_type:
+      name: Typ av SIM-kort
+    sim_card_type_1:
+      name: SIM-kort typ 1
+    sim_card_type_2:
+      name: SIM-kort typ 2
+    sink_mounting_type:
+      name: Typ av diskbänksmontering
+    sink_shape:
+      name: Diskbänksform
+    sink_type:
+      name: Typ av diskbänk
+    sinker_material:
+      name: Sänke - material
+    size:
+      name: Storlek
+    skateboarding_style:
+      name: Skateboardåkning, stil
+    ski_construction:
+      name: Skidkonstruktion
+    skiing_style:
+      name: Skidåkning, stil
+    skill_level:
+      name: Skicklighetsnivå
+    skin_care_effect:
+      name: Hudvårdseffekt
+    skin_care_features:
+      name: Detaljer för hudvård
+    skin_care_mask_type:
+      name: Typ av hudvårdsmask
+    skin_tone:
+      name: Hudton
+    skin_undertone:
+      name: Hudunderton
+    skirt/dress_length_type:
+      name: Kjol/klänning, längdtyp
+    skirt_style:
+      name: Stil på kjol
+    slat_color:
+      name: Färg på lamell
+    slat_material:
+      name: Material på ribbotten
+    slat_pattern:
+      name: Mönster på lamell
+    sleeve_length_type:
+      name: Typ av ärmlängd
+    slip_texture:
+      name: Glatt textur
+    slipper_style:
+      name: Stil på tofflor
+    slot_machine_type:
+      name: Typ av spelautomat
+    small_animal_dietary_requirements:
+      name: Kostbehov för smådjur
+    small_animal_food_form:
+      name: Foderform för smådjur
+    small_animal_food_ingredients:
+      name: Ingredienser till foder för smådjur
+    small_animal_habitat/cage_type:
+      name: Typ av smådjursbur
+    smart_tv_platform:
+      name: Smart TV-plattform
+    smart_watch_features:
+      name: Detaljer för smartwatch
+    sneaker_style:
+      name: Stil på sneakers
+    snorkel_shape:
+      name: Form på snorkel
+    snowboard_construction:
+      name: Konstruktion av snowboard
+    snowboard_design:
+      name: Snowboarddesign
+    snowboarding_style:
+      name: Snowboardåkning, stil
+    snowmobile_type:
+      name: Typ av snöskoter
+    socket_driver_tip:
+      name: Hylsdragarspets
+    socket_type:
+      name: Uttagstyp
+    soda_maker_accessories_included:
+      name: Tillbehör till kolsyremaskin ingår
+    soda_variety:
+      name: Läsksort
+    sofa_features:
+      name: Detaljer för soffa
+    softball_discipline:
+      name: Disciplin inom softboll
+    softbox_mounting_type:
+      name: Monteringstyp för bouncer
+    softbox_shape:
+      name: Bouncerform
+    software_features:
+      name: Detaljer för programvara
+    software_tool_type:
+      name: Typ av programvaruverktyg
+    softwood_lumber_grade:
+      name: Barrträvirkeskvalitet
+    solar_cell_type:
+      name: Solcellstyp
+    solar_panel_connections:
+      name: Anslutningar för solpaneler
+    solar_panel_design:
+      name: Konstruktion av solpaneler
+    solder/flux_application:
+      name: Applicering av löd-/flussmedel
+    soleplate_type:
+      name: Typ av stryksula
+    solubility:
+      name: Löslighet
+    solution_type:
+      name: Lösningstyp
+    solvent/thinner_application:
+      name: Applicering av lösningsmedel/förtunningsmedel
+    solvent_application:
+      name: Applicering av lösningsmedel
+    soothing_sounds:
+      name: Lugnande ljud
+    sound_controls:
+      name: Ljudkontroller
+    sound_effects:
+      name: Ljudeffekter
+    sound_insulation:
+      name: Ljudisolering
+    sound_options:
+      name: Ljudalternativ
+    speaker_configuration:
+      name: Högtalarkonfiguration
+    speaker_design:
+      name: Högtalardesign
+    speaker_features:
+      name: Detaljer för högtalare
+    speaker_technology:
+      name: Högtalarteknik
+    speakerphone_type:
+      name: Typ av högtalartelefon
+    speed_settings:
+      name: Hastighetsinställningar
+    spf_level:
+      name: Spf-nivå
+    spike_design:
+      name: Spikutformning
+    spinner_type:
+      name: Hjultyp
+    spirit_dilution:
+      name: Spritutspädning
+    splitter/switch_features:
+      name: Detaljer för splitter/omkopplare
+    splitter_use:
+      name: Användningsområde för fördelare
+    sponge_shape:
+      name: Svampform
+    spool_color:
+      name: Färg på spole
+    spool_material:
+      name: Spolmaterial
+    spool_pattern:
+      name: Mönster på spole
+    sport:
+      name: Sport
+    sports_logo:
+      name: Sportlogotyp
+    sports_theme:
+      name: Sporttema
+    spout_type:
+      name: Piptyp
+    spreader_type:
+      name: Typ av spridare
+    sprinkler_head_type:
+      name: Typ av sprinklerhuvud
+    sprinkler_shape:
+      name: Sprinklerform
+    squeegee_blade_design:
+      name: Skrapbladsdesign
+    stack_configuration:
+      name: Stackkonfiguration
+    stage:
+      name: Fas
+    stair_lifts_control_type:
+      name: Kontrolltyp för trappliftar
+    staircase_features:
+      name: Detaljer för trappa
+    staircase_type:
+      name: Typ av trappa
+    stamp_theme:
+      name: Stämpeltema
+    stamp_type:
+      name: Stämpeltyp
+    stand/display_type:
+      name: Typ av stativ/display
+    staple_wire_gauge:
+      name: Tjocklek på häfttråd
+    stapler_features:
+      name: Detaljer för häftapparat
+    star_rating:
+      name: Stjärnklassificering
+    start_type:
+      name: Starttyp
+    station_type:
+      name: Stationstyp
+    stationery_binding_type:
+      name: Bindningstyp
+    stem_length:
+      name: Stamlängd
+    stencil/cut_shape:
+      name: Stencil/klippt form
+    step_type:
+      name: Stegtyp
+    sterilization_cycle_time:
+      name: Steriliseringscykeltid
+    sterilization_instructions:
+      name: Steriliseringsinstruktioner
+    sterilization_method:
+      name: Steriliseringsmetod
+    stethoscope_design:
+      name: Stetoskopdesign
+    stethoscope_technology:
+      name: Stetoskopteknik
+    stick_material:
+      name: Stift - material
+    stiffness:
+      name: Styvhet
+    stimulator_tip_shape:
+      name: Form på stimulatorspets
+    stone_material:
+      name: Sten - material
+    stone_name:
+      name: Namn på sten
+    stone_shape:
+      name: Stenform
+    stone_type:
+      name: Typ av sten
+    stopband:
+      name: Stoppband
+    stopwatch_features:
+      name: Detaljer för stoppur
+    storage_drive_interface_type:
+      name: Gränssnittstyp för lagringsenhet
+    storage_drive_interfaces_supported:
+      name: Kompatibla gränssnitt för lagringsenhet
+    storage_drive_type_installed:
+      name: Typ av installerad lagringsenhet
+    storage_media_type:
+      name: Typ av lagringsmedia
+    storage_tank_application:
+      name: Tillämpning för lagringstank
+    storage_types_supported:
+      name: Kompatibla lagringstyper
+    stove_airflow:
+      name: Spisluftflöde
+    stove_top_type:
+      name: Typ av spishäll
+    strap_design:
+      name: Remdesign
+    straw/stirrer_design:
+      name: Utförande med sugrör/omrörare
+    stretcher/gurney_intended_use:
+      name: Avsedd användning för bår
+    string_color:
+      name: Färg på sträng
+    string_instrument_size:
+      name: Storlek på stränginstrument
+    string_material:
+      name: Strängmaterial
+    string_pattern:
+      name: Mönster på sträng
+    stripper_application:
+      name: Applicering av polishborttagningsmedel
+    stroller_features:
+      name: Detaljer för barnvagn
+    stroller_wheel_type:
+      name: Typ på barnvagnshjul
+    style:
+      name: Stil
+    stylus_type:
+      name: Nåltyp
+    subject_area:
+      name: Ämnesområde
+    subscription_type:
+      name: Prenumerationstyp
+    substrate_features:
+      name: Detaljer för substrat
+    suction_cup_color:
+      name: Sugkoppsfärg
+    suction_cup_material:
+      name: Sugkoppsmaterial
+    suction_cup_pattern:
+      name: Mönster på sugkopp
+    suction_levels:
+      name: Sugnivåer
+    suitable_for_angling_type:
+      name: Lämplig för metetyp
+    suitable_for_animal_type:
+      name: Lämplig för djurtyp
+    suitable_for_art_technique:
+      name: Lämplig för konstteknik
+    suitable_for_bird_type:
+      name: Lämplig för fågeltyp
+    suitable_for_boat_type:
+      name: Lämplig för båttyp
+    suitable_for_body/facial_hair:
+      name: Lämplig för kropps-/ansiktshår
+    suitable_for_breed_size:
+      name: Lämplig för rasstorlek
+    suitable_for_bug_type:
+      name: Lämplig för insektstyp
+    suitable_for_camera/optics_device:
+      name: Lämplig för kamera- och optikenhet
+    suitable_for_camera_type:
+      name: Lämplig för kameratyp
+    suitable_for_camping_activity:
+      name: Lämplig för campingaktiviteter
+    suitable_for_chair_type:
+      name: Lämplig för stoltyp
+    suitable_for_container_type:
+      name: Lämplig för containertyp
+    suitable_for_crafting_material:
+      name: Lämplig för hantverksmaterial
+    suitable_for_door_type:
+      name: Lämplig för dörrtyp
+    suitable_for_egg_type:
+      name: Lämplig för äggtyp
+    suitable_for_fabric_type:
+      name: Lämplig för tygtyp
+    suitable_for_fire_class:
+      name: Lämplig för brandklass
+    suitable_for_fish_type:
+      name: Lämplig för fisktyp
+    suitable_for_food_processor_type:
+      name: Lämplig för matberedartyp
+    suitable_for_furniture_type:
+      name: Lämplig för möbeltyp
+    suitable_for_gas_type:
+      name: Lämplig för gastyp
+    suitable_for_hair_type:
+      name: Lämplig för hårtyp
+    suitable_for_material_type:
+      name: Lämplig för materialtyp
+    suitable_for_pest_type:
+      name: Lämplig för skadedjurstyp
+    suitable_for_pipe_type:
+      name: Lämplig för rörtyp
+    suitable_for_pool_type:
+      name: Lämplig för pooltyp
+    suitable_for_power_equipment_type:
+      name: Lämplig för elektrisk utrustning
+    suitable_for_precious_material:
+      name: Lämplig för exklusiva material
+    suitable_for_printer_type:
+      name: Lämplig för skrivartyp
+    suitable_for_skin_tone:
+      name: Lämplig för hudton
+    suitable_for_skin_type:
+      name: Lämplig för hudtyp
+    suitable_for_snowshoeing_activity:
+      name: Lämplig för snöskovandring
+    suitable_for_storage_type:
+      name: Lämplig för förvaringstyp
+    suitable_for_toothbrush:
+      name: Lämplig för tandborste
+    suitable_for_vehicle_type:
+      name: Lämplig för fordonstyp
+    suitable_for_water_feature_type:
+      name: Lämplig för vattenfunktionstyp
+    suitable_for_water_type:
+      name: Lämplig för vattentyp
+    suitable_for_weapon_type:
+      name: Lämplig för vapentyp
+    suitable_installation:
+      name: Lämplig installation
+    suitable_location:
+      name: Lämplig plats
+    suitable_space:
+      name: Lämpligt utrymme
+    suitcase_handle_type:
+      name: Handtagstyp för resväska
+    sulfur_content:
+      name: Svavelhalt
+    sunlight:
+      name: Solljus
+    support/brace_material:
+      name: Stöd/hållare - material
+    supported_language:
+      name: Språk som stöds
+    surface_texture:
+      name: Yttextur
+    surfboard_features:
+      name: Detaljer för surfbräda
+    surveillance_camera_design:
+      name: Utförande av övervakningskamera
+    surveillance_camera_mounting_type:
+      name: Monteringstyp för övervakningskamera
+    surverying_accessories_included:
+      name: Övervakningstillbehör som ingår
+    suspender_style:
+      name: Stil på hängslen
+    sustainability:
+      name: Hållbarhet
+    swab_material:
+      name: Svabb - material
+    swimwear_features:
+      name: Detaljer för badkläder
+    swing_style:
+      name: Svingstil
+    swing_weighting:
+      name: Svingviktning
+    switch_control_type:
+      name: Omkopplartyp
+    switching_method:
+      name: Växlingsmetod
+    synthesis_method:
+      name: Syntesmetod
+    system_of_measurement:
+      name: Mätsystem
+    system_range:
+      name: Systemutbud
+    systems_supported:
+      name: Kompatibla system
+    tab_style:
+      name: Flikstil
+    tabletop_color:
+      name: Färg på bordsskiva
+    tabletop_material:
+      name: Material på bordsskiva
+    tabletop_pattern:
+      name: Mönster på bordsskiva
+    tabletop_shape:
+      name: Form på bordsskiva
+    tableware_material:
+      name: Servis - material
+    tack/pushpin_head_design:
+      name: Utförande på knappnålshuvud
+    tag_fastening:
+      name: Taggfästning
+    tampon_absorbency_level:
+      name: Absorptionsnivå tampong
+    tampon_features:
+      name: Detaljer för tampong
+    tan_type:
+      name: Typ av bränna
+    tank_color:
+      name: Tankfärg
+    tank_material:
+      name: Tankmaterial
+    tank_pattern:
+      name: Mönster på tank
+    tape_material:
+      name: Tejpmaterial
+    target_audience:
+      name: Målgrupp
+    target_gender:
+      name: Avsett för
+    targeted_pests:
+      name: Avsedda skadedjur
+    targeted_stains:
+      name: Effektiv mot fläckar
+    tea_input_type:
+      name: Tetyp
+    technology_level:
+      name: Tekniknivå
+    teeth_material:
+      name: Tandmaterial
+    telephone_cable_interface:
+      name: Telefonkabelgränssnitt
+    telephone_style:
+      name: Telefonstil
+    telescope_level:
+      name: Teleskopsnivå
+    telescope_tracking_system:
+      name: Spårningssystem teleskop
+    television_shape:
+      name: TV-form
+    television_specialized_features:
+      name: Detaljer för för tv
+    temperature:
+      name: Temperatur
+    temperature_control:
+      name: Temperaturstyrning
+    temperature_measurement:
+      name: Temperaturmätning
+    template_type:
+      name: Malltyp
+    temple_color:
+      name: Bågfärg
+    temple_pattern:
+      name: Mönster på tempel
+    tension:
+      name: Spänning
+    tequila_variety:
+      name: Tequilasort
+    terminal_operation:
+      name: Terminaldrift
+    terrain:
+      name: Terräng
+    test_format:
+      name: Testformat
+    test_method:
+      name: Testmetod
+    test_sample:
+      name: Testprov
+    tetherball_equipment_included:
+      name: Smashball-utrustning som ingår
+    text_plate_material:
+      name: Material på textplåt
+    textile_craft_machine_features:
+      name: Detaljer för hobbymaskin för textilier
+    textile_craft_project_type:
+      name: Typ av textilhantverksprojekt
+    texture:
+      name: Textur
+    texture_level:
+      name: Strukturnivå
+    theme:
+      name: Tema
+    thermal_detector_type:
+      name: Typ av termisk detektor
+    thermocouple_type:
+      name: Typ av termoelement
+    thickness_type:
+      name: Tjocklekstyp
+    thinner_application:
+      name: Applicering av förtunningsmedel
+    thread_direction:
+      name: Trådriktning
+    threaded_rod_size:
+      name: Gängad stång, storlek
+    throw_pillow_shape:
+      name: Form på prydnadskudde
+    ticket_additional_features:
+      name: Tilläggsfunktioner för biljett
+    ticket_type:
+      name: Biljetttyp
+    tile_design:
+      name: Kakeldesign
+    tile_game_type:
+      name: Typ av brickspel
+    tile_installation_method:
+      name: Monteringsmetod för pannor
+    tile_look:
+      name: Kakelutseende
+    tile_material:
+      name: Pannor - material
+    tile_texture:
+      name: Kakeltextur
+    time_period:
+      name: Tidsperiod
+    time_signatures:
+      name: Tidsignaturer
+    time_weighting:
+      name: Tidsviktning
+    timepiece_features:
+      name: Detaljer för ur
+    timer_design:
+      name: Timerutförande
+    timer_features:
+      name: Detaljer för tidtagarur
+    timer_type:
+      name: Timertyp
+    tip_design:
+      name: Spetsdesign
+    tip_material:
+      name: Spetsmaterial
+    tip_opening:
+      name: Spetsöppning
+    tip_style:
+      name: Spetsstil
+    tip_type:
+      name: Spetstyp
+    tire_bead_type:
+      name: Typ av däckvulst
+    tobacco_type:
+      name: Typ av tobak
+    toddler_bed_features:
+      name: Detaljer för barnsäng
+    toe_spacer_design:
+      name: Design på tåspridare
+    toe_strap_type:
+      name: Typ av tårem
+    toe_style:
+      name: Tåstil
+    toilet/bidet_mounting_type:
+      name: Typ av montering för toalett/bidé
+    toilet_cover_design:
+      name: Toalettlocksdesign
+    toilet_cover_features:
+      name: Detaljer för toalettlock
+    toilet_mounting_type:
+      name: Toalettmonteringstyp
+    toilet_shape:
+      name: Toalettform
+    tom_tom_design:
+      name: Pukutförande
+    tool/utensil_material:
+      name: Verktyg/redskap - material
+    tool_key_tip:
+      name: Nyckelverktygsspets
+    tool_mobility:
+      name: Verktyg bärbarhet
+    tool_operation:
+      name: Verktygsanvändning
+    toothpaste_type:
+      name: Typ av tandkräm
+    toothpick_design:
+      name: Design på tandpetare
+    top_color:
+      name: Toppfärg
+    top_length_type:
+      name: Typ av topplängd
+    top_material:
+      name: Toppmaterial
+    top_pattern:
+      name: Toppmönster
+    top_surface_material:
+      name: Toppytmaterial
+    tote_handle_type:
+      name: Typ av bärhandtag
+    totem_design:
+      name: Totemdesign
+    touch_capabilities:
+      name: Touch-funktioner
+    touchscreen_technology:
+      name: Pekskärmsteknik
+    toy/game_material:
+      name: Leksaker/spel - material
+    toy_figure_features:
+      name: Detaljer för leksaksfigur
+    toy_figure_theme:
+      name: Leksaksfigur tema
+    toy_tool_type:
+      name: Typ av leksaksverktyg
+    tracking_metrics:
+      name: Spårningsmätvärden
+    tracking_purpose:
+      name: Spårningssyfte
+    tractor_accessories_included:
+      name: Traktortillbehör som ingår
+    trade_show_display_features:
+      name: Detaljer för mässdisplay
+    trading_card_packaging:
+      name: Samlarkortsförpackning
+    traffic_control_device_features:
+      name: Detaljer för trafikstyrningsanordning
+    trail_camera_design:
+      name: Fjärrkamerautförande
+    trailer_type:
+      name: Släptyp
+    training_data_requirements:
+      name: Krav på träningsdata
+    trampoline_design:
+      name: Trampolinkonstruktion
+    transcriber/dictation_system_features:
+      name: Detaljer för transkriberings-/dikteringssystem
+    transfer_boards_surface_type:
+      name: Typ av yta på överföringspaneler
+    transfer_paper_technique:
+      name: Teknik för pappersöverföring
+    transmission_type:
+      name: Transmissionstyp
+    trash_can_features:
+      name: Detaljer för papperskorg
+    travel_pillow_shape:
+      name: Form på resekudde
+    treatment_area:
+      name: Behandlingsområde
+    treatment_objective:
+      name: Behandlingsmål
+    treatment_texture:
+      name: Behandlingskonsistens
+    treatment_type:
+      name: Behandlingstyp
+    tree_stand_material:
+      name: Trädställning - material
+    trellis_design:
+      name: Spaljédesign
+    tricycle_design:
+      name: Design på trehjuling
+    tricycle_propulsion_type:
+      name: Typ av framdrivning för trehjuling
+    trip_type:
+      name: Utlösningstyp
+    tripod/monopod_attachment_type:
+      name: Typ av fäste för stativ/monopod
+    tripod/monopod_head_type:
+      name: Typ av huvuden för stativ och monopod
+    tripod_handle_type:
+      name: Typ av stativhandtag
+    trophy_design:
+      name: Trofédesign
+    truck_type:
+      name: Lastbilstyp
+    tube_component:
+      name: Rörkomponent
+    tube_configuration:
+      name: Rörkonfiguration
+    tuner_design:
+      name: Design på stämapparat
+    tuner_type:
+      name: Typ av stämmare
+    tuning_fork_design:
+      name: Stämgaffelutförande
+    tuning_fork_frequency:
+      name: Stämgaffelfrekvens
+    tuning_modes:
+      name: Stämningslägen
+    tuning_pitch:
+      name: Tonhöjd för stämning
+    tuning_range:
+      name: Stämningsintervall
+    undershirt_style:
+      name: Stil på undertröja
+    underwear_style:
+      name: Stil på underkläder
+    units_of_measurement:
+      name: Måttenheter
+    update_frequency:
+      name: Uppdateringsfrekvens
+    upholstery_color:
+      name: Färg på klädsel
+    upholstery_material:
+      name: Klädsel - material
+    upholstery_pattern:
+      name: Mönster på klädsel
+    urinal_mounting_type:
+      name: Urinoarmonteringstyp
+    usage_conditions:
+      name: Användningsvillkor
+    usage_frequency:
+      name: Användningsfrekvens
+    usage_type:
+      name: Användningstyp
+    usb_standard:
+      name: USB-standard
+    user_type:
+      name: Användartyp
+    utility/maintenance_task_type:
+      name: Uppgiftstyp för verktyg/underhåll
+    uv_protection:
+      name: UV-skydd
+    vacuum_air_filtering_technology:
+      name: Vakuumluftfiltreringsteknik
+    valve_type:
+      name: Ventiltyp
+    van_type:
+      name: Typ av skåpbil
+    vaping_style:
+      name: Vapingstil
+    varnish/finish_application:
+      name: Applicering av lack/finish
+    vase_shape:
+      name: Vasform
+    vdi_protocol_support:
+      name: Stöd för VDI-protokoll
+    vehicle_alarm/lock_features:
+      name: Detaljer för fordonslarm/-lås
+    vehicle_application_area:
+      name: Användningsområde för fordon
+    vehicle_audio_system_features:
+      name: Detaljer för ljudsystem för fordon
+    vehicle_braking_features:
+      name: Detaljer för fordonsbromsar
+    vehicle_cleaning_item_features:
+      name: Detaljer för fordonsrengöring
+    vehicle_decor_features:
+      name: Detaljer för fordonsdekoration
+    vehicle_drive/handling_features:
+      name: Detaljer för fordonsdrift/hantering
+    vehicle_engine/part_features:
+      name: Detaljer för fordonsmotor/-del
+    vehicle_engine_features:
+      name: Detaljer för fordonsmotor
+    vehicle_engine_part_features:
+      name: Detaljer för motordel
+    vehicle_exhaust_type:
+      name: Typ av avgassystem
+    vehicle_features:
+      name: Detaljer för fordon
+    vehicle_fluid_features:
+      name: Detaljer för fordonsvätska
+    vehicle_fluid_type:
+      name: Typ av fordonsvätskor
+    vehicle_frame/body_features:
+      name: Detaljer för ramar och kaross
+    vehicle_mirror_design:
+      name: Design på fordonsspegel
+    vehicle_mirror_features:
+      name: Detaljer för fordonsspegel
+    vehicle_mirror_type:
+      name: Typ av fordonsspegel
+    vehicle_oil_features:
+      name: Detaljer för fordonsolja
+    vehicle_paint_type:
+      name: Typ av fordonslack
+    vehicle_placement:
+      name: Fordonsplacering
+    vehicle_seating_features:
+      name: Detaljer för fordonssäte
+    vehicle_suspension_features:
+      name: Detaljer för hjulupphängning
+    vehicle_tire_type:
+      name: Typ av fordonsdäck
+    vehicle_type:
+      name: Typ av fordon
+    verification_technology:
+      name: Verifieringsteknik
+    vg/pg_ratio:
+      name: VG/PG-förhållande
+    video_codecs/formats_supported:
+      name: Kompatibla videokodekar/-format
+    video_game_content_features:
+      name: Detaljer för videospelsinnehåll
+    video_game_genre:
+      name: Videospelsgenre
+    video_game_platform:
+      name: Videospelplattform
+    video_game_sub_genre:
+      name: Videospelsundergenre
+    video_port_type:
+      name: Typ av videoport
+    video_region_code:
+      name: Regionskod för video
+    video_resolution_supported:
+      name: Kompatibel videoupplösning
+    viewing_area_height:
+      name: Höjd på visningsområde
+    viewing_area_width:
+      name: Bredd på visningsområde
+    vinegar_drink_variety:
+      name: Sort av vinägerdryck
+    vinegar_variety:
+      name: Vinägersort
+    viscosity:
+      name: Viskositet
+    visual_effect:
+      name: Visuell effekt
+    voip_protocol_support:
+      name: Stöd för Voip-protokoll
+    wader_type:
+      name: Typ av vadare
+    waist_rise:
+      name: Midja
+    wall_material:
+      name: Väggmaterial
+    wall_patching_application:
+      name: Applicering av väggförbättring
+    wall_plate_style:
+      name: Väggplatta stil
+    wallet_features:
+      name: Detaljer för plånbok
+    wallpaper_application_method:
+      name: Tapetappliceringsmetod
+    wallpaper_theme:
+      name: Bakgrundstema
+    warning_category:
+      name: Varningskategori
+    washer/dryer_features:
+      name: Detaljer för tvättmaskin/torktumlare
+    washer_form:
+      name: Brickform
+    washing_machine_features:
+      name: Detaljer för tvättmaskin
+    washing_method:
+      name: Tvättmetod
+    washing_programs:
+      name: Tvättprogram
+    waste_bag_features:
+      name: Detaljer för avfallspåsar
+    waste_bag_material:
+      name: Avfallspåse - material
+    watch/band_material:
+      name: Klocka/band - material
+    watch_accessory_style:
+      name: Stil på klocktillbehör
+    watch_display:
+      name: Klockskärm
+    watch_features:
+      name: Detaljer för klocka
+    watch_material:
+      name: Klocka - material
+    water_filter_application:
+      name: Vattenfilterapplikation
+    water_sport:
+      name: Vattensport
+    watercraft_engine_control_type:
+      name: Motorreglagetyp för vattenfarkost
+    watercraft_features:
+      name: Detaljer för vattenskoter
+    watercraft_motor_mounting_type:
+      name: Monteringstyp för vattenfarkostmotor
+    watercraft_propulsion_type:
+      name: Typ av framdrivning för vattenskoter
+    watercraft_steering_wheel_type:
+      name: Rattyp för vattenfarkost
+    watercraft_type:
+      name: Typ av vattenfartyg
+    waveski_features:
+      name: Detaljer för waveski
+    wax_application_method:
+      name: Appliceringsmetod för vax
+    wax_type:
+      name: Vaxtyp
+    weather_strip_design:
+      name: Fönsterlistutförande
+    weather_supply_application_method:
+      name: Metod för väderprognosapp
+    weatherization_application:
+      name: Väderanpassning
+    webcam_design:
+      name: Webbkamerautförande
+    weight_bar_activity:
+      name: Viktstångsaktivitet
+    weight_bar_type:
+      name: Typ av viktstång
+    weight_type:
+      name: Vikttyp
+    weight_unit_supported:
+      name: Kompatibel viktenhet
+    welding_helmet_features:
+      name: Detaljer för svetshjälm
+    wet_bag_features:
+      name: Detaljer för wetbag
+    wheel_hardness:
+      name: Hjulhårdhet
+    wheel_hub_placement:
+      name: Hjulnavsplacering
+    wheel_part_type:
+      name: Typ av hjuldel
+    wheel_type:
+      name: Hjultyp
+    wheelchair_type:
+      name: Rullstolstyp
+    whiskey_style:
+      name: Whiskystil
+    whiskey_variety:
+      name: Whiskysort
+    wi_fi_band:
+      name: Wi-Fi-band
+    wi_fi_standard:
+      name: Wi-Fi-standard
+    winder_features:
+      name: Detaljer för winder
+    windlass_design:
+      name: Ankarspelsutförande
+    window_treatment_material:
+      name: Fönsterbehandling - material
+    windsurfing_board_style:
+      name: Stil på vindsurfingbräda
+    wine_rack_design:
+      name: Design vinställ
+    wine_sweetness:
+      name: Vinsötma
+    wine_variety:
+      name: Vinsort
+    wipe_dispenser/warmer_features:
+      name: Detaljer för våtservettshållare/-värmare
+    wipe_dispenser_features:
+      name: Detaljer för våtservettshållare
+    wipe_fragrance:
+      name: Servettdoft
+    wipe_packaging:
+      name: Servettförpackning
+    wipe_warmer_features:
+      name: Detaljer för våtservettsvärmare
+    wire/rope_material:
+      name: Tråd/rep - material
+    wire_thickness:
+      name: Trådtjocklek
+    woodwind_care_items_included:
+      name: Skötselartiklar för träblås ingår
+    work_capacity:
+      name: Tankkapacitet
+    wreath_design:
+      name: Kransdesign
+    yacht_type:
+      name: Typ av yacht
+    yarn_weight_category:
+      name: Garnviktskategori
+    zipper_pull_style:
+      name: Dragkedja med blixtlås
+    zoom_type:
+      name: Zoomtype

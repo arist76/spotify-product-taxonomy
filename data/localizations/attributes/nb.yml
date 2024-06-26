@@ -1,0 +1,4531 @@
+---
+nb:
+  attributes:
+    3d_glasses_material:
+      name: 3D-brillemateriale
+    abrasive_material:
+      name: Klebende materiale
+    absinthe_style:
+      name: Absintstil
+    absinthe_variety:
+      name: Absintvariant
+    absorbency_level:
+      name: Absorberingsnivå
+    absorbent_hygiene_product_features:
+      name: Absorberende hygieneproduktegenskaper
+    academic_level:
+      name: Akademisk nivå
+    accessory_material:
+      name: Tilbehørsmateriale
+    accessory_size:
+      name: Tilbehørsstørrelse
+    accordion_tuning:
+      name: Stemming av trekkspill
+    active_ingredient:
+      name: Aktiv ingrediens
+    activewear_clothing_features:
+      name: Klesfunksjoner for aktive plagg
+    activity:
+      name: Aktivitet
+    activity_tracker_design:
+      name: Design på aktivitetssporer
+    acupuncture_model_format:
+      name: Format på akupunkturmodell
+    acupuncture_model_type:
+      name: Type akupunkturmodell
+    additional_animation_software_features:
+      name: Tilleggsfunksjoner for animasjonsprogramvare
+    additional_design_software_type:
+      name: Ekstra designprogramvaretype
+    additional_financial_software_features:
+      name: Tilleggsfunksjoner for økonomiprogramvare
+    additional_graphic_software_features:
+      name: Tilleggsfunksjoner for grafikkprogramvare
+    additional_publishing_software_features:
+      name: Tilleggsfunksjoner for publiseringsprogramvare
+    additional_security_software_features:
+      name: Tilleggsfunksjoner for sikkerhetsprogramvare
+    adhesive_type:
+      name: Type klebemiddel
+    aftershave_product_form:
+      name: Produktform for aftershave
+    age_group:
+      name: Aldersgruppe
+    age_restrictions:
+      name: Aldersbegrensninger
+    ai_application:
+      name: AI-applikasjon
+    air_freshener_form:
+      name: Luftfriskerform
+    air_mattress_features:
+      name: Luftmadrassfunksjoner
+    airbrush_feed_type:
+      name: Airbrushfôrtype
+    airbrush_operation_method:
+      name: Airbrushdriftsmetode
+    airsoft_equipment_included:
+      name: Airsoft-utstyr inkludert
+    album_type:
+      name: Albumtype
+    alert_type:
+      name: Varslingstype
+    allergen_information:
+      name: Allergeninformasjon
+    allergen_test_type:
+      name: Allergentesttype
+    allergens:
+      name: Allergener
+    allergy_friendly_features:
+      name: Allergivennlige funksjoner
+    amplifier/booster_suitable_location:
+      name: Egnet plassering for forsterker/booster
+    amplifier_class:
+      name: Forsterkerklasse
+    amplifier_configuration:
+      name: Høyttalerkonfigurasjon
+    anchor_type:
+      name: Ankertype
+    anemometer_application:
+      name: Bruk av anemometer
+    angles_supported:
+      name: Støttede vinkler
+    angling_style:
+      name: Fiskestil
+    animal_feed_form:
+      name: Form for dyrefôr
+    animal_type:
+      name: Dyretype
+    antenna_type:
+      name: Antennetype
+    anti_agin_skin_care_type:
+      name: Anti-aldrende hudpleietype
+    antifreeze_type:
+      name: Type frostvæske
+    application_area:
+      name: Bruksområde
+    application_method:
+      name: Bruksmetode
+    applicator_material:
+      name: Applikatormateriale
+    applicator_type:
+      name: Applikatortype
+    applique/patch_shape:
+      name: Form på applikasjon/lapping
+    applique_shape:
+      name: Applikasjonsform
+    aquarium_filter_features:
+      name: Akvariumsfilterfunksjoner
+    aquarium_light_spectrum:
+      name: Lysspektrum for akvarie
+    aquarium_overflow_box_design:
+      name: Overvannsboksdesign til akvarier
+    archery_activity:
+      name: Bueskytingsaktivitet
+    archery_equipment_included:
+      name: Bueskytingsutstyr inkludert
+    archery_style:
+      name: Bueskytingstil
+    aromatherapy:
+      name: Aromaterapi
+    arrangement:
+      name: Ordning
+    arrow/bolt_material:
+      name: Pil-/boltmateriale
+    arrow_fletching_material:
+      name: Pilflettende materiale
+    arrow_material:
+      name: Pilmateriale
+    art/crafting_tool_material:
+      name: Kunst- og håndverksmateriale
+    art_fixative_application_method:
+      name: Kunstfiksativ påføringsmetode
+    art_style:
+      name: Kunststil
+    artwork_frame_material:
+      name: Kunstrammemateriale
+    artwork_type:
+      name: Kunsttype
+    assisted_braking_technology:
+      name: Assistert bremseteknologi
+    attachment_method:
+      name: Festemetode
+    attachment_options:
+      name: Festealternativer
+    attachment_type:
+      name: Festetype
+    atv/off_road_tire_type:
+      name: Dekktype for ATV/firehjuling
+    audio/scan_converter_features:
+      name: Lyd-/skannekonverteringsfunksjoner
+    audio_codecs/formats_supported:
+      name: Støttede Lydkodeker/formater
+    audio_connectivity:
+      name: Lydtilkobling
+    audio_converter_features:
+      name: Lydkonverteringsfunksjoner
+    audio_d/a_converter_dac:
+      name: D/A-konverter til lyd (Dac)
+    audio_mixer_type:
+      name: Lydmiksertype
+    audio_output_channel:
+      name: Lydutgangskanal
+    audio_output_format:
+      name: Lydutgangsformat
+    audio_player/recorder_features:
+      name: Lydspiller-/opptakerfunksjoner
+    audio_purpose:
+      name: Lydformål
+    audio_technology:
+      name: Lydteknologi
+    authentication_technology:
+      name: Autentiseringsteknologi
+    authenticity:
+      name: Autentisitet
+    auto_focusing_modes:
+      name: Autofokusmoduser
+    autoclave_sterilization_method:
+      name: Autoklav-steriliseringsmetode
+    autograph_type:
+      name: Autograftype
+    automation:
+      name: Automasjon
+    award_design:
+      name: Utmerkelsesdesign
+    award_occasion:
+      name: Utmerkelsesanledning
+    awning_construction_type:
+      name: Konstruksjonstype for markise
+    awning_design:
+      name: Markisedesign
+    baby/toddler_car_seat_features:
+      name: Bilsetefunksjoner for baby/barn
+    baby/toddler_clothing_features:
+      name: Baby- og barneklærfunksjoner
+    baby/toddler_equipment_safety_features:
+      name: Sikkerhetsfunksjoner for baby-/småbarnsutstyr
+    baby/toddler_furniture_features:
+      name: Møbelsettfunksjoner for baby og småbarn
+    baby/toddler_furniture_items_included:
+      name: Møbelvarer for baby og småbarn
+    baby/toddler_hat_style:
+      name: Hattestil for baby og småbarn
+    baby/toddler_hosiery_style:
+      name: Ullstil for baby og småbarn
+    baby/toddler_seat_features:
+      name: Setefunksjoner for baby og småbarn
+    baby/toddler_sleepwear_style:
+      name: Sovestil for baby og småbarn
+    baby_drink_packaging:
+      name: Emballasje for babydrikke
+    baby_equipment_safety_features:
+      name: Sikkerhetsfunksjoner for babyutstyr
+    baby_food_flavor:
+      name: Smak på babymat
+    baby_formula_format:
+      name: Format på morsmelkerstatning
+    baby_gift_items_included:
+      name: Inkluderte babygaveartikler
+    baby_health_items_included:
+      name: Inkluderte artikler for babyhelse
+    baby_monitor_features:
+      name: Babymonitorfunksjoner
+    baby_snack_flavor:
+      name: Smak på babysnacks
+    baby_snack_texture:
+      name: Tekstur på babysnacks
+    back_type:
+      name: Ryggtype
+    background_design:
+      name: Bakgrunnsdesign
+    backing_color:
+      name: Støttefarge
+    backing_material:
+      name: Bakmateriale
+    backing_pattern:
+      name: Støttemønster
+    backrest_type:
+      name: Type ryggstøtte
+    backrest_upholstery_color:
+      name: Trekkfarge for ryggstøtte
+    backrest_upholstery_material:
+      name: Trekkmateriale for ryggstøtte
+    backrest_upholstery_pattern:
+      name: Trekkmønster for ryggstøtte
+    bag/case_closure:
+      name: Veskelukking
+    bag/case_features:
+      name: Veske-/eskefunksjoner
+    bag/case_material:
+      name: Veske-/eskemateriale
+    bag/case_storage_features:
+      name: Oppbevaringsfunksjoner for veske/eske
+    bag_closure:
+      name: Veskelukking
+    bag_strap_type:
+      name: Veskestropp-type
+    bag_style:
+      name: Veskestil
+    bag_type:
+      name: Vesketype
+    bakery_items_included:
+      name: Bakeartikler medfølger
+    bakeware_features:
+      name: Bakeutstyrsfunksjoner
+    bakeware_items_included:
+      name: Bakeutstyrsartikler medfølger
+    bakeware_pieces_included:
+      name: Bakevareartikler inkludert
+    bakeware_shape:
+      name: Bakeutstyrsform
+    baking_purpose:
+      name: Bakeformål
+    baking_sheet_material:
+      name: Bakepapirmateriale
+    ball_material:
+      name: Ballmateriale
+    ball_size:
+      name: Ballstørrelse
+    balloon_kit_items_included:
+      name: Varer til ballongsett medfølger
+    balloon_shape:
+      name: Ballongform
+    band_color:
+      name: Båndfarge
+    band_material:
+      name: Båndmateriale
+    band_pattern:
+      name: Båndmønster
+    band_strength:
+      name: Båndstyrke
+    banner_design:
+      name: Bannerdesign
+    bar_mounting_type:
+      name: Barmonteringstype
+    barcode_scanner_interface:
+      name: Grensesnitt for strekkodeskannere
+    barcode_supported:
+      name: Strekkode støttes
+    barrel_material:
+      name: Tønnemateriale
+    barware_items_included:
+      name: Barartikler medfølger
+    barware_material:
+      name: Barmateriale
+    base_oil:
+      name: Grunnolje
+    base_spirit:
+      name: Basesprit
+    base_type:
+      name: Grunntype
+    baseball/softball_ball_type:
+      name: Balltype for baseball/softball
+    basket_material:
+      name: Kurvmateriale
+    basketball_equipment_included:
+      name: Basketballustyr inkludert
+    bass_button_configuration:
+      name: Konfigurasjon av bassknapp
+    bat_material:
+      name: Slagmateriale
+    bat_standard:
+      name: Standard balltre
+    bathroom_furniture_items_included:
+      name: Baderomsmøbler inkludert
+    bathtub_base_design:
+      name: Grunndesign for badekar
+    bathtub_features:
+      name: Badekarfunksjoner
+    bathtub_skirt_shape:
+      name: Fasong på badekarskjørt
+    baton_grip_design:
+      name: Batongrepsdesign
+    battery_cell_type:
+      name: Battericelletype
+    battery_features:
+      name: Batterifunksjoner
+    battery_management_features:
+      name: Batteristyringssystemer
+    battery_size:
+      name: Batteristørrelse
+    battery_technology:
+      name: Batteriteknologi
+    battery_type:
+      name: Batteritype
+    bead_shape:
+      name: Perleform
+    beat_subdivisions:
+      name: Taktunderinndelinger
+    beater_head_size:
+      name: Størrelse på slaghode
+    bed/frame_features:
+      name: Senge-/rammefunksjoner
+    bed_pan_type:
+      name: Sengebunntype
+    bedding_pieces_included:
+      name: Sengetøy inkludert
+    bedding_size:
+      name: Sengetøystørrelse
+    beer_style:
+      name: Ølstil
+    beer_variety:
+      name: Ølvariant
+    bell_design:
+      name: Bjelledesign
+    bell_size:
+      name: Klokkestørrelse
+    bell_sound:
+      name: Bjellelyd
+    belt_type:
+      name: Beltetype
+    best_uses:
+      name: Beste bruksområder
+    bevel_type:
+      name: Skråkanttype
+    beverage_product_form:
+      name: Form på drikkevareprodukt
+    bib_design:
+      name: Utforming på smokk
+    bicycle_brake_type:
+      name: Sykkelbremsetype
+    bicycle_features:
+      name: Sykkelfunksjoner
+    bidet_mounting_type:
+      name: Monteringstype for bidet
+    binder_ring_shape:
+      name: Ringpermform
+    binding_mount:
+      name: Bindende feste
+    binding_style:
+      name: Bindingsstil
+    binocular/monocular_design:
+      name: Kikkert- og monokulardesign
+    binocular_design:
+      name: Kikkertdesign
+    biometric_monitor_accessory_features:
+      name: Tilbehørsfunksjoner for biometrisk overvåkning
+    bios_type:
+      name: Bios-type
+    bird_cage/stand_design:
+      name: Fuglebur/stativdesign
+    bird_food_form:
+      name: Fuglematform
+    bird_food_ingredients:
+      name: Ingredienser for fuglemat
+    bird_treat_type:
+      name: Fuglegodbitstype
+    birthday_candle_design:
+      name: Bursdagslysdesign
+    birthday_candle_type:
+      name: Bursdagslystype
+    bitter_variety:
+      name: Bitter variant
+    blade_curve:
+      name: Bladkurve
+    blade_design:
+      name: Bladdesign
+    blade_material:
+      name: Bladmateriale
+    blade_type:
+      name: Bladtype
+    blanket_color:
+      name: Pleddfarge
+    blanket_pattern:
+      name: Pleddmønster
+    blending_type:
+      name: Blandingstype
+    blind/shade_style:
+      name: Persienne-/skyggestil
+    blood_test_kit_components:
+      name: Komponenter til blodprøvesett
+    board_concave_shape:
+      name: Brett med konkav form
+    board_game_features:
+      name: Brettspillfunksjoner
+    board_game_mechanics:
+      name: Brettspillmekanikk
+    board_material:
+      name: Bordmateriale
+    board_mounting_type:
+      name: Monteringstype for bord
+    board_profile:
+      name: Brettprofil
+    board_surface:
+      name: Bordoverflate
+    board_type:
+      name: Type brett
+    boat_type:
+      name: Båttype
+    body/facial_hair_type:
+      name: Hårtype for kropps- og ansiktshår
+    body_area:
+      name: Kroppsområde
+    body_color:
+      name: Kroppsfarge
+    body_jewelry_type:
+      name: Kroppssmykketype
+    body_material:
+      name: Kroppsmateriale
+    body_paint/foundation_type:
+      name: Kroppsmalings-/foundationtype
+    body_pattern:
+      name: Kroppsmønster
+    bodyboard_features:
+      name: Bodyboardfunksjoner
+    boiler_system:
+      name: Kjelesystem
+    bolt_form:
+      name: Boltform
+    bolt_material:
+      name: Boltmateriale
+    book/file_cover_material:
+      name: Bok-/filomslagsmateriale
+    book_cover_material:
+      name: Bokomslagsmateriale
+    book_cover_type:
+      name: Bokomslagstype
+    bookmark_design:
+      name: Bokmerkedesign
+    bookmark_shape:
+      name: Bokmerkeform
+    boot_style:
+      name: Støvelstil
+    boot_type:
+      name: Støveltype
+    borescope_design:
+      name: Inspeksjoskameradesign
+    bottle/container_closure:
+      name: Flaske/beholderlukking
+    bottle_closure_type:
+      name: Type flaskelukking
+    bottle_design:
+      name: Flaskedesign
+    bottle_material:
+      name: Flaskemateriale
+    bottle_sterilizer_features:
+      name: Flaskesterilisatorfunksjoner
+    bottle_type:
+      name: Flasketype
+    bottle_warmer/sterilizer_features:
+      name: Flaskevarmer/sterilisatorfunksjoner
+    bottle_warmer_features:
+      name: Flaskevarmerfunksjoner
+    bottom_surface_material:
+      name: Bunnflatemateriale
+    bow/crossbow_features:
+      name: Bue- og armbrøstfunksjoner
+    bow_features:
+      name: Buefunksjoner
+    bow_hair_material:
+      name: Buehårmateriale
+    bow_material:
+      name: Buemateriale
+    box_type:
+      name: Bokstype
+    bra_closure_type:
+      name: Type BH-lukking
+    bra_coverage:
+      name: BH-dekning
+    bra_features:
+      name: BH-funksjoner
+    bra_strap_type:
+      name: Type BH-stropp
+    bra_style:
+      name: BH-stil
+    bra_support_level:
+      name: BH-støttenivå
+    bracelet_design:
+      name: Armbånddesign
+    bracket/brace_design:
+      name: Brakett/støttedesign
+    brandy_variety:
+      name: Brandy-variant
+    breath_sprays_certifications:
+      name: Sertifiseringer for pustespray
+    bridge/router_advanced_features:
+      name: Bro/ruter avanserte funksjoner
+    brightness_levels:
+      name: Lysstyrkenivåer
+    bristle_material:
+      name: Bustmateriale
+    bristle_shape:
+      name: Bustform
+    broadhead/field_point_material:
+      name: Brehodet/feltpunktmateriale
+    brush_application:
+      name: Børstepåføring
+    brush_head_usage:
+      name: Bruk av børstehode
+    brush_material:
+      name: Børstemateriale
+    brush_size:
+      name: Børstestørrelse
+    brush_type:
+      name: Børstetype
+    bug_type:
+      name: Pluggtype
+    building_board_material:
+      name: Byggeplatemateriale
+    building_consumable_form:
+      name: Form av forbruksmateriell for bygg
+    building_toy_type:
+      name: Byggeleketype
+    bulb_cap_type:
+      name: Type pærelokk
+    bulb_shape:
+      name: Pæreform
+    bulb_size:
+      name: Pærestørrelse
+    bulb_type:
+      name: Pæretype
+    bulldozer_blade_type:
+      name: Bulldoserbladtype
+    bullet_protection_level:
+      name: Kulebeskyttelsesnivå
+    bullhorn_features:
+      name: Oksehornfunksjoner
+    bullion_form:
+      name: Bullionform
+    burner_material:
+      name: Brennermateriale
+    butt_cap_color:
+      name: Rumpehettefarge
+    butt_cap_material:
+      name: Bakhettemateriale
+    butt_cap_pattern:
+      name: Rumpehettemønster
+    button/snap_closure_type:
+      name: Type knapp/klikk-lukking
+    cabinet_type:
+      name: Type skap
+    cable_housing_material:
+      name: Kabelhusmateriale
+    cable_shielding:
+      name: Kabelskjerming
+    cable_type:
+      name: Kabeltype
+    cage_type:
+      name: Burtype
+    calculator_accessory_type:
+      name: Kalkulatortilbehørstype
+    calculator_features:
+      name: Kalkulatorfunksjoner
+    calendar/organizer_features:
+      name: Kalender-/organiseringsfunksjoner
+    calendar_format:
+      name: Kalenderformat
+    cam_system:
+      name: Kamsystem
+    camera_attachment:
+      name: Kameratilbehør
+    camera_button/knob_type:
+      name: Kameraknapp/knotttype
+    camera_control_type:
+      name: Kamerakontrolltype
+    camera_display_technology:
+      name: Kameravisningsteknologi
+    camera_features:
+      name: Kamerafunksjoner
+    camera_gear_type:
+      name: Kamerautstyrstype
+    camera_hd_type:
+      name: Kamera HD-type
+    camera_lens_material:
+      name: Kameralinsemateriale
+    camera_lens_type:
+      name: Kameraobjektiv
+    camera_mounting_type:
+      name: Kameramonteringstype
+    camera_sensor_type:
+      name: Kamerasensortype
+    camera_shape:
+      name: Kameraform
+    candle_kit_items_included:
+      name: Varer til stearinlyssett medfølger
+    candle_material:
+      name: Lysmateriale
+    candle_shape:
+      name: Lysform
+    candle_type:
+      name: Stearinlystype
+    canned_meat_variety:
+      name: Variant av hermetisert kjøtt
+    canopy_color:
+      name: Baldakinfarge
+    canopy_material:
+      name: Baldakinmateriale
+    canopy_pattern:
+      name: Baldakinmønster
+    canvas_finish:
+      name: Lerretfinish
+    canvas_material:
+      name: Lerretsmateriale
+    canvas_texture:
+      name: Lerrett-tekstur
+    car_freshener_fragrance:
+      name: Luftfriskerduft til bil
+    car_seat_installation:
+      name: Montering av bilsete
+    car_seat_orientation:
+      name: Retning på bilsete
+    car_type:
+      name: Biltype
+    carabiner_gate_type:
+      name: Type karabinerport
+    carabiner_shape:
+      name: Karabinkrokform
+    card/adapter_installation:
+      name: Installasjon av kort/adapter
+    card_attributes:
+      name: Kortattributter
+    card_design:
+      name: Kortdesign
+    card_format:
+      name: Kortformat
+    card_holder_design:
+      name: Kortholderdesign
+    card_size:
+      name: Kortstørrelse
+    care_instructions:
+      name: Vedlikeholdsinstruksjoner
+    carry_options:
+      name: Bærealternativer
+    carrying_positions:
+      name: Bæreposisjoner
+    carrying_type:
+      name: Bæretype
+    cart_design:
+      name: Vognutforming
+    cart_type:
+      name: Vogntype
+    cartridge_type:
+      name: Kassetttype
+    case_color:
+      name: Eskefarge
+    case_pattern:
+      name: Eskemønster
+    case_type:
+      name: Etuitype
+    cassette_adapter_type:
+      name: Kassettadaptertype
+    cat_age_group:
+      name: Aldersgruppe for katter
+    cat_litter_formula:
+      name: Formulering for kattesand
+    cbd_ingredients:
+      name: CBD-ingredienser
+    celebration_type:
+      name: Feiringstype
+    chain_link_type:
+      name: Kjedelenketype
+    chain_type:
+      name: Kjedetype
+    chair/sofa_features:
+      name: Stol-/sofafunksjoner
+    chair_features:
+      name: Stolfunksjoner
+    chalkboard_surface:
+      name: Tavleoverflate
+    changing_mat/tray_features:
+      name: Funksjoner for stellematter og -bord
+    changing_mat_features:
+      name: Stellemattefunksjoner
+    changing_tray_features:
+      name: Stellebordfunksjoner
+    charger_type:
+      name: Ladertype
+    charging_cable_type:
+      name: Ladekabeltype
+    charging_level:
+      name: Ladenivå
+    charging_method:
+      name: Lademetode
+    chassis_type:
+      name: Chassistype
+    chemical_application:
+      name: Kjemisk påføring
+    chemical_container_type:
+      name: Kjemisk beholdertype
+    chemical_grade:
+      name: Kjemisk kvalitet
+    chemical_product_form:
+      name: Kjemisk produktform
+    chemical_purity:
+      name: Kjemisk renhet
+    chemical_safety_features:
+      name: Kjemiske sikkerhetsfunksjoner
+    chicken_feed_stage:
+      name: Kyllingfôrstadium
+    child_seat_placement:
+      name: Barneseteplassering
+    chipper_technology:
+      name: Flisemaskinteknologi
+    chiropractic_table_design:
+      name: Design av kiropraktikkbord
+    chuck_type:
+      name: Borholdertype
+    cigar_body:
+      name: Sigarstyrke
+    circuit_board_features:
+      name: Kretskortfunksjoner
+    circuit_breaker_design:
+      name: Strømbrytertype
+    circuit_breaker_panel_form:
+      name: Form på sikringsskap
+    circuit_breaker_type:
+      name: Strømbrytertype
+    clarinet_key_system:
+      name: Klarinett-toneart
+    clasp_type:
+      name: Type lås
+    claw_design:
+      name: Klodesign
+    clay/slip_texture:
+      name: Leire/glatt tekstur
+    clay_texture:
+      name: Leiretekstur
+    cleaner_purpose:
+      name: Rensemiddelformål
+    cleaning_instructions:
+      name: Rengjøringsinstruksjoner
+    cleaning_purpose:
+      name: Rengjøringsformål
+    cleaning_surfaces:
+      name: Rengjøring av overflater
+    cleat_type:
+      name: Klosstype
+    climbing_activity:
+      name: Klatreaktivitet
+    clip_type:
+      name: Klipptype
+    clipper/trimmer_type:
+      name: Klipper/trimmertype
+    closure_style:
+      name: Lukkestil
+    closure_type:
+      name: Lukketype
+    clothing_accessory_material:
+      name: Klestilbehørsmateriale
+    clothing_features:
+      name: Klesfunksjoner
+    club_subset:
+      name: Klubb undersett
+    club_type:
+      name: Klubbtype
+    coating/sealant_application:
+      name: Påføring av belegg/fugemasse
+    cocktail_decoration_design:
+      name: Design på cocktaildekorasjoner
+    cocktail_decoration_material:
+      name: Cocktaildekorasjonsmateriale
+    coffee/tea_set_pieces_included:
+      name: Kaffe-/tesettdeler inkludert
+    coffee_creamer_variety:
+      name: Kaffefløtevariant
+    coffee_input_type:
+      name: Kaffeinngangstype
+    coffee_product_form:
+      name: Form på kaffeprodukt
+    coffee_roast:
+      name: Kaffebrenning
+    coil_connection:
+      name: Spoletilkobling
+    coin_material:
+      name: Myntmateriale
+    collar/mount_compatible_device:
+      name: Enhet kompatibel med krage/feste
+    collar/mount_design:
+      name: Krage/festedesign
+    collar_lock_type:
+      name: Kragelåstype
+    color:
+      name: Farge
+    color_accuracy_standards:
+      name: Standarder for fargenøyaktighet
+    color_saturation:
+      name: Fargemetning
+    communication_device_features:
+      name: Kommunikasjonsenhetsfunksjoner
+    communication_protocols:
+      name: Kommunikasjonsprotokoller
+    compass_style:
+      name: Kompasstil
+    compatible_aircraft_type:
+      name: Kompatibel flytype
+    compatible_amplifier:
+      name: Kompatibel forsterker
+    compatible_aquarium:
+      name: Kompatibelt akvarium
+    compatible_baby_bottle_design:
+      name: Kompatibel utforming på babyflaske
+    compatible_baby_carrier_type:
+      name: Kompatibel bærevesketype
+    compatible_baby_chair_type:
+      name: Kompatibel babystoltype
+    compatible_baby_transport_type:
+      name: Kompatibel babytransporttype
+    compatible_ball_type:
+      name: Kompatibel balltype
+    compatible_battery_size:
+      name: Kompatibel batteristørrelse
+    compatible_battery_technology:
+      name: Kompatibel batteriteknologi
+    compatible_bench_positions:
+      name: Kompatible benkposisjoner
+    compatible_bike_type:
+      name: Kompatibel sykkeltype
+    compatible_brass_instrument:
+      name: Kompatibelt messinginstrument
+    compatible_clarinet_type:
+      name: Kompatibel klarinetttype
+    compatible_cosmetic_tools:
+      name: Kompatible kosmetiske verktøy
+    compatible_device:
+      name: Kompatibel enhet
+    compatible_drum_configuration:
+      name: Kompatibel trommekonfigurasjon
+    compatible_electric/acoustic_instrument:
+      name: Kompatibelt elektrisk/akustisk instrument
+    compatible_electronic_card_type:
+      name: Kompatibel elektronisk korttype
+    compatible_exercises:
+      name: Kompatible øvelser
+    compatible_filament:
+      name: Kompatibel filament
+    compatible_film_type:
+      name: Kompatibel filmtype
+    compatible_flute_type:
+      name: Kompatibel fløytetype
+    compatible_game_format:
+      name: Kompatibelt spillformat
+    compatible_gardening_tool:
+      name: Kompatibelt hageverktøy
+    compatible_hair_color:
+      name: Kompatibel hårfarge
+    compatible_hammock_design:
+      name: Kompatibel hammockutforming
+    compatible_harmonica_type:
+      name: Kompatibel munnspilltype
+    compatible_hdcp:
+      name: Kompatibel Hdcp
+    compatible_instrument:
+      name: Kompatibelt instrument
+    compatible_keyboard_configuration:
+      name: Kompatibel tastaturkonfigurasjon
+    compatible_lock_type:
+      name: Kompatibel låsetype
+    compatible_makeup:
+      name: Kompatibel sminke
+    compatible_mattress_size:
+      name: Kompatibel madrassstørrelse
+    compatible_memory_cards:
+      name: Kompatible minnekort
+    compatible_microphone_thread:
+      name: Kompatibel mikrofontråd
+    compatible_motherboard_form_factor:
+      name: Kompatibel hovedkortformfaktor
+    compatible_oboe_type:
+      name: Kompatibel obotype
+    compatible_operating_system:
+      name: Kompatibelt operativsystem
+    compatible_orchestral_string_instrument:
+      name: Kompatibelt orkesterstrenginstrumenter
+    compatible_paper_size:
+      name: Kompatibel papirstørrelse
+    compatible_patient_profile:
+      name: Kompatibel pasientprofil
+    compatible_percussion_instrument:
+      name: Kompatibelt perkusjonsinstrument
+    compatible_play_vehicle_type:
+      name: Kompatibel type lekekjøretøy
+    compatible_player:
+      name: Kompatibel spiller
+    compatible_printer:
+      name: Kompatibel skriver
+    compatible_processor_series:
+      name: Kompatibel prosessorserie
+    compatible_programming_languages:
+      name: Kompatible programmeringsspråk
+    compatible_recipes:
+      name: Kompatible oppskrifter
+    compatible_resolution:
+      name: Kompatibel oppløsning
+    compatible_seat_type:
+      name: Kompatibel setetype
+    compatible_shoe_size:
+      name: Kompatibel skostørrelse
+    compatible_software_platform:
+      name: Kompatibel programvareplattform
+    compatible_special_effects_device:
+      name: Kompatibel spesialeffektenhet
+    compatible_stove_top_type:
+      name: Kompatibel komfyrtopptype
+    compatible_string_instrument:
+      name: Kompatibelt strenginstrument
+    compatible_stroller_type:
+      name: Kompatibel vogntype
+    compatible_vacuum_type:
+      name: Kompatibel vakuumtype
+    compatible_vehicle:
+      name: Kompatibelt kjøretøy
+    compatible_walking_aid_equipment:
+      name: Kompatibelt utstyr for ganghjelp
+    compatible_weight_lifting_accessory:
+      name: Kompatibelt vektløftingstilbehør
+    compliance_certifications:
+      name: Samsvarssertifiseringer
+    component_output_type:
+      name: Type komponentutgang
+    component_package_type:
+      name: Komponentpakketype
+    compression_format:
+      name: Kompresjonsformat
+    compression_level:
+      name: Kompresjonsnivå
+    computer_accessories_included:
+      name: Inkludert datamaskintilbehør
+    computer_form:
+      name: Datamaskinskjema
+    computer_server_features:
+      name: Dataserverfunksjoner
+    computer_specialized_features:
+      name: Dataspesialiserte funksjoner
+    concertina_button_configuration:
+      name: Konfigurasjon av konsertinaknapp
+    condition:
+      name: Betingelse
+    conditioner_effect:
+      name: Balsameffekt
+    condom_type:
+      name: Type kondom
+    connecting_thread:
+      name: Koblingstråd
+    connection_method:
+      name: Tilkoblingsmetode
+    connection_type:
+      name: Tilkoblingstype
+    connectivity_technology:
+      name: Tilkoblingsteknologi
+    connector_design:
+      name: Koblingsdesign
+    connector_gender:
+      name: Koblingskjønn
+    console_system:
+      name: Konsollsystem
+    constitutive_ingredients:
+      name: Konstitutive ingredienser
+    construction_set_theme:
+      name: Byggesett-tema
+    contrast:
+      name: Kontrast
+    contrast_ratio_typical:
+      name: Kontrastforhold (typisk)
+    control_functions:
+      name: Kontrollfunksjoner
+    control_method:
+      name: Kontrollmetode
+    control_technology:
+      name: Kontrollteknologi
+    control_type:
+      name: Kontrolltype
+    controller_design:
+      name: Kontrollerdesign
+    controller_drive_type:
+      name: Drivtype for kontroller
+    converter_functionality:
+      name: Konverterfunksjonalitet
+    conveyor_operation:
+      name: Transportørdrift
+    cooking_method:
+      name: Matlagingsmetode
+    cooking_wine_variety:
+      name: Matvin-variant
+    cookware/bakeware_features:
+      name: Steke-/bakeutstyrsfunksjoner
+    cookware/bakeware_material:
+      name: Steke-/bakeutstyrsmateriale
+    cookware_features:
+      name: Stekeutstyrsfunksjoner
+    cookware_items_included:
+      name: Stekeartikler medfølger
+    cooling_technology:
+      name: Kjøleteknologi
+    cord_fastening_system:
+      name: Kabelfestesystem
+    core_color:
+      name: Kjernefarge
+    core_material:
+      name: Kjernemateriale
+    core_pattern:
+      name: Kjernemønster
+    corrector_features:
+      name: Korrigeringsfunksjoner
+    corsage/boutonniere_design:
+      name: Corsage/Boutonni√®re-design
+    cosmetic_condition:
+      name: Kosmetisk tilstand
+    cosmetic_finish:
+      name: Kosmetisk finish
+    cosmetic_function:
+      name: Kosmetisk funksjon
+    costume_theme:
+      name: Kostymetema
+    counter_shape:
+      name: Benkeutforming
+    country:
+      name: Land
+    cover_closure_design:
+      name: Utforming på teppelukking
+    cover_color:
+      name: Trekkfarge
+    cover_features:
+      name: Dekselfunksjoner
+    cover_material:
+      name: Dekkmateriale
+    cover_pattern:
+      name: Trekkmønster
+    cover_type:
+      name: Bokomslagstype
+    coverage_area:
+      name: Dekningsområde
+    coverage_region:
+      name: Dekningsområde
+    craft/sculpting_project_type:
+      name: Prosjekttype for håndverk/skulptering
+    craft_cutter/embosser_type:
+      name: Hobbykutter/pregetype
+    craft_decoration_maker_type:
+      name: Hobbydekorasjonsmakertype
+    craft_knife_design:
+      name: Hobbyknivblad
+    craft_pipe_cleaner_design:
+      name: Piperenserdesign
+    craft_project_type:
+      name: Kunstprosjekttype
+    crafting_frame/stretcher_features:
+      name: Håndverksramme/bårefunksjoner
+    crafting_frame_features:
+      name: Håndverksrammefunksjoner
+    crafting_hoop_features:
+      name: Håndverksbøylefunksjoner
+    crafting_mat/pad_features:
+      name: Håndverksmatte-/putefunksjoner
+    crafting_stretcher_features:
+      name: Håndverksbårefunksjoner
+    crampon_attachment_type:
+      name: Broddfestetype
+    creative_art_project_type:
+      name: Kreativ kunstprosjekttype
+    crib/toddler_bed_features:
+      name: Funksjoner for vugger og barnesenger
+    crib_features:
+      name: Vuggefunksjoner
+    cricket_equipment_included:
+      name: Cricketutstyr inkludert
+    crutch_type:
+      name: Krykketype
+    crystal_system:
+      name: Krystallsystem
+    cue_style:
+      name: Køstil
+    cue_type:
+      name: Køtype
+    cue_wrap:
+      name: Køtrekk
+    cuisine:
+      name: Mat
+    culinary_botanical_name:
+      name: Kulinarisk botanisk navn
+    cup_size:
+      name: Koppstørrelse
+    curler_type:
+      name: Krølltangtype
+    currencies_supported:
+      name: Valutaer støttes
+    currency:
+      name: Valuta
+    currency_type:
+      name: Valutatype
+    customer_support_channels:
+      name: Kundestøttekanaler
+    customization:
+      name: Tilpasning
+    cutter_options:
+      name: Kutteralternativer
+    cutting_method:
+      name: Kuttemetode
+    cycling_style:
+      name: Syklestil
+    data_network:
+      name: Datanettverk
+    decoration_material:
+      name: Dekorasjonsmateriale
+    decorative_stamp_design:
+      name: Dekorativt stempeldesign
+    denomination:
+      name: Benevnelse
+    dental_floss_shape:
+      name: Tanntrådform
+    dental_floss_thickness_level:
+      name: Tykkelsenivå for tanntråd
+    dental_floss_type:
+      name: Tanntrådtype
+    dental_mouthgard_recommended_use:
+      name: Bittskinne anbefalt bruk
+    dental_mouthguard_certifications:
+      name: Sertifiseringer for tannvern
+    dental_paste_flavor:
+      name: Tannpastasmak
+    dental_repair_kit_certifications:
+      name: Sertifiseringer for tannreparasjonssett
+    dental_water_jet_operation:
+      name: Vannstråleoperasjon
+    dentistry_items_included:
+      name: Tannpleieartikler medfølger
+    denture_base_color:
+      name: Grunnfarge på tannprotese
+    denture_coverage:
+      name: Protesedekning
+    denture_design:
+      name: Protesedesign
+    denture_teeth_color:
+      name: Farge på tannprotese
+    deployment_type:
+      name: Utplasseringstype
+    desk_organizer_features:
+      name: Pultorganiseringsfunksjoner
+    desk_size:
+      name: Skrivebordsstørrelse
+    detailed_ingredients:
+      name: Detaljerte ingredienser
+    detectable_drugs:
+      name: Detekterbare legemidler
+    detector_operation_mode:
+      name: Detektordriftsmodus
+    detector_sensitivity:
+      name: Detektorfølsomhet
+    detector_type:
+      name: Detektortype
+    developmental_features:
+      name: Utviklingsfunksjoner
+    device_interface:
+      name: Enhetsgrensesnitt
+    device_technology:
+      name: Enhetsteknologi
+    dexterity_skills:
+      name: Behendighetsferdigheter
+    dial_color:
+      name: Skivefarge
+    dial_pattern:
+      name: Ringemønster
+    diaper_bag_additional_features:
+      name: Tilleggsfunksjoner for bleiepose
+    diaper_bag_material:
+      name: Bleieposemateriale
+    diaper_bag_style:
+      name: Bleieposestil
+    diaper_features:
+      name: Bleiefunksjoner
+    diaper_kit_components:
+      name: Komponenter i bleiesett
+    diaper_organizer_features:
+      name: Bleieorganiseringsfunksjoner
+    diaper_size:
+      name: Bleiestørrelse
+    diaper_type:
+      name: Bleietype
+    dice_shape:
+      name: Terningform
+    dielectric_type:
+      name: Dielektrisk type
+    dietary_preferences:
+      name: Kostholdspreferanser
+    dietary_supplements:
+      name: Kosttilskudd
+    dietary_use:
+      name: Kostholdsbruk
+    difficulty_level:
+      name: Vanskelighetsgrad
+    diffuser_design:
+      name: Luftfukterdesign
+    digital_sound_processing:
+      name: Digital lydbehandling
+    dinnerware_pieces_included:
+      name: Servisedeler inkludert
+    dirt_separating_method:
+      name: Metode for separering av smuss
+    discharge_type:
+      name: Utløpstype
+    disk_format_type:
+      name: Diskformattype
+    dispenser_type:
+      name: Dispensertype
+    display_board_features:
+      name: Visningstavlefunksjoner
+    display_color_mode:
+      name: Fargemodus for skjerm
+    display_features:
+      name: Visningsfunksjoner
+    display_mode:
+      name: Displaymodus
+    display_recommended_use:
+      name: Vis anbefalt bruk
+    display_resolution:
+      name: Skjermoppløsning
+    display_sign_design:
+      name: Visningsskiltdesign
+    display_technology:
+      name: Skjermteknologi
+    disposable/reusable_bag_features:
+      name: Funksjoner for engangs-/gjenbrukbare poser
+    disposable/reusable_item_material:
+      name: Engangs-/gjenbruksmateriale
+    disposable_bag_features:
+      name: Engangsposefunksjoner
+    disposable_bag_material:
+      name: Engangsposemateriale
+    disposable_glove_features:
+      name: Engangshanskefunksjoner
+    disposable_tableware_material:
+      name: Éngangsservisemateriale
+    dive_computer_items_included:
+      name: Dykkecomputer inkludert
+    diving/snorkeling_equipment_included:
+      name: Utstyr for dykking og snorkling inkludert
+    diving_regulator_style:
+      name: Dykkeregulatorstil
+    dj_equipment_features:
+      name: DJ-utstyrsfunksjoner
+    dj_software_compatibility:
+      name: DJ-programvarekompatibilitet
+    dog_age_group:
+      name: Aldersgruppe for hunder
+    dog_diaper_size:
+      name: Hundebleiestørrelse
+    dog_diaper_type:
+      name: Hundebleietype
+    dog_house_features:
+      name: Hundehusfunksjoner
+    dog_kennel/run_features:
+      name: Hundekennel-/løpefunksjoner
+    dog_kennel_features:
+      name: Hundekennelfunksjoner
+    dog_pen_features:
+      name: Hundeinnhegningsfunksjoner
+    dog_toy_type:
+      name: Hundeleketype
+    doll/playset_features:
+      name: Dukke-/lekesettfunksjoner
+    doll_features:
+      name: Dukkefunksjoner
+    doll_type:
+      name: Dukketype
+    door/frame_application:
+      name: Påføring av dør/karm
+    door_application:
+      name: Dørpåføring
+    door_closer_application:
+      name: Påføring av dørlukking
+    door_closer_design:
+      name: Dørlukkingdesign
+    door_color:
+      name: Dørfarge
+    door_frame_application:
+      name: Påføring av dørkarm
+    door_frame_finish:
+      name: Finish for dørkarm
+    door_glass_finish:
+      name: Dørglassfinish
+    door_insulation:
+      name: Dørisolasjon
+    door_knob_function:
+      name: Dørknappfunksjon
+    door_mat_base_color:
+      name: Dørmattebunnfarge
+    door_mat_base_material:
+      name: Dørmattebunnmateriale
+    door_mat_base_pattern:
+      name: Dørmattebunnmønster
+    door_mat_surface_material:
+      name: Overflatemateriale for dørmatte
+    door_material:
+      name: Dørmateriale
+    door_pattern:
+      name: Dørmønster
+    door_stop_placement:
+      name: Plassering av dørstopper
+    door_stopper_design:
+      name: Utforming av dørstopper
+    door_suitable_location:
+      name: Egnet dørplassering
+    door_surface_finish:
+      name: Overflatebehandling av dør
+    door_type:
+      name: Dørtype
+    double_stroller_configuration:
+      name: Dobbel barnevognkonfigurasjon
+    download_format:
+      name: Nedlastingsformat
+    drain_location:
+      name: Avløpssted
+    drawing/painting_kit_items_included:
+      name: Varer til tegning/malingsett medfølger
+    dress_form_features:
+      name: Kjoleformfunksjoner
+    dress_occasion:
+      name: Kjoleanledning
+    dress_style:
+      name: Kjolestil
+    drill_features:
+      name: Drillfunksjoner
+    drilling_method:
+      name: Boremetode
+    drilling_rig_orientation:
+      name: Orientering av borerigg
+    drinkware_material:
+      name: Drikkevaremateriale
+    drinkware_pieces_included:
+      name: Glass og kopper inkludert
+    drive_size:
+      name: Stasjonsstørrelse
+    drive_type:
+      name: Drivetype
+    drum_configuration:
+      name: Trommelkonfigurasjon
+    drum_hardware_adjustability:
+      name: Justerbarhet for trommelmaskinvare
+    drum_hardware_material:
+      name: Trommelmaskinvaremateriale
+    dry/wet_cleaning:
+      name: Tørr-/våtrens
+    dry_bean_variety:
+      name: Variant av tørre bønner
+    dryer_features:
+      name: Tørketrommelfunksjoner
+    dryer_technology:
+      name: Tørketeknologi
+    drying_speed:
+      name: Tørkehastighet
+    duct_design:
+      name: Kanaldesign
+    duct_shape:
+      name: Kanalform
+    duplexing_technology:
+      name: Duplexing-teknologi
+    durability_features:
+      name: Holdbarhetsfunksjoner
+    dust_container_type:
+      name: Støvbeholdertype
+    dust_mask_type:
+      name: Støvmasketype
+    dye_form:
+      name: Fargeform
+    dynamic_level:
+      name: Dynamisk nivå
+    e_book_formats_supported:
+      name: Støttede e-bokformater
+    e_cigarette/vaporizer_style:
+      name: E-sigarett/damperstil
+    e_liquid_flavor:
+      name: E-Liquid-smak
+    e_liquid_variety:
+      name: E-Liquid-variant
+    e_reader_display_technology:
+      name: E-leservisningsteknologi
+    ear_care_application_method:
+      name: Ørepleiepåføringsmetode
+    earphone_features:
+      name: Øretelefonfunksjoner
+    earplug_use:
+      name: Bruk av ørepropper
+    earring_design:
+      name: Øreringdesign
+    edge_style:
+      name: Kantstil
+    edge_type:
+      name: Kanttype
+    education_level:
+      name: Utdanningsnivå
+    egg_decorating_items_included:
+      name: Eggdekorasjonsartikler inkludert
+    egg_turning:
+      name: Eggvending
+    electronic_drum_components:
+      name: Elektroniske trommekomponenter
+    electronic_game_genre:
+      name: Elektronisk spillsjanger
+    embellishment/trim_material:
+      name: Utsmyknings/trimmateriale
+    embellishments:
+      name: Utsmykninger
+    embossing_project_type:
+      name: Pregingsprosjekttype
+    embouchure_hole_shape:
+      name: Munnstykkehullform
+    emergency/safety_sign_design:
+      name: Utforming av nød-/sikkerhetsskilt
+    emergency_items_included:
+      name: Nødartikler inkludert
+    enclosure_type:
+      name: Innkapslingstype
+    energy_efficiency_class:
+      name: Energieffektivitetsklasse
+    energy_efficiency_class_hdr:
+      name: Energieffektivitetsklasse (Hdr)
+    energy_efficiency_class_sdr:
+      name: Energieffektivitetsklasse (Sdr)
+    engine_design:
+      name: Motordesign
+    engine_purpose:
+      name: Motorformål
+    engine_type:
+      name: Motortype
+    engraving:
+      name: Gravering
+    envelope_features:
+      name: Konvoluttfunksjoner
+    envelope_seal_design:
+      name: Konvoluttforseglingsdesign
+    equipment_operation:
+      name: Bruk av utstyr
+    era:
+      name: Era
+    esrb_rating:
+      name: ESRB-vurdering
+    ethernet_lan_interface_type:
+      name: Ethernet LAN-grensesnitttype
+    ev_battery_features:
+      name: EV-batterifunksjoner
+    ev_battery_type:
+      name: Elbil-batteritype
+    ev_connector/adapter_type:
+      name: Elbilkontakt/adaptertype
+    ev_conversion_kit_components:
+      name: Komponenter i elbilkonverteringssett
+    evaporation_technology:
+      name: Fordampningsteknologi
+    event_type:
+      name: Hendelsestype
+    exercise_equipment_included:
+      name: Treningsutstyr inkludert
+    exercise_equipment_material:
+      name: Treningsutstyrsmateriale
+    exercise_machine_features:
+      name: Treningsmaskinfunksjoner
+    exercise_mat_material:
+      name: Treningsmattemateriale
+    expansion_slots:
+      name: Utvidelsesspor
+    exposure_control:
+      name: Eksponeringskontroll
+    extended_saxophone_range:
+      name: Utvidet saksofonutvalg
+    external_defibrillator_features:
+      name: Eksterne defibrillatorfunksjoner
+    extinguisher_rating:
+      name: Klassifisering av brannslukningsapparat
+    extinguishing_agent_type:
+      name: Type brannslukningsmiddel
+    extraction_type:
+      name: Ekstraksjonstype
+    extractor_tip_style:
+      name: Stil på uttrekksspiss
+    eye_pillow_shape:
+      name: Form på øyepute
+    eye_shadow_effect:
+      name: Øyenskyggeeffekt
+    eyebrow_enhancer_color:
+      name: Øyebrynsforbedrerfarge
+    eyelash_applicator_design:
+      name: Utforming for påføring av falske øyevipper
+    eyelash_material:
+      name: Øyevippmateriale
+    eyelash_type:
+      name: Øyevipptype
+    eyepiece/adapter_material:
+      name: Okular-/adaptermateriale
+    eyewear_frame_color:
+      name: Farge på brilleinnfatning
+    eyewear_frame_design:
+      name: Design på brilleinnfatning
+    eyewear_frame_material:
+      name: Brilleinnfatningsmateriale
+    eyewear_frame_pattern:
+      name: Brilleinnfatningsmønster
+    eyewear_frame_shape:
+      name: Brilleinnfatningsform
+    eyewear_lens_color:
+      name: Linsefarge på brille
+    eyewear_lens_material:
+      name: Linsemateriale på brille
+    eyewear_lens_pattern:
+      name: Linsemønster på brille
+    fabric:
+      name: Stoff
+    fabric_structure:
+      name: Stoffstruktur
+    face_area:
+      name: Ansiktsområde
+    face_powder_color:
+      name: Ansiktspudderfarge
+    face_powder_type:
+      name: Ansiktspuddertype
+    faceplate_design:
+      name: Frontplatedesign
+    facility_sign_design:
+      name: Utforming av anleggsskilt
+    false_nail_application_method:
+      name: Påføringsmetode for falske negler
+    fastener_finish:
+      name: Festefinish
+    fastener_material:
+      name: Festemateriale
+    fastener_type:
+      name: Festetype
+    fat_content:
+      name: Fettinnhold
+    faucet_thread:
+      name: Krangjenger
+    features:
+      name: Egenskaper
+    feed_system:
+      name: Fôrsystem
+    feet_type:
+      name: Fottype
+    felt_tip_design:
+      name: Felttuppdesign
+    feminine_sanitary_supply_features:
+      name: Sanitærutstyrsfunksjoner for kvinner
+    fencing_components:
+      name: Gjerdekomponenter
+    fiber_art_project_type:
+      name: Type fiberkunstprosjekt
+    field_flatness:
+      name: Feltflathet
+    filament_type:
+      name: Filamenttype
+    file_format_type:
+      name: Filformattype
+    file_shape:
+      name: Filform
+    filler_material:
+      name: Fyllmateriale
+    filler_support:
+      name: Fyllstøtte
+    filler_type:
+      name: Fylltype
+    filling/padding_project_type:
+      name: Prosjekttype for fylling/polstring
+    film_application_method:
+      name: Filmpåføringsmetode
+    film_format:
+      name: Filmformat
+    film_type:
+      name: Filmtype
+    filter_material:
+      name: Filtermateriale
+    filter_type:
+      name: Filtertype
+    filtering_modes:
+      name: Filtreringsmoduser
+    filtration_class:
+      name: Filtreringsklasse
+    fin_material:
+      name: Finnemateriale
+    fin_pocket_type:
+      name: Finnelommetype
+    fin_profile:
+      name: Finneprofil
+    fingerboard_color:
+      name: Fingerbrettfarge
+    fingerboard_material:
+      name: Gripebrettmateriale
+    fingerboard_pattern:
+      name: Fingerbrettmønster
+    fingerprint_capture_method:
+      name: Metode for fingeravtrykkregistrering
+    finial_shape:
+      name: Finialform
+    finish:
+      name: Fullførelse
+    fire_extinguisher_items_included:
+      name: Brannslukningsutstyr inkludert
+    firmness:
+      name: Fasthet
+    first_aid_kit_components:
+      name: Komponenter i førstehjelpssett
+    first_aid_kit_usage:
+      name: Bruksområde for førstehjelpssett
+    first_steps/crawlers_style:
+      name: Stil på første skritt og krabbing
+    fish_type:
+      name: Fisketype
+    fishing_rod_action:
+      name: Fiskestangaksjon
+    fishing_rod_power:
+      name: Fiskestangkraft
+    fishing_wire_material:
+      name: Fisketrådmateriale
+    fit:
+      name: Passform
+    fit_type:
+      name: Type passform
+    fixation_type:
+      name: Fikseringstype
+    flag_shape:
+      name: Flaggform
+    flare_type:
+      name: Flammetype
+    flash_card_theme:
+      name: Flash-korttema
+    flash_modes:
+      name: Blitsmoduser
+    flash_type:
+      name: Blitstype
+    flashing_material:
+      name: Blinkemateriale
+    flat_shoe_style:
+      name: Flat skostil
+    flatware_material:
+      name: Bestikkmateriale
+    flatware_pieces_included:
+      name: Bestikkdeler inkludert
+    flavor:
+      name: Smak
+    flavor_profile:
+      name: Smaksprofil
+    flexibility_rating:
+      name: Fleksibilitetsvurdering
+    floral_wire_design:
+      name: Blomstertråddesign
+    flour/grain_type:
+      name: Mel/Korntype
+    flow_rate_type:
+      name: Type strømningshastighet
+    flower_color:
+      name: Blomsterfarge
+    flower_pattern:
+      name: Blomstermønster
+    flue_type:
+      name: Fluetype
+    fluid_type:
+      name: Væsketype
+    flush_plate_color:
+      name: Flushplate-farge
+    flush_plate_pattern:
+      name: Flushplate-mønster
+    flush_system:
+      name: Spylesystem
+    flute_configuration:
+      name: Fløytekonfigurasjon
+    foam_form:
+      name: Skumform
+    focus_adjustment:
+      name: Fokusjustering
+    focus_device_type:
+      name: Fokusenhetstype
+    focus_type:
+      name: Fokustype
+    fold_type:
+      name: Brettetype
+    folder/report_cover_material:
+      name: Mappe-/rapportomslagsmateriale
+    folding_mechanism:
+      name: Brettemekanisme
+    font_style:
+      name: Skrifttypestil
+    food_bag_material:
+      name: Matposemateriale
+    food_dispenser_type:
+      name: Matdispensertype
+    food_product_form:
+      name: Form på matvareprodukt
+    food_storage_material:
+      name: Matoppbevaringsmateriale
+    food_supplement_form:
+      name: Kosttilskuddsform
+    footage_type:
+      name: Opptakstype
+    footboard_type:
+      name: Type fotbrett
+    footwear_color:
+      name: Fottlyfarge
+    footwear_material:
+      name: Fottøymateriale
+    footwear_pattern:
+      name: Fottøymønster
+    format_supported:
+      name: Format støttes
+    formula_level:
+      name: Formelnivå
+    fossil_type:
+      name: Fossiltype
+    foundation_color:
+      name: Foundationfarge
+    foundation_material:
+      name: Foundationmateriale
+    foundation_pattern:
+      name: Foundationmønster
+    fragrance:
+      name: Duft
+    fragrance_level:
+      name: Duftnivå
+    frame_color:
+      name: Rammefarge
+    frame_design:
+      name: Rammedesign
+    frame_material:
+      name: Rammemateriale
+    frame_pattern:
+      name: Rammemønster
+    frame_style:
+      name: Rammestil
+    frequency/radio_bands_supported:
+      name: Frekvens/radiobånd støttes
+    frequency_type:
+      name: Frekvenstype
+    frequency_weighting:
+      name: Frekvensvekting
+    frog_material:
+      name: Froskemateriale
+    fruit_source:
+      name: Fruktkilde
+    fuel_additives:
+      name: Drivstofftilsetninger
+    fuel_container_features:
+      name: Funksjoner for drivstoffbeholder
+    fuel_grade:
+      name: Drivstoffklasse
+    fuel_purity:
+      name: Drivstoffrenhet
+    fuel_source:
+      name: Drivstoffkilde
+    fuel_supply:
+      name: Drivstofftilførsel
+    furniture/fixture_color:
+      name: Farge på møbler/armatur
+    furniture/fixture_features:
+      name: Møbel-/armaturfunksjoner
+    furniture/fixture_material:
+      name: Møbel-/armaturmateriale
+    furniture/fixture_pattern:
+      name: Møbel-/armaturmønster
+    game_components:
+      name: Spillkomponenter
+    game_difficulty:
+      name: Spillvanskelighet
+    game_features:
+      name: Spillfunksjoner
+    game_name:
+      name: Spillnavn
+    gameplay_skills:
+      name: Spillferdigheter
+    games_included:
+      name: Inkluderte spill
+    garage_door_material:
+      name: Garasjedørmateriale
+    gardening_use:
+      name: Hagebruk
+    garment_steamer_design:
+      name: Utforming på klesdamper
+    gases_detected:
+      name: Gasser oppdaget
+    gate_mounting_type:
+      name: Monteringstype for port
+    gauge_type:
+      name: Måletype
+    gear_material:
+      name: Girmateriale
+    gear_ratio:
+      name: Girutveksling
+    gearing_type:
+      name: Girtype
+    gel_strength:
+      name: Gelstyrke
+    genre:
+      name: Sjanger
+    geological_era:
+      name: Geologisk æra
+    gift_bag_handle_design:
+      name: Håndtakdesign på gavepose
+    gift_set_format:
+      name: Format på gavesett
+    gin_variety:
+      name: Gin-variant
+    glaze_finish:
+      name: Glaseringsfinish
+    glazing_type:
+      name: Glasseringstype
+    glitter_shape:
+      name: Glitterform
+    glucose_meter_features:
+      name: Glukosemålerfunksjoner
+    glue_gun_features:
+      name: Limpistolfunksjoner
+    glue_gun_operation:
+      name: Limpistoldrift
+    glue_gun_technology:
+      name: Limpistolteknologi
+    glue_strength:
+      name: Limstyrke
+    golf_ball_type:
+      name: Golfballtype
+    golf_equipment_included:
+      name: Golfutstyr inkludert
+    gps_compatible_device:
+      name: GPS-kompatibel enhet
+    gps_device_features:
+      name: GPS-enhetsfunksjoner
+    gps_map_type:
+      name: GPS-karttype
+    gps_software_focus:
+      name: GPS-programvarefokus
+    grading:
+      name: Gradering
+    grain:
+      name: Korn
+    grape_variety:
+      name: Druevariant
+    graphics_card_type:
+      name: Type grafikkort
+    graphics_tablet_accessories_included:
+      name: Tilbehør til grafikknettbrett inkludert
+    graphics_tablet_specialized_features:
+      name: Spesialfunksjoner for grafikknettbrett
+    gravel/substrate_material:
+      name: Grus-/substratmateriale
+    grease_filter_material:
+      name: Fettfiltermateriale
+    grip_texture:
+      name: Greptekstur
+    grip_type:
+      name: Greptype
+    grit_type:
+      name: Korntype
+    grooming_kit_format:
+      name: Format på pleiesett
+    guitar_fitting/part_type:
+      name: Gitarbeslag-/deltype
+    guitar_size:
+      name: Gitarstørrelse
+    gutter_fitting_type:
+      name: Monteringstype for renne
+    gutter_style:
+      name: Rennestil
+    habitat_material:
+      name: Habitatmateriale
+    hair_care_finish:
+      name: Hårpleiefinish
+    hair_care_items_included:
+      name: Hårpleieartikler medfølger
+    hair_care_technology:
+      name: Hårpleieteknologi
+    hair_color/shade:
+      name: Hårfarge/skygge
+    hair_loss_type:
+      name: Hårtapstype
+    hair_shear_type:
+      name: Hårklippstype
+    hair_styling_items_included:
+      name: Hårstylingartikler inkludert
+    hair_styling_tool_features:
+      name: Hårstylingverktøysfunksjoner
+    hair_type:
+      name: Hårtype
+    hammer_head_material:
+      name: Hammerhodemateriale
+    hand_side:
+      name: Håndside
+    hand_warmer_type:
+      name: Håndvarmertype
+    handcuff_lock_type:
+      name: Låstype for håndjern
+    handle_color:
+      name: Håndtakfarge
+    handle_design:
+      name: Håndtakdesign
+    handle_grip_texture:
+      name: Tekstur på håndtaksgrep
+    handle_material:
+      name: Håndtaksmateriale
+    handle_pattern:
+      name: Håndtaksmønster
+    handle_type:
+      name: Håndtakstype
+    handset_type:
+      name: Håndsetttype
+    handwear_features:
+      name: Håndklesfunksjoner
+    handwear_material:
+      name: Håndklesmateriale
+    handwear_type:
+      name: Håndklestype
+    hanging_chair_design:
+      name: Utforming på hengestol
+    hard_cider_variety:
+      name: Cidervariant
+    hard_drive_features:
+      name: Harddiskfunksjoner
+    hard_drive_form_factor:
+      name: Harddiskformfaktor
+    hard_drive_installation:
+      name: Harddiskinstallasjon
+    hardhat_class:
+      name: Hjelmklasse
+    hardness:
+      name: Hardhet
+    hardware_finish:
+      name: Maskinvarefinish
+    hardware_material:
+      name: Maskinvaremateriale
+    hardware_mounting_type:
+      name: Monteringstype av maskinvare
+    hardwood_lumber_grade:
+      name: Løvtrekvalitet
+    harness_closure_type:
+      name: Type selelukking
+    harp_size:
+      name: Harpestørrelse
+    hatch_suitable_location:
+      name: Egnet lukeplassering
+    hazmat_suit_design:
+      name: Hazmat-draktdesign
+    hdr_format:
+      name: Hdr-format
+    headjoint_cut:
+      name: Hodeplatedel
+    headphone_jack_type:
+      name: Type hodetelefonkontakt
+    headphone_style:
+      name: Hodetelefonstil
+    headwear_features:
+      name: Hodeplaggfunksjoner
+    hearing_aid_features:
+      name: Høreapparatfunksjoner
+    hearing_aid_material:
+      name: Høreapparatmateriale
+    heat_function:
+      name: Varmefunksjon
+    heat_level:
+      name: Varmenivå
+    heat_settings:
+      name: Varmeinnstillinger
+    heat_source:
+      name: Varmekilde
+    heating_instructions:
+      name: Oppvarmingsinstruksjoner
+    heating_method:
+      name: Oppvarmingsmetode
+    heating_speed:
+      name: Oppvarmingshastighet
+    heel_height_type:
+      name: Hælhøyde-type
+    heel_shoe_type:
+      name: Hælskotype
+    height_adjustment:
+      name: Høydejustering
+    helmet_shade_design:
+      name: Hjelmskyggedesign
+    hitch_class:
+      name: Festepunktklasse
+    hitch_type:
+      name: Koblingstype
+    hockey_equipment_included:
+      name: Hockeyutstyr inkludert
+    hold_level:
+      name: Holdnivå
+    hook_design:
+      name: Krokdesign
+    hook_grip_design:
+      name: Krokgrep-design
+    hook_size:
+      name: Krokstørrelse
+    hook_type:
+      name: Kroktype
+    hoop_shape:
+      name: Bøyleform
+    horse_category:
+      name: Hestekategori
+    horse_grooming_accessories_included:
+      name: Hesterøktingsutstyr inkludert
+    hose_material:
+      name: Slangemateriale
+    host_interface:
+      name: Vertsgrensesnitt
+    housing_color:
+      name: Husfarge
+    housing_material:
+      name: Husmateriale
+    housing_pattern:
+      name: Husmønster
+    hub/switch_storage_options:
+      name: Oppbevaringsalternativer for hub/bryter
+    humidifier_design:
+      name: Luftfukterdesign
+    humidity_control:
+      name: Fuktighetskontroll
+    humidy_control:
+      name: Fuktighetskontroll
+    hunting/survival_knife_design:
+      name: Design på jakt- og overlevelseskniver
+    hunting_blind_design:
+      name: Jaktblinddesign
+    hvac_control_type:
+      name: VVS-kontrolltype
+    ice_pack_type:
+      name: Type ispose
+    icon_type:
+      name: Ikontype
+    ignition_system:
+      name: Tenningssystem
+    illumination_technique:
+      name: Belysningsteknikk
+    image_formats_supported:
+      name: Støttede bildeformater
+    image_sensor_size:
+      name: Bildesensorstørrelse
+    immobilizer_type:
+      name: Startsperretype
+    incense_fragrance:
+      name: Røkelsesduft
+    incense_kit_items_included:
+      name: Varer til røkelsessett medfølger
+    incense_type:
+      name: Type røkelse
+    incontinence_aid_features:
+      name: Inkontinenshjelpefunksjoner
+    industry_focus:
+      name: Bransjefokus
+    infant_age_group:
+      name: Aldersgruppe for babyer
+    inflation_method:
+      name: Inflasjonsmetode
+    ingredient_category:
+      name: Ingredienskategori
+    ingredient_origin:
+      name: Ingrediensopprinnelse
+    ingredients:
+      name: Ingredienser
+    ink_application_technique:
+      name: Blekkpåføringsteknikk
+    ink_color:
+      name: Blekkfarge
+    ink_form:
+      name: Blekkform
+    ink_pattern:
+      name: Blekkmønster
+    ink_type:
+      name: Blekktype
+    inline_skating_style:
+      name: Rulleskøytestil
+    input/output_ports:
+      name: Inn-/utgangsporter
+    input_connection:
+      name: Inngangstilkobling
+    instruction_set_architecture:
+      name: Instruksjonssettarkitektur
+    instrument/accessory_finish:
+      name: Finish på instrument/tilbehør
+    instrument_accessory_material:
+      name: Instrumenttilbehørsmateriale
+    instrument_bow_material:
+      name: Instrumentbuemateriale
+    instrument_color:
+      name: Instrumentfarge
+    instrument_controller_type:
+      name: Type instrumentkontroller
+    instrument_material:
+      name: Instrumentmateriale
+    instrument_part_material:
+      name: Instrumentdelemateriale
+    instrument_pattern:
+      name: Instrumentmønster
+    instrument_string_color:
+      name: Instrumentstrengfarge
+    instrument_string_material:
+      name: Instrumentstrengmateriale
+    instrument_string_pattern:
+      name: Instrumentstrengmønster
+    instrument_support_type:
+      name: Instrumentstøttetype
+    insulation_material:
+      name: Isolasjonsmateriale
+    intended_application:
+      name: Tiltenkt bruk
+    interface_type:
+      name: Grensesnitttype
+    internal_drive_form_factor_supported:
+      name: Formfaktor for intern stasjon støttes
+    intimate_apparel_features:
+      name: Intime klesfunksjoner
+    inverter_type:
+      name: Omformertype
+    invitation_personalization_design:
+      name: Personaliseringsdesign for invitasjoner
+    ironing_features:
+      name: Strykefunksjoner
+    item_condition:
+      name: Varetilstand
+    item_material:
+      name: Varemateriale
+    item_style:
+      name: Elementstil
+    j_cup_type:
+      name: J-Cup-type
+    jaw_material:
+      name: Kjevemateriale
+    jewelry_finding_type:
+      name: Smykkefunntype
+    jewelry_material:
+      name: Smykkemateriale
+    jewelry_project_type:
+      name: Smykkeprosjekttype
+    jewelry_set_type:
+      name: Smykkesett-type
+    jewelry_type:
+      name: Smykketype
+    joint_connection:
+      name: Leddtilkobling
+    joint_face_type:
+      name: Leddoverflatetype
+    joint_style:
+      name: Skjøtestil
+    jump_rope_design:
+      name: Hoppetaudesign
+    jumping_surface_color:
+      name: Hoppoverflatefarge
+    jumping_surface_material:
+      name: Materiale for hoppoverflate
+    jumping_surface_pattern:
+      name: Hoppoverflatemønster
+    karaoke_modes:
+      name: Karaokemoduser
+    kerosene_application:
+      name: Bruk av parafin
+    key_purpose:
+      name: Nøkkelformål
+    keyboard_action:
+      name: Tastaturhandling
+    keyboard_format:
+      name: Tastaturformat
+    keyboard_key_type:
+      name: Tastaturtasttype
+    keyboard_language:
+      name: Tastaturspråk
+    keyboard_layout:
+      name: Tastaturoppsett
+    keyboard_port_type:
+      name: Tastaturporttype
+    keyboard_specialized_features:
+      name: Tastaturspesialiserte funksjoner
+    keyboard_switch_type:
+      name: Tastaturbrytertype
+    keyboard_type:
+      name: Tastaturtype
+    keypad_style:
+      name: Tastaturstil
+    kit_construction_type:
+      name: Type konstruksjonssett
+    kitchen/dining_furniture_items_included:
+      name: Møbelvarer for kjøkken og spiserom inkludert
+    kitchen_utensil_items_included:
+      name: Kjøkkenutstyr inkludert
+    kitesurfing_style:
+      name: Kitesurfing-stil
+    kneeboard_features:
+      name: Kneeboardfunksjoner
+    knife_type:
+      name: Knivtype
+    knitting/padding_project_type:
+      name: Prosjekttype for strikking/polstring
+    knitting_project_type:
+      name: Strikkeprosjekttype
+    knob/handle_design:
+      name: Knott/håndtakdesign
+    knob_function:
+      name: Knappfunksjon
+    knob_style:
+      name: Knottstil
+    labeling_project_type:
+      name: Merkeprosjekttype
+    laboratory_freezer_design:
+      name: Laboratoriefryserdesign
+    lacrosse_equipment_included:
+      name: Lacrosseutstyr inkludert
+    ladder_type:
+      name: Stigetype
+    lamination_mode:
+      name: Lamineringsmodus
+    lamp_type:
+      name: Lampetype
+    language:
+      name: Språk
+    language_version:
+      name: Språkversjon
+    laser_color:
+      name: Laserfarge
+    laser_light_source:
+      name: Laserlyskilde
+    laser_pattern:
+      name: Lasermønster
+    lathe_application:
+      name: Bruk av dreiebenk
+    laundry_detergent_features:
+      name: Vaskemiddelfunksjoner
+    lead_grade:
+      name: Blyantklassifisering
+    leash_design:
+      name: Bånddesign
+    leather/vinyl_texture:
+      name: Skinn/vinyltekstur
+    lectern_mounting_type:
+      name: Monteringstype for Lectern
+    leg_color:
+      name: Benfarge
+    leg_lock_type:
+      name: Type benlås
+    leg_material:
+      name: Benmateriale
+    leg_pattern:
+      name: Benmønster
+    leg_sections:
+      name: Benseksjoner
+    lens/slide_material:
+      name: Linse-/lysbildemateriale
+    lens_cap_compatible_device:
+      name: Kompatibel enhet for objektivdeksel
+    lens_coating:
+      name: Objektivbelegg
+    lens_color:
+      name: Linsefarge
+    lens_configuration:
+      name: Objektivkonfigurasjon
+    lens_filter_effects:
+      name: Objektivfiltereffekter
+    lens_filter_type:
+      name: Objektivfiltertype
+    lens_pattern:
+      name: Linsemønster
+    lens_polarization:
+      name: Objektivpolarisering
+    lens_storage_type:
+      name: Linseoppbevaringstype
+    lens_type:
+      name: Objektivtype
+    license_type:
+      name: Lisenstype
+    lid_material:
+      name: Lokkmateriale
+    lid_type:
+      name: Lokktype
+    life_jacket_features:
+      name: Redningsvestfunksjoner
+    light_attachment_type:
+      name: Lysfestetype
+    light_color:
+      name: Lysfarge
+    light_control:
+      name: Lyskontroll
+    light_design:
+      name: Lett design
+    light_exposure_modes:
+      name: Lyseksponeringsmodi
+    light_filtering:
+      name: Lysfiltrering
+    light_options:
+      name: Lysalternativer
+    light_pattern:
+      name: Lysmønster
+    light_source:
+      name: Lyskilde
+    light_spectrum:
+      name: Lysspektrum
+    light_temperature:
+      name: Lystemperatur
+    light_type:
+      name: Lystype
+    lighting_features:
+      name: Lysfunksjoner
+    lighting_options:
+      name: Lysalternativer
+    line/rope_type:
+      name: Linje/tautype
+    line_spacing_options:
+      name: Alternativer for linjeavstand
+    liner_features:
+      name: Linerfunksjoner
+    lip_gloss_effect:
+      name: Lipgloss-effekt
+    lip_liner_design:
+      name: Liplinerdesign
+    lip_plate_material:
+      name: Leppeplatemateriale
+    lipstick_effect:
+      name: Leppestifteffekt
+    liqueur_variety:
+      name: Likørvariant
+    livestock_food_ingredients:
+      name: Ingredienser for husdyrmat
+    lnb_output:
+      name: Lnb-utgang
+    lnb_technology:
+      name: Lnb-teknologi
+    load_capacity:
+      name: Lastkapasitet
+    loading_ramp_type:
+      name: Type lasterampe
+    loading_type:
+      name: Lastetype
+    lock_placement:
+      name: Låsplassering
+    lock_type:
+      name: Låstype
+    locking_mechanism:
+      name: Låsemekanisme
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Påføring av smøremiddel
+    lubricant_composition:
+      name: Sammensetning av smøremiddel
+    lubricant_dispenser_type:
+      name: Type smøremiddeldispenser
+    lubricant_form:
+      name: Smøremiddelform
+    luggage/bag_closure:
+      name: Lukking av bagasje/bag
+    lumber/wood_type:
+      name: Trelast/trevirketype
+    lyre/flip_folder_attachment_type:
+      name: 'Vedleggstype for lyre/flip-mappe '
+    magnet_type:
+      name: Magnettype
+    magnification:
+      name: Forstørrelse
+    makeup_color/shade:
+      name: Sminkefarge/skygge
+    makeup_features:
+      name: Sminkefunksjoner
+    mallet_material:
+      name: Hammermateriale
+    manufacturer_type:
+      name: Produsenttype
+    marine_navigator_features:
+      name: Marine navigatorfunksjoner
+    marker_tip_design:
+      name: Markeringstuppdesign
+    mascara_effect:
+      name: Mascaraeffekt
+    mask_type:
+      name: Masketype
+    masonry_material:
+      name: Murverkmateriale
+    masonry_product_form:
+      name: Murerproduktform
+    massage_area:
+      name: Massasjeområde
+    massage_stone_texture:
+      name: Massasjesteintekstur
+    massage_technique:
+      name: Massasjeteknikk
+    mat/rug_shape:
+      name: Matte-/teppeform
+    mat_base_material:
+      name: Mattebunnmateriale
+    mat_features:
+      name: Mattefunksjoner
+    material:
+      name: Materiale
+    material_firmness:
+      name: Materialfasthet
+    material_hardness:
+      name: Materialhardhet
+    maternity_clothing_features:
+      name: Mammaklærfunksjoner
+    maternity_sleepwear_style:
+      name: Stil på nattøy for gravide
+    mattress_features:
+      name: Madrassfunksjoner
+    maximum_magnification:
+      name: Maksimal forstørrelse
+    measuring_method:
+      name: Målemetode
+    measuring_tool_features:
+      name: Måleverktøysfunksjoner
+    measuring_type:
+      name: Måletype
+    meat_cut:
+      name: Kjøttdel
+    meat_type:
+      name: Kjøttype
+    media_access:
+      name: Mediatilgang
+    media_content_type:
+      name: Medieinnholdstype
+    media_format:
+      name: Medieformat
+    media_section:
+      name: Medieseksjon
+    media_theme:
+      name: Medietema
+    medical_alarm_features:
+      name: Medisinske alarmfunksjoner
+    medical_identification_type:
+      name: Medisinsk identifikasjonstype
+    medical_syringe_purpose:
+      name: Medisinsk sprøyteformål
+    medical_tape_material:
+      name: Medisinsk tapemateriale
+    medicine/drug_form:
+      name: Medisin-/legemiddelform
+    medicine/supplement_form:
+      name: Medisin-/kosttilskuddsform
+    medium:
+      name: Medium
+    melodica_style:
+      name: Melodikastil
+    memory_channels:
+      name: Minnekanaler
+    memory_form_factor:
+      name: Minneformfaktor
+    memory_storage_type:
+      name: Type minnelagring
+    memory_technology:
+      name: Minneteknologi
+    menstrual_cup_shape:
+      name: Form på menskopp
+    metal_detector_features:
+      name: Metalldetektorfunksjoner
+    metal_molding_application:
+      name: Bruk av metallstøping
+    meter_type:
+      name: Målertype
+    metrics_supported:
+      name: Støttede målinger
+    microphone_thread:
+      name: Mikrofontråd
+    microphone_type:
+      name: Mikrofontype
+    microscope_features:
+      name: Mikroskopfunksjoner
+    microscope_slide_material:
+      name: Mikroskoplysbildemateriale
+    midi_connectivity:
+      name: Midi-tilkobling
+    mineral_class:
+      name: Mineralklasse
+    minimum_magnification:
+      name: Minimal forstørrelse
+    mirror_handle_design:
+      name: Speilhåndtak-design
+    mixer_type:
+      name: Blandertype
+    mobile_mounting_type:
+      name: Mobil monteringstype
+    mobile_movement:
+      name: Mobil bevegelse
+    mobile_phone_case_features:
+      name: Mobiltelefonetuifunksjoner
+    mobility/accessibility_equipment_features:
+      name: Funksjoner for mobilitets-/tilgjengelighetsutstyr
+    mobility_scooter_type:
+      name: Type mobilitetsscooter
+    model_control_technology:
+      name: Modellkontrollteknologi
+    model_train_accessory_type:
+      name: Tilbehørstype til modelltog
+    model_train_theme:
+      name: Modelltog-tema
+    modulation_method:
+      name: Modulasjonsmetode
+    moisturizer_type:
+      name: Fuktighetskremtype
+    mold/cut_shape:
+      name: Form/kuttform
+    mold_shape:
+      name: Støpeform
+    molding_application:
+      name: Bruk av støpeform
+    molding_shape:
+      name: Støpeform
+    monitor/screen_specialized_features:
+      name: Monitor-/skjermspesialiserte funksjoner
+    monitor_mounting_type:
+      name: Monitormonteringstype
+    monitor_shape:
+      name: Monitorform
+    monitor_specialized_features:
+      name: Monitorspesialiserte funksjoner
+    monitor_type:
+      name: Skjermtype
+    monocular_design:
+      name: Monokulærdesign
+    motherboard_chipset_family:
+      name: Brikkesettfamilie for hovedkort
+    motherboard_form_factor:
+      name: Formfaktor for hovedkort
+    motherboard_memory_features:
+      name: Hovedkortminnefunksjoner
+    motion:
+      name: Bevegelse
+    motion_sensor_type:
+      name: Bevegelsessensortype
+    motor_starting_method:
+      name: Motorstartmetode
+    motor_vehicle_placement:
+      name: Plassering av motor i kjøretøy
+    motor_vehicle_type:
+      name: Motorkjøretøystype
+    motorcycle/scooter_type:
+      name: Type motorsykkel/scooter
+    motorcycle_drive_type:
+      name: Kjøretype for motorsykkel
+    motorcycle_glove_purpose:
+      name: Formål til motorsykkelhanske
+    motorcycle_tire_type:
+      name: Dekktype for motorsykkel
+    mount/stand_features:
+      name: Monterings-/stativfunksjoner
+    mount_material:
+      name: Monteringsmateriale
+    mounting_hardware:
+      name: Monteringsmaskinvare
+    mounting_type:
+      name: Monteringstype
+    mouse/trackball_features:
+      name: Mus-/styrekulefunksjoner
+    mouse_pad_features:
+      name: Musemattefunksjoner
+    mouse_port_type:
+      name: Type museport
+    mouse_technology:
+      name: Musteknologi
+    mouthgard_design:
+      name: Bittskinnedesign
+    mouthpiece:
+      name: Munnstykke
+    moving/shipping_box_material:
+      name: Flytte- og frakteskemateriale
+    mp3_player_accessories_included:
+      name: Inkludert tilbehør til MP3-spiller
+    mpaa_rating:
+      name: Mpaa-vurdering
+    multi_gpu_technology:
+      name: Multi-Gpu-teknologi
+    muscle_stimulator_design:
+      name: Muskelstimulatordesign
+    music_genre:
+      name: Musikksjanger
+    music_stand_design:
+      name: Design for motestativ
+    musical_key:
+      name: Musikalsk toneart
+    nail_art_items_included:
+      name: Neglekunstvarer inkludert
+    nail_care_features:
+      name: Neglepleiefunksjoner
+    nail_design:
+      name: Negledesign
+    nail_polish_drying_form:
+      name: Tørkeform for neglelakk
+    nail_shape:
+      name: Negleform
+    national/regional_rating:
+      name: Nasjonal/regional vurdering
+    native_aspect_ratio:
+      name: Innebygd størrelsesforhold
+    nebulizer_design:
+      name: Forstøverdesign
+    nebulizer_technology:
+      name: Nebulisator-teknologi
+    neck_color:
+      name: Halsfarge
+    neck_material:
+      name: Halsmateriale
+    neck_pattern:
+      name: Halsmønster
+    necklace_design:
+      name: Halskjededesign
+    neckline:
+      name: Halskant
+    needle_eye_type:
+      name: Nåleøyetype
+    needle_gauge:
+      name: Nålmåler
+    needle_housing_material:
+      name: Nålehusmateriale
+    needle_material:
+      name: Nålmateriale
+    needle_size:
+      name: Nålstørrelse
+    needlecraft_kit_type:
+      name: Nåletøysettype
+    negative/slide_storage_type:
+      name: Lagringstype for negativer/lysbilder
+    net_material:
+      name: Nettmateriale
+    net_mounting_type:
+      name: Monteringstype for nett
+    network_cable_interface:
+      name: Grensesnitt for nettverkskabel
+    network_protocols_supported:
+      name: Nettverksprotokoller støttes
+    networking_standards:
+      name: Nettverksstandarder
+    nightgown_style:
+      name: Nattkjolestil
+    nipple_material:
+      name: Tutmateriale
+    nipple_shape:
+      name: Tutform
+    nipple_type:
+      name: Nippeltype
+    nock_material:
+      name: Hakkmateriale
+    noise_intensity:
+      name: Støyintensitet
+    notepad_cover_type:
+      name: Type notatblokkomslag
+    notepad_design:
+      name: Notatblokkdesign
+    nozzle_type:
+      name: Dysetype
+    nursery_theme:
+      name: Barneromstema
+    nursing_cover_coverage:
+      name: Dekning av ammeteppe
+    nursing_pad_design:
+      name: Utforming av ammeinnlegg
+    nursing_pillow_shape:
+      name: Ammeputeform
+    nut/seed_type:
+      name: Type nøtt/frø
+    nut_butter_variety:
+      name: Variant av nøttesmør
+    nut_form:
+      name: Mutterform
+    nut_processing_method:
+      name: Behandlingsmetode for muttere
+    nutrient_content:
+      name: Næringsinnhold
+    oboe_key_system:
+      name: Obo-toneart
+    ocarina_style:
+      name: Okarinastil
+    occasion:
+      name: Anledning
+    occasion_style:
+      name: Anledningsstil
+    office_cart_features:
+      name: Kontorvognfunksjoner
+    office_instrument_material:
+      name: Kontorinstrumentmateriale
+    office_supply_material:
+      name: Kontorrekvisitamateriale
+    oil_type:
+      name: Oljetype
+    one_piece_style:
+      name: One-piece-stil
+    open/closed_sign_design:
+      name: Åpent/stengt skiltdesign
+    opening_direction:
+      name: Åpningsretning
+    opening_mechanism:
+      name: Åpningsmekanisme
+    operating_mode:
+      name: Driftsmodus
+    operating_system:
+      name: Operativsystem
+    operation_method:
+      name: Driftsmetode
+    optical_drive_type:
+      name: Optisk stasjonstype
+    optical_frame_design:
+      name: Utforming av brilleramme
+    optical_zoom:
+      name: Optiske zoom
+    organizer_type:
+      name: Organisatortype
+    orientation:
+      name: Orientering
+    outdoor_equipment_features:
+      name: Friluftsutstyrsfunksjoner
+    outdoor_furniture_items_included:
+      name: Utemøbler inkludert
+    outdoor_power_accessories_included:
+      name: Strømdrevet tilbehør til utendørs bruk inkludert
+    outdoor_walking_activity:
+      name: Utendørs turaktivitet
+    outerwear_clothing_features:
+      name: Klesfunksjoner for yttertøy
+    outlet_type:
+      name: Type uttak
+    output_connection:
+      name: Utgangstilkobling
+    output_level:
+      name: Utgangsnivå
+    output_waveform:
+      name: Utgangsbølgeform
+    oven_accessories_included:
+      name: Ovnstilbehør inkludert
+    oxygen_tank_valve_type:
+      name: Ventiltype på oksygentank
+    pacifier/teether_design:
+      name: Utforming av smokk/bitering
+    package_type:
+      name: Pakketype
+    packing_materials_included:
+      name: Inkludert pakkemateriell
+    pad_display_profile:
+      name: Padvisningsprofil
+    pad_type:
+      name: Pad-type
+    paddle/oar_material:
+      name: Padle-/åremateriale
+    paddle_equipment_included:
+      name: Padleutstyr inkludert
+    paddleboard_features:
+      name: Padlebrettfunksjoner
+    page_layout:
+      name: Sideoppsett
+    page_size:
+      name: Sidestørrelse
+    paint/dye_form:
+      name: Malings-/fargeform
+    paint_brush_design:
+      name: Penseldesign
+    paint_finish:
+      name: Malingsfinish
+    paint_form:
+      name: Malingsform
+    paint_medium_type:
+      name: Middels malingstype
+    paint_type:
+      name: Malingstype
+    paintball/airsoft_equipment_included:
+      name: Paintball-/airsoft-utstyr inkludert
+    paintball_equipment_included:
+      name: Paintballustyr inkludert
+    painting_canvas_material:
+      name: Malelerretsmateriale
+    pairing_method:
+      name: Tilkoblingsmetode
+    palette_design:
+      name: Palettdesign
+    palette_knife_shape:
+      name: Palettkniv-form
+    panel_specification:
+      name: Panelspesifikasjon
+    panel_termination:
+      name: Panelterminering
+    pants_length_type:
+      name: Type bukselengde
+    pantyhose_style:
+      name: Strømpebuksestil
+    paper_finish:
+      name: Papirfinish
+    paper_format:
+      name: Papirformat
+    paper_size:
+      name: Papirstørrelse
+    paper_texture:
+      name: Papirtekstur
+    paper_type:
+      name: Papirtype
+    paperweight_design:
+      name: Papirvektdesign
+    papier_mache_shape:
+      name: Papirmasjéformer
+    parachuting_activity:
+      name: Fallskjermhoppingsaktivitet
+    parallel_processing_technology_support:
+      name: Støtte for parallel behandlingsteknologi
+    parking_camera_features:
+      name: Parkeringskamerafunksjoner
+    parking_sign_design:
+      name: Parkering-skiltdesign
+    passband:
+      name: Passbånd
+    pasta_shape_type:
+      name: Pastaformtype
+    pasta_type:
+      name: Pastatype
+    patch_shape:
+      name: Lappform
+    pattern:
+      name: Mønster
+    pattern_distribution_format:
+      name: Mønsterdistribusjonsformat
+    pcb_type:
+      name: PCB-type
+    pedal_polarity:
+      name: Pedalpolaritet
+    pegi_rating:
+      name: PEGI-vurdering
+    pen/felt_tip_design:
+      name: Penn-/felttuppdesign
+    pen/pencil_features:
+      name: Penne-/blyantfunksjoner
+    pen_color:
+      name: Pennfarge
+    pen_features:
+      name: Pennefunksjoner
+    pen_pattern:
+      name: Pennemønster
+    pen_tip_design:
+      name: Penntuppdesign
+    pen_type:
+      name: Pennetype
+    pencil_features:
+      name: Blyantfunksjoner
+    pencil_sharpener_design:
+      name: Blyantspisserdesign
+    pencil_type:
+      name: Blyanttype
+    percussion_stand_design:
+      name: Perkusjon-stativdesign
+    percussion_tip_shape:
+      name: Perkusjon-spissform
+    performance_metrics:
+      name: Ytelsesberegninger
+    peroxide_content:
+      name: Peroksidinnhold
+    personal_watercraft_type:
+      name: Vannscootertype
+    personalization_design:
+      name: Personaliseringsdesign
+    personalization_options:
+      name: Alternativer for personalisering
+    pest_control_method:
+      name: Skadedyrkontrollmetode
+    pet_apparel/bedding_features:
+      name: Kjæledyrsklær/sengetøyfunksjoner
+    pet_apparel_features:
+      name: Kjæledyrsklær
+    pet_bedding_features:
+      name: Kjæledyrssengefunksjoner
+    pet_control_accessory_features:
+      name: Tilbehørsfunksjoner for kjæledyrskontroll
+    pet_dietary_preferences:
+      name: Kostholdspreferanser for kjæledyr
+    pet_dietary_requirements:
+      name: Krav for kjæledyrdiett
+    pet_food_flavor:
+      name: Smak på dyremat
+    pet_food_form:
+      name: Kjæledyrsmatform
+    pet_food_supplements:
+      name: Kosttilskudd for kjæledyr
+    pet_hair_dryer_design:
+      name: Hårtørrerdesign for kjæledyr
+    pet_hair_dryer_speed_settings:
+      name: Hastighetsinnstillinger for hårtørrer for kjæledyr
+    pet_medical_collar_design:
+      name: Design på medisinske halsbånd for husdyr
+    pet_medical_supply_type:
+      name: Medisinsk forsyningstype for kjæledyr
+    pet_monitor_items_included:
+      name: Inkluderte artikler for kjæledyrovervåkning
+    pet_nail_tool_type:
+      name: Negleverktøystype for kjæledyr
+    pet_pad_features:
+      name: Kjæledyrsmattefunksjoner
+    pet_spray/solution_type:
+      name: Kjæledyrsspray-/løsningstype
+    pet_supply_product_form:
+      name: Form på kjæledyrprodukt
+    pet_thermometer_design:
+      name: Termometerdesign for kjæledyr
+    pet_trainer_type:
+      name: Kjæledyrstrenertype
+    pet_treat_texture:
+      name: Tekstur på kjæledyrgodbit
+    pet_treat_type:
+      name: Godbitstype for kjæledyr
+    phase_type:
+      name: Fasetype
+    photo_effects_type:
+      name: Type fotoeffekter
+    photographic_chemical_form:
+      name: Fotografisk kjemisk form
+    photographic_paper_size:
+      name: Fotografisk papirstørrelse
+    photographic_paper_type:
+      name: Fotografisk papirtype
+    piano_additional_features:
+      name: Tilleggsfunksjoner for piano
+    piano_pedals:
+      name: Pianopedaler
+    piano_size:
+      name: Pianostørrelse
+    pick_design:
+      name: Plekterdesign
+    pickup_design:
+      name: Pickupdesign
+    pickup_mounting_type:
+      name: Pickup-monteringstype
+    pickup_position:
+      name: Pickup-stilling
+    pickup_type:
+      name: Pickup-type
+    pig_feed_stage:
+      name: Grisefôrstadium
+    pile_type:
+      name: Haugdybde
+    pillow_shape:
+      name: Puteform
+    pin_size:
+      name: Pinnestørrelse
+    pinata_design:
+      name: Pi√±ata-design
+    ping_pong_equipment_included:
+      name: Bordtennisustyr inkludert
+    ping_pong_robot_features:
+      name: Bordtennisrobotfunksjoner
+    pipe_clamp_design:
+      name: Rørklemmedesign
+    pipe_shape:
+      name: Rørform
+    placement_supported:
+      name: Plassering støttes
+    plant_characteristics:
+      name: Planteegenskaper
+    plant_class:
+      name: Planteklasse
+    plant_name:
+      name: Plantenavn
+    plant_support_material:
+      name: Plantestøttemateriale
+    plate_type:
+      name: Platetype
+    play_equipment_items_included:
+      name: Lekeutstyrsartikler inkludert
+    play_slide_design:
+      name: Design for å spille av lysbilde
+    play_vehicle_propulsion:
+      name: Spill av fremdrift av kjøretøy
+    play_yard_design_features:
+      name: Lekegårdsdesignfunksjoner
+    playback_disc_formats:
+      name: Avspillingsplateformater
+    player/recorder_specialized_features:
+      name: Spiller-/opptakerspesialiserte funksjoner
+    player_drive_type:
+      name: Spillerstasjonstype
+    player_position:
+      name: Spillerposisjon
+    player_specialized_features:
+      name: Spillerspesialiserte funksjoner
+    playhouse_design:
+      name: Design av lekehus
+    playset_features:
+      name: Lekesettfunksjoner
+    plug_type:
+      name: Pluggtype
+    plug_type_input:
+      name: Pluggtype (inngang)
+    plug_type_output:
+      name: Pluggtype (utgang)
+    plumbing_primer_application:
+      name: Påføring av VVS-primer
+    plumbing_trap_design:
+      name: Design av avløpsfeller
+    plunger_shape:
+      name: Stempelform
+    plywood_grade:
+      name: Kryssfinerkvalitet
+    pneumatic_conveyor_operation:
+      name: Pneumatisk transportørdrift
+    poe_standard:
+      name: Poe-standard
+    point_design:
+      name: Punktdesign
+    pointing_device:
+      name: Pekeenhet
+    polar_pattern:
+      name: Polarmønster
+    polarization:
+      name: Polarisering
+    pole/post_material:
+      name: Stang-/stolpemateriale
+    pole_color:
+      name: Stangfarge
+    pole_material:
+      name: Stangmateriale
+    pole_pattern:
+      name: Stangmønster
+    policy_sign_design:
+      name: Policy-skiltdesign
+    polish_dry_form:
+      name: Polish tørr form
+    polish_remover_form:
+      name: Form på neglelakkfjerner
+    polish_type:
+      name: Poleringstype
+    polyphony:
+      name: Polyfoni
+    portability:
+      name: Bærbarhet
+    post_material:
+      name: Stolpemateriale
+    postage_stamp_features:
+      name: Frimerkefunksjoner
+    potential_extract:
+      name: Potensiell ekstrakt
+    pottery/sculpting_project_type:
+      name: Prosjekttype for keramikk/skulptering
+    potty/toilet_seat_design:
+      name: Utforming av potte-/toalettsete
+    potty_training_kit_components:
+      name: Komponenter i pottetreningssett
+    power_source:
+      name: Strømkilde
+    pregnancy_test_sensitivity:
+      name: 'Følsomhet for graviditetstest '
+    presentation_supply_features:
+      name: Presentasjonsforsyningsfunksjoner
+    preservation_type:
+      name: Bevaringstype
+    pretend_electronics_toy_type:
+      name: Leke-elektronikktype
+    pretend_housekeeping_toy_type:
+      name: Leke-husholdningstype
+    primary_region:
+      name: Primærregion
+    primer_use:
+      name: Bruk av grunning
+    print_technology:
+      name: Utskriftsteknologi
+    printer/copier_specialized_features:
+      name: Skriver-/kopimaskinspesialiserte funksjoner
+    printer_accessories_included:
+      name: Inkludert skrivertilbehør
+    printer_functions:
+      name: Skriverfunksjoner
+    printing_color:
+      name: Utskriftsfarge
+    printing_method:
+      name: Utskriftsmetode
+    processor_cores:
+      name: Prosessorkjerner
+    processor_family:
+      name: Prosessorfamilie
+    processor_socket:
+      name: Prosessorinngang
+    processor_technology:
+      name: Prosessorteknologi
+    product_benefits:
+      name: Produktfordeler
+    product_certifications_standards:
+      name: Produktsertifiseringer og standarder
+    product_form:
+      name: Produktskjema
+    product_formulation:
+      name: Produktformulering
+    product_manual_area:
+      name: Område for produkthåndbok
+    product_sterility:
+      name: Produktsterilitet
+    program_format:
+      name: Programformat
+    projection_design:
+      name: Projeksjonsdesign
+    projector_light_source:
+      name: Projektorlyskilde
+    prop_theme:
+      name: Rekvisitt-tema
+    propane_application:
+      name: Bruk av propan
+    propeller_blade_design:
+      name: Propellbladdesign
+    prophy_cup_design:
+      name: Prophy-koppdesign
+    propulsion_type:
+      name: Fremdriftstype
+    protection_type:
+      name: Beskyttelsestype
+    protective_gear_features:
+      name: Beskyttelsesutstyrsfunksjoner
+    protective_mask_design:
+      name: Beskyttelsesmaskedesign
+    protective_mask_features:
+      name: Beskyttelsesmaskefunksjoner
+    pstn_connectivity_options:
+      name: Pstn-tilkoblingsalternativer
+    publication_frequency:
+      name: Publikasjonsfrekvens
+    publication_type:
+      name: Publiseringstype
+    pull_up_bar:
+      name: Pull-Up-stang
+    pump_accessories:
+      name: Pumpetilbehør
+    pump_speed_settings:
+      name: Innstillinger for pumpehastighet
+    punching/training_bag_material:
+      name: Punching- og treningsbagmateriale
+    puppet_theme:
+      name: Dukketema
+    puppet_type:
+      name: Dukketype
+    puzzle_theme:
+      name: Puslespilltema
+    puzzle_type:
+      name: Puslespilltype
+    quiver_style:
+      name: Pilholderstil
+    rack_design:
+      name: Rackdesign
+    rack_type:
+      name: Racktype
+    racket_gauge:
+      name: Racketmål
+    racket_material:
+      name: Racketmateriale
+    racket_string_design:
+      name: Racketsnordesign
+    racket_string_material:
+      name: Racketstrengmateriale
+    radar_bands:
+      name: Radarbånd
+    radar_technology:
+      name: Radarteknologi
+    radio_case_design:
+      name: Utforming på radiokabinett
+    radio_features:
+      name: Radiofunksjoner
+    ramp_type:
+      name: Rampetype
+    range_type:
+      name: Ovnstype
+    rarity:
+      name: Sjeldenhet
+    razor_flexibility:
+      name: Barberhøvelens fleksibilitet
+    razor_head_design:
+      name: Utforming av barberhøvelhode
+    razor_type:
+      name: Barberhøveltype
+    read/write_speed:
+      name: Lese-/skrivehastighet
+    reading_toy_type:
+      name: Leseleketype
+    receipt_paper_features:
+      name: Kvitteringspapirfunksjoner
+    reclining_function:
+      name: Liggende funksjon
+    recommended_age_group:
+      name: Anbefalt aldersgruppe
+    recommended_skill_level:
+      name: Anbefalt ferdighetsnivå
+    recommended_use:
+      name: Anbefalt bruk
+    recorder_fingering_system:
+      name: Fingersettingssystem for blokkfløyte
+    recorder_specialized_features:
+      name: Opptakerspesialiserte funksjoner
+    recording_accessories_included:
+      name: Inkludert opptaksutstyr
+    recording_quality:
+      name: Opptakskvalitet
+    recreational_vehicle_type:
+      name: Type fritidskjøretøy
+    reed_strength:
+      name: Rørstyrke
+    reel_capacity:
+      name: Snellekapasitet
+    reflector_design:
+      name: Reflektordesign
+    regenerative_braking_features:
+      name: Regenerative bremsefunksjoner
+    region:
+      name: Region
+    region_code:
+      name: Områdekode
+    release_schedule:
+      name: Frigjøringsplan
+    remote_technology:
+      name: Fjernteknologi
+    removable_storage_formats_supported:
+      name: Flyttbare lagringsformater støttes
+    reptile/amphibian_food_form:
+      name: Matform for reptiler/amfibier
+    reptile/amphibian_habitat_supply_type:
+      name: Habitatforsyningstype for reptiler/amfibier
+    research_focus:
+      name: Forskningsfokus
+    research_methodology:
+      name: Forskningsmetodikk
+    resistance_level:
+      name: Motstandsnivå
+    resistance_system:
+      name: Motstandssystem
+    result_display:
+      name: Resultatvisning
+    retail/sale_sign_design:
+      name: Detaljhandel/salg-skiltdesign
+    reticle_plane:
+      name: Retikkelplan
+    reticle_type:
+      name: Retikkeltype
+    rfid_frequency:
+      name: Rfid-frekvens
+    riding_style:
+      name: Ridestil
+    riding_toy_propulsion_type:
+      name: Fremdriftstype for rideleker
+    rim/wheel_design:
+      name: Felg/hjuldesign
+    ring_design:
+      name: Ringdesign
+    ring_size:
+      name: Ringstørrelse
+    riser_color:
+      name: Stigerørfarge
+    riser_material:
+      name: Hevemateriale
+    riser_pattern:
+      name: Stigerørmønster
+    rivet_form:
+      name: Nagleform
+    road_sign_design:
+      name: Veiskiltdesign
+    rock_composition:
+      name: Steinkomposisjon
+    rock_formation:
+      name: Steinformasjon
+    rocker_type:
+      name: Rocker-type
+    rod_color:
+      name: Stangfarge
+    rod_material:
+      name: Stangmateriale
+    rod_pattern:
+      name: Stangmønster
+    rod_shape:
+      name: Stangform
+    roller_head:
+      name: Rullehode
+    roller_material:
+      name: Rullemateriale
+    roller_type:
+      name: Rulletype
+    roof_decor_shape:
+      name: Takdekorform
+    rosin_form:
+      name: Rosinform
+    rosin_grade:
+      name: Harpikskvalitet
+    rotating_direction:
+      name: Roterende retning
+    rotator_control_technology:
+      name: Rotatorkontrollteknologi
+    rug/mat_features:
+      name: Teppe-/mattefunksjoner
+    rug/mat_material:
+      name: Teppe-/mattemateriale
+    rug/mat_shape:
+      name: Teppe-/matteform
+    rug_features:
+      name: Teppefunksjoner
+    rug_material:
+      name: Teppemateriale
+    rug_shape:
+      name: Teppeform
+    rum_grade:
+      name: Romkvalitet
+    saddle_base_color:
+      name: Sadelgrunnfarge
+    saddle_base_material:
+      name: Sadelgrunnmateriale
+    saddle_base_pattern:
+      name: Sadelgrunnmønster
+    saddle_material:
+      name: Salmateriale
+    saddle_seat_color:
+      name: Sadelsetefarge
+    saddle_seat_material:
+      name: Sadelsetemateriale
+    saddle_seat_pattern:
+      name: Sadelsetemønster
+    safety_certifications:
+      name: Sikkerhetssertifiseringer
+    safety_device_installation:
+      name: Installasjon av sikkerhetsanordning
+    safety_equipment_material:
+      name: Sikkerhetsutstyrsmateriale
+    safety_rail_installation:
+      name: Montering av sikkerhetsskinne
+    sailboat_type:
+      name: Seilbåttype
+    sandal_style:
+      name: Sandalstil
+    sandblaster_application:
+      name: Bruk av sandblåser
+    sander_type:
+      name: Slipetype
+    sanding_application:
+      name: Bruk av sliping
+    satellite_coverage_area:
+      name: Satellittdekningsområde
+    satellite_network_type:
+      name: Satellittnettverkstype
+    sauna_accessories_included:
+      name: Saunatilbehør inkludert
+    scaffolding_mounting_type:
+      name: Monteringstype for stillas
+    scale_material:
+      name: Skallmateriale
+    scale_model_accessory_type:
+      name: Tilbehøstype for skalamodeller
+    scale_model_kit_type:
+      name: Type skalasettmodell
+    scale_model_material:
+      name: Skalamodellmateriale
+    scale_model_theme:
+      name: Skalamodelltema
+    scalpel_blade_material:
+      name: Skalpellbladmateriale
+    scalpel_blade_number:
+      name: Skalpellbladnummer
+    scalpel_blade_shape:
+      name: Skalpellbladform
+    scalpel_handle_number:
+      name: Skalpellhåndtaknummer
+    scan_converter_features:
+      name: Skannekonverteringsfunksjoner
+    scanner_features:
+      name: Skannerfunksjoner
+    scanner_sensor_type:
+      name: Skannersensortype
+    scarf/shawl_style:
+      name: Skjerf-/sjalstil
+    scene_modes:
+      name: Scenemoduser
+    scent:
+      name: Duft
+    scissor_blade_type:
+      name: Saksebladtype
+    scope/sight_design:
+      name: Siktedesign
+    scope/sight_features:
+      name: Omfangs-/siktfunksjoner
+    scope_design:
+      name: Omfangsdesign
+    scope_lens_type:
+      name: Omfangsobjektivvtype
+    scoreboard_features:
+      name: Poengtavlefunksjoner
+    scrapbook_paper_type:
+      name: Papirtype for utklippsbok
+    screen/display_design:
+      name: Skjerm/displaydesign
+    screen_material:
+      name: Skjermmateriale
+    screen_specialized_features:
+      name: Skjermspesialiserte funksjoner
+    seafood_type:
+      name: Type sjømat
+    seal_stamp_design:
+      name: Utforming av seglstempel
+    season:
+      name: Årstid
+    seat_color:
+      name: Setefarge
+    seat_cushioning:
+      name: Seteputer
+    seat_pattern:
+      name: Setemønster
+    seat_shape:
+      name: Seteform
+    seat_structure:
+      name: Setestruktur
+    seat_type:
+      name: Setetype
+    seat_upholstery_color:
+      name: Setetrekkfarge
+    seat_upholstery_material:
+      name: Trekkmateriale for sete
+    seat_upholstery_pattern:
+      name: Setetrekkmønster
+    security_algorithms:
+      name: Sikkerhetsalgoritmer
+    security_level:
+      name: Sikkerhetsnivå
+    sensor/measuring_tool_features:
+      name: Sensor-/måleverktøysfunksjoner
+    sensor_features:
+      name: Sensorfunksjoner
+    sensor_type:
+      name: Sensortype
+    sequin/glitter_shape:
+      name: Paljett/glitter-form
+    sequin_shape:
+      name: Paljettform
+    serum_target_areas:
+      name: Serummålområder
+    service_type:
+      name: Tjenestetype
+    sewing_foot_type:
+      name: Syfottype
+    sewing_machine_part_category:
+      name: Symaskindelkategori
+    sfx_control_technology:
+      name: SFX-kontrollteknologi
+    shaft_color:
+      name: Skaftfarge
+    shaft_flex:
+      name: Skaftflex
+    shaft_material:
+      name: Skaftmateriale
+    shaft_orientation:
+      name: Skaftorientering
+    shaft_pattern:
+      name: Skaftmønster
+    shampoo/conditioner_effect:
+      name: Sjampo-/balsameffekt
+    shampoo/conditioner_items_included:
+      name: Sjampo-/balsamartikler inkludert
+    shampoo_type:
+      name: Sjampotype
+    shape:
+      name: Form
+    shapewear_support_level:
+      name: Støttenivå for shapewear
+    shaving_cream_formulation:
+      name: Formulering av barberkrem
+    shaving_kit_components:
+      name: Komponenter i barbersett
+    sheen/gloss_level:
+      name: Glansnivå
+    sheet_color:
+      name: Arkfarge
+    sheet_pattern:
+      name: Arkmønster
+    shelf_color:
+      name: Hyllefarge
+    shelf_material:
+      name: Hyllemateriale
+    shelf_pattern:
+      name: Hyllemønster
+    shell/frame_color:
+      name: Hylle-/rammefarge
+    shell/frame_material:
+      name: Hylle-/rammemateriale
+    shell/frame_pattern:
+      name: Hylle-/rammemønster
+    shingle/tile_material:
+      name: Singel-/flismateriale
+    shoe_binding_type:
+      name: Skobindingstype
+    shoe_features:
+      name: Skofunksjoner
+    shoe_fit:
+      name: Shoetilpasning
+    shoe_size:
+      name: Skostørrelse
+    shooting_modes:
+      name: Skytemodi
+    shopping_bag_material:
+      name: Handleveskemateriale
+    shower_base_design:
+      name: Grunndesign for dusj
+    shower_curtain_mounting_type:
+      name: Monteringstype for dusjforheng
+    shower_design:
+      name: Dusjdesign
+    shower_features:
+      name: Dusjfunksjoner
+    shower_opening_type:
+      name: Dusjåpningstype
+    shrink_ratio:
+      name: Krympeforhold
+    shutter_finish:
+      name: Lukkerfinish
+    siding_material:
+      name: Sidepanelmateriale
+    signature_placement:
+      name: Signaturplassering
+    silencer/blimp_type:
+      name: Lyddemper/blimptype
+    sim_card_capability:
+      name: Mulighet for sim-kort
+    sim_card_type:
+      name: Sim-kort type
+    sim_card_type_1:
+      name: SIM-kort type 1
+    sim_card_type_2:
+      name: SIM-kort type 2
+    sink_mounting_type:
+      name: Monteringstype for vask
+    sink_shape:
+      name: Fasong på vask
+    sink_type:
+      name: Vasktype
+    sinker_material:
+      name: Synkemateriale
+    size:
+      name: Størrelse
+    skateboarding_style:
+      name: Skateboardingstil
+    ski_construction:
+      name: Skikonstruksjon
+    skiing_style:
+      name: Skistil
+    skill_level:
+      name: Ferdighetsnivå
+    skin_care_effect:
+      name: Hudpleieeffekt
+    skin_care_features:
+      name: Hudpleiefunksjoner
+    skin_care_mask_type:
+      name: Hudpleiemasketype
+    skin_tone:
+      name: Hudtone
+    skin_undertone:
+      name: Hudundertone
+    skirt/dress_length_type:
+      name: Type skjørt-/kjolelengde
+    skirt_style:
+      name: Skjørtestil
+    slat_color:
+      name: Lamellfarge
+    slat_material:
+      name: Spilemateriale
+    slat_pattern:
+      name: Lamellmønster
+    sleeve_length_type:
+      name: Type ermelengde
+    slip_texture:
+      name: Glatt tekstur
+    slipper_style:
+      name: Tøffelstil
+    slot_machine_type:
+      name: Slotmaskintype
+    small_animal_dietary_requirements:
+      name: Krav til diett for små dyr
+    small_animal_food_form:
+      name: Matform små dyr
+    small_animal_food_ingredients:
+      name: Matingredienser for små dyr
+    small_animal_habitat/cage_type:
+      name: Habitat-/burtype for små dyr
+    smart_tv_platform:
+      name: Smart TV-plattform
+    smart_watch_features:
+      name: Smartklokkefunksjoner
+    sneaker_style:
+      name: Sneakerstil
+    snorkel_shape:
+      name: Snorkelform
+    snowboard_construction:
+      name: Snowboardkonstruksjon
+    snowboard_design:
+      name: Snowboarddesign
+    snowboarding_style:
+      name: Snowboardstil
+    snowmobile_type:
+      name: Snøscootertype
+    socket_driver_tip:
+      name: Pipetrekkertupp
+    socket_type:
+      name: Sokkeltype
+    soda_maker_accessories_included:
+      name: Brusmaskintilbehør inkludert
+    soda_variety:
+      name: Brusvariant
+    sofa_features:
+      name: Sofafunksjoner
+    softball_discipline:
+      name: Softballdisiplin
+    softbox_mounting_type:
+      name: Softbox-monteringstype
+    softbox_shape:
+      name: Softbox-form
+    software_features:
+      name: Programvarefunksjoner
+    software_tool_type:
+      name: Programvareverktøytype
+    softwood_lumber_grade:
+      name: Bartrekvalitet
+    solar_cell_type:
+      name: Solcelletype
+    solar_panel_connections:
+      name: Solcellepaneltilkoblinger
+    solar_panel_design:
+      name: Solcellepaneldesign
+    solder/flux_application:
+      name: Bruk av lodding/flux
+    soleplate_type:
+      name: Såleplatetype
+    solubility:
+      name: Løselighet
+    solution_type:
+      name: Løsningstype
+    solvent/thinner_application:
+      name: Påføring av løsemiddel/fortynner
+    solvent_application:
+      name: Påføring av løsemiddel
+    soothing_sounds:
+      name: Beroligende lyder
+    sound_controls:
+      name: Lydkontroller
+    sound_effects:
+      name: Lydeffekter
+    sound_insulation:
+      name: Lydisolasjon
+    sound_options:
+      name: Lydalternativer
+    speaker_configuration:
+      name: Høyttalerkonfigurasjon
+    speaker_design:
+      name: Høyttalerdesign
+    speaker_features:
+      name: Høyttalerfunksjoner
+    speaker_technology:
+      name: Høyttalerteknologi
+    speakerphone_type:
+      name: Type høyttalertelefon
+    speed_settings:
+      name: Hastighetsinnstillinger
+    spf_level:
+      name: Spf-nivå
+    spike_design:
+      name: Piggdesign
+    spinner_type:
+      name: Spinnertype
+    spirit_dilution:
+      name: Spritfortynning
+    splitter/switch_features:
+      name: Fordeler-/bryterfunksjoner
+    splitter_use:
+      name: Bruk av splitter
+    sponge_shape:
+      name: Svampform
+    spool_color:
+      name: Spolefarge
+    spool_material:
+      name: Spolemateriale
+    spool_pattern:
+      name: Spolemønster
+    sport:
+      name: Sport
+    sports_logo:
+      name: Sportslogo
+    sports_theme:
+      name: Sportstema
+    spout_type:
+      name: Tuttype
+    spreader_type:
+      name: Spredertype
+    sprinkler_head_type:
+      name: Sprinklerhodetype
+    sprinkler_shape:
+      name: Sprinklerform
+    squeegee_blade_design:
+      name: Skrapebladdesign
+    stack_configuration:
+      name: Stabelkonfigurasjon
+    stage:
+      name: Scene
+    stair_lifts_control_type:
+      name: Kontrolltype for trappeheis
+    staircase_features:
+      name: Trappefunksjoner
+    staircase_type:
+      name: Trappetype
+    stamp_theme:
+      name: Frimerketema
+    stamp_type:
+      name: Stempeltype
+    stand/display_type:
+      name: Skativ-/visningstype
+    staple_wire_gauge:
+      name: Stifttrådmåler
+    stapler_features:
+      name: Stiftefunksjoner
+    star_rating:
+      name: Stjernevurdering
+    start_type:
+      name: Starttype
+    station_type:
+      name: Stasjonstype
+    stationery_binding_type:
+      name: Innbindingstype for kontorrekvisita
+    stem_length:
+      name: Stengellengde
+    stencil/cut_shape:
+      name: Form på sjablong/kutt
+    step_type:
+      name: Trinntype
+    sterilization_cycle_time:
+      name: Tid for steriliseringssyklus
+    sterilization_instructions:
+      name: Instruksjoner for sterilisering
+    sterilization_method:
+      name: Steriliseringsmetode
+    stethoscope_design:
+      name: Stetoskopdesign
+    stethoscope_technology:
+      name: Stetoskopteknologi
+    stick_material:
+      name: Pinnemateriale
+    stiffness:
+      name: Stivhet
+    stimulator_tip_shape:
+      name: Stimulatorspissform
+    stone_material:
+      name: Steinmateriale
+    stone_name:
+      name: Steinnavn
+    stone_shape:
+      name: Steinform
+    stone_type:
+      name: Steintype
+    stopband:
+      name: Stoppbånd
+    stopwatch_features:
+      name: Stoppeklokkefunksjoner
+    storage_drive_interface_type:
+      name: Grensesnittstype for lagringsstasjon
+    storage_drive_interfaces_supported:
+      name: Støttede grensesnitt for lagringsstasjon
+    storage_drive_type_installed:
+      name: Type lagringsstasjon installert
+    storage_media_type:
+      name: Type lagringsmedia
+    storage_tank_application:
+      name: Bruk for lagringstank
+    storage_types_supported:
+      name: Lagringstyper som støttes
+    stove_airflow:
+      name: Luftstrøm for komfyr
+    stove_top_type:
+      name: Komfyrtopptype
+    strap_design:
+      name: Stroppdesign
+    straw/stirrer_design:
+      name: Design på sugerør/rørepinne
+    stretcher/gurney_intended_use:
+      name: Tiltenkt bruk for båre/gurney
+    string_color:
+      name: Strengfarge
+    string_instrument_size:
+      name: Strenginstrumentstørrelse
+    string_material:
+      name: Strengmateriale
+    string_pattern:
+      name: Strengmønster
+    stripper_application:
+      name: Påføring av avstrykning
+    stroller_features:
+      name: Barnevognfunksjoner
+    stroller_wheel_type:
+      name: Type barnevognhjul
+    style:
+      name: Stil
+    stylus_type:
+      name: Stylustype
+    subject_area:
+      name: Fagområde
+    subscription_type:
+      name: Abonnementtype
+    substrate_features:
+      name: Substratfunksjoner
+    suction_cup_color:
+      name: Sugekoppfarge
+    suction_cup_material:
+      name: Sugekoppmateriale
+    suction_cup_pattern:
+      name: Sugekoppmønster
+    suction_levels:
+      name: Sugenivåer
+    suitable_for_angling_type:
+      name: Egnet for fisketype
+    suitable_for_animal_type:
+      name: Egnet for dyretype
+    suitable_for_art_technique:
+      name: Egnet for kunstteknikk
+    suitable_for_bird_type:
+      name: Egnet for fugletype
+    suitable_for_boat_type:
+      name: Egnet for båttype
+    suitable_for_body/facial_hair:
+      name: Egnet for kropps-/ansiktshår
+    suitable_for_breed_size:
+      name: Egnet for rasestørrelse
+    suitable_for_bug_type:
+      name: Egnet for insektstype
+    suitable_for_camera/optics_device:
+      name: Egnet for kamera/optikkenhet
+    suitable_for_camera_type:
+      name: Egnet for kameratype
+    suitable_for_camping_activity:
+      name: Egnet for campingaktivitet
+    suitable_for_chair_type:
+      name: Egnet for stoltype
+    suitable_for_container_type:
+      name: Egnet for beholdertype
+    suitable_for_crafting_material:
+      name: Egnet for å lage materiale
+    suitable_for_door_type:
+      name: Egnet for dørtype
+    suitable_for_egg_type:
+      name: Egnet for eggtype
+    suitable_for_fabric_type:
+      name: Egnet for stofftype
+    suitable_for_fire_class:
+      name: Egnet for brannklasse
+    suitable_for_fish_type:
+      name: Egnet for fisketype
+    suitable_for_food_processor_type:
+      name: Egnet for kjøkkenmaskintype
+    suitable_for_furniture_type:
+      name: Egnet for møbeltype
+    suitable_for_gas_type:
+      name: Egnet for gasstype
+    suitable_for_hair_type:
+      name: Egnet for årtype
+    suitable_for_material_type:
+      name: Egnet for materialtype
+    suitable_for_pest_type:
+      name: Egnet for skadedyrtype
+    suitable_for_pipe_type:
+      name: Egnet for rørtype
+    suitable_for_pool_type:
+      name: Egnet for bassengtype
+    suitable_for_power_equipment_type:
+      name: Egnet for strømutstyrstype
+    suitable_for_precious_material:
+      name: Egnet for dyrebart materiale
+    suitable_for_printer_type:
+      name: Egnet for skrivertype
+    suitable_for_skin_tone:
+      name: Egnet for hudtone
+    suitable_for_skin_type:
+      name: Egnet for hudtype
+    suitable_for_snowshoeing_activity:
+      name: Egnet for trugeaktiviteter
+    suitable_for_storage_type:
+      name: Egnet for lagringstype
+    suitable_for_toothbrush:
+      name: Egnet for tannbørste
+    suitable_for_vehicle_type:
+      name: Egnet for kjøretøytype
+    suitable_for_water_feature_type:
+      name: Egnet for vannfunksjonstype
+    suitable_for_water_type:
+      name: Egnet for vanntype
+    suitable_for_weapon_type:
+      name: Egnet for våpentype
+    suitable_installation:
+      name: Egnet installasjon
+    suitable_location:
+      name: Egnet plassering
+    suitable_space:
+      name: Egnet plass
+    suitcase_handle_type:
+      name: 'Håndtakstype for koffert '
+    sulfur_content:
+      name: Svovelinnhold
+    sunlight:
+      name: Sollys
+    support/brace_material:
+      name: Støttemateriale
+    supported_language:
+      name: Støttet språk
+    surface_texture:
+      name: Overflatetekstur
+    surfboard_features:
+      name: Surfebrettfunksjoner
+    surveillance_camera_design:
+      name: Overvåkningskamera-design
+    surveillance_camera_mounting_type:
+      name: Festetype for overvåkingskamera
+    surverying_accessories_included:
+      name: Kartleggingstilbehør inkludert
+    suspender_style:
+      name: Bukseselestil
+    sustainability:
+      name: Bærekraft
+    swab_material:
+      name: Vattpinnemateriale
+    swimwear_features:
+      name: Badetøyfunksjoner
+    swing_style:
+      name: Svingstil
+    swing_weighting:
+      name: Svingvekting
+    switch_control_type:
+      name: Bryterkontrolltype
+    switching_method:
+      name: Byttemetode
+    synthesis_method:
+      name: Syntesemetode
+    system_of_measurement:
+      name: Målesystem
+    system_range:
+      name: Systemområde
+    systems_supported:
+      name: Støttede systemer
+    tab_style:
+      name: Fanestil
+    tabletop_color:
+      name: Bordplatefarge
+    tabletop_material:
+      name: Bordplatemateriale
+    tabletop_pattern:
+      name: Bordplatemønster
+    tabletop_shape:
+      name: Bordplateform
+    tableware_material:
+      name: Borddekningsmateriale
+    tack/pushpin_head_design:
+      name: Hodeutforming for tegnestift/festeknapp
+    tag_fastening:
+      name: Tagfesting
+    tampon_absorbency_level:
+      name: Tampongabsorberingsnivå
+    tampon_features:
+      name: Tampongfunksjoner
+    tan_type:
+      name: Garvetype
+    tank_color:
+      name: Farge på tank
+    tank_material:
+      name: Tankmateriale
+    tank_pattern:
+      name: Tankmønster
+    tape_material:
+      name: Tapemateriale
+    target_audience:
+      name: Målgruppe
+    target_gender:
+      name: Målkjønn
+    targeted_pests:
+      name: Målrettede skadedyr
+    targeted_stains:
+      name: Målrettede flekker
+    tea_input_type:
+      name: Teinngangstype
+    technology_level:
+      name: Teknologinivå
+    teeth_material:
+      name: Tannmateriale
+    telephone_cable_interface:
+      name: Grensesnitt for telefonledning
+    telephone_style:
+      name: Telefonstil
+    telescope_level:
+      name: Teleskopnivå
+    telescope_tracking_system:
+      name: Teleskopsporingssystem
+    television_shape:
+      name: TV-form
+    television_specialized_features:
+      name: TV-spesialiserte funksjoner
+    temperature:
+      name: Temperatur
+    temperature_control:
+      name: Temperaturkontroll
+    temperature_measurement:
+      name: Temperaturmåling
+    template_type:
+      name: Maltype
+    temple_color:
+      name: Tempelfarge
+    temple_pattern:
+      name: Tempelmønster
+    tension:
+      name: Spenning
+    tequila_variety:
+      name: Tequila-variant
+    terminal_operation:
+      name: Terminaldrift
+    terrain:
+      name: Terreng
+    test_format:
+      name: Testformat
+    test_method:
+      name: Testmetode
+    test_sample:
+      name: Testprøve
+    tetherball_equipment_included:
+      name: Smashballustyr inkludert
+    text_plate_material:
+      name: Tekstplatemateriale
+    textile_craft_machine_features:
+      name: Maskinfunksjoner for tekstilkunst
+    textile_craft_project_type:
+      name: Prosjekttype for tekstilhåndverk
+    texture:
+      name: Tekstur
+    texture_level:
+      name: Teksturnivå
+    theme:
+      name: Tema
+    thermal_detector_type:
+      name: Termisk detektortype
+    thermocouple_type:
+      name: Type termoelement
+    thickness_type:
+      name: Tykkelsestype
+    thinner_application:
+      name: Påføring av fortynner
+    thread_direction:
+      name: Gjengeretning
+    threaded_rod_size:
+      name: Gjengestenger
+    throw_pillow_shape:
+      name: Form på kastepute
+    ticket_additional_features:
+      name: Tilleggsfunksjoner for billett
+    ticket_type:
+      name: Billetttype
+    tile_design:
+      name: Flisdesign
+    tile_game_type:
+      name: Feltspilltype
+    tile_installation_method:
+      name: Fliseinstallasjonsmetode
+    tile_look:
+      name: Flisutseende
+    tile_material:
+      name: Flismateriale
+    tile_texture:
+      name: Flistekstur
+    time_period:
+      name: Tidsperiode
+    time_signatures:
+      name: Tidssignaturer
+    time_weighting:
+      name: Tidsvekting
+    timepiece_features:
+      name: Urfunksjoner
+    timer_design:
+      name: Tidtakerdesign
+    timer_features:
+      name: Tidtakerfunksjoner
+    timer_type:
+      name: Timertype
+    tip_design:
+      name: Tuppdesign
+    tip_material:
+      name: Tuppmateriale
+    tip_opening:
+      name: Tuppåpning
+    tip_style:
+      name: Tuppstil
+    tip_type:
+      name: Tupptype
+    tire_bead_type:
+      name: Dekkvulsttype
+    tobacco_type:
+      name: Tobakktype
+    toddler_bed_features:
+      name: Funksjoner for barneseng
+    toe_spacer_design:
+      name: Utforming av tåavstandsstykke
+    toe_strap_type:
+      name: Tåreimtype
+    toe_style:
+      name: Tåstil
+    toilet/bidet_mounting_type:
+      name: Monteringstype for toalett/bidet
+    toilet_cover_design:
+      name: Design av toalettlokk
+    toilet_cover_features:
+      name: Toalettlokkfunksjoner
+    toilet_mounting_type:
+      name: Monteringstype for toalett
+    toilet_shape:
+      name: Toalettfasong
+    tom_tom_design:
+      name: Tom-tomdesign
+    tool/utensil_material:
+      name: Verktøy-/redskapsmateriale
+    tool_key_tip:
+      name: Verktøynøkkeltips
+    tool_mobility:
+      name: Verktøymobilitet
+    tool_operation:
+      name: Verktøyoperasjon
+    toothpaste_type:
+      name: Tannpastatype
+    toothpick_design:
+      name: Utforming på tannpirker
+    top_color:
+      name: Toppfarge
+    top_length_type:
+      name: Type topplengde
+    top_material:
+      name: Toppmateriale
+    top_pattern:
+      name: Toppmønster
+    top_surface_material:
+      name: Øvre overflatemateriale
+    tote_handle_type:
+      name: Håndtakstype for bæreveske
+    totem_design:
+      name: Totemdesign
+    touch_capabilities:
+      name: Berøringsfunksjoner
+    touchscreen_technology:
+      name: Berøringsskjermteknologi
+    toy/game_material:
+      name: Leke/spillmateriale
+    toy_figure_features:
+      name: Lekefigurfunksjoner
+    toy_figure_theme:
+      name: Lekefigurtema
+    toy_tool_type:
+      name: Lekeverktøytype
+    tracking_metrics:
+      name: Sporingsmål
+    tracking_purpose:
+      name: Sporingsformål
+    tractor_accessories_included:
+      name: Inkludert traktortilbehør
+    trade_show_display_features:
+      name: Varemessedisplayfunksjoner
+    trading_card_packaging:
+      name: Samlekortemballasje
+    traffic_control_device_features:
+      name: Trafikkkontrollenhetsfunksjoner
+    trail_camera_design:
+      name: Viltkameradesign
+    trailer_type:
+      name: Trailertype
+    training_data_requirements:
+      name: Krav til opplæringsdata
+    trampoline_design:
+      name: Trampolinedesign
+    transcriber/dictation_system_features:
+      name: Systemfunksjoner for transkribering/diktering
+    transfer_boards_surface_type:
+      name: Overflatetype for overføringskort
+    transfer_paper_technique:
+      name: Overføringspapirteknikk
+    transmission_type:
+      name: Transmisjonstype
+    trash_can_features:
+      name: Søppelbøttefunksjoner
+    travel_pillow_shape:
+      name: Form på reisepute
+    treatment_area:
+      name: Behandlingsområde
+    treatment_objective:
+      name: Behandlingsmål
+    treatment_texture:
+      name: Behandlingstekstur
+    treatment_type:
+      name: Behandlingstype
+    tree_stand_material:
+      name: Trestativmateriale
+    trellis_design:
+      name: Trellisdesign
+    tricycle_design:
+      name: Trehjulssykkeldesign
+    tricycle_propulsion_type:
+      name: Trehjulssykkelfremdriftstype
+    trip_type:
+      name: Turtype
+    tripod/monopod_attachment_type:
+      name: Festetype til trefot/monopod
+    tripod/monopod_head_type:
+      name: Hoder til trefot/monopod
+    tripod_handle_type:
+      name: Trefothåndtakstype
+    trophy_design:
+      name: Trofédesign
+    truck_type:
+      name: Truck-type
+    tube_component:
+      name: Rørkomponent
+    tube_configuration:
+      name: Rørkonfigurasjon
+    tuner_design:
+      name: Tunerdesign
+    tuner_type:
+      name: Stemmertype
+    tuning_fork_design:
+      name: Stemmegaffeldesign
+    tuning_fork_frequency:
+      name: Stemmegaffelfrekvens
+    tuning_modes:
+      name: Stemmingsmodi
+    tuning_pitch:
+      name: Stemmefrekvens
+    tuning_range:
+      name: Stemmingsområde
+    undershirt_style:
+      name: Underskjortestil
+    underwear_style:
+      name: Undertøysstil
+    units_of_measurement:
+      name: Måleenheter
+    update_frequency:
+      name: Oppdateringsfrekvens
+    upholstery_color:
+      name: Farge på møbeltrekk
+    upholstery_material:
+      name: Trekkmateriale
+    upholstery_pattern:
+      name: Trekkmønster
+    urinal_mounting_type:
+      name: Monteringstype for urinal
+    usage_conditions:
+      name: Bruksbetingelser
+    usage_frequency:
+      name: Bruksfrekvens
+    usage_type:
+      name: Brukstype
+    usb_standard:
+      name: Usb-standard
+    user_type:
+      name: Brukertype
+    utility/maintenance_task_type:
+      name: Oppgavetype for verktøy/vedlikehold
+    uv_protection:
+      name: UV-beskyttelse
+    vacuum_air_filtering_technology:
+      name: Luftfiltreringsteknologi for støvsuger
+    valve_type:
+      name: Ventiltype
+    van_type:
+      name: Varebiltype
+    vaping_style:
+      name: Damperstil
+    varnish/finish_application:
+      name: Påføring av lakk/finish
+    vase_shape:
+      name: Vaseform
+    vdi_protocol_support:
+      name: Vdi-protokollstøtte
+    vehicle_alarm/lock_features:
+      name: Alarm-/låsfunksjoner for kjøretøy
+    vehicle_application_area:
+      name: Bruksområde for kjøretøy
+    vehicle_audio_system_features:
+      name: Lydsystemfunksjoner for kjøretøy
+    vehicle_braking_features:
+      name: Bremsefunksjoner til kjøretøy
+    vehicle_cleaning_item_features:
+      name: Funksjoner for rengjøring av kjøretøy
+    vehicle_decor_features:
+      name: Dekorfunksjoner for kjøretøy
+    vehicle_drive/handling_features:
+      name: Kjøre-/håndteringsfunksjoner for kjøretøy
+    vehicle_engine/part_features:
+      name: Dele-/motorfunksjoner for kjøretøy
+    vehicle_engine_features:
+      name: Funksjoner for kjøretøymotor
+    vehicle_engine_part_features:
+      name: Dele-/motorfunksjoner for kjøretøy
+    vehicle_exhaust_type:
+      name: Kjøretøyeksostype
+    vehicle_features:
+      name: Kjøretøysfunksjoner
+    vehicle_fluid_features:
+      name: Kjøretøysvæskefunksjoner
+    vehicle_fluid_type:
+      name: Kjøretøysvæsketype
+    vehicle_frame/body_features:
+      name: Kjøretøysrammer/karosserifunksjoner
+    vehicle_mirror_design:
+      name: Kjøretøyspeildesign
+    vehicle_mirror_features:
+      name: Kjøretøyspeilfunksjoner
+    vehicle_mirror_type:
+      name: Kjøretøyspeiltype
+    vehicle_oil_features:
+      name: Kjøretøyoljefunksjoner
+    vehicle_paint_type:
+      name: Lakktype for kjøretøy
+    vehicle_placement:
+      name: Plassering av kjøretøy
+    vehicle_seating_features:
+      name: Kjøretøysetefunksjoner
+    vehicle_suspension_features:
+      name: Kjøretøyfjæringsfunksjoner
+    vehicle_tire_type:
+      name: Dekktype for kjøretøy
+    vehicle_type:
+      name: Kjøretøystype
+    verification_technology:
+      name: Verifikasjonsteknologi
+    vg/pg_ratio:
+      name: VG/PG-forhold
+    video_codecs/formats_supported:
+      name: Støttede kodeker/formater
+    video_game_content_features:
+      name: Innholdsfunksjoner i videospill
+    video_game_genre:
+      name: Videospillsjanger
+    video_game_platform:
+      name: Videospillplattform
+    video_game_sub_genre:
+      name: Undersjanger av videospill
+    video_port_type:
+      name: Videoporttype
+    video_region_code:
+      name: Videoregionkode
+    video_resolution_supported:
+      name: Støttet videooppløsning
+    viewing_area_height:
+      name: Høyde for visningsområde
+    viewing_area_width:
+      name: Bredde for visningsområde
+    vinegar_drink_variety:
+      name: Eddikdrikke-variant
+    vinegar_variety:
+      name: Edikkvariant
+    viscosity:
+      name: Viskositet
+    visual_effect:
+      name: Visuell effekt
+    voip_protocol_support:
+      name: Voip-protokollstøtte
+    wader_type:
+      name: Vadetype
+    waist_rise:
+      name: Midjeløft
+    wall_material:
+      name: Veggmateriale
+    wall_patching_application:
+      name: Påføring av vegglapping
+    wall_plate_style:
+      name: Veggplatestil
+    wallet_features:
+      name: Lommebokfunksjoner
+    wallpaper_application_method:
+      name: Påføringsmetode for tapet
+    wallpaper_theme:
+      name: Bakgrunnstema
+    warning_category:
+      name: Advarselskategori
+    washer/dryer_features:
+      name: Vaskemaskin-/tørketrommelfunksjoner
+    washer_form:
+      name: Skiveform
+    washing_machine_features:
+      name: Vaskemaskinfunksjoner
+    washing_method:
+      name: Vaskemetode
+    washing_programs:
+      name: Vaskeprogrammer
+    waste_bag_features:
+      name: Avfallsposefunksjoner
+    waste_bag_material:
+      name: Avfallsposemateriale
+    watch/band_material:
+      name: Klokke/båndmateriale
+    watch_accessory_style:
+      name: Stil for klokketilbehør
+    watch_display:
+      name: Klokkevisning
+    watch_features:
+      name: Klokkefunksjoner
+    watch_material:
+      name: Klokkemateriale
+    water_filter_application:
+      name: Vannfilterbruk
+    water_sport:
+      name: Vannsport
+    watercraft_engine_control_type:
+      name: Motorkontrolltype for vannfartøy
+    watercraft_features:
+      name: Båtfunksjoner
+    watercraft_motor_mounting_type:
+      name: Motorfestetype for vannfartøy
+    watercraft_propulsion_type:
+      name: Fremdriftstype for båt
+    watercraft_steering_wheel_type:
+      name: Ratt-type for vannfartøy
+    watercraft_type:
+      name: Båttype
+    waveski_features:
+      name: Waveskifunksjoner
+    wax_application_method:
+      name: Vokspåføringsmetode
+    wax_type:
+      name: Vokstype
+    weather_strip_design:
+      name: Design av værlister
+    weather_supply_application_method:
+      name: Værforsyningspåføringsmetode
+    weatherization_application:
+      name: Bruk av værbeskyttelse
+    webcam_design:
+      name: Webkameradesign
+    weight_bar_activity:
+      name: Vektstangaktivitet
+    weight_bar_type:
+      name: Vektstangtype
+    weight_type:
+      name: Vekttype
+    weight_unit_supported:
+      name: Støttet vektenhet
+    welding_helmet_features:
+      name: Sveisehjelmfunksjoner
+    wet_bag_features:
+      name: Våtposefunksjoner
+    wheel_hardness:
+      name: Hjulhardhet
+    wheel_hub_placement:
+      name: Hjulnavplassering
+    wheel_part_type:
+      name: Deletype for dekk
+    wheel_type:
+      name: Hjultype
+    wheelchair_type:
+      name: Rullestoltype
+    whiskey_style:
+      name: Whisky-stil
+    whiskey_variety:
+      name: Whisky-variant
+    wi_fi_band:
+      name: Wi-Fi-bånd
+    wi_fi_standard:
+      name: Wi-Fi-standard
+    winder_features:
+      name: Viklerfunksjoner
+    windlass_design:
+      name: Ankerspilldesign
+    window_treatment_material:
+      name: Vindusbehandlingsmateriale
+    windsurfing_board_style:
+      name: Windsurfingbrettstil
+    wine_rack_design:
+      name: Utforming på vinstativ
+    wine_sweetness:
+      name: Vinsødme
+    wine_variety:
+      name: Vinvariant
+    wipe_dispenser/warmer_features:
+      name: Tørkedispenser-/varmeapparatfunksjoner
+    wipe_dispenser_features:
+      name: Tørkedispenserfunksjoner
+    wipe_fragrance:
+      name: Duft på servietter
+    wipe_packaging:
+      name: Emballasje på servietter
+    wipe_warmer_features:
+      name: Tørkevarmeapparatfunksjoner
+    wire/rope_material:
+      name: Tråd-/taumateriale
+    wire_thickness:
+      name: Ledningstykkelse
+    woodwind_care_items_included:
+      name: Treblåsingsartikler medfølger
+    work_capacity:
+      name: Arbeidskapasitet
+    wreath_design:
+      name: Kransdesign
+    yacht_type:
+      name: Yacht-type
+    yarn_weight_category:
+      name: Vektkategori for garn
+    zipper_pull_style:
+      name: Glidelåstrekkerstil
+    zoom_type:
+      name: Zoomtype

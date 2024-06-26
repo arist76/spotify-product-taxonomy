@@ -1,0 +1,4531 @@
+---
+nl:
+  attributes:
+    3d_glasses_material:
+      name: 3D-brillen materiaal
+    abrasive_material:
+      name: Schurend materiaal
+    absinthe_style:
+      name: Absintstijl
+    absinthe_variety:
+      name: Absintvariant
+    absorbency_level:
+      name: Absorptieniveau
+    absorbent_hygiene_product_features:
+      name: Kenmerken van absorberende hygiëneproducten
+    academic_level:
+      name: Academisch niveau
+    accessory_material:
+      name: Accessoire materiaal
+    accessory_size:
+      name: Accessoiregrootte
+    accordion_tuning:
+      name: Afstemming accordeon
+    active_ingredient:
+      name: Actief ingrediënt
+    activewear_clothing_features:
+      name: Kenmerken Activewear-kleding
+    activity:
+      name: Activiteit
+    activity_tracker_design:
+      name: Ontwerp activiteitentracker
+    acupuncture_model_format:
+      name: Indeling acupunctuurmodellen
+    acupuncture_model_type:
+      name: Type acupunctuurmodellen
+    additional_animation_software_features:
+      name: Extra functies voor animatiesoftware
+    additional_design_software_type:
+      name: Type extra ontwerpsoftware
+    additional_financial_software_features:
+      name: Extra functies voor financiële software
+    additional_graphic_software_features:
+      name: Extra functies voor grafische software
+    additional_publishing_software_features:
+      name: Extra functies voor publicatiesoftware
+    additional_security_software_features:
+      name: Extra functies voor beveiligingssoftware
+    adhesive_type:
+      name: Lijmtype
+    aftershave_product_form:
+      name: Productvorm aftershave
+    age_group:
+      name: Leeftijdsgroep
+    age_restrictions:
+      name: Leeftijdsbeperkingen
+    ai_application:
+      name: AI-toepassing
+    air_freshener_form:
+      name: Vorm luchtverfrisser
+    air_mattress_features:
+      name: Kenmerken luchtmatras
+    airbrush_feed_type:
+      name: Type airbrush-toevoer
+    airbrush_operation_method:
+      name: Airbrush bedieningsmethode
+    airsoft_equipment_included:
+      name: Airsoft-uitrusting inbegrepen
+    album_type:
+      name: Albumtype
+    alert_type:
+      name: Waarschuwingstype
+    allergen_information:
+      name: Allergeneninformatie
+    allergen_test_type:
+      name: Allergeentesttype
+    allergens:
+      name: Allergenen
+    allergy_friendly_features:
+      name: Allergievriendelijke functies
+    amplifier/booster_suitable_location:
+      name: Geschikte locatie versterker/booster
+    amplifier_class:
+      name: Versterkerklasse
+    amplifier_configuration:
+      name: Versterkerconfiguratie
+    anchor_type:
+      name: Ankertype
+    anemometer_application:
+      name: Toepassing anemometer
+    angles_supported:
+      name: Ondersteunde hoeken
+    angling_style:
+      name: Hengelstijl
+    animal_feed_form:
+      name: Vorm diervoeding
+    animal_type:
+      name: Diertype
+    antenna_type:
+      name: Antennetype
+    anti_agin_skin_care_type:
+      name: Type anti-aging huidverzorging
+    antifreeze_type:
+      name: Antivriestype
+    application_area:
+      name: Toepassingsgebied
+    application_method:
+      name: Toepassingsmethode
+    applicator_material:
+      name: Applicatormateriaal
+    applicator_type:
+      name: Type applicator
+    applique/patch_shape:
+      name: Appliqué-/patch-vorm
+    applique_shape:
+      name: Appliqué-vorm
+    aquarium_filter_features:
+      name: Functies van aquariumfilters
+    aquarium_light_spectrum:
+      name: Aquariumlichtspectrum
+    aquarium_overflow_box_design:
+      name: Aquarium overloopbak ontwerp
+    archery_activity:
+      name: Boogschieten
+    archery_equipment_included:
+      name: Boogschutten uitrusting inbegrepen
+    archery_style:
+      name: Boogschietstijl
+    aromatherapy:
+      name: Aromatherapie
+    arrangement:
+      name: Regeling
+    arrow/bolt_material:
+      name: Materiaal pijl/kruisboogpijl
+    arrow_fletching_material:
+      name: Materiaal pijlveer
+    arrow_material:
+      name: Materiaal pijl
+    art/crafting_tool_material:
+      name: Materiaal voor kunst/knutselgereedschap
+    art_fixative_application_method:
+      name: Toepassingsmethode voor kunstfixatief
+    art_style:
+      name: Kunststijl
+    artwork_frame_material:
+      name: Materiaal frame van kunstwerk
+    artwork_type:
+      name: Kunsttype
+    assisted_braking_technology:
+      name: Technologie van remassistent
+    attachment_method:
+      name: Bevestigingsmethode
+    attachment_options:
+      name: Bevestigingsopties
+    attachment_type:
+      name: Bevestigingstype
+    atv/off_road_tire_type:
+      name: Type ATV/offroad-band
+    audio/scan_converter_features:
+      name: Audio/Scan converter functies
+    audio_codecs/formats_supported:
+      name: Ondersteunde audiocodecs/formaten
+    audio_connectivity:
+      name: Audioconnectiviteit
+    audio_converter_features:
+      name: Audio converter functies
+    audio_d/a_converter_dac:
+      name: Audio-DA-converter (DAC)
+    audio_mixer_type:
+      name: Type audiomixer
+    audio_output_channel:
+      name: Audio-uitvoerkanaal
+    audio_output_format:
+      name: Audio-uitvoerformaat
+    audio_player/recorder_features:
+      name: Functies voor audiospeler/recorder
+    audio_purpose:
+      name: Audiodoel
+    audio_technology:
+      name: Audiotechnologie
+    authentication_technology:
+      name: Authenticatie technologie
+    authenticity:
+      name: Authenticiteit
+    auto_focusing_modes:
+      name: Automatische scherpstelmodi
+    autoclave_sterilization_method:
+      name: Autoclaafsterilisatiemethode
+    autograph_type:
+      name: Handtekeningtype
+    automation:
+      name: Automatisering
+    award_design:
+      name: Awardontwerp
+    award_occasion:
+      name: Awardgelegenheid
+    awning_construction_type:
+      name: Bouwtype luifel
+    awning_design:
+      name: Luifel ontwerp
+    baby/toddler_car_seat_features:
+      name: Kenmerken baby-/peuterautostoel
+    baby/toddler_clothing_features:
+      name: Kenmerken kleding voor baby's en peuters
+    baby/toddler_equipment_safety_features:
+      name: Veiligheidskenmerken baby-/peuteruitrusting
+    baby/toddler_furniture_features:
+      name: Kenmerken baby-/peutermeubilair
+    baby/toddler_furniture_items_included:
+      name: Baby-/peutermeubels inbegrepen
+    baby/toddler_hat_style:
+      name: Stijl baby-/peuterhoedje
+    baby/toddler_hosiery_style:
+      name: Stijl kousen voor baby's/peuters
+    baby/toddler_seat_features:
+      name: Kenmerken baby-/peuterzitje
+    baby/toddler_sleepwear_style:
+      name: Stijl baby-/peuterslaapkleding
+    baby_drink_packaging:
+      name: Verpakking babydrankjes
+    baby_equipment_safety_features:
+      name: Veiligheidskenmerken van babyuitrusting
+    baby_food_flavor:
+      name: Smaak babyvoeding
+    baby_formula_format:
+      name: Grootte melkpoeder voor baby's
+    baby_gift_items_included:
+      name: Inclusief babycadeauartikelen
+    baby_health_items_included:
+      name: Inclusief babygezondheidsartikelen
+    baby_monitor_features:
+      name: Kenmerken babyfoon
+    baby_snack_flavor:
+      name: Smaak babysnack
+    baby_snack_texture:
+      name: Textuur babysnack
+    back_type:
+      name: Rugtype
+    background_design:
+      name: Achtergrondontwerp
+    backing_color:
+      name: Kleur steun
+    backing_material:
+      name: Materiaal achterkant
+    backing_pattern:
+      name: Patroon achtergrond
+    backrest_type:
+      name: Rugleuningtype
+    backrest_upholstery_color:
+      name: Kleur bekleding rugleuning
+    backrest_upholstery_material:
+      name: Bekledingsmateriaal rugleuning
+    backrest_upholstery_pattern:
+      name: Pattroon bekleding rugleuning
+    bag/case_closure:
+      name: Sluiting voor tas/koffer
+    bag/case_features:
+      name: Kenmerken tas/koffer
+    bag/case_material:
+      name: Materiaal van tas/doos
+    bag/case_storage_features:
+      name: Opbergkenmerken tas/koffer
+    bag_closure:
+      name: Sluiting tas
+    bag_strap_type:
+      name: Type tasband
+    bag_style:
+      name: Stijl tas
+    bag_type:
+      name: Tastype
+    bakery_items_included:
+      name: Bakkerijproducten inbegrepen
+    bakeware_features:
+      name: Kenmerken bakgerei
+    bakeware_items_included:
+      name: Bakgerei inbegrepen
+    bakeware_pieces_included:
+      name: Inclusief bakvormen
+    bakeware_shape:
+      name: Vorm bakgerei
+    baking_purpose:
+      name: Doel van het bakken
+    baking_sheet_material:
+      name: Materiaal bakplaat
+    ball_material:
+      name: Materiaal bal
+    ball_size:
+      name: Balgrootte
+    balloon_kit_items_included:
+      name: Inclusief ballonsetartikelen
+    balloon_shape:
+      name: Ballonvorm
+    band_color:
+      name: Bandkleur
+    band_material:
+      name: Bandmateriaal
+    band_pattern:
+      name: Patroon band
+    band_strength:
+      name: Bandsterkte
+    banner_design:
+      name: Bannerontwerp
+    bar_mounting_type:
+      name: Type stangmontage
+    barcode_scanner_interface:
+      name: Barcodescanner-interface
+    barcode_supported:
+      name: Barcode ondersteund
+    barrel_material:
+      name: Materiaal vat
+    barware_items_included:
+      name: Barartikelen inbegrepen
+    barware_material:
+      name: Materiaal bargerei
+    base_oil:
+      name: Basisolie
+    base_spirit:
+      name: Basisdrank
+    base_type:
+      name: Basistype
+    baseball/softball_ball_type:
+      name: Type bal honkbal/softbal
+    basket_material:
+      name: Materiaal mand
+    basketball_equipment_included:
+      name: Basketbaluitrusting inbegrepen
+    bass_button_configuration:
+      name: Configuratie basknop
+    bat_material:
+      name: Materiaal knuppel
+    bat_standard:
+      name: Knuppelstandaard
+    bathroom_furniture_items_included:
+      name: Inclusief badkamermeubels
+    bathtub_base_design:
+      name: Ontwerp badkuip
+    bathtub_features:
+      name: Kenmerken badkuip
+    bathtub_skirt_shape:
+      name: Vorm badkuipbekleding
+    baton_grip_design:
+      name: Ontwerp stokgreep
+    battery_cell_type:
+      name: Batterijceltype
+    battery_features:
+      name: Kenmerken batterij
+    battery_management_features:
+      name: Kenmerken batterijbeheer
+    battery_size:
+      name: Batterijgrootte
+    battery_technology:
+      name: Batterijtechnologie
+    battery_type:
+      name: Batterijtype
+    bead_shape:
+      name: Kraalvorm
+    beat_subdivisions:
+      name: Klopperonderverdeling
+    beater_head_size:
+      name: Formaat klopper
+    bed/frame_features:
+      name: Kenmerken bed-/frame
+    bed_pan_type:
+      name: Type bedpan
+    bedding_pieces_included:
+      name: Inclusief beddengoed
+    bedding_size:
+      name: Beddengoedmaat
+    beer_style:
+      name: Bierstijl
+    beer_variety:
+      name: Biervariant
+    bell_design:
+      name: Belontwerp
+    bell_size:
+      name: Formaat klok
+    bell_sound:
+      name: Belgeluid
+    belt_type:
+      name: Riemtype
+    best_uses:
+      name: Beste toepassingen
+    bevel_type:
+      name: Afschuiningtype
+    beverage_product_form:
+      name: Vorm drankproduct
+    bib_design:
+      name: Ontwerp slab
+    bicycle_brake_type:
+      name: Fietsremtype
+    bicycle_features:
+      name: Kenmerken fiets
+    bidet_mounting_type:
+      name: Type bidetmontage
+    binder_ring_shape:
+      name: Vorm bindring
+    binding_mount:
+      name: Bindingsbeugel
+    binding_style:
+      name: Bindingsstijl
+    binocular/monocular_design:
+      name: Ontwerp binoculair/monoculair
+    binocular_design:
+      name: Ontwerp verrekijker
+    biometric_monitor_accessory_features:
+      name: Kenmerken biometrische monitor
+    bios_type:
+      name: BIOS-type
+    bird_cage/stand_design:
+      name: Ontwerp vogelkooi/standaard
+    bird_food_form:
+      name: Vorm vogelvoer
+    bird_food_ingredients:
+      name: Ingrediënten vogelvoer
+    bird_treat_type:
+      name: Type vogeltraktatie
+    birthday_candle_design:
+      name: Ontwerp verjaardagskaars
+    birthday_candle_type:
+      name: Type verjaardagskaars
+    bitter_variety:
+      name: Variant bitter
+    blade_curve:
+      name: Bladcurve
+    blade_design:
+      name: Ontwerp blad
+    blade_material:
+      name: Bladmateriaal
+    blade_type:
+      name: Bladtype
+    blanket_color:
+      name: Kleur deken
+    blanket_pattern:
+      name: Patroon deken
+    blending_type:
+      name: Mengtype
+    blind/shade_style:
+      name: Stijl jaloezie/schaduw
+    blood_test_kit_components:
+      name: Componenten bloedtestkit
+    board_concave_shape:
+      name: Concaaf board
+    board_game_features:
+      name: Kenmerken spelbord
+    board_game_mechanics:
+      name: Bordspelmechanismen
+    board_material:
+      name: Materiaal board
+    board_mounting_type:
+      name: Type boardmontage
+    board_profile:
+      name: Dashboardprofiel
+    board_surface:
+      name: Oppervlakte bord
+    board_type:
+      name: Dashboardtype
+    boat_type:
+      name: Boottype
+    body/facial_hair_type:
+      name: Type lichaams- en gezichtshaar
+    body_area:
+      name: Lichaamsgebied
+    body_color:
+      name: Kleur behuizing
+    body_jewelry_type:
+      name: Type lichaamssieraden
+    body_material:
+      name: Kernmateriaal
+    body_paint/foundation_type:
+      name: Type lichaamsverf/foundation
+    body_pattern:
+      name: Patroon lichaam
+    bodyboard_features:
+      name: Kenmerken bodyboard
+    boiler_system:
+      name: Boilersysteem
+    bolt_form:
+      name: Vorm bout
+    bolt_material:
+      name: Materiaal kruisboogpijl
+    book/file_cover_material:
+      name: Materiaal omslag boek/dossier
+    book_cover_material:
+      name: Materiaal boekomslag
+    book_cover_type:
+      name: Boekomslagtype
+    bookmark_design:
+      name: Ontwerp bladwijzer
+    bookmark_shape:
+      name: Vorm bladwijzer
+    boot_style:
+      name: Laarsstijl
+    boot_type:
+      name: Opstarttype
+    borescope_design:
+      name: Ontwerp stethoscoop
+    bottle/container_closure:
+      name: Fles-/containersluiting
+    bottle_closure_type:
+      name: Sluitingstype fles
+    bottle_design:
+      name: Flesontwerp
+    bottle_material:
+      name: Materiaal fles
+    bottle_sterilizer_features:
+      name: Kenmerken flessensterilisator
+    bottle_type:
+      name: Flestype
+    bottle_warmer/sterilizer_features:
+      name: Kenmerken flessenwarmer/sterilisator
+    bottle_warmer_features:
+      name: Kenmerken flessenwarmer
+    bottom_surface_material:
+      name: Materiaal bodem
+    bow/crossbow_features:
+      name: Kenmerken boog/kruisboog
+    bow_features:
+      name: Kenmerken boog
+    bow_hair_material:
+      name: Materiaal booghaar
+    bow_material:
+      name: Boogmateriaal
+    box_type:
+      name: Doostype
+    bra_closure_type:
+      name: Sluitingstype bh
+    bra_coverage:
+      name: Bedekking bh
+    bra_features:
+      name: Kenmerken BH
+    bra_strap_type:
+      name: Type bh-bandje
+    bra_style:
+      name: Stijl bh
+    bra_support_level:
+      name: Ondersteuningsniveau bh
+    bracelet_design:
+      name: Ontwerp armband
+    bracket/brace_design:
+      name: Ontwerp beugel
+    brandy_variety:
+      name: Brandyvariant
+    breath_sprays_certifications:
+      name: Certificeringen ademsprays
+    bridge/router_advanced_features:
+      name: Geavanceerde functies brug/router
+    brightness_levels:
+      name: Helderheidsniveaus
+    bristle_material:
+      name: Borstelhaarmateriaal
+    bristle_shape:
+      name: Borstelvorm
+    broadhead/field_point_material:
+      name: Materiaal breedkop/veldpunt
+    brush_application:
+      name: Aanbrengen met een kwast
+    brush_head_usage:
+      name: Gebruik opzetborstel
+    brush_material:
+      name: Materiaal borstel
+    brush_size:
+      name: Penseelgrootte
+    brush_type:
+      name: Penseeltype
+    bug_type:
+      name: Type insect
+    building_board_material:
+      name: Materiaal bouwplaat
+    building_consumable_form:
+      name: Vorm verbruiksartikelen bouw
+    building_toy_type:
+      name: Type bouwspeelgoed
+    bulb_cap_type:
+      name: Lampdoptype
+    bulb_shape:
+      name: Lampvorm
+    bulb_size:
+      name: Lampgrootte
+    bulb_type:
+      name: Lamptype
+    bulldozer_blade_type:
+      name: Bulldozerbladtype
+    bullet_protection_level:
+      name: Kogelbeschermingsniveau
+    bullhorn_features:
+      name: Kenmerken megafoon
+    bullion_form:
+      name: Goud- en zilverstavenvorm
+    burner_material:
+      name: Materiaal brander
+    butt_cap_color:
+      name: Kleur buttcap
+    butt_cap_material:
+      name: Hengeldopmateriaal
+    butt_cap_pattern:
+      name: Patroon buttcap
+    button/snap_closure_type:
+      name: Type knop-/druksluiting
+    cabinet_type:
+      name: Kasttype
+    cable_housing_material:
+      name: Materiaal kabelbehuizing
+    cable_shielding:
+      name: Kabelafscherming
+    cable_type:
+      name: Kabeltype
+    cage_type:
+      name: Kooitype
+    calculator_accessory_type:
+      name: Type accessoire voor rekenmachines
+    calculator_features:
+      name: Kenmerken rekenmachine
+    calendar/organizer_features:
+      name: Kenmerken agenda/organizer
+    calendar_format:
+      name: Kalenderindeling
+    cam_system:
+      name: CAM-systeem
+    camera_attachment:
+      name: Camerabevestiging
+    camera_button/knob_type:
+      name: Cameraknop/knoptype
+    camera_control_type:
+      name: Type camerabediening
+    camera_display_technology:
+      name: Cameraschermtechnologie
+    camera_features:
+      name: Kenmerken camera
+    camera_gear_type:
+      name: Type camera-uitrusting
+    camera_hd_type:
+      name: HD-type camera
+    camera_lens_material:
+      name: Materiaal cameralens
+    camera_lens_type:
+      name: Type cameralens
+    camera_mounting_type:
+      name: Type cameramontage
+    camera_sensor_type:
+      name: Type camerasensor
+    camera_shape:
+      name: Cameravorm
+    candle_kit_items_included:
+      name: Inclusief kaarsensetartikelen
+    candle_material:
+      name: Type kaarmateriaal
+    candle_shape:
+      name: Vorm kaars
+    candle_type:
+      name: Kaarstype
+    canned_meat_variety:
+      name: Ingeblikte vleesvariant
+    canopy_color:
+      name: Kleu luifel
+    canopy_material:
+      name: Materiaal afdak
+    canopy_pattern:
+      name: Patroon luifel
+    canvas_finish:
+      name: Doekafwerking
+    canvas_material:
+      name: Materiaal canvas
+    canvas_texture:
+      name: Doektextuur
+    car_freshener_fragrance:
+      name: Geur autoverfrisser
+    car_seat_installation:
+      name: Installatie autozitje
+    car_seat_orientation:
+      name: Richting autozitje
+    car_type:
+      name: Autotype
+    carabiner_gate_type:
+      name: Karabijnhaakpoorttype
+    carabiner_shape:
+      name: Vorm karabijnhaak
+    card/adapter_installation:
+      name: Installatie kaart/adapter
+    card_attributes:
+      name: Kaartkenmerken
+    card_design:
+      name: Kaartontwerp
+    card_format:
+      name: Formaat kaart
+    card_holder_design:
+      name: Kaarthouderontwerp
+    card_size:
+      name: Grootte kaart
+    care_instructions:
+      name: Onderhoudsinstructies
+    carry_options:
+      name: Draagopties
+    carrying_positions:
+      name: Draagposities
+    carrying_type:
+      name: Draagtype
+    cart_design:
+      name: Winkelwagenontwerp
+    cart_type:
+      name: Winkelwagentype
+    cartridge_type:
+      name: Cartridgetype
+    case_color:
+      name: Kleur behuizing
+    case_pattern:
+      name: Patroon doos
+    case_type:
+      name: Doostype
+    cassette_adapter_type:
+      name: Type cassetteadapter
+    cat_age_group:
+      name: Leeftijdsgroep kat
+    cat_litter_formula:
+      name: Formule kattenbakvulling
+    cbd_ingredients:
+      name: Ingrediënten CBD
+    celebration_type:
+      name: Type viering
+    chain_link_type:
+      name: Kettingschakeltype
+    chain_type:
+      name: Kettingtype
+    chair/sofa_features:
+      name: Kenmerken stoel/sofa
+    chair_features:
+      name: Kenmerken stoel
+    chalkboard_surface:
+      name: Oppervlak krijtbord
+    changing_mat/tray_features:
+      name: Kenmerken wisselmat/bak
+    changing_mat_features:
+      name: Kenmerken verschoningsmat
+    changing_tray_features:
+      name: Kenmerken wisselbak
+    charger_type:
+      name: Opladertype
+    charging_cable_type:
+      name: Type oplaadkabel
+    charging_level:
+      name: Oplaadniveau
+    charging_method:
+      name: Laadmethode
+    chassis_type:
+      name: Chassistype
+    chemical_application:
+      name: Chemische toepassing
+    chemical_container_type:
+      name: Type chemische container
+    chemical_grade:
+      name: Chemische kwaliteit
+    chemical_product_form:
+      name: Vorm chemisch product
+    chemical_purity:
+      name: Chemische zuiverheid
+    chemical_safety_features:
+      name: Chemischeveiligheidsvoorzieningen
+    chicken_feed_stage:
+      name: Fase kippenvoer
+    child_seat_placement:
+      name: Plaatsing kinderzitje
+    chipper_technology:
+      name: Versnipperaartechnologie
+    chiropractic_table_design:
+      name: Ontwerp chiropractortafel
+    chuck_type:
+      name: Boorhoudertype
+    cigar_body:
+      name: Sigaarbody
+    circuit_board_features:
+      name: Kenmerken printplaat
+    circuit_breaker_design:
+      name: Ontwerp zekering
+    circuit_breaker_panel_form:
+      name: Vorm zekeringspaneel
+    circuit_breaker_type:
+      name: Zekeringtype
+    clarinet_key_system:
+      name: Sleutelsysteem klarinet
+    clasp_type:
+      name: Gesptype
+    claw_design:
+      name: Klauwontwerp
+    clay/slip_texture:
+      name: Structuur klei/slip
+    clay_texture:
+      name: Kleitextuur
+    cleaner_purpose:
+      name: Doel schoonmaakmiddel
+    cleaning_instructions:
+      name: Reinigingsinstructies
+    cleaning_purpose:
+      name: Reinigingsdoel
+    cleaning_surfaces:
+      name: Reiningsoppervlakken
+    cleat_type:
+      name: Schoenplaattype
+    climbing_activity:
+      name: Klimactiviteit
+    clip_type:
+      name: Cliptype
+    clipper/trimmer_type:
+      name: Type tondeuse/trimmer
+    closure_style:
+      name: Sluitingsstijl
+    closure_type:
+      name: Sluitingstype
+    clothing_accessory_material:
+      name: Materiaal kledingaccessoire
+    clothing_features:
+      name: Kenmerken kleding
+    club_subset:
+      name: Clubsubset
+    club_type:
+      name: Clubtype
+    coating/sealant_application:
+      name: Toepassing coating/afdichtmiddel
+    cocktail_decoration_design:
+      name: Ontwerp cocktailversieringen
+    cocktail_decoration_material:
+      name: Materiaal cocktaildecoratie
+    coffee/tea_set_pieces_included:
+      name: Inclusief koffie/theeservies
+    coffee_creamer_variety:
+      name: Koffieroomvariant
+    coffee_input_type:
+      name: Koffie-invoertype
+    coffee_product_form:
+      name: Vorm koffieproduct
+    coffee_roast:
+      name: Koffiebrander
+    coil_connection:
+      name: Spoelaansluiting
+    coin_material:
+      name: Materiaal munt
+    collar/mount_compatible_device:
+      name: Compatibel apparaat met kraag/montage
+    collar/mount_design:
+      name: Ontwerp kraag/montage
+    collar_lock_type:
+      name: Type kraagslot
+    color:
+      name: Kleur
+    color_accuracy_standards:
+      name: Kleurnauwkeurigheidsnormen
+    color_saturation:
+      name: Kleurverzadiging
+    communication_device_features:
+      name: Kenmerken communicatieapparaat
+    communication_protocols:
+      name: Communicatieprotocollen
+    compass_style:
+      name: Stijl kompas
+    compatible_aircraft_type:
+      name: Compatibel vliegtuigtype
+    compatible_amplifier:
+      name: Compatibele versterker
+    compatible_aquarium:
+      name: Compatibel aquarium
+    compatible_baby_bottle_design:
+      name: Compatibel ontwerp babyfles
+    compatible_baby_carrier_type:
+      name: Compatibel type babydraagzak
+    compatible_baby_chair_type:
+      name: Compatibel type babystoel
+    compatible_baby_transport_type:
+      name: Compatibel type babyvervoer
+    compatible_ball_type:
+      name: Compatibel baltype
+    compatible_battery_size:
+      name: Compatibele batterijgrootte
+    compatible_battery_technology:
+      name: Compatibele batterijtechnologie
+    compatible_bench_positions:
+      name: Compatibele bankposities
+    compatible_bike_type:
+      name: Compatibel fietstype
+    compatible_brass_instrument:
+      name: Compatibel koperinstrument
+    compatible_clarinet_type:
+      name: Compatibel klarinettype
+    compatible_cosmetic_tools:
+      name: Compatibele cosmetische hulpmiddelen
+    compatible_device:
+      name: Compatibel apparaat
+    compatible_drum_configuration:
+      name: Compatibele drumconfiguratie
+    compatible_electric/acoustic_instrument:
+      name: Compatibel elektrisch/akoestisch instrument
+    compatible_electronic_card_type:
+      name: Compatibel elektronisch kaarttype
+    compatible_exercises:
+      name: Compatibele oefeningen
+    compatible_filament:
+      name: Compatibel filament
+    compatible_film_type:
+      name: Compatibel filmtype
+    compatible_flute_type:
+      name: Compatibel fluittype
+    compatible_game_format:
+      name: Compatibel spelformaat
+    compatible_gardening_tool:
+      name: Compatibel tuingereedschap
+    compatible_hair_color:
+      name: Compatibele haarkleur
+    compatible_hammock_design:
+      name: Compatibel hangmatontwerp
+    compatible_harmonica_type:
+      name: Compatibel mondharmonicatype
+    compatible_hdcp:
+      name: Compatibele HDCP
+    compatible_instrument:
+      name: Compatibel instrument
+    compatible_keyboard_configuration:
+      name: Compatibele keyboardconfiguratie
+    compatible_lock_type:
+      name: Compatibel slottype
+    compatible_makeup:
+      name: Compatibele make-up
+    compatible_mattress_size:
+      name: Compatibele matrasmaat
+    compatible_memory_cards:
+      name: Compatibele geheugenkaarten
+    compatible_microphone_thread:
+      name: Compatibele microfoondraad
+    compatible_motherboard_form_factor:
+      name: Compatibele moederbordvormfactor
+    compatible_oboe_type:
+      name: Compatibel hobotype
+    compatible_operating_system:
+      name: Compatibel besturingssysteem
+    compatible_orchestral_string_instrument:
+      name: Compatibel strijkinstrument
+    compatible_paper_size:
+      name: Compatibel papierformaat
+    compatible_patient_profile:
+      name: Compatibel patiëntprofiel
+    compatible_percussion_instrument:
+      name: Compatibel percussie-instrument
+    compatible_play_vehicle_type:
+      name: Compatibel speelvoertuigtype
+    compatible_player:
+      name: Compatibele speler
+    compatible_printer:
+      name: Compatibele printer
+    compatible_processor_series:
+      name: Compatibele processorreeks
+    compatible_programming_languages:
+      name: Compatibele programmeertalen
+    compatible_recipes:
+      name: Compatibele recepten
+    compatible_resolution:
+      name: Compatibele resolutie
+    compatible_seat_type:
+      name: Compatibel stoeltype
+    compatible_shoe_size:
+      name: Compatibele schoenmaat
+    compatible_software_platform:
+      name: Compatibel softwareplatform
+    compatible_special_effects_device:
+      name: Compatibel apparaat met speciale effecten
+    compatible_stove_top_type:
+      name: Compatibel type kookplaat
+    compatible_string_instrument:
+      name: Compatibel snaarinstrument
+    compatible_stroller_type:
+      name: Compatibel type kinderwagen
+    compatible_vacuum_type:
+      name: Compatibel vacuümtype
+    compatible_vehicle:
+      name: Compatibel voertuig
+    compatible_walking_aid_equipment:
+      name: Compatibele loophulpmiddelen
+    compatible_weight_lifting_accessory:
+      name: Compatibel gewichthefaccessoire
+    compliance_certifications:
+      name: Nalevingscertificeringen
+    component_output_type:
+      name: Component-uitvoertype
+    component_package_type:
+      name: Componentpakkettype
+    compression_format:
+      name: Compressieformaat
+    compression_level:
+      name: Compressieniveau
+    computer_accessories_included:
+      name: Inclusief computeraccessoires
+    computer_form:
+      name: Computerformulier
+    computer_server_features:
+      name: Kenmerken computerserver
+    computer_specialized_features:
+      name: Gespecialiseerde kenmerken van de computer
+    concertina_button_configuration:
+      name: Concertina-knopconfiguratie
+    condition:
+      name: Staat
+    conditioner_effect:
+      name: Conditionereffect
+    condom_type:
+      name: Condoomtype
+    connecting_thread:
+      name: Verbindingsdraad
+    connection_method:
+      name: Verbindingsmethode
+    connection_type:
+      name: Verbindingstype
+    connectivity_technology:
+      name: Connectiviteitstechnologie
+    connector_design:
+      name: Ontwerp connector
+    connector_gender:
+      name: Connectorgeslacht
+    console_system:
+      name: Consolesysteem
+    constitutive_ingredients:
+      name: Constitutieve ingrediënten
+    construction_set_theme:
+      name: Thema bouwset
+    contrast:
+      name: Contrast
+    contrast_ratio_typical:
+      name: Contrastverhouding (typisch)
+    control_functions:
+      name: Bedieningsfuncties
+    control_method:
+      name: Bedieningsmethode
+    control_technology:
+      name: Bedieningstechnologie
+    control_type:
+      name: Bedieningstype
+    controller_design:
+      name: Controller-ontwerp
+    controller_drive_type:
+      name: Controlleraandrijvingstype
+    converter_functionality:
+      name: Converter-functionaliteit
+    conveyor_operation:
+      name: Transportbandbediening
+    cooking_method:
+      name: Kookmethode
+    cooking_wine_variety:
+      name: Kookwijnvariant
+    cookware/bakeware_features:
+      name: Kenmerken kookgerei/bakgerei
+    cookware/bakeware_material:
+      name: Materiaal kookgerei/bakgerei
+    cookware_features:
+      name: Kenmerken kookgerei
+    cookware_items_included:
+      name: Kookgerei inbegrepen
+    cooling_technology:
+      name: Koeltechnologie
+    cord_fastening_system:
+      name: Koordbevestigingssysteem
+    core_color:
+      name: Kleur kern
+    core_material:
+      name: Kernrmateriaal
+    core_pattern:
+      name: Patroon kern
+    corrector_features:
+      name: Kenmerken corrector
+    corsage/boutonniere_design:
+      name: Corsage/boutonni√®re-ontwerp
+    cosmetic_condition:
+      name: Cosmetische staat
+    cosmetic_finish:
+      name: Cosmetische afwerking
+    cosmetic_function:
+      name: Cosmetische functie
+    costume_theme:
+      name: Thema kostuum
+    counter_shape:
+      name: Vorm balie
+    country:
+      name: Land
+    cover_closure_design:
+      name: Ontwerp dekselsluiting
+    cover_color:
+      name: Kleur bekleding
+    cover_features:
+      name: Kenmerken omslag
+    cover_material:
+      name: Omslagmateriaal
+    cover_pattern:
+      name: Patroon bekleding
+    cover_type:
+      name: Hoestype
+    coverage_area:
+      name: Dekkingsgebied
+    coverage_region:
+      name: Dekkingsregio
+    craft/sculpting_project_type:
+      name: Type ambachtelijk/beeldhouwproject
+    craft_cutter/embosser_type:
+      name: Type ambachtelijke snijder/embosser
+    craft_decoration_maker_type:
+      name: Type ambachtelijke decoratiemaker
+    craft_knife_design:
+      name: Ontwerp ambachtelijk mes
+    craft_pipe_cleaner_design:
+      name: Ontwerp van ambachtelijke pijpenragers
+    craft_project_type:
+      name: Type ambachtelijk project
+    crafting_frame/stretcher_features:
+      name: Kenmerken knutselframe/stretcher
+    crafting_frame_features:
+      name: Kenmerken knutselframe
+    crafting_hoop_features:
+      name: Kenmerken knutselhoepel
+    crafting_mat/pad_features:
+      name: Kenmerken knutselmat/-pad
+    crafting_stretcher_features:
+      name: Kenmerken van de handwerkstretcher
+    crampon_attachment_type:
+      name: Type bevestiging stijgijzers
+    creative_art_project_type:
+      name: Type creatief kunstproject
+    crib/toddler_bed_features:
+      name: Kenmerken ledikant/peuterbed
+    crib_features:
+      name: Kenmerken ledikant
+    cricket_equipment_included:
+      name: Cricketuitrusting inbegrepen
+    crutch_type:
+      name: Kruktype
+    crystal_system:
+      name: Kristalsysteem
+    cue_style:
+      name: Keustijl
+    cue_type:
+      name: Keutype
+    cue_wrap:
+      name: Keuwikkel
+    cuisine:
+      name: Keuken
+    culinary_botanical_name:
+      name: Culinaire botanische naam
+    cup_size:
+      name: Cupmaat
+    curler_type:
+      name: Krultangtype
+    currencies_supported:
+      name: Ondersteunde valuta
+    currency:
+      name: Valuta
+    currency_type:
+      name: Valutatype
+    customer_support_channels:
+      name: Kanalen voor klantenondersteuning
+    customization:
+      name: Aanpassing
+    cutter_options:
+      name: Opties snijder
+    cutting_method:
+      name: Snijmethode
+    cycling_style:
+      name: Fietsstijl
+    data_network:
+      name: Gegevensnetwerk
+    decoration_material:
+      name: Decoratiemateriaal
+    decorative_stamp_design:
+      name: Ontwerp decoratieve stempel
+    denomination:
+      name: Coupure
+    dental_floss_shape:
+      name: Vorm flossdraad
+    dental_floss_thickness_level:
+      name: Flossdraaddikte
+    dental_floss_type:
+      name: Type flossdraad
+    dental_mouthgard_recommended_use:
+      name: Aanbevolen gebruik mondbescherming
+    dental_mouthguard_certifications:
+      name: Certificeringen tandheelkundige gebitsbeschermers
+    dental_paste_flavor:
+      name: Smaak tandpasta
+    dental_repair_kit_certifications:
+      name: Certificaten tandheelkundige reparatieset
+    dental_water_jet_operation:
+      name: Bediening tandheelkundige waterstraal
+    dentistry_items_included:
+      name: Tandheelkundige artikelen inbegrepen
+    denture_base_color:
+      name: Kleur kunstgebitbasis
+    denture_coverage:
+      name: Dekking kunstgebit
+    denture_design:
+      name: Ontwerp kunstgebit
+    denture_teeth_color:
+      name: Kleur kunstgebittanden
+    deployment_type:
+      name: Implementatietype
+    desk_organizer_features:
+      name: Kenmerken bureau-organizer
+    desk_size:
+      name: Bureauformaat
+    detailed_ingredients:
+      name: Gedetailleerde ingrediënten
+    detectable_drugs:
+      name: Detecteerbare medicijnen
+    detector_operation_mode:
+      name: Werkingsmodus detector
+    detector_sensitivity:
+      name: Detectorgevoeligheid
+    detector_type:
+      name: Connectortype
+    developmental_features:
+      name: Ontwikkelingskenmerken
+    device_interface:
+      name: Apparaatinterface
+    device_technology:
+      name: Apparaattechnologie
+    dexterity_skills:
+      name: Behendigheidsvaardigheden
+    dial_color:
+      name: Kleur wijzerplaat
+    dial_pattern:
+      name: Patroon wijzerplaat
+    diaper_bag_additional_features:
+      name: Extra kenmerken luiertas
+    diaper_bag_material:
+      name: Materiaal luiertas
+    diaper_bag_style:
+      name: Stijl luiertas
+    diaper_features:
+      name: Kenmerken luier
+    diaper_kit_components:
+      name: Componenten luierset
+    diaper_organizer_features:
+      name: Kenmerken luierhouder
+    diaper_size:
+      name: Grootte luier
+    diaper_type:
+      name: Type luier
+    dice_shape:
+      name: Dobbelsteenvorm
+    dielectric_type:
+      name: Diëlektrisch type
+    dietary_preferences:
+      name: Dieetvoorkeuren
+    dietary_supplements:
+      name: Voedingssupplementen
+    dietary_use:
+      name: Dieetgebruik
+    difficulty_level:
+      name: Moeilijkheidsgraad
+    diffuser_design:
+      name: Diffuserontwerp
+    digital_sound_processing:
+      name: Digitale geluidsverwerking
+    dinnerware_pieces_included:
+      name: Inclusief borden
+    dirt_separating_method:
+      name: Vuilafscheidende methode
+    discharge_type:
+      name: Ontladingstype
+    disk_format_type:
+      name: Schijfformaattype
+    dispenser_type:
+      name: Dispensertype
+    display_board_features:
+      name: Kenmerken van het displaybord
+    display_color_mode:
+      name: Kleurmodus display
+    display_features:
+      name: Kenmerken display
+    display_mode:
+      name: Weergavemodus
+    display_recommended_use:
+      name: Aanbevolen gebruik weergeven
+    display_resolution:
+      name: Schermresolutie
+    display_sign_design:
+      name: Ontwerp displaybord
+    display_technology:
+      name: Schermtechnologie
+    disposable/reusable_bag_features:
+      name: Kenmerken wegwerp-/herbruikbare zak
+    disposable/reusable_item_material:
+      name: Materiaal eenmalig/herbruikbaar artikel
+    disposable_bag_features:
+      name: Kenmerken wegwerpzakken
+    disposable_bag_material:
+      name: Materiaal wegwerpzak
+    disposable_glove_features:
+      name: Kenmerken wegwerphandschoen
+    disposable_tableware_material:
+      name: Materiaal wegwerpservies
+    dive_computer_items_included:
+      name: Duikcomputerartikelen inbegrepen
+    diving/snorkeling_equipment_included:
+      name: Duik-/snorkeluitrusting inbegrepen
+    diving_regulator_style:
+      name: Stijl ocotopus
+    dj_equipment_features:
+      name: Kenmerken DJ-apparatuur
+    dj_software_compatibility:
+      name: Compatibiliteit DJ-software
+    dog_age_group:
+      name: Leeftijdsgroep hond
+    dog_diaper_size:
+      name: Maat hondenluier
+    dog_diaper_type:
+      name: Type hondenluier
+    dog_house_features:
+      name: Kenmerken hondenhok
+    dog_kennel/run_features:
+      name: Kenmerken hondenkennel/ren
+    dog_kennel_features:
+      name: Kenmerken hondenkennel
+    dog_pen_features:
+      name: Kenmerken hondenhok
+    dog_toy_type:
+      name: Type hondenspeelgoed
+    doll/playset_features:
+      name: Kenmerken pop / speelset
+    doll_features:
+      name: Kenmerken pop
+    doll_type:
+      name: Type pop
+    door/frame_application:
+      name: Toepassing deur/kozijn
+    door_application:
+      name: Toepassing deur
+    door_closer_application:
+      name: Deurdranger-toepassing
+    door_closer_design:
+      name: Ontwerp deurdranger
+    door_color:
+      name: Deurkleur
+    door_frame_application:
+      name: Toepassing deurkozijn
+    door_frame_finish:
+      name: Afwerking deurkozijn
+    door_glass_finish:
+      name: Afwerking deurglas
+    door_insulation:
+      name: Isolatie deur
+    door_knob_function:
+      name: Deurknopfunctie
+    door_mat_base_color:
+      name: Kleur deurmat basis
+    door_mat_base_material:
+      name: Materiaal deurmat basis
+    door_mat_base_pattern:
+      name: Patroon kleur deurmat basis
+    door_mat_surface_material:
+      name: Materiaal deurmat oppervlak
+    door_material:
+      name: Deurmateriaal
+    door_pattern:
+      name: Patroon deur
+    door_stop_placement:
+      name: Plaatsing deurstopper
+    door_stopper_design:
+      name: Ontwerp deurstopper
+    door_suitable_location:
+      name: Geschikte locatie deur
+    door_surface_finish:
+      name: Afwerking deuroppervlak
+    door_type:
+      name: Deurtype
+    double_stroller_configuration:
+      name: Configuratie dubbele kinderwagen
+    download_format:
+      name: Downloadformaat
+    drain_location:
+      name: Afvoerlocatie
+    drawing/painting_kit_items_included:
+      name: Inclusief teken-/schildersetartikelen
+    dress_form_features:
+      name: Kenmerken kledingvorm
+    dress_occasion:
+      name: Gelegenheid jurk
+    dress_style:
+      name: Stijl jurk
+    drill_features:
+      name: Kenmerken boor
+    drilling_method:
+      name: Boormethode
+    drilling_rig_orientation:
+      name: Oriëntatie boorinstallatie
+    drinkware_material:
+      name: Materiaal drinkgerei
+    drinkware_pieces_included:
+      name: Inclusief glazen
+    drive_size:
+      name: Aandrijfmaat
+    drive_type:
+      name: Aandrijvingstype
+    drum_configuration:
+      name: Drumconfiguratie
+    drum_hardware_adjustability:
+      name: Aanpasbaarheid drumhardware
+    drum_hardware_material:
+      name: Materiaal drumstelaccesoires
+    dry/wet_cleaning:
+      name: Droog/nat reinigen
+    dry_bean_variety:
+      name: Droge boonvariant
+    dryer_features:
+      name: Kenmerken droger
+    dryer_technology:
+      name: Drogertechnologie
+    drying_speed:
+      name: Droogsnelheid
+    duct_design:
+      name: Ontwerkp luchtschacht
+    duct_shape:
+      name: Vorm leiding
+    duplexing_technology:
+      name: Duplextechnologie
+    durability_features:
+      name: Kenmerken duurzaamheid
+    dust_container_type:
+      name: Stofcontainertype
+    dust_mask_type:
+      name: Type stofmasker
+    dye_form:
+      name: Kleurstofvorm
+    dynamic_level:
+      name: Dynamisch niveau
+    e_book_formats_supported:
+      name: Ondersteunde eboek-indelingen
+    e_cigarette/vaporizer_style:
+      name: E-sigaret-/vape-stijl
+    e_liquid_flavor:
+      name: E-vloeistofsmaak
+    e_liquid_variety:
+      name: E-vloeistofvariant
+    e_reader_display_technology:
+      name: Technologie beeldscherm e-readers
+    ear_care_application_method:
+      name: Toepassingsmethode oorverzorging
+    earphone_features:
+      name: Kenmerken oortelefoon
+    earplug_use:
+      name: Gebruik oordopjes
+    earring_design:
+      name: Ontwerp oorbel
+    edge_style:
+      name: Keustijl
+    edge_type:
+      name: Type rand
+    education_level:
+      name: Opleidingsniveau
+    egg_decorating_items_included:
+      name: Inclusief eiversieringsartikelen
+    egg_turning:
+      name: Ei draaien
+    electronic_drum_components:
+      name: Componenten voor elektronisch drumstel
+    electronic_game_genre:
+      name: Elektronisch spelgenre
+    embellishment/trim_material:
+      name: Materiaal versiering/rand
+    embellishments:
+      name: Versieringen
+    embossing_project_type:
+      name: Type embossingproject
+    embouchure_hole_shape:
+      name: Vorm embouchure-gat
+    emergency/safety_sign_design:
+      name: Ontwerp nood-/veiligheidsbord
+    emergency_items_included:
+      name: Noodartikelen inbegrepen
+    enclosure_type:
+      name: Behuizingstype
+    energy_efficiency_class:
+      name: Energie-efficiëntieklasse
+    energy_efficiency_class_hdr:
+      name: Energie-efficiëntieklasse (HDR)
+    energy_efficiency_class_sdr:
+      name: Energie-efficiëntieklasse (SDR)
+    engine_design:
+      name: Motorontwerp
+    engine_purpose:
+      name: Doel van de motor
+    engine_type:
+      name: Motor type
+    engraving:
+      name: Gravure
+    envelope_features:
+      name: Kenmerken envelop
+    envelope_seal_design:
+      name: Ontwerp envelopafdichting
+    equipment_operation:
+      name: Bediening apparatuur
+    era:
+      name: Tijdperk
+    esrb_rating:
+      name: ESRB-beoordeling
+    ethernet_lan_interface_type:
+      name: Ethernet-Lan-interfacetype
+    ev_battery_features:
+      name: Kenmerken batterij voor elektrisch voertuig
+    ev_battery_type:
+      name: EV-batterijtype
+    ev_connector/adapter_type:
+      name: Type EV-connector/adapter
+    ev_conversion_kit_components:
+      name: Componenten EV-conversiekit
+    evaporation_technology:
+      name: Verdampingstechnologie
+    event_type:
+      name: Evenementtype
+    exercise_equipment_included:
+      name: Trainingsapparatuur inbegrepen
+    exercise_equipment_material:
+      name: Materiaal fitnessapparatuur
+    exercise_machine_features:
+      name: Kenmerken fitnessmachine
+    exercise_mat_material:
+      name: Materiaal oefenmat
+    expansion_slots:
+      name: Uitbreidingsslots
+    exposure_control:
+      name: Belichtingsbediening
+    extended_saxophone_range:
+      name: Uitgebreid saxofoonbereik
+    external_defibrillator_features:
+      name: Kenmerken externe defibrillator
+    extinguisher_rating:
+      name: Blusrating
+    extinguishing_agent_type:
+      name: Brandklasse
+    extraction_type:
+      name: Extractietype
+    extractor_tip_style:
+      name: Afzuigtipstijl
+    eye_pillow_shape:
+      name: Vorm oogkussen
+    eye_shadow_effect:
+      name: Oogschaduweffect
+    eyebrow_enhancer_color:
+      name: Kleur wenkbrauwpotlood
+    eyelash_applicator_design:
+      name: Ontwerp applicator voor wimpers
+    eyelash_material:
+      name: Materiaal wimper
+    eyelash_type:
+      name: Type wimper
+    eyepiece/adapter_material:
+      name: Materiaal oculair/adapter
+    eyewear_frame_color:
+      name: Kleur brilmontuur
+    eyewear_frame_design:
+      name: Ontwerp brilmontuur
+    eyewear_frame_material:
+      name: Materiaal brilmontuur
+    eyewear_frame_pattern:
+      name: Patroon brilmontuur
+    eyewear_frame_shape:
+      name: Vorm brilmontuur
+    eyewear_lens_color:
+      name: Kleur brillenglazen
+    eyewear_lens_material:
+      name: Materiaal brillenglazen
+    eyewear_lens_pattern:
+      name: Patroon brillenglazen
+    fabric:
+      name: Stof
+    fabric_structure:
+      name: Structuur stof
+    face_area:
+      name: Gezichtsgebied
+    face_powder_color:
+      name: Kleur gezichtspoeder
+    face_powder_type:
+      name: Type gezichtspoeder
+    faceplate_design:
+      name: Ontwerp wijzerplaat
+    facility_sign_design:
+      name: Ontwerp faciliteitsbord
+    false_nail_application_method:
+      name: Toepassingsmethode nepnagels
+    fastener_finish:
+      name: Afwerking sluiting
+    fastener_material:
+      name: Materiaal bevestiging
+    fastener_type:
+      name: Bevestigingstype
+    fat_content:
+      name: Vetgehalte
+    faucet_thread:
+      name: Kraandraad
+    features:
+      name: Kenmerken
+    feed_system:
+      name: Voedingssysteem
+    feet_type:
+      name: Voettype
+    felt_tip_design:
+      name: Ontwerp vilttip
+    feminine_sanitary_supply_features:
+      name: Kenmerken menstruatieproducten
+    fencing_components:
+      name: Schermcomponenten
+    fiber_art_project_type:
+      name: Type vezelkunstproject
+    field_flatness:
+      name: Vlakheid van het veld
+    filament_type:
+      name: Type filament
+    file_format_type:
+      name: Bestandsformaattype
+    file_shape:
+      name: Vorm bestand
+    filler_material:
+      name: Vulmateriaal
+    filler_support:
+      name: Vullerondersteuning
+    filler_type:
+      name: Vullertype
+    filling/padding_project_type:
+      name: Type vul-/opvulproject
+    film_application_method:
+      name: Toepassingsmethode folie
+    film_format:
+      name: Filmformaat
+    film_type:
+      name: Filmtype
+    filter_material:
+      name: Materiaal filter
+    filter_type:
+      name: Filtertype
+    filtering_modes:
+      name: Filtermodi
+    filtration_class:
+      name: Filtratieklasse
+    fin_material:
+      name: Materiaal fin
+    fin_pocket_type:
+      name: Vinzaktype
+    fin_profile:
+      name: Vinprofiel
+    fingerboard_color:
+      name: Kleur vingerskateboard
+    fingerboard_material:
+      name: Toetsmateriaal
+    fingerboard_pattern:
+      name: Patroon vingerbord
+    fingerprint_capture_method:
+      name: Methode voor het vastleggen van vingerafdrukken
+    finial_shape:
+      name: Kruisbloemvorm
+    finish:
+      name: Afwerking
+    fire_extinguisher_items_included:
+      name: Brandblusserartikelen inbegrepen
+    firmness:
+      name: Stevigheid
+    first_aid_kit_components:
+      name: Componenten EHBO-kit
+    first_aid_kit_usage:
+      name: Gebruik EHBO-doos
+    first_steps/crawlers_style:
+      name: Stijl eerste stapjes/kruipen
+    fish_type:
+      name: Vistype
+    fishing_rod_action:
+      name: Actie vislijn
+    fishing_rod_power:
+      name: Vermogen vislijn
+    fishing_wire_material:
+      name: Materiaal visdraad
+    fit:
+      name: Pasvorm
+    fit_type:
+      name: Pasvormtype
+    fixation_type:
+      name: Bevestigingstype
+    flag_shape:
+      name: Vlagvorm
+    flare_type:
+      name: Flare-type
+    flash_card_theme:
+      name: Thema notitiekaart
+    flash_modes:
+      name: Flitsmodi
+    flash_type:
+      name: Flitsertype
+    flashing_material:
+      name: Flitsend materiaal
+    flat_shoe_style:
+      name: Stijl platte schoenen
+    flatware_material:
+      name: Materiaal bestek
+    flatware_pieces_included:
+      name: Inclusief bestek
+    flavor:
+      name: Smaak
+    flavor_profile:
+      name: Smaakprofiel
+    flexibility_rating:
+      name: Flexibiliteitsrating
+    floral_wire_design:
+      name: Ontwerp bloemschikdraad
+    flour/grain_type:
+      name: Meel/graantype
+    flow_rate_type:
+      name: Type stroomsnelheid
+    flower_color:
+      name: Kleur bloem
+    flower_pattern:
+      name: Patroon bloem
+    flue_type:
+      name: Type schoorsteen
+    fluid_type:
+      name: Vloeistoftype
+    flush_plate_color:
+      name: Kleur spoelplaat
+    flush_plate_pattern:
+      name: Patroon spoelplaat
+    flush_system:
+      name: Spoelsysteem
+    flute_configuration:
+      name: Fluitconfiguratie
+    foam_form:
+      name: Schuimvorm
+    focus_adjustment:
+      name: Scherpstellingsaanpassing
+    focus_device_type:
+      name: Type focusapparaat
+    focus_type:
+      name: Scherpstellingstype
+    fold_type:
+      name: Vouwtype
+    folder/report_cover_material:
+      name: Materiaal omslag voor map/rapport
+    folding_mechanism:
+      name: Vouwmechanisme
+    font_style:
+      name: Type lettertype
+    food_bag_material:
+      name: Materiaal voedselzak
+    food_dispenser_type:
+      name: Voedselautomaatmateriaal
+    food_product_form:
+      name: Vorm voedingsproduct
+    food_storage_material:
+      name: Materiaal voedselopslag
+    food_supplement_form:
+      name: Vorm voedingssupplement
+    footage_type:
+      name: Beeldmateriaaltype
+    footboard_type:
+      name: Ledikanttype
+    footwear_color:
+      name: Kleur schoenen
+    footwear_material:
+      name: Materiaal schoenen
+    footwear_pattern:
+      name: Patroon schoeisel
+    format_supported:
+      name: Ondersteund formaat
+    formula_level:
+      name: Formuleniveau
+    fossil_type:
+      name: Fossieltype
+    foundation_color:
+      name: Kleur foundation
+    foundation_material:
+      name: Materiaal foundation
+    foundation_pattern:
+      name: Patroon foundation
+    fragrance:
+      name: Geur
+    fragrance_level:
+      name: Geurniveau
+    frame_color:
+      name: Montuurkleur
+    frame_design:
+      name: Frameontwerp
+    frame_material:
+      name: Montuurmateriaal
+    frame_pattern:
+      name: Patroon frame
+    frame_style:
+      name: Stijl frame
+    frequency/radio_bands_supported:
+      name: Ondersteunde frequentie/radiobanden
+    frequency_type:
+      name: Type frequentie
+    frequency_weighting:
+      name: Frequentieweging
+    frog_material:
+      name: Kikkermateriaal
+    fruit_source:
+      name: Fruitbron
+    fuel_additives:
+      name: Brandstofadditieven
+    fuel_container_features:
+      name: Kenmerken brandstofcontainer
+    fuel_grade:
+      name: Brandstofkwaliteit
+    fuel_purity:
+      name: Brandstofzuiverheid
+    fuel_source:
+      name: Brandstofbron
+    fuel_supply:
+      name: Brandstoftoevoer
+    furniture/fixture_color:
+      name: Kleur meubilair/inrichting
+    furniture/fixture_features:
+      name: Kenmerken meubilair/inrichting
+    furniture/fixture_material:
+      name: Materiaal meubilair/inrichting
+    furniture/fixture_pattern:
+      name: Patroon meubilair/inrichting
+    game_components:
+      name: Spelcomponenten
+    game_difficulty:
+      name: Moeilijkheidsgraad spel
+    game_features:
+      name: Kenmerken spel
+    game_name:
+      name: Spelnaam
+    gameplay_skills:
+      name: Gameplay-vaardigheden
+    games_included:
+      name: Inbegrepen spellen
+    garage_door_material:
+      name: Materiaal garagedeur
+    gardening_use:
+      name: Tuinieren
+    garment_steamer_design:
+      name: Ontwerp kledingstomer
+    gases_detected:
+      name: Gedetecteerde gassen
+    gate_mounting_type:
+      name: Type hekmontage
+    gauge_type:
+      name: Metertype
+    gear_material:
+      name: Materiaal tandwiel
+    gear_ratio:
+      name: Versnellingsverhouding
+    gearing_type:
+      name: Versnellingsverhoudingstype
+    gel_strength:
+      name: Gelsterkte
+    genre:
+      name: Genre
+    geological_era:
+      name: Geologisch tijdperk
+    gift_bag_handle_design:
+      name: Ontwerp handgreep cadeautasje
+    gift_set_format:
+      name: Grootte cadeauset
+    gin_variety:
+      name: Ginvariant
+    glaze_finish:
+      name: Glazuurafwerking
+    glazing_type:
+      name: Beglazingstype
+    glitter_shape:
+      name: Glittervorm
+    glucose_meter_features:
+      name: Kenmerken glucosemeter
+    glue_gun_features:
+      name: Kenmerken lijmpistool
+    glue_gun_operation:
+      name: Bediening lijmpistool
+    glue_gun_technology:
+      name: Technologie lijmpistool
+    glue_strength:
+      name: Lijmsterkte
+    golf_ball_type:
+      name: Type golfbal
+    golf_equipment_included:
+      name: Golfuitrusting inbegrepen
+    gps_compatible_device:
+      name: GPS-compatibel apparaat
+    gps_device_features:
+      name: Kenmerken GPS-apparaat
+    gps_map_type:
+      name: Type GPS-kaart
+    gps_software_focus:
+      name: GPS-software focus
+    grading:
+      name: Beoordeling
+    grain:
+      name: Graan
+    grape_variety:
+      name: Druivenvariant
+    graphics_card_type:
+      name: Type grafische kaart
+    graphics_tablet_accessories_included:
+      name: Graphics tablet-accessoires inbegrepen
+    graphics_tablet_specialized_features:
+      name: Speciale kenmerken grafisch tablet
+    gravel/substrate_material:
+      name: Materiaal grind/ondergrond
+    grease_filter_material:
+      name: Vetfiltermateriaal
+    grip_texture:
+      name: Griptextuur
+    grip_type:
+      name: Griptype
+    grit_type:
+      name: Grittype
+    grooming_kit_format:
+      name: Grootte verzorgingsset
+    guitar_fitting/part_type:
+      name: Type gitaarfitting/-onderdeel
+    guitar_size:
+      name: Formaat gitaar
+    gutter_fitting_type:
+      name: Gootfittingtype
+    gutter_style:
+      name: Stijl dakgoot
+    habitat_material:
+      name: Materiaal habitat
+    hair_care_finish:
+      name: Haarverzorgingsafwerking
+    hair_care_items_included:
+      name: Haarverzorgingsartikelen inbegrepen
+    hair_care_technology:
+      name: Haarverzorgingstechnologie
+    hair_color/shade:
+      name: Kleur/tint haar
+    hair_loss_type:
+      name: Haaruitvalstype
+    hair_shear_type:
+      name: Type haarschaar
+    hair_styling_items_included:
+      name: Haarstyling inbegrepen
+    hair_styling_tool_features:
+      name: Kenmerken haarstyling apparaat
+    hair_type:
+      name: Haartype
+    hammer_head_material:
+      name: Materiaal hamerkop
+    hand_side:
+      name: Handzijde
+    hand_warmer_type:
+      name: Type handwarmer
+    handcuff_lock_type:
+      name: Type handboeienslot
+    handle_color:
+      name: Hendelkleur
+    handle_design:
+      name: Handgreepontwerp
+    handle_grip_texture:
+      name: Handgreeptextuur
+    handle_material:
+      name: Greepmateriaal
+    handle_pattern:
+      name: Patroon handvat
+    handle_type:
+      name: Handgreeptype
+    handset_type:
+      name: Handsettype
+    handwear_features:
+      name: Kenmerken handmode
+    handwear_material:
+      name: Materaal handmode
+    handwear_type:
+      name: Type handmode
+    hanging_chair_design:
+      name: Hangstoelontwerp
+    hard_cider_variety:
+      name: Cidervariant
+    hard_drive_features:
+      name: Kenmerken harde schijf
+    hard_drive_form_factor:
+      name: Vormfactor harde schijf
+    hard_drive_installation:
+      name: Installatie harde schijf
+    hardhat_class:
+      name: Veiligheidshelmklasse
+    hardness:
+      name: Hardheid
+    hardware_finish:
+      name: Afwerking bouwmaterialen
+    hardware_material:
+      name: Materiaal hardware
+    hardware_mounting_type:
+      name: Type montage bouwmateriaal
+    hardwood_lumber_grade:
+      name: Kwaliteit looftimmerhout
+    harness_closure_type:
+      name: Sluitingstype harnas
+    harp_size:
+      name: Formaat harp
+    hatch_suitable_location:
+      name: Geschikte locatie luik
+    hazmat_suit_design:
+      name: Gaspakontwerp
+    hdr_format:
+      name: HDR-formaat
+    headjoint_cut:
+      name: Koppelstuksnede
+    headphone_jack_type:
+      name: Oortelefoonaansluitingstype
+    headphone_style:
+      name: Oortelefoonstijl
+    headwear_features:
+      name: Kenmerken hoofdmode
+    hearing_aid_features:
+      name: Kenmerken hoortoestel
+    hearing_aid_material:
+      name: Materiaal hoortoestel
+    heat_function:
+      name: Warmtefunctie
+    heat_level:
+      name: Warmteniveau
+    heat_settings:
+      name: Warmte-instellingen
+    heat_source:
+      name: Warmtebron
+    heating_instructions:
+      name: Verwarmingsinstructies
+    heating_method:
+      name: Verwarmingsmethode
+    heating_speed:
+      name: Verwarmsnelheid
+    heel_height_type:
+      name: Hielhoogtetype
+    heel_shoe_type:
+      name: Type hakschoen
+    height_adjustment:
+      name: Hoogteaanpassing
+    helmet_shade_design:
+      name: Helmschaduwontwerp
+    hitch_class:
+      name: Trekhaakklasse
+    hitch_type:
+      name: Trekhaaktype
+    hockey_equipment_included:
+      name: Hockeyuitrusting inbegrepen
+    hold_level:
+      name: Vasthoudniveau
+    hook_design:
+      name: Ontwerp haak
+    hook_grip_design:
+      name: Ontwerp haakgreep
+    hook_size:
+      name: Haakgrootte
+    hook_type:
+      name: Haaktype
+    hoop_shape:
+      name: Hoepelvorm
+    horse_category:
+      name: Paardencategorie
+    horse_grooming_accessories_included:
+      name: Accessoires voor paardenverzorging inbegrepen
+    hose_material:
+      name: Materiaal tuinslang
+    host_interface:
+      name: Hostinterface
+    housing_color:
+      name: Kleur behuizing
+    housing_material:
+      name: Behuizingsmateriaal
+    housing_pattern:
+      name: Patroon huisvesting
+    hub/switch_storage_options:
+      name: Opslagmogelijkheden hub/switch
+    humidifier_design:
+      name: Ontwerp luchtbevochtiger
+    humidity_control:
+      name: Vochtigheidscontrole
+    humidy_control:
+      name: Bevochtigingscontrole
+    hunting/survival_knife_design:
+      name: Ontwerp jacht-/overlevingsmes
+    hunting_blind_design:
+      name: Ontwerp camouflagehutten
+    hvac_control_type:
+      name: Bedieningstype HVAC
+    ice_pack_type:
+      name: Type ijspak
+    icon_type:
+      name: Pictogramtype
+    ignition_system:
+      name: Ontbrandingssysteem
+    illumination_technique:
+      name: Verlichtingstechniek
+    image_formats_supported:
+      name: Ondersteunde afbeeldingsformaten
+    image_sensor_size:
+      name: Beeldsensorgrootte
+    immobilizer_type:
+      name: Startonderbrekertype
+    incense_fragrance:
+      name: Wierookgeur
+    incense_kit_items_included:
+      name: Wierook kit inbegrepen
+    incense_type:
+      name: Wierooktype
+    incontinence_aid_features:
+      name: Kenmerken incontinentiehulpmiddel
+    industry_focus:
+      name: Industrie-focus
+    infant_age_group:
+      name: Leeftijdsgroep peuter
+    inflation_method:
+      name: Methode opblazen
+    ingredient_category:
+      name: Ingrediëntcategorie
+    ingredient_origin:
+      name: Herkomst ingrediënt
+    ingredients:
+      name: Ingrediënten
+    ink_application_technique:
+      name: Inkttoepassingstechniek
+    ink_color:
+      name: Kleur inkt
+    ink_form:
+      name: Inktvorm
+    ink_pattern:
+      name: Patroon inkt
+    ink_type:
+      name: Inkttype
+    inline_skating_style:
+      name: Inlineskatestijl
+    input/output_ports:
+      name: Invoer-/uitvoerpoorten
+    input_connection:
+      name: Invoeraansluiting
+    instruction_set_architecture:
+      name: Instructiesetarchitectuur
+    instrument/accessory_finish:
+      name: Afwerking instrument/accessoire
+    instrument_accessory_material:
+      name: Materiaal instrumentaccessoire
+    instrument_bow_material:
+      name: Materiaal instrumentenboog
+    instrument_color:
+      name: Kleur instrument
+    instrument_controller_type:
+      name: Type instrumentcontroller
+    instrument_material:
+      name: Materiaal instrument
+    instrument_part_material:
+      name: Materiaal instrumentonderdeel
+    instrument_pattern:
+      name: Patroon instrument
+    instrument_string_color:
+      name: Kleur instrumentsnaar
+    instrument_string_material:
+      name: Materiaal snaar instrument
+    instrument_string_pattern:
+      name: Patroon instrumentsnaar
+    instrument_support_type:
+      name: Type instrumentsteun
+    insulation_material:
+      name: Materiaal islolatie
+    intended_application:
+      name: Beoogde toepassing
+    interface_type:
+      name: Type interface
+    internal_drive_form_factor_supported:
+      name: Ondersteunde interne schijfvormfactor
+    intimate_apparel_features:
+      name: Kenmerken intieme kleding
+    inverter_type:
+      name: Omvormertype
+    invitation_personalization_design:
+      name: Personalisatieontwerp uitnodiging
+    ironing_features:
+      name: Kenmerken strijken
+    item_condition:
+      name: Staat artikel
+    item_material:
+      name: Materiaal artikel
+    item_style:
+      name: Artikelstijl
+    j_cup_type:
+      name: J-cuptype
+    jaw_material:
+      name: Materiaal bek
+    jewelry_finding_type:
+      name: Type sieraadverbindingen
+    jewelry_material:
+      name: Materiaal sieraad
+    jewelry_project_type:
+      name: Type sieraadproject
+    jewelry_set_type:
+      name: Type sieradenset
+    jewelry_type:
+      name: Sieradentype
+    joint_connection:
+      name: Gewrichtverbinding
+    joint_face_type:
+      name: Type gezichtsggewricht
+    joint_style:
+      name: Verbindingsstijl
+    jump_rope_design:
+      name: Ontwerp springtouw
+    jumping_surface_color:
+      name: Kleur springoppervlak
+    jumping_surface_material:
+      name: Materiaal springoppervlak
+    jumping_surface_pattern:
+      name: Patroon springoppervlak
+    karaoke_modes:
+      name: Karaokemodi
+    kerosene_application:
+      name: Toepassing kerosine
+    key_purpose:
+      name: Belangrijkste doel
+    keyboard_action:
+      name: Toetsenbordactie
+    keyboard_format:
+      name: Toetsenbordformaat
+    keyboard_key_type:
+      name: Type toetsenbordtoets
+    keyboard_language:
+      name: Toetsenbordtaal
+    keyboard_layout:
+      name: Toetsenbordindeling
+    keyboard_port_type:
+      name: Toetsenbordpoorttype
+    keyboard_specialized_features:
+      name: Gespecialiseerde kenmerken toetsenbord
+    keyboard_switch_type:
+      name: Toetsenbordschakelaartype
+    keyboard_type:
+      name: Toetsenbordtype
+    keypad_style:
+      name: Keypadstijl
+    kit_construction_type:
+      name: Type kitconstructie
+    kitchen/dining_furniture_items_included:
+      name: Meubels voor keuken/eetkamer inbegrepen
+    kitchen_utensil_items_included:
+      name: Keukengerei inbegrepen
+    kitesurfing_style:
+      name: Kitesurfstijl
+    kneeboard_features:
+      name: Kenmerken kneeboard
+    knife_type:
+      name: Mestype
+    knitting/padding_project_type:
+      name: Type project breien/opvullen
+    knitting_project_type:
+      name: Type breiproject
+    knob/handle_design:
+      name: Ontwerp knop/handgreep
+    knob_function:
+      name: Knopfunctie
+    knob_style:
+      name: Knopstijl
+    labeling_project_type:
+      name: Type labelproject
+    laboratory_freezer_design:
+      name: Ontwerp laboratoriumvriezer
+    lacrosse_equipment_included:
+      name: Lacrosse-uitrusting inbegrepen
+    ladder_type:
+      name: Laddertype
+    lamination_mode:
+      name: Modus lamineren
+    lamp_type:
+      name: Lamptype
+    language:
+      name: Taal
+    language_version:
+      name: Taalversie
+    laser_color:
+      name: Kleur laser
+    laser_light_source:
+      name: Lichtbron laser
+    laser_pattern:
+      name: Patroon laser
+    lathe_application:
+      name: Toepassing draaibank
+    laundry_detergent_features:
+      name: Kenmerken wasmiddel
+    lead_grade:
+      name: Loodklasse
+    leash_design:
+      name: Ontwerp lijn
+    leather/vinyl_texture:
+      name: Leer/vinyltextuur
+    lectern_mounting_type:
+      name: Type lessenaarmontage
+    leg_color:
+      name: Pootkleur
+    leg_lock_type:
+      name: Beenvergrendelingstype
+    leg_material:
+      name: Pootmateriaal
+    leg_pattern:
+      name: Beenpatroon
+    leg_sections:
+      name: Beensecties
+    lens/slide_material:
+      name: Materiaal lens/dia
+    lens_cap_compatible_device:
+      name: Met lensdop compatibel apparaat
+    lens_coating:
+      name: Lenscoating
+    lens_color:
+      name: Lenskleur
+    lens_configuration:
+      name: Lensconfiguratie
+    lens_filter_effects:
+      name: Lensfiltereffecten
+    lens_filter_type:
+      name: Lensfiltertype
+    lens_pattern:
+      name: Patroon lens
+    lens_polarization:
+      name: Lenspolarisatie
+    lens_storage_type:
+      name: Type lensopslag
+    lens_type:
+      name: Lenstype
+    license_type:
+      name: Licentietype
+    lid_material:
+      name: Materiaal deksel
+    lid_type:
+      name: Dekseltype
+    life_jacket_features:
+      name: Kenmerken reddingsvest
+    light_attachment_type:
+      name: Type licht bevestiging
+    light_color:
+      name: Lichtkleur
+    light_control:
+      name: Lichtregeling
+    light_design:
+      name: Lichtontwerp
+    light_exposure_modes:
+      name: Belichtingsmodi
+    light_filtering:
+      name: Licht filteren
+    light_options:
+      name: Lichtopties
+    light_pattern:
+      name: Patroon licht
+    light_source:
+      name: Lichtbron
+    light_spectrum:
+      name: Lichtspectrum
+    light_temperature:
+      name: Lichttemperatuur
+    light_type:
+      name: Lichttype
+    lighting_features:
+      name: Kenmerken verlichting
+    lighting_options:
+      name: Opties verlichting
+    line/rope_type:
+      name: Type lijn/touw
+    line_spacing_options:
+      name: Regelafstandopties
+    liner_features:
+      name: Kenmerken liner
+    lip_gloss_effect:
+      name: Lipgloss-effect
+    lip_liner_design:
+      name: Ontwerp lipliner
+    lip_plate_material:
+      name: Lipplaatmateriaal
+    lipstick_effect:
+      name: Lipstickeffect
+    liqueur_variety:
+      name: Likeurvariant
+    livestock_food_ingredients:
+      name: Ingrediënten veevoer
+    lnb_output:
+      name: LNB-uitvoer
+    lnb_technology:
+      name: LNB-technologie
+    load_capacity:
+      name: Laadcapaciteit
+    loading_ramp_type:
+      name: Type laadbrug
+    loading_type:
+      name: Laadtype
+    lock_placement:
+      name: Plaatsing vergrendeling
+    lock_type:
+      name: Vergrendelingstype
+    locking_mechanism:
+      name: Vergrendelingsmechanisme
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Toepassing smeermiddel
+    lubricant_composition:
+      name: Samenstelling smeermiddel
+    lubricant_dispenser_type:
+      name: Type smeermiddeldispenser
+    lubricant_form:
+      name: Smeermiddelvorm
+    luggage/bag_closure:
+      name: Sluiting bagage/tas
+    lumber/wood_type:
+      name: Type timmerhout/hout
+    lyre/flip_folder_attachment_type:
+      name: Type lier-/draaimapbevestiging
+    magnet_type:
+      name: Magneettype
+    magnification:
+      name: Vergroting
+    makeup_color/shade:
+      name: Kleur/tint make-up
+    makeup_features:
+      name: Kenmerken make-up
+    mallet_material:
+      name: Materiaal houten hamer
+    manufacturer_type:
+      name: Type fabrikant
+    marine_navigator_features:
+      name: Kenmerken maritieme navigator
+    marker_tip_design:
+      name: Ontwerp markertip
+    mascara_effect:
+      name: Mascara-effect
+    mask_type:
+      name: Maskertype
+    masonry_material:
+      name: Materiaal metselwerk
+    masonry_product_form:
+      name: Vorm metselproduct
+    massage_area:
+      name: Massagezone
+    massage_stone_texture:
+      name: Textuur massagestenen
+    massage_technique:
+      name: Massagetechniek
+    mat/rug_shape:
+      name: Vorm mat/tapijt
+    mat_base_material:
+      name: Materiaal basis mat
+    mat_features:
+      name: Kenmerken mat
+    material:
+      name: Materiaal
+    material_firmness:
+      name: Stevigheid materiaal
+    material_hardness:
+      name: Hardheid materiaal
+    maternity_clothing_features:
+      name: Kenmerken zwangerschapskleding
+    maternity_sleepwear_style:
+      name: Stijl zwangerschapsnachtkleding
+    mattress_features:
+      name: Kenmerken matras
+    maximum_magnification:
+      name: Maximale vergroting
+    measuring_method:
+      name: Meetmethode
+    measuring_tool_features:
+      name: Kenmerken meetinstrument
+    measuring_type:
+      name: Meettype
+    meat_cut:
+      name: Vleessnede
+    meat_type:
+      name: Vleestype
+    media_access:
+      name: Mediatoegang
+    media_content_type:
+      name: Mediacontenttype
+    media_format:
+      name: Mediaformaat
+    media_section:
+      name: Mediasectie
+    media_theme:
+      name: Mediathema
+    medical_alarm_features:
+      name: Kenmerken medische alarmsysteem
+    medical_identification_type:
+      name: Type medische identificatie
+    medical_syringe_purpose:
+      name: Doel medische spuit
+    medical_tape_material:
+      name: Materiaal medisch tape
+    medicine/drug_form:
+      name: Vorm medicijnen en geneesmiddelen
+    medicine/supplement_form:
+      name: Vorm medicijn/supplement
+    medium:
+      name: Medium
+    melodica_style:
+      name: Melodicastijl
+    memory_channels:
+      name: Geheugenkanalen
+    memory_form_factor:
+      name: Geheugenvormfactor
+    memory_storage_type:
+      name: Geheugenopslagtype
+    memory_technology:
+      name: Geheugentechnologie
+    menstrual_cup_shape:
+      name: Vorm menstruatiecup
+    metal_detector_features:
+      name: Kenmerken metaaldetector
+    metal_molding_application:
+      name: Toepassing metalen lijstwerk
+    meter_type:
+      name: Metertype
+    metrics_supported:
+      name: Ondersteunde statistieken
+    microphone_thread:
+      name: Microfoondraad
+    microphone_type:
+      name: Microfoontype
+    microscope_features:
+      name: Kenmerken microscoop
+    microscope_slide_material:
+      name: Materiaal microscoopglaasjes
+    midi_connectivity:
+      name: Midi-connectiviteit
+    mineral_class:
+      name: Mineraalklasse
+    minimum_magnification:
+      name: Minimale vergroting
+    mirror_handle_design:
+      name: Ontwerp handgreep spiegel
+    mixer_type:
+      name: Mixertype
+    mobile_mounting_type:
+      name: Type montage mobiel
+    mobile_movement:
+      name: Mobiele beweging
+    mobile_phone_case_features:
+      name: Kenmerken van mobiele telefoonhoesjes
+    mobility/accessibility_equipment_features:
+      name: Kenmerken mobiliteits-/toegankelijkheidsapparatuur
+    mobility_scooter_type:
+      name: Type scootmobiel
+    model_control_technology:
+      name: Modelbedieningstechnologie
+    model_train_accessory_type:
+      name: Type accessoire voor modeltrein
+    model_train_theme:
+      name: Thema modeltrein
+    modulation_method:
+      name: Modulatiemethode
+    moisturizer_type:
+      name: Type vochtinbrengende crème
+    mold/cut_shape:
+      name: Vorm vorm/snijvorm
+    mold_shape:
+      name: Malvorm
+    molding_application:
+      name: Toepassing lijstwerk
+    molding_shape:
+      name: Vorm lijstwerk
+    monitor/screen_specialized_features:
+      name: Gespecialiseerde kenmerken van monitor/scherm
+    monitor_mounting_type:
+      name: Type monitormontage
+    monitor_shape:
+      name: Vorm monitor
+    monitor_specialized_features:
+      name: Gespecialiseerde kenmerken monitor
+    monitor_type:
+      name: Monitortype
+    monocular_design:
+      name: Ontwerp monoculaire verrekijker
+    motherboard_chipset_family:
+      name: Moederbordchipsetfamilie
+    motherboard_form_factor:
+      name: Moederbordvormfactor
+    motherboard_memory_features:
+      name: Kenmerken moederbordgeheugen
+    motion:
+      name: Beweging
+    motion_sensor_type:
+      name: Bewegingssensoren
+    motor_starting_method:
+      name: Motorstartmethode
+    motor_vehicle_placement:
+      name: Motorvoertuigplaatsing
+    motor_vehicle_type:
+      name: Motorvoertuigtype
+    motorcycle/scooter_type:
+      name: Type motorfiets/scooter
+    motorcycle_drive_type:
+      name: Type motorfietsaandrijving
+    motorcycle_glove_purpose:
+      name: Doel motorhandschoen
+    motorcycle_tire_type:
+      name: Type motorband
+    mount/stand_features:
+      name: Kenmerken montagestandaard/standaard
+    mount_material:
+      name: Materiaal bevestiging
+    mounting_hardware:
+      name: Bevestigingsmateriaal
+    mounting_type:
+      name: Montagetype
+    mouse/trackball_features:
+      name: Kenmerken muis/trackbal
+    mouse_pad_features:
+      name: Kenmerken muismat
+    mouse_port_type:
+      name: Muispoorttype
+    mouse_technology:
+      name: Muistechnologie
+    mouthgard_design:
+      name: Ontwerp mondstuk
+    mouthpiece:
+      name: Mondstuk
+    moving/shipping_box_material:
+      name: Materiaal verzend-/verhuisdozen
+    mp3_player_accessories_included:
+      name: Inclusief accessoires MP3-speler
+    mpaa_rating:
+      name: MPAA-beoordeling
+    multi_gpu_technology:
+      name: Multi-GPU-technologie
+    muscle_stimulator_design:
+      name: Ontwerp spierstimulator
+    music_genre:
+      name: Muziekgenre
+    music_stand_design:
+      name: Ontwerp muziekstandaard
+    musical_key:
+      name: Muzieksleutel
+    nail_art_items_included:
+      name: Nagelkunstartikelen inbegrepen
+    nail_care_features:
+      name: Kenmerken nagelverzorging
+    nail_design:
+      name: Nagelontwerp
+    nail_polish_drying_form:
+      name: Droogvorm nagellak
+    nail_shape:
+      name: Vorm nagel
+    national/regional_rating:
+      name: Nationale/regionale beoordeling
+    native_aspect_ratio:
+      name: Oorspronkelijke beeldverhouding
+    nebulizer_design:
+      name: Ontwerp vernevelaar
+    nebulizer_technology:
+      name: Vernevelaartechnologie
+    neck_color:
+      name: Kleur nek
+    neck_material:
+      name: Nekmateriaal
+    neck_pattern:
+      name: Patroon nek
+    necklace_design:
+      name: Ontwerp ketting
+    neckline:
+      name: Halslijn
+    needle_eye_type:
+      name: Naaldoogtype
+    needle_gauge:
+      name: Naaldmeter
+    needle_housing_material:
+      name: Materiaal naaldbehuizing
+    needle_material:
+      name: Naaldmateriaal
+    needle_size:
+      name: Naaldgrootte
+    needlecraft_kit_type:
+      name: Type borduurpakketten
+    negative/slide_storage_type:
+      name: Type opslag negatief/dia
+    net_material:
+      name: Materiaal net
+    net_mounting_type:
+      name: Type netmontage
+    network_cable_interface:
+      name: Netwerkkabelinterface
+    network_protocols_supported:
+      name: Ondersteunde netwerkprotocollen
+    networking_standards:
+      name: Netwerkstandaarden
+    nightgown_style:
+      name: Stijl nachtjapon
+    nipple_material:
+      name: Materiaal speen
+    nipple_shape:
+      name: Vorm speen
+    nipple_type:
+      name: Speentype
+    nock_material:
+      name: Materiaal nok
+    noise_intensity:
+      name: Geluidsintensiteit
+    notepad_cover_type:
+      name: Type notitieblokomslag
+    notepad_design:
+      name: Ontwerp kladblok
+    nozzle_type:
+      name: Type mondstuk
+    nursery_theme:
+      name: Thema kinderkamer
+    nursing_cover_coverage:
+      name: Dekking borstvoedingshoes
+    nursing_pad_design:
+      name: Ontwerp borstvoedingspad
+    nursing_pillow_shape:
+      name: Vorm verpleegkussen
+    nut/seed_type:
+      name: Type noot/zaad
+    nut_butter_variety:
+      name: Notenbotervariant
+    nut_form:
+      name: Vorm moer
+    nut_processing_method:
+      name: Notenverwerkingsmethode
+    nutrient_content:
+      name: Voedingsstoffen
+    oboe_key_system:
+      name: Sleutelsysteem hobo
+    ocarina_style:
+      name: Ocarinastijl
+    occasion:
+      name: Gelegenheid
+    occasion_style:
+      name: Gelegenheidsstijl
+    office_cart_features:
+      name: Functies kantoorwagen
+    office_instrument_material:
+      name: Materiaal kantoorinstrument
+    office_supply_material:
+      name: Materiaal kantoorartikelen
+    oil_type:
+      name: Olietype
+    one_piece_style:
+      name: Stijl eendelig
+    open/closed_sign_design:
+      name: Open- en gesloten-bordjes
+    opening_direction:
+      name: Openingsrichting
+    opening_mechanism:
+      name: Openingsmechanisme
+    operating_mode:
+      name: Bedrijfsmodus
+    operating_system:
+      name: Besturingssysteem
+    operation_method:
+      name: Bedrijfsmethode
+    optical_drive_type:
+      name: Optische schijftype
+    optical_frame_design:
+      name: Ontwerp montuur
+    optical_zoom:
+      name: Optische zoom
+    organizer_type:
+      name: Organizertype
+    orientation:
+      name: Oriëntatie
+    outdoor_equipment_features:
+      name: Kenmerken buitenuitrusting
+    outdoor_furniture_items_included:
+      name: Meubels voor buiten inbegrepen
+    outdoor_power_accessories_included:
+      name: Accessoires voor buitenvoeding inbegrepen
+    outdoor_walking_activity:
+      name: Wandelactiviteit buiten
+    outerwear_clothing_features:
+      name: Kenmerken bovenkleding
+    outlet_type:
+      name: Stopcontacttype
+    output_connection:
+      name: Uitvoeraansluiting
+    output_level:
+      name: Uitgangsniveau
+    output_waveform:
+      name: Uitgangsgolfvorm
+    oven_accessories_included:
+      name: Ovenaccessoires inbegrepen
+    oxygen_tank_valve_type:
+      name: Type zuurstoftankklep
+    pacifier/teether_design:
+      name: Ontwerp fopspeen/bijtring
+    package_type:
+      name: Pakkettype
+    packing_materials_included:
+      name: Inclusief verpakkingsmaterialen
+    pad_display_profile:
+      name: Padschermprofiel
+    pad_type:
+      name: Padtype
+    paddle/oar_material:
+      name: Materiaal Peddel-/roeispaan
+    paddle_equipment_included:
+      name: Peddeluitrusting inbegrepen
+    paddleboard_features:
+      name: Kenmerken peddelbord
+    page_layout:
+      name: Paginaopmaak
+    page_size:
+      name: Paginaformaat
+    paint/dye_form:
+      name: Vorm verf
+    paint_brush_design:
+      name: Verfborstelontwerp
+    paint_finish:
+      name: Verfafwerking
+    paint_form:
+      name: Verfvorm
+    paint_medium_type:
+      name: Type schilderhulpmiddel
+    paint_type:
+      name: Verftype
+    paintball/airsoft_equipment_included:
+      name: Paintball/Airsoft uitrusting inbegrepen
+    paintball_equipment_included:
+      name: Paintball uitrusting inbegrepen
+    painting_canvas_material:
+      name: Materiaal schilderdoek
+    pairing_method:
+      name: Koppelingsmethode
+    palette_design:
+      name: Paletontwerp
+    palette_knife_shape:
+      name: Paletmesvorm
+    panel_specification:
+      name: Paneelspecificatie
+    panel_termination:
+      name: Paneelbeëindiging
+    pants_length_type:
+      name: Lengtetype broek
+    pantyhose_style:
+      name: Stijl panty
+    paper_finish:
+      name: Papieren afwerking
+    paper_format:
+      name: Papierformaat
+    paper_size:
+      name: Papierformaat
+    paper_texture:
+      name: Papiertextuur
+    paper_type:
+      name: Papiertype
+    paperweight_design:
+      name: Ontwerp presse-papier
+    papier_mache_shape:
+      name: Vorm van papier-maché
+    parachuting_activity:
+      name: Parachutespringen
+    parallel_processing_technology_support:
+      name: Ondersteuning voor parallelle verwerkingstechnologie
+    parking_camera_features:
+      name: Kenmerken parkeercamera
+    parking_sign_design:
+      name: Ontwerp pakeerbord
+    passband:
+      name: Doorlaatband
+    pasta_shape_type:
+      name: Type pastavorm
+    pasta_type:
+      name: Pastatype
+    patch_shape:
+      name: Patch-vorm
+    pattern:
+      name: Patroon
+    pattern_distribution_format:
+      name: Patroondistributieformaat
+    pcb_type:
+      name: Type PCB
+    pedal_polarity:
+      name: Pedaalpolariteit
+    pegi_rating:
+      name: PEGI-beoordeling
+    pen/felt_tip_design:
+      name: Ontwerp pen/viltstift
+    pen/pencil_features:
+      name: Kenmerken pen/potlood
+    pen_color:
+      name: Kleur pen
+    pen_features:
+      name: Kenmerken pen
+    pen_pattern:
+      name: Patroon pen
+    pen_tip_design:
+      name: Ontwerp pentip
+    pen_type:
+      name: Pentype
+    pencil_features:
+      name: Kenmerken potlood
+    pencil_sharpener_design:
+      name: Ontwerp puntenslijper
+    pencil_type:
+      name: Potloodtype
+    percussion_stand_design:
+      name: Ontwerp standaard percussie-instrument
+    percussion_tip_shape:
+      name: Vorm tip percussie-instrument
+    performance_metrics:
+      name: Prestatiestatistieken
+    peroxide_content:
+      name: Peroxidegehalte
+    personal_watercraft_type:
+      name: Type watervoertuigen voor persoonlijk gebruik
+    personalization_design:
+      name: Personalisatieontwerp
+    personalization_options:
+      name: Personalisatieopties
+    pest_control_method:
+      name: Ongediertebestrijdingsmethode
+    pet_apparel/bedding_features:
+      name: Kenmerken kleding/beddengoed voor huisdieren
+    pet_apparel_features:
+      name: Kenmerken van kleding voor huisdieren
+    pet_bedding_features:
+      name: Kenmerken beddengoed voor huisdieren
+    pet_control_accessory_features:
+      name: Kenmerken accessoires voor huisdiercontrole
+    pet_dietary_preferences:
+      name: Dieetvoorkeuren huisdieren
+    pet_dietary_requirements:
+      name: Dieetbehoeften huisdieren
+    pet_food_flavor:
+      name: Smaak huisdiervoeding
+    pet_food_form:
+      name: Vorm dierenvoer
+    pet_food_supplements:
+      name: Supplementen dierenvoer
+    pet_hair_dryer_design:
+      name: Ontwerp haardroger voor huisdieren
+    pet_hair_dryer_speed_settings:
+      name: Snelheidsinstellingen voor haardroger voor huisdieren
+    pet_medical_collar_design:
+      name: Ontwerp medische halsband huisdier
+    pet_medical_supply_type:
+      name: Type medische voorziening voor huisdieren
+    pet_monitor_items_included:
+      name: Inclusief huisdiermonitorartikelen
+    pet_nail_tool_type:
+      name: Type agelverzorgingsprnoducten voor huisdieren
+    pet_pad_features:
+      name: Kenmerken mat voor huisdieren
+    pet_spray/solution_type:
+      name: Type spray/oplossing
+    pet_supply_product_form:
+      name: Productformulier huisdierbenodigdheden
+    pet_thermometer_design:
+      name: Ontwerp thermometer voor huisdieren
+    pet_trainer_type:
+      name: Type huisdiertrainer
+    pet_treat_texture:
+      name: Textuur huisdierentraktatie
+    pet_treat_type:
+      name: Type huisdiertraktatie
+    phase_type:
+      name: Fasetype
+    photo_effects_type:
+      name: Foto-effectentype
+    photographic_chemical_form:
+      name: Vorm fotochemicaliën
+    photographic_paper_size:
+      name: Formaat fotopapier
+    photographic_paper_type:
+      name: Type fotopapier
+    piano_additional_features:
+      name: Extra kenmerken piano
+    piano_pedals:
+      name: Pianopedalen
+    piano_size:
+      name: Formaat piano
+    pick_design:
+      name: Ontwerp pick
+    pickup_design:
+      name: Ontwerp pickup
+    pickup_mounting_type:
+      name: Type pickupmontage
+    pickup_position:
+      name: Positie pickup
+    pickup_type:
+      name: Type pickup
+    pig_feed_stage:
+      name: Fase varkensvoer
+    pile_type:
+      name: Stapeltype
+    pillow_shape:
+      name: Vorm kussen
+    pin_size:
+      name: Pingrootte
+    pinata_design:
+      name: Pi√±ata-ontwerp
+    ping_pong_equipment_included:
+      name: Pingpongmateriaal inbegrepen
+    ping_pong_robot_features:
+      name: 'Kenmerken tafeltennisrobot '
+    pipe_clamp_design:
+      name: Ontwerp buisklem
+    pipe_shape:
+      name: Leidingvorm
+    placement_supported:
+      name: Ondersteunde plaatsing
+    plant_characteristics:
+      name: Plantkenmerken
+    plant_class:
+      name: Plantenklasse
+    plant_name:
+      name: Plantnaam
+    plant_support_material:
+      name: Materiaal ondersteuning voor planten
+    plate_type:
+      name: Plaattype
+    play_equipment_items_included:
+      name: Artilelen voor speeltoestellen inbegrepen
+    play_slide_design:
+      name: Ontwerp speelgoed glijbaan
+    play_vehicle_propulsion:
+      name: Aandrijving speelvoertuig
+    play_yard_design_features:
+      name: 'Kenmerken ontwerp speeltuin '
+    playback_disc_formats:
+      name: Afspeelschijfformaten
+    player/recorder_specialized_features:
+      name: 'Gespecialiseerde kenmerken van speler/recorder '
+    player_drive_type:
+      name: Spelersaandrijvingstype
+    player_position:
+      name: Spelerpositie
+    player_specialized_features:
+      name: 'Gespecialiseerde kenmerken speler '
+    playhouse_design:
+      name: Ontwerp speelhuis
+    playset_features:
+      name: Kenmerken speelset
+    plug_type:
+      name: Stekkertype
+    plug_type_input:
+      name: Stekkertype (ingang)
+    plug_type_output:
+      name: Stekkertype (uitgang)
+    plumbing_primer_application:
+      name: Toepassing loodgietersprimer
+    plumbing_trap_design:
+      name: Ontwerp sifon voor loodgieters
+    plunger_shape:
+      name: Vorm plunjer
+    plywood_grade:
+      name: Kwaliteit multiplex
+    pneumatic_conveyor_operation:
+      name: Bediening pneumatische transportband
+    poe_standard:
+      name: PoE-standaard
+    point_design:
+      name: Puntontwerp
+    pointing_device:
+      name: Aanwijsapparaat
+    polar_pattern:
+      name: Polair patroon
+    polarization:
+      name: Polarisatie
+    pole/post_material:
+      name: Materiaal paal
+    pole_color:
+      name: Kleur paal
+    pole_material:
+      name: Paalmateriaal
+    pole_pattern:
+      name: Patroon paal
+    policy_sign_design:
+      name: Ontwerp beleidsbord
+    polish_dry_form:
+      name: Vorm drogen nagellak
+    polish_remover_form:
+      name: Vorm nagellakremover
+    polish_type:
+      name: Laktype
+    polyphony:
+      name: Polyfonie
+    portability:
+      name: Draagbaarheid
+    post_material:
+      name: Materiaal paal
+    postage_stamp_features:
+      name: Kenmerken postzegels
+    potential_extract:
+      name: Potentieel extract
+    pottery/sculpting_project_type:
+      name: Type aardewerk/beeldhouwproject
+    potty/toilet_seat_design:
+      name: Ontwerp potje/wc-bril
+    potty_training_kit_components:
+      name: Onderdelen zindelijkheidstrainingset
+    power_source:
+      name: Voedingsbron
+    pregnancy_test_sensitivity:
+      name: Zwangerschapstestgevoeligheid
+    presentation_supply_features:
+      name: Kenmerken presentatievoorziening
+    preservation_type:
+      name: Conserveringstype
+    pretend_electronics_toy_type:
+      name: Type nep elektronica speelgoed
+    pretend_housekeeping_toy_type:
+      name: Type speelgoed huishoudelijke apparaten
+    primary_region:
+      name: Primaire regio
+    primer_use:
+      name: Primergebruik
+    print_technology:
+      name: Printtechnologie
+    printer/copier_specialized_features:
+      name: Gespecialiseerde kenmerken printer/kopieerapparaat
+    printer_accessories_included:
+      name: Inclusief printeraccessoires
+    printer_functions:
+      name: Printerfuncties
+    printing_color:
+      name: Printkleur
+    printing_method:
+      name: Printmethode
+    processor_cores:
+      name: Processorkernen
+    processor_family:
+      name: Processorfamilie
+    processor_socket:
+      name: Processoraansluiting
+    processor_technology:
+      name: Processortechnologie
+    product_benefits:
+      name: Productvoordelen
+    product_certifications_standards:
+      name: Productcertificeringen en -normen
+    product_form:
+      name: Productvorm
+    product_formulation:
+      name: Productformule
+    product_manual_area:
+      name: Producthandleidingsgebied
+    product_sterility:
+      name: Productsteriliteit
+    program_format:
+      name: Programmaformaat
+    projection_design:
+      name: Projectieontwerp
+    projector_light_source:
+      name: Lichtbron projector
+    prop_theme:
+      name: Thema rekwisieten
+    propane_application:
+      name: Toepassing propaan
+    propeller_blade_design:
+      name: Ontwerp propellerblad
+    prophy_cup_design:
+      name: Prophy cup-ontwerp
+    propulsion_type:
+      name: Aandrijvingstype
+    protection_type:
+      name: Beschermingstype
+    protective_gear_features:
+      name: Kenmerken van beschermende uitrusting
+    protective_mask_design:
+      name: Ontwerp beschermingsmasker
+    protective_mask_features:
+      name: Kenmerken beschermingsmasker
+    pstn_connectivity_options:
+      name: PSTN-connectiviteitsopties
+    publication_frequency:
+      name: Publicatiefrequentie
+    publication_type:
+      name: Publicatietype
+    pull_up_bar:
+      name: Optrekstang
+    pump_accessories:
+      name: Accessoires pomp
+    pump_speed_settings:
+      name: Pomsnelheidsinstellingen
+    punching/training_bag_material:
+      name: Materiaal boks-/trainingszakken
+    puppet_theme:
+      name: Type marionet
+    puppet_type:
+      name: Poppentype
+    puzzle_theme:
+      name: Puzzelthema
+    puzzle_type:
+      name: Type puzzel
+    quiver_style:
+      name: Pijlkokerstijl
+    rack_design:
+      name: Rekontwerp
+    rack_type:
+      name: Rektype
+    racket_gauge:
+      name: Racketdikte
+    racket_material:
+      name: Materiaal racket
+    racket_string_design:
+      name: Ontwerp racketsnaar
+    racket_string_material:
+      name: Materiaal racketsnaar
+    radar_bands:
+      name: Radarbanden
+    radar_technology:
+      name: Radartechnologie
+    radio_case_design:
+      name: Ontwerp radiokast
+    radio_features:
+      name: Kenmerken radio
+    ramp_type:
+      name: Schanstype
+    range_type:
+      name: Type bereik
+    rarity:
+      name: Zeldzaamheid
+    razor_flexibility:
+      name: Flexibiliteit scheermesje
+    razor_head_design:
+      name: Ontwerp scheermeskop
+    razor_type:
+      name: Scheermestype
+    read/write_speed:
+      name: Lees-/schrijfsnelheid
+    reading_toy_type:
+      name: Type leesspeelgoed
+    receipt_paper_features:
+      name: Kenmerken kassabonpapier
+    reclining_function:
+      name: Ligfunctie
+    recommended_age_group:
+      name: Aanbevolen leeftijdsgroep
+    recommended_skill_level:
+      name: Aanbevolen vaardigheidsniveau
+    recommended_use:
+      name: Aanbevolen gebruik
+    recorder_fingering_system:
+      name: Vingerzettingssysteem blokfluit
+    recorder_specialized_features:
+      name: Gespecialiseerde kenmerken recorder
+    recording_accessories_included:
+      name: Inclusief opnameaccessoires
+    recording_quality:
+      name: Opnamekwaliteit
+    recreational_vehicle_type:
+      name: Type recreatievoertuig
+    reed_strength:
+      name: Rietsterkte
+    reel_capacity:
+      name: Capaciteit haspel
+    reflector_design:
+      name: Reflectorontwerp
+    regenerative_braking_features:
+      name: Kenmerken regeneratief remmen
+    region:
+      name: Regio
+    region_code:
+      name: Regiocode
+    release_schedule:
+      name: Releaseschema
+    remote_technology:
+      name: Technologie op afstand
+    removable_storage_formats_supported:
+      name: Ondersteunde verwijderbare opslagformaten
+    reptile/amphibian_food_form:
+      name: Vorm voer voor reptielen/amfibieën
+    reptile/amphibian_habitat_supply_type:
+      name: Type habitat voor reptielen/fibieën
+    research_focus:
+      name: Onderzoeksfocus
+    research_methodology:
+      name: Onderzoeksmethode
+    resistance_level:
+      name: Weerstandsniveau
+    resistance_system:
+      name: Weerstandssysteem
+    result_display:
+      name: Resultaatweergave
+    retail/sale_sign_design:
+      name: Ontwerp retail-/verkoopbord
+    reticle_plane:
+      name: Dradenkruisvlak
+    reticle_type:
+      name: Dradenkruistype
+    rfid_frequency:
+      name: RFID-frequentie
+    riding_style:
+      name: Rijstijl
+    riding_toy_propulsion_type:
+      name: Aandrijvingstype rijdend speelgoed
+    rim/wheel_design:
+      name: Velg-/wielontwerp
+    ring_design:
+      name: Ontwerp ring
+    ring_size:
+      name: Ringmaat
+    riser_color:
+      name: Kleur stijgbuis
+    riser_material:
+      name: Materiaal riser
+    riser_pattern:
+      name: Patroon verhoger
+    rivet_form:
+      name: Vorm klinknagel
+    road_sign_design:
+      name: Ontwerp verkeersbord
+    rock_composition:
+      name: Rotscompositie
+    rock_formation:
+      name: Rotsformatie
+    rocker_type:
+      name: Schommelstoelype
+    rod_color:
+      name: Kleur hengel
+    rod_material:
+      name: Hengelmateriaal
+    rod_pattern:
+      name: Patroon hengel
+    rod_shape:
+      name: Hengelvorm
+    roller_head:
+      name: Rollerkop
+    roller_material:
+      name: Rolmateriaal
+    roller_type:
+      name: Rollertype
+    roof_decor_shape:
+      name: Vorm van dakdecoratie
+    rosin_form:
+      name: Harsvorm
+    rosin_grade:
+      name: Colofoniumkwaliteit
+    rotating_direction:
+      name: Roteerrichting
+    rotator_control_technology:
+      name: Rotatorbesturingstechnologie
+    rug/mat_features:
+      name: Kenmerken vloerkleed/mat
+    rug/mat_material:
+      name: Materiaal vloerkleed/mat
+    rug/mat_shape:
+      name: Vorm vloerkleed/mat
+    rug_features:
+      name: Kenmerken vloerkleed
+    rug_material:
+      name: Materiaal vloerkleed
+    rug_shape:
+      name: Vorm vloerkleed
+    rum_grade:
+      name: Rumkwaliteit
+    saddle_base_color:
+      name: Kleur zadelbasis
+    saddle_base_material:
+      name: Materiaal zadelbasis
+    saddle_base_pattern:
+      name: Patroon zadelbasis
+    saddle_material:
+      name: Zadelmateriaal
+    saddle_seat_color:
+      name: Kleur zadelzitting
+    saddle_seat_material:
+      name: Materiaal zadelzitting
+    saddle_seat_pattern:
+      name: Patroon zadelzitting
+    safety_certifications:
+      name: Veiligheidscertificeringen
+    safety_device_installation:
+      name: Installatie veiligheidsapparatuur
+    safety_equipment_material:
+      name: Materiaal veiligheidsuitrusting
+    safety_rail_installation:
+      name: Installatie veiligheidsrail
+    sailboat_type:
+      name: Type zeilboot
+    sandal_style:
+      name: Stijl sandaal
+    sandblaster_application:
+      name: Toepassing zandstraler
+    sander_type:
+      name: Schuurmachinetype
+    sanding_application:
+      name: Schuurtoepassing
+    satellite_coverage_area:
+      name: Satellietdekkingsgebied
+    satellite_network_type:
+      name: Satellietnetwerktype
+    sauna_accessories_included:
+      name: Sauna-accessoires inbegrepen
+    scaffolding_mounting_type:
+      name: Montagetype steigers
+    scale_material:
+      name: Materiaal schaal
+    scale_model_accessory_type:
+      name: Type accessoire schaalmodel
+    scale_model_kit_type:
+      name: Type modelbouwpakketten
+    scale_model_material:
+      name: Materiaal schaalmodel
+    scale_model_theme:
+      name: Thema schaalmodel
+    scalpel_blade_material:
+      name: Materiaal scalpelmesje
+    scalpel_blade_number:
+      name: Aantal scalpelbladen
+    scalpel_blade_shape:
+      name: Vorm scalpelmesje
+    scalpel_handle_number:
+      name: Aantal scalpelgrepen
+    scan_converter_features:
+      name: Kenmerken scanconverter
+    scanner_features:
+      name: Kenmerken scanner
+    scanner_sensor_type:
+      name: Type scannersensor
+    scarf/shawl_style:
+      name: Stijl sjaal
+    scene_modes:
+      name: Scènemodi
+    scent:
+      name: Geur
+    scissor_blade_type:
+      name: Type schaarblad
+    scope/sight_design:
+      name: Ontwerp vizier/kijker
+    scope/sight_features:
+      name: Kenmerken richtkijker/vizier
+    scope_design:
+      name: Ontwerp stethoscoop
+    scope_lens_type:
+      name: Type lens richtkijker
+    scoreboard_features:
+      name: Kenmerken scorebord
+    scrapbook_paper_type:
+      name: Type plakboekpapier
+    screen/display_design:
+      name: Scherm-/displayontwerp
+    screen_material:
+      name: Hormateriaal
+    screen_specialized_features:
+      name: Gespecialiseerde kenmerken scherm
+    seafood_type:
+      name: Zeevruchttype
+    seal_stamp_design:
+      name: Ontwerp zegelstempel
+    season:
+      name: Seizoen
+    seat_color:
+      name: Zittingkleur
+    seat_cushioning:
+      name: Stoelkussens
+    seat_pattern:
+      name: Stoelpatroon
+    seat_shape:
+      name: Vorm zitting
+    seat_structure:
+      name: Stoelstructuur
+    seat_type:
+      name: Stoeltype
+    seat_upholstery_color:
+      name: Kleur stoelbekleding
+    seat_upholstery_material:
+      name: Bekledingsmateriaal zitting
+    seat_upholstery_pattern:
+      name: Patroon bekleding rugleuning
+    security_algorithms:
+      name: Beveiligingsalgoritmen
+    security_level:
+      name: Beveiligingsniveau
+    sensor/measuring_tool_features:
+      name: Kenmerken sensor/meetinstrument
+    sensor_features:
+      name: Kenmerken sensor
+    sensor_type:
+      name: Sensortype
+    sequin/glitter_shape:
+      name: Pailletten-/glittervorm
+    sequin_shape:
+      name: Paillettenvorm
+    serum_target_areas:
+      name: Doegebieden serum
+    service_type:
+      name: Type service
+    sewing_foot_type:
+      name: Naaivoettype
+    sewing_machine_part_category:
+      name: Categorie naaimachineonderdelen
+    sfx_control_technology:
+      name: SFX-bedieningstechnologie
+    shaft_color:
+      name: Kleur schacht
+    shaft_flex:
+      name: Schachtbuiging
+    shaft_material:
+      name: Materiaal schacht
+    shaft_orientation:
+      name: Schachtoriëntatie
+    shaft_pattern:
+      name: Patroon schacht
+    shampoo/conditioner_effect:
+      name: Effect van shampoo/conditioner
+    shampoo/conditioner_items_included:
+      name: Shampoo/Conditioner-artilelen inbegrepen
+    shampoo_type:
+      name: Shampootype
+    shape:
+      name: Vorm
+    shapewear_support_level:
+      name: Ondersteuningsniveau shapewear
+    shaving_cream_formulation:
+      name: Formule scheerschuim
+    shaving_kit_components:
+      name: Componenten scheerset
+    sheen/gloss_level:
+      name: Glansniveau
+    sheet_color:
+      name: Kleur blad
+    sheet_pattern:
+      name: Patroon blad
+    shelf_color:
+      name: Kleur plank
+    shelf_material:
+      name: Materiaal plank
+    shelf_pattern:
+      name: Patroon plank
+    shell/frame_color:
+      name: Kleur behuizing/frame
+    shell/frame_material:
+      name: Materiaal schaal/frame
+    shell/frame_pattern:
+      name: Patroon schaal/frame
+    shingle/tile_material:
+      name: Materiaal dakspaan/tegels
+    shoe_binding_type:
+      name: Schoenbindingstype
+    shoe_features:
+      name: Kenmerken schoen
+    shoe_fit:
+      name: Schoenpasvorm
+    shoe_size:
+      name: Schoenmaat
+    shooting_modes:
+      name: Opnamemodi
+    shopping_bag_material:
+      name: Materiaal boodschappentas
+    shower_base_design:
+      name: Ontwerp douchebak
+    shower_curtain_mounting_type:
+      name: Type montage douchegordijn
+    shower_design:
+      name: Ontwerp douche
+    shower_features:
+      name: Kenmerken douche
+    shower_opening_type:
+      name: Type doucheopening
+    shrink_ratio:
+      name: Krimpverhouding
+    shutter_finish:
+      name: Afwerking sluiter
+    siding_material:
+      name: Materiaal gevelbekleding
+    signature_placement:
+      name: Plaatsing handtekening
+    silencer/blimp_type:
+      name: Type geluiddemper
+    sim_card_capability:
+      name: Simkaartmogelijkheden
+    sim_card_type:
+      name: Simkaarttype
+    sim_card_type_1:
+      name: Simkaarttype 1
+    sim_card_type_2:
+      name: Simkaarttype 2
+    sink_mounting_type:
+      name: Type wastafelmontage
+    sink_shape:
+      name: Vorm wastafel
+    sink_type:
+      name: Type wastafel
+    sinker_material:
+      name: Materiaal visgewicht
+    size:
+      name: Maat
+    skateboarding_style:
+      name: Skateboardstijl
+    ski_construction:
+      name: Skiconstructie
+    skiing_style:
+      name: Skistijl
+    skill_level:
+      name: Vaardigheidsniveau
+    skin_care_effect:
+      name: Huidverzorgingseffect
+    skin_care_features:
+      name: Kenmerken huidverzorging
+    skin_care_mask_type:
+      name: Type huidverzorgingsmasker
+    skin_tone:
+      name: Huidskleur
+    skin_undertone:
+      name: Huidondertoon
+    skirt/dress_length_type:
+      name: Lengtetype rok/jurk
+    skirt_style:
+      name: Stijl rok
+    slat_color:
+      name: Kleur plank
+    slat_material:
+      name: Lattenmateriaal
+    slat_pattern:
+      name: Patroon plank
+    sleeve_length_type:
+      name: Hoeslengtetype
+    slip_texture:
+      name: Sliptextuur
+    slipper_style:
+      name: Stijl slipper
+    slot_machine_type:
+      name: Type fruitautomaten
+    small_animal_dietary_requirements:
+      name: Dieetvereisten voor kleine dieren
+    small_animal_food_form:
+      name: Vorm voedsel voor kleine dieren
+    small_animal_food_ingredients:
+      name: Ingrediënten van voedsel voor kleine dieren
+    small_animal_habitat/cage_type:
+      name: Type habitat/kooi voor kleine dieren
+    smart_tv_platform:
+      name: Smart TV-platform
+    smart_watch_features:
+      name: Kenmerken smartwatch
+    sneaker_style:
+      name: Stijl sneaker
+    snorkel_shape:
+      name: Vorm snorkel
+    snowboard_construction:
+      name: Constructie snowboard
+    snowboard_design:
+      name: Snowboardontwerp
+    snowboarding_style:
+      name: Snowboardstijl
+    snowmobile_type:
+      name: Sneeuwscootertype
+    socket_driver_tip:
+      name: Tip moerdraaier
+    socket_type:
+      name: Type socket
+    soda_maker_accessories_included:
+      name: Accessoires voor frisdrankmachine inbegrepen
+    soda_variety:
+      name: Frisdrankvariant
+    sofa_features:
+      name: Kenmerken bank
+    softball_discipline:
+      name: Discipline softbal
+    softbox_mounting_type:
+      name: Type softboxmontage
+    softbox_shape:
+      name: Softbox-vorm
+    software_features:
+      name: Kenmerken software
+    software_tool_type:
+      name: Type softwaretool
+    softwood_lumber_grade:
+      name: Kwaliteitnaaldtimmerhout
+    solar_cell_type:
+      name: Zonneceltype
+    solar_panel_connections:
+      name: Aansluitingen voor zonnepanelen
+    solar_panel_design:
+      name: Ontwerp zonnepaneel
+    solder/flux_application:
+      name: Toepassing soldeer/flux
+    soleplate_type:
+      name: Zoolplaattype
+    solubility:
+      name: Oplosbaarheid
+    solution_type:
+      name: Oplossingstype
+    solvent/thinner_application:
+      name: Toepassing oplosmiddel/verdunner
+    solvent_application:
+      name: Toepassing oplosmiddel
+    soothing_sounds:
+      name: Rustgevende geluiden
+    sound_controls:
+      name: Geluidsbedieningen
+    sound_effects:
+      name: Geluidseffecten
+    sound_insulation:
+      name: Geluidsisolatie
+    sound_options:
+      name: Geluidsopties
+    speaker_configuration:
+      name: Luidsprekerconfiguratie
+    speaker_design:
+      name: Luidsprekerontwerp
+    speaker_features:
+      name: Kenmerken luidspreker
+    speaker_technology:
+      name: Luidsprekertechnologie
+    speakerphone_type:
+      name: Luidsprekertype
+    speed_settings:
+      name: Snelheidsinstellingen
+    spf_level:
+      name: SPF-niveau
+    spike_design:
+      name: Ontwerp spijl
+    spinner_type:
+      name: Spinnertype
+    spirit_dilution:
+      name: Alcoholverdunning
+    splitter/switch_features:
+      name: Kenmerken splitter-/schakelaar
+    splitter_use:
+      name: Splittergebruik
+    sponge_shape:
+      name: Sponsvorm
+    spool_color:
+      name: Kleur spoel
+    spool_material:
+      name: Spoelmateriaal
+    spool_pattern:
+      name: Patroon spoel
+    sport:
+      name: Sport
+    sports_logo:
+      name: Sport-logo
+    sports_theme:
+      name: Thema sport
+    spout_type:
+      name: Tuittype
+    spreader_type:
+      name: Spreidertype
+    sprinkler_head_type:
+      name: Sproeierkoptype
+    sprinkler_shape:
+      name: Vorm sprinkler
+    squeegee_blade_design:
+      name: Ontwerp wisserblad
+    stack_configuration:
+      name: Stapelconfiguratie
+    stage:
+      name: Fase
+    stair_lifts_control_type:
+      name: Trapliftbedieningstype
+    staircase_features:
+      name: Kenmerken trap
+    staircase_type:
+      name: Traptype
+    stamp_theme:
+      name: Thema stempel
+    stamp_type:
+      name: Stempeltype
+    stand/display_type:
+      name: Type standaard/display
+    staple_wire_gauge:
+      name: Nietje draadmeter
+    stapler_features:
+      name: Kenmerken nietmachine
+    star_rating:
+      name: Sterbeoordeling
+    start_type:
+      name: Starttype
+    station_type:
+      name: Stationstype
+    stationery_binding_type:
+      name: Briefpapierbindtype
+    stem_length:
+      name: Stamlengte
+    stencil/cut_shape:
+      name: Sjabloon-/gesneden vorm
+    step_type:
+      name: Traptype
+    sterilization_cycle_time:
+      name: Sterilisatiecyclustijd
+    sterilization_instructions:
+      name: Sterilisatie-instructies
+    sterilization_method:
+      name: Sterilisatiemethode
+    stethoscope_design:
+      name: Stethoscoopontwerp
+    stethoscope_technology:
+      name: Stethoscooptechnologie
+    stick_material:
+      name: Materiaal stok
+    stiffness:
+      name: Stijfheid
+    stimulator_tip_shape:
+      name: Vorm stimulatortip
+    stone_material:
+      name: Materiaal steen
+    stone_name:
+      name: Steennaam
+    stone_shape:
+      name: Steenvorm
+    stone_type:
+      name: Steentype
+    stopband:
+      name: Stopband
+    stopwatch_features:
+      name: Kenmerken stopwatch
+    storage_drive_interface_type:
+      name: Interfacetype opslagschijf
+    storage_drive_interfaces_supported:
+      name: Ondersteunde interfaces opslagschijf
+    storage_drive_type_installed:
+      name: Geïnstalleerd type opslagschijf
+    storage_media_type:
+      name: Opslagmediatype
+    storage_tank_application:
+      name: Toepassing opslagtank
+    storage_types_supported:
+      name: Ondersteunde opslagtypen
+    stove_airflow:
+      name: Luchtstroom kachel
+    stove_top_type:
+      name: Type kookplaat
+    strap_design:
+      name: Ontwerp band
+    straw/stirrer_design:
+      name: Ontwerp rietje/roerder
+    stretcher/gurney_intended_use:
+      name: Beoogd gebruik brancard
+    string_color:
+      name: Kleur snaar
+    string_instrument_size:
+      name: Formaat snaarinstrument
+    string_material:
+      name: Snaarmateriaal
+    string_pattern:
+      name: Patroon snaar
+    stripper_application:
+      name: Toepassing stripper
+    stroller_features:
+      name: Kenmerken kinderwagen
+    stroller_wheel_type:
+      name: Type kinderwagenwiel
+    style:
+      name: Stijl
+    stylus_type:
+      name: Stylustype
+    subject_area:
+      name: Vakgebied
+    subscription_type:
+      name: Abonnementstype
+    substrate_features:
+      name: Kenmerken substraat
+    suction_cup_color:
+      name: Kleur zuignap
+    suction_cup_material:
+      name: Materiaal zuignap
+    suction_cup_pattern:
+      name: Patroon zuignap
+    suction_levels:
+      name: Zuigniveaus
+    suitable_for_angling_type:
+      name: Geschikt voor hengeltype
+    suitable_for_animal_type:
+      name: Geschikt voor diertype
+    suitable_for_art_technique:
+      name: Geschikt voor kunsttechniek
+    suitable_for_bird_type:
+      name: Geschikt voor vogeltype
+    suitable_for_boat_type:
+      name: Type geschikt voor boot
+    suitable_for_body/facial_hair:
+      name: Geschikt voor lichaams-/gezichtshaar
+    suitable_for_breed_size:
+      name: Geschikt voor rasgrootte
+    suitable_for_bug_type:
+      name: Geschikt voor type insect
+    suitable_for_camera/optics_device:
+      name: Geschikt voor type camera en optiek
+    suitable_for_camera_type:
+      name: Geschikt voor cameratype
+    suitable_for_camping_activity:
+      name: Geschikt voor kampeeractiviteiten
+    suitable_for_chair_type:
+      name: Geschikt voor stoeltype
+    suitable_for_container_type:
+      name: Type geschikt voor container
+    suitable_for_crafting_material:
+      name: Geschikt voor knutselmateriaal
+    suitable_for_door_type:
+      name: Geschikt voor deurtype
+    suitable_for_egg_type:
+      name: Type geschikt voor ei
+    suitable_for_fabric_type:
+      name: Geschikt voor stoftype
+    suitable_for_fire_class:
+      name: Geschikt voor brandklasse
+    suitable_for_fish_type:
+      name: Geschikt voor vistype
+    suitable_for_food_processor_type:
+      name: Geschikt voor type keukenmachine
+    suitable_for_furniture_type:
+      name: Geschikt voor meubeltype
+    suitable_for_gas_type:
+      name: Geschikt voor type benzine
+    suitable_for_hair_type:
+      name: Geschikt voor haartype
+    suitable_for_material_type:
+      name: Geschikt voor materiaaltype
+    suitable_for_pest_type:
+      name: Geschikt voor ongediertetype
+    suitable_for_pipe_type:
+      name: Geschikt voor leidingtype
+    suitable_for_pool_type:
+      name: Geschikt voor zwembadtype
+    suitable_for_power_equipment_type:
+      name: Type geschikt voor elektrische apparatuur
+    suitable_for_precious_material:
+      name: Materiaal geschikt voor kostbaar
+    suitable_for_printer_type:
+      name: Geschikt voor printertype
+    suitable_for_skin_tone:
+      name: Geschikt voor huidskleur
+    suitable_for_skin_type:
+      name: Geschikt voor huidtype
+    suitable_for_snowshoeing_activity:
+      name: Geschikt voor sneeuwschoenactiviteiten
+    suitable_for_storage_type:
+      name: Geschikt voor opslagtype
+    suitable_for_toothbrush:
+      name: Geschikt voor tandenborstel
+    suitable_for_vehicle_type:
+      name: Geschikt voor voertuigtype
+    suitable_for_water_feature_type:
+      name: Geschikt voor waterkenmerktype
+    suitable_for_water_type:
+      name: Geschikt voor watertype
+    suitable_for_weapon_type:
+      name: Geschikt voor wapentype
+    suitable_installation:
+      name: Geschikte installatie
+    suitable_location:
+      name: Geschikte locatie
+    suitable_space:
+      name: Geschikte ruimte
+    suitcase_handle_type:
+      name: Type koffergreep
+    sulfur_content:
+      name: Zwavelgehalte
+    sunlight:
+      name: Zonlicht
+    support/brace_material:
+      name: Materiaal steun/brace
+    supported_language:
+      name: Ondersteunde taal
+    surface_texture:
+      name: Textuur oppervlak
+    surfboard_features:
+      name: Kenmerken surfplank
+    surveillance_camera_design:
+      name: Ontwerp bewakingscamera
+    surveillance_camera_mounting_type:
+      name: Type montage bewakingscamera
+    surverying_accessories_included:
+      name: Landmeetkunde accessoires inbegrepen
+    suspender_style:
+      name: Stijl jarretel
+    sustainability:
+      name: Duurzaamheid
+    swab_material:
+      name: Materiaal wattenstaafje
+    swimwear_features:
+      name: Kenmerken zwemkleding
+    swing_style:
+      name: Schommelstijl
+    swing_weighting:
+      name: Schommelweging
+    switch_control_type:
+      name: Bedieningstype schakelaar
+    switching_method:
+      name: Schakelmethode
+    synthesis_method:
+      name: Synthesemethode
+    system_of_measurement:
+      name: Meetsysteem
+    system_range:
+      name: Systeembereik
+    systems_supported:
+      name: Ondersteunde systemen
+    tab_style:
+      name: Tabbladstijl
+    tabletop_color:
+      name: Tafelbladkleur
+    tabletop_material:
+      name: Tafelbladmateriaal
+    tabletop_pattern:
+      name: Tafelbladpatroon
+    tabletop_shape:
+      name: Tafelbladvorm
+    tableware_material:
+      name: Materiaal servies
+    tack/pushpin_head_design:
+      name: Ontwerp kopspijker/punaise
+    tag_fastening:
+      name: Labelbevestiging
+    tampon_absorbency_level:
+      name: Absorptieniveau tampon
+    tampon_features:
+      name: Kenmerken tampon
+    tan_type:
+      name: Bruiningstype
+    tank_color:
+      name: Kleur tank
+    tank_material:
+      name: Tankmateriaal
+    tank_pattern:
+      name: Patroon tank
+    tape_material:
+      name: Tapemateriaal
+    target_audience:
+      name: Doelgroep
+    target_gender:
+      name: Doelgeslacht
+    targeted_pests:
+      name: Bestemd voor ongedierte
+    targeted_stains:
+      name: Speciale vlekken
+    tea_input_type:
+      name: Thee-invoertype
+    technology_level:
+      name: Technologieniveau
+    teeth_material:
+      name: Tandenmateriaal
+    telephone_cable_interface:
+      name: Telefoonkabelinterface
+    telephone_style:
+      name: Telefoonstijl
+    telescope_level:
+      name: Niveau telescoop
+    telescope_tracking_system:
+      name: Telescoopvolgsysteem
+    television_shape:
+      name: Vorm televisie
+    television_specialized_features:
+      name: Gespecialiseerde kenmerken televisie
+    temperature:
+      name: Temperatuur
+    temperature_control:
+      name: Temperatuurregeling
+    temperature_measurement:
+      name: Temperatuurmeting
+    template_type:
+      name: Templatetype
+    temple_color:
+      name: Armkleur
+    temple_pattern:
+      name: Patroon tempel
+    tension:
+      name: Spanning
+    tequila_variety:
+      name: Tequilavariant
+    terminal_operation:
+      name: Bediening creditcardlezer
+    terrain:
+      name: Terrein
+    test_format:
+      name: Testformaat
+    test_method:
+      name: Testmethode
+    test_sample:
+      name: Testmonster
+    tetherball_equipment_included:
+      name: Tetherballuitrusting inbegrepen
+    text_plate_material:
+      name: Tekstplaatmateriaal
+    textile_craft_machine_features:
+      name: Kenmerken textielbewerkingsmachines
+    textile_craft_project_type:
+      name: Type textielambachtproject
+    texture:
+      name: Textuur
+    texture_level:
+      name: Textuurniveau
+    theme:
+      name: Thema
+    thermal_detector_type:
+      name: Type thermische detector
+    thermocouple_type:
+      name: Type thermokoppel
+    thickness_type:
+      name: Diktetype
+    thinner_application:
+      name: Toepassing verdunner
+    thread_direction:
+      name: Draadrichting
+    threaded_rod_size:
+      name: Maat draadstang
+    throw_pillow_shape:
+      name: Vorm sierkussen
+    ticket_additional_features:
+      name: Extra kenmerken kaartje
+    ticket_type:
+      name: Type ticket
+    tile_design:
+      name: Ontwerp tegel
+    tile_game_type:
+      name: Type tegelspel
+    tile_installation_method:
+      name: Installatiemethode tegels
+    tile_look:
+      name: Tegellook
+    tile_material:
+      name: Materiaal tegel
+    tile_texture:
+      name: Tegeltextuur
+    time_period:
+      name: Tijdsperiode
+    time_signatures:
+      name: Maatsoorten
+    time_weighting:
+      name: Tijdweging
+    timepiece_features:
+      name: Kenmerken uurwerk
+    timer_design:
+      name: Ontwerp timer
+    timer_features:
+      name: Kenmerken timer
+    timer_type:
+      name: Timertype
+    tip_design:
+      name: Tipontwerp
+    tip_material:
+      name: Tipmateriaal
+    tip_opening:
+      name: Tipopening
+    tip_style:
+      name: Tipstijl
+    tip_type:
+      name: Tiptype
+    tire_bead_type:
+      name: Bandhieltype
+    tobacco_type:
+      name: Tabakstype
+    toddler_bed_features:
+      name: Kenmerken peuterbed
+    toe_spacer_design:
+      name: Ontwerp tenenspreider
+    toe_strap_type:
+      name: Type veter
+    toe_style:
+      name: Teenstijl
+    toilet/bidet_mounting_type:
+      name: Type toilet-/bidetmontage
+    toilet_cover_design:
+      name: Ontwerp toiletafdekking
+    toilet_cover_features:
+      name: Kenmerken toiletafdekking
+    toilet_mounting_type:
+      name: Type toiletmontage
+    toilet_shape:
+      name: Vorm toilet
+    tom_tom_design:
+      name: Ontwerp tom-tom
+    tool/utensil_material:
+      name: Materiaal gereedschap/gebruiksvoorwerp
+    tool_key_tip:
+      name: Tip gereedschapssleutel
+    tool_mobility:
+      name: Mobiliteit gereedschap
+    tool_operation:
+      name: Werking gereedschap
+    toothpaste_type:
+      name: Tandpastatype
+    toothpick_design:
+      name: Ontwerp tandenstoker
+    top_color:
+      name: Bovenlaagkleur
+    top_length_type:
+      name: Lengtetype bovenstuk
+    top_material:
+      name: Bovenlaagmateriaal
+    top_pattern:
+      name: Patroon bovenkant
+    top_surface_material:
+      name: Oppervlaktemateriaal
+    tote_handle_type:
+      name: Type draagtas
+    totem_design:
+      name: Totem-ontwerp
+    touch_capabilities:
+      name: Aanraakmogelijkheden
+    touchscreen_technology:
+      name: Aanraakschermtechnologie
+    toy/game_material:
+      name: Materiaal speelgoed/spel
+    toy_figure_features:
+      name: Kenmerken speelgoedfiguren
+    toy_figure_theme:
+      name: Thema speelgoedfiguur
+    toy_tool_type:
+      name: Type speelgoedgereedschap
+    tracking_metrics:
+      name: Statistieken volgen
+    tracking_purpose:
+      name: Doel van het volgen
+    tractor_accessories_included:
+      name: Tractortoebehoren inbegrepen
+    trade_show_display_features:
+      name: Kenmerken handelsbeursdisplay
+    trading_card_packaging:
+      name: Verpakking ruilkaarten
+    traffic_control_device_features:
+      name: Kenmerken verkeersregelapparaten
+    trail_camera_design:
+      name: Ontwerp trailcamera
+    trailer_type:
+      name: Aanhangwagentype
+    training_data_requirements:
+      name: Vereisten trainingsgegevens
+    trampoline_design:
+      name: Ontwerp trampoline
+    transcriber/dictation_system_features:
+      name: Kenmerken transcriber/dicteersysteem
+    transfer_boards_surface_type:
+      name: Oppervlaktetype transferborden
+    transfer_paper_technique:
+      name: Techniek transferpapier
+    transmission_type:
+      name: Versnellingsbaktype
+    trash_can_features:
+      name: Kenmerken prullenbak
+    travel_pillow_shape:
+      name: Vorm reiskussen
+    treatment_area:
+      name: Behandelingsgebied
+    treatment_objective:
+      name: Behandelingsdoelstelling
+    treatment_texture:
+      name: Textuur behandeling
+    treatment_type:
+      name: Behandelingstype
+    tree_stand_material:
+      name: Materiaal boomstandaard
+    trellis_design:
+      name: Ontwerp Trellis
+    tricycle_design:
+      name: Ontwerp driewieler
+    tricycle_propulsion_type:
+      name: Type driewieleraandrijving
+    trip_type:
+      name: Triptype
+    tripod/monopod_attachment_type:
+      name: Type bevestiging statief/monopod
+    tripod/monopod_head_type:
+      name: Type kop voor statief en monopod
+    tripod_handle_type:
+      name: Type statiefgreep
+    trophy_design:
+      name: Trofeeontwerp
+    truck_type:
+      name: Vrachtwagentype
+    tube_component:
+      name: Buiscomponent
+    tube_configuration:
+      name: Buisconfiguratie
+    tuner_design:
+      name: Ontwerp tuner
+    tuner_type:
+      name: Afstemmertype
+    tuning_fork_design:
+      name: Ontwerp stemvork
+    tuning_fork_frequency:
+      name: Frequentie stemvork
+    tuning_modes:
+      name: Afstemmodi
+    tuning_pitch:
+      name: Afstemming pitch
+    tuning_range:
+      name: Afstembereik
+    undershirt_style:
+      name: Stijl onderhemd
+    underwear_style:
+      name: Stijl ondergoed
+    units_of_measurement:
+      name: Meeteenheden
+    update_frequency:
+      name: Updatefrequentie
+    upholstery_color:
+      name: Kleur bekleding
+    upholstery_material:
+      name: Materiaal bekleding
+    upholstery_pattern:
+      name: Ontwerp bekleding rugleuning
+    urinal_mounting_type:
+      name: Type urinoirmontage
+    usage_conditions:
+      name: Gebruiksvoorwaarden
+    usage_frequency:
+      name: Gebruiksfrequentie
+    usage_type:
+      name: Gebruikstype
+    usb_standard:
+      name: USB-standaard
+    user_type:
+      name: Type gebruiker
+    utility/maintenance_task_type:
+      name: Type nuts-/onderhoudstaak
+    uv_protection:
+      name: UV-bescherming
+    vacuum_air_filtering_technology:
+      name: Luchtfilteringstechnologie
+    valve_type:
+      name: Ventieltype
+    van_type:
+      name: Bestelwagentype
+    vaping_style:
+      name: Vapestijl
+    varnish/finish_application:
+      name: Toepassing vernis/afwerking
+    vase_shape:
+      name: Vaasvorm
+    vdi_protocol_support:
+      name: Ondersteuning voor VDI-protocol
+    vehicle_alarm/lock_features:
+      name: Kenmerken voertuigalarm-/slot
+    vehicle_application_area:
+      name: Voertuigtoepassingsgebied
+    vehicle_audio_system_features:
+      name: Kenmerken voertuigaudiosysteem
+    vehicle_braking_features:
+      name: Kenmerken voertuigremmen
+    vehicle_cleaning_item_features:
+      name: Kenmerken voertuigreinigingsartikel
+    vehicle_decor_features:
+      name: Kenmerken voertuigdecor
+    vehicle_drive/handling_features:
+      name: Kenmerken aandrijving/bediening voertuig
+    vehicle_engine/part_features:
+      name: Kenmerken motor/onderdeel voertuig
+    vehicle_engine_features:
+      name: Kenmerken voertuigmotor
+    vehicle_engine_part_features:
+      name: Kenmerken motor/onderdeel voertuig
+    vehicle_exhaust_type:
+      name: Type uitlaat van voertuigen
+    vehicle_features:
+      name: Kenmerken voertuig
+    vehicle_fluid_features:
+      name: Kenmerken voertuigvloeistoffen
+    vehicle_fluid_type:
+      name: Type vloeistof voor voertuigen
+    vehicle_frame/body_features:
+      name: Kenmerken frame/carrosserie voertuig
+    vehicle_mirror_design:
+      name: Ontwerp voertuigspiegel
+    vehicle_mirror_features:
+      name: Kenmerken voertuigspiegels
+    vehicle_mirror_type:
+      name: Type voertuigspiegel
+    vehicle_oil_features:
+      name: Kenmerken voertuigolie
+    vehicle_paint_type:
+      name: Type voertuiglak
+    vehicle_placement:
+      name: Voertuigplaatsing
+    vehicle_seating_features:
+      name: Kenmerken voertuigzittingen
+    vehicle_suspension_features:
+      name: Kenmerken voertuigophanging
+    vehicle_tire_type:
+      name: Type voertuigband
+    vehicle_type:
+      name: Voertuigtype
+    verification_technology:
+      name: Verificatietechnologie
+    vg/pg_ratio:
+      name: VG/PG-verhouding
+    video_codecs/formats_supported:
+      name: Ondersteunde videocodecs/formaten
+    video_game_content_features:
+      name: Kenmerken voertuigophanging
+    video_game_genre:
+      name: Genre videogame
+    video_game_platform:
+      name: Videogameplatform
+    video_game_sub_genre:
+      name: Subgenre videogame
+    video_port_type:
+      name: Videopoorttype
+    video_region_code:
+      name: Videoregiocode
+    video_resolution_supported:
+      name: Ondersteunde videoresolutie
+    viewing_area_height:
+      name: Hoogte weergavegebied
+    viewing_area_width:
+      name: Breedte weergavegebied
+    vinegar_drink_variety:
+      name: Azijndrankvariant
+    vinegar_variety:
+      name: Azijnvariant
+    viscosity:
+      name: Viscositeit
+    visual_effect:
+      name: Visueel effect
+    voip_protocol_support:
+      name: Ondersteuning voor VoIP-protocol
+    wader_type:
+      name: Type waadbroek
+    waist_rise:
+      name: Tailleomtrek
+    wall_material:
+      name: Wandmateriaal
+    wall_patching_application:
+      name: Wandreparatie-toepassing
+    wall_plate_style:
+      name: Wandplaatstijl
+    wallet_features:
+      name: Kenmerken portemonnee
+    wallpaper_application_method:
+      name: Toepassingsmethode behang
+    wallpaper_theme:
+      name: Behangthema
+    warning_category:
+      name: Waarschuwingscategorie
+    washer/dryer_features:
+      name: Kenmerken wasmachine/droger
+    washer_form:
+      name: Vorm sluitring
+    washing_machine_features:
+      name: Kenmerken wasmachine
+    washing_method:
+      name: Wasmethode
+    washing_programs:
+      name: Wasprogramma's
+    waste_bag_features:
+      name: Kenmerken afvalzak
+    waste_bag_material:
+      name: Materiaal afvalzak
+    watch/band_material:
+      name: Materiaal horloge/band
+    watch_accessory_style:
+      name: Hrologeaccessoirestijl
+    watch_display:
+      name: Horlogedisplay
+    watch_features:
+      name: Kenmerken horloge
+    watch_material:
+      name: Materiaal horloge
+    water_filter_application:
+      name: Toepassing waterfilter
+    water_sport:
+      name: Watersport
+    watercraft_engine_control_type:
+      name: Type motorbediening voor vaartuigen
+    watercraft_features:
+      name: Kenmerken watervoertuig
+    watercraft_motor_mounting_type:
+      name: Motorbevestiging vaartuig
+    watercraft_propulsion_type:
+      name: Type voortstuwing van waterscooters
+    watercraft_steering_wheel_type:
+      name: Stuurwieltype vaartuig
+    watercraft_type:
+      name: Vaartuigtype
+    waveski_features:
+      name: Kenmerken golfski
+    wax_application_method:
+      name: Toepassingsmethode wax
+    wax_type:
+      name: Wastype
+    weather_strip_design:
+      name: Ontwerp tochtstrip
+    weather_supply_application_method:
+      name: Toepassingsmethode watervoorziening
+    weatherization_application:
+      name: Toepassing tochtwering
+    webcam_design:
+      name: Ontwerp webcam
+    weight_bar_activity:
+      name: Halterstangactiviteit
+    weight_bar_type:
+      name: Halterstangtype
+    weight_type:
+      name: Type gewicht
+    weight_unit_supported:
+      name: Ondersteunde gewichtseenheid
+    welding_helmet_features:
+      name: Kenmerken lashelm
+    wet_bag_features:
+      name: Kenmerken natte zak
+    wheel_hardness:
+      name: Wielhardheid
+    wheel_hub_placement:
+      name: Plaatsing wielnaaf
+    wheel_part_type:
+      name: Type wielonderdeel
+    wheel_type:
+      name: Wieltype
+    wheelchair_type:
+      name: Rolstoeltype
+    whiskey_style:
+      name: Whiskystijl
+    whiskey_variety:
+      name: Whiskyvariant
+    wi_fi_band:
+      name: Wi-Fi-band
+    wi_fi_standard:
+      name: Wi-Fi-standaard
+    winder_features:
+      name: Kenmerken oproller
+    windlass_design:
+      name: Ontwerp windas
+    window_treatment_material:
+      name: Materiaal raambehandeling
+    windsurfing_board_style:
+      name: Stijl windsurfplank
+    wine_rack_design:
+      name: Wijnrekontwerp
+    wine_sweetness:
+      name: Zoetheid wijn
+    wine_variety:
+      name: Wijnvariant
+    wipe_dispenser/warmer_features:
+      name: Kenmerken van de dispenser/warmer voor doekjes
+    wipe_dispenser_features:
+      name: Kenmerken doekjesdispenser
+    wipe_fragrance:
+      name: Geur doekjes
+    wipe_packaging:
+      name: Verpakking doekjes
+    wipe_warmer_features:
+      name: Kenmerken babydoekjesverwarmer
+    wire/rope_material:
+      name: Materiaal draad/touw
+    wire_thickness:
+      name: Draaddikte
+    woodwind_care_items_included:
+      name: Onderhoudsartikelen houtblazer inbegrepen
+    work_capacity:
+      name: Werkcapaciteit
+    wreath_design:
+      name: Kransontwerp
+    yacht_type:
+      name: Jachttype
+    yarn_weight_category:
+      name: Categorie draadgarengewicht
+    zipper_pull_style:
+      name: Ritssluitingsstijl
+    zoom_type:
+      name: Type zoom

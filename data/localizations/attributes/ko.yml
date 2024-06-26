@@ -1,0 +1,4531 @@
+---
+ko:
+  attributes:
+    3d_glasses_material:
+      name: 3D 안경 소재
+    abrasive_material:
+      name: 연마 재료
+    absinthe_style:
+      name: 압생트 스타일
+    absinthe_variety:
+      name: 압생트 종류
+    absorbency_level:
+      name: 흡수성 수준
+    absorbent_hygiene_product_features:
+      name: 흡수성 위생 제품 기능
+    academic_level:
+      name: 학력
+    accessory_material:
+      name: 액세서리 소재
+    accessory_size:
+      name: 액세서리 크기
+    accordion_tuning:
+      name: 아코디언 튜닝
+    active_ingredient:
+      name: 활성 성분
+    activewear_clothing_features:
+      name: 액티브웨어 의류 기능
+    activity:
+      name: 활동
+    activity_tracker_design:
+      name: 활동 추적기 디자인
+    acupuncture_model_format:
+      name: 침술 인체모형 형태
+    acupuncture_model_type:
+      name: 침술 인체모형 유형
+    additional_animation_software_features:
+      name: 추가 애니메이션 소프트웨어 기능
+    additional_design_software_type:
+      name: 추가 설계 소프트웨어 기능
+    additional_financial_software_features:
+      name: 추가 재무 소프트웨어 기능
+    additional_graphic_software_features:
+      name: 추가 그래픽 소프트웨어 기능
+    additional_publishing_software_features:
+      name: 추가 출판 소프트웨어 기능
+    additional_security_software_features:
+      name: 추가 보안 소프트웨어 기능
+    adhesive_type:
+      name: 접착 유형
+    aftershave_product_form:
+      name: 프터쉐이브 제품 형태
+    age_group:
+      name: 연령대
+    age_restrictions:
+      name: 연령 제한
+    ai_application:
+      name: AI 적용
+    air_freshener_form:
+      name: 방향제 형태
+    air_mattress_features:
+      name: 에어매트리스의 특징
+    airbrush_feed_type:
+      name: 에어브러시 피드 타입
+    airbrush_operation_method:
+      name: 에어브러시 작동 방식
+    airsoft_equipment_included:
+      name: 에어소프트 장비 포함
+    album_type:
+      name: 앨범 유형
+    alert_type:
+      name: 경고 유형
+    allergen_information:
+      name: 알레르기 유발물질 정보
+    allergen_test_type:
+      name: 알레르기 유발물질 테스트 유형
+    allergens:
+      name: 알레르기 유발물질
+    allergy_friendly_features:
+      name: 알레르기 방지 기능
+    amplifier/booster_suitable_location:
+      name: 증폭기/부스터 적합한 위치
+    amplifier_class:
+      name: 앰프 등급
+    amplifier_configuration:
+      name: 앰프 구성
+    anchor_type:
+      name: 앵커 유형
+    anemometer_application:
+      name: 풍속계 적용
+    angles_supported:
+      name: 지원되는 각도
+    angling_style:
+      name: 낚시 스타일
+    animal_feed_form:
+      name: 동물 사료 형태
+    animal_type:
+      name: 동물 종류
+    antenna_type:
+      name: 안테나 유형
+    anti_agin_skin_care_type:
+      name: 안티아진 스킨케어 타입
+    antifreeze_type:
+      name: 부동액 유형
+    application_area:
+      name: 도포 영역
+    application_method:
+      name: 도포 방식
+    applicator_material:
+      name: 어플리케이터 소재
+    applicator_type:
+      name: 어플리케이터 타입
+    applique/patch_shape:
+      name: 아플리케/패치 모양
+    applique_shape:
+      name: 아플리케 모양
+    aquarium_filter_features:
+      name: 수족관 필터 기능
+    aquarium_light_spectrum:
+      name: 수족관 조명 스펙트럼
+    aquarium_overflow_box_design:
+      name: 수족관 오버플로 박스 디자인
+    archery_activity:
+      name: 양궁 활동
+    archery_equipment_included:
+      name: 양궁 장비 포함
+    archery_style:
+      name: 양궁 스타일
+    aromatherapy:
+      name: 아로마테라피
+    arrangement:
+      name: 꽃꽂이
+    arrow/bolt_material:
+      name: 화살/볼트 재질
+    arrow_fletching_material:
+      name: 화살촉 재질
+    arrow_material:
+      name: 화살 소재
+    art/crafting_tool_material:
+      name: 미술/공예 도구 재료
+    art_fixative_application_method:
+      name: 그림 정착액 도포 방법
+    art_style:
+      name: 아트 스타일
+    artwork_frame_material:
+      name: 작품 프레임 소재
+    artwork_type:
+      name: 작품 유형
+    assisted_braking_technology:
+      name: 보조 제동 기술
+    attachment_method:
+      name: 부착 방식
+    attachment_options:
+      name: 부착 옵션
+    attachment_type:
+      name: 부착 유형
+    atv/off_road_tire_type:
+      name: ATV/오프로드 타이어 종류
+    audio/scan_converter_features:
+      name: 오디오/스캔 변환기 기능
+    audio_codecs/formats_supported:
+      name: 지원되는 오디오 코덱/형식
+    audio_connectivity:
+      name: 오디오 연결
+    audio_converter_features:
+      name: 오디오/스캔 변환기 기능
+    audio_d/a_converter_dac:
+      name: 오디오 D/A 변환기(DAC)
+    audio_mixer_type:
+      name: 오디오 믹서 타입
+    audio_output_channel:
+      name: 오디오 출력 채널
+    audio_output_format:
+      name: 오디오 출력 형식
+    audio_player/recorder_features:
+      name: 오디오 플레이어/레코더 기능
+    audio_purpose:
+      name: 오디오 용도
+    audio_technology:
+      name: 오디오 기술
+    authentication_technology:
+      name: 인증 기술
+    authenticity:
+      name: 진위 여부
+    auto_focusing_modes:
+      name: 자동 초점 모드
+    autoclave_sterilization_method:
+      name: 오토클레이브 살균 방식
+    autograph_type:
+      name: 사인 유형
+    automation:
+      name: 자동
+    award_design:
+      name: 상패 디자인
+    award_occasion:
+      name: 시상식
+    awning_construction_type:
+      name: 어닝 시공형
+    awning_design:
+      name: 어닝 디자인
+    baby/toddler_car_seat_features:
+      name: 영유아 카시트 기능
+    baby/toddler_clothing_features:
+      name: 영유아용 의류 기능
+    baby/toddler_equipment_safety_features:
+      name: 영유아 장비 안전 기능
+    baby/toddler_furniture_features:
+      name: 영유아 가구 기능
+    baby/toddler_furniture_items_included:
+      name: 영유아 가구 품목 포함
+    baby/toddler_hat_style:
+      name: 영유아 모자 스타일
+    baby/toddler_hosiery_style:
+      name: 유아용 양말 스타일
+    baby/toddler_seat_features:
+      name: 영유아 시트 기능
+    baby/toddler_sleepwear_style:
+      name: 영유아용 잠옷 스타일
+    baby_drink_packaging:
+      name: 아기 음료수 패키지
+    baby_equipment_safety_features:
+      name: 영유아 장비 안전 기능
+    baby_food_flavor:
+      name: 이유식 맛
+    baby_formula_format:
+      name: 분유 형태
+    baby_gift_items_included:
+      name: 출산 선물 품목 포함
+    baby_health_items_included:
+      name: 영유아 위생용품 포함
+    baby_monitor_features:
+      name: 베이비 모니터 기능
+    baby_snack_flavor:
+      name: 아기 간식 맛
+    baby_snack_texture:
+      name: 아기 간식 식감
+    back_type:
+      name: 스툴 등받이 유형
+    background_design:
+      name: 배경 디자인
+    backing_color:
+      name: 뒷면 색상
+    backing_material:
+      name: 뒷면 재료
+    backing_pattern:
+      name: 뒷면 패턴
+    backrest_type:
+      name: 등받이 유형
+    backrest_upholstery_color:
+      name: 등받이 커버 색상
+    backrest_upholstery_material:
+      name: 등받이 내장 소재
+    backrest_upholstery_pattern:
+      name: 등받이 커버 패턴
+    bag/case_closure:
+      name: 가방/케이스 클로저
+    bag/case_features:
+      name: 가방/케이스 기능
+    bag/case_material:
+      name: 가방/케이스 소재
+    bag/case_storage_features:
+      name: 가방/케이스 수납 기능
+    bag_closure:
+      name: 백 클로저
+    bag_strap_type:
+      name: 가방 스트랩 유형
+    bag_style:
+      name: 가방 스타일
+    bag_type:
+      name: 백 유형
+    bakery_items_included:
+      name: 베이커리 품목 포함
+    bakeware_features:
+      name: 베이크웨어 기능
+    bakeware_items_included:
+      name: 베이크웨어 품목 포함
+    bakeware_pieces_included:
+      name: 베이크웨어 포함
+    bakeware_shape:
+      name: 빵틀
+    baking_purpose:
+      name: 베이킹 용도
+    baking_sheet_material:
+      name: 베이킹 시트 재료
+    ball_material:
+      name: 볼 소재
+    ball_size:
+      name: 공 크기
+    balloon_kit_items_included:
+      name: 풍선 키트 물품 포함
+    balloon_shape:
+      name: 풍선 모양
+    band_color:
+      name: 밴드 색상
+    band_material:
+      name: 밴드 소재
+    band_pattern:
+      name: 밴드 패턴
+    band_strength:
+      name: 밴드 강도
+    banner_design:
+      name: 배너 디자인
+    bar_mounting_type:
+      name: 바 장착 타입
+    barcode_scanner_interface:
+      name: 바코드 스캐너 인터페이스
+    barcode_supported:
+      name: 지원되는 바코드
+    barrel_material:
+      name: 배럴 소재
+    barware_items_included:
+      name: 바웨어 품목 포함
+    barware_material:
+      name: 바웨어 소재
+    base_oil:
+      name: 베이스 오일
+    base_spirit:
+      name: 베이스 스피릿
+    base_type:
+      name: 베이스 유형
+    baseball/softball_ball_type:
+      name: 야구/소프트볼 유형
+    basket_material:
+      name: 바구니 소재
+    basketball_equipment_included:
+      name: 농구 장비 포함
+    bass_button_configuration:
+      name: 베이스 버튼 구성
+    bat_material:
+      name: 배트 소재
+    bat_standard:
+      name: 배트 표준
+    bathroom_furniture_items_included:
+      name: 욕실 가구 품목 포함
+    bathtub_base_design:
+      name: 욕조 받침 디자인
+    bathtub_features:
+      name: 욕조 기능
+    bathtub_skirt_shape:
+      name: 욕조 옆면벽 모양
+    baton_grip_design:
+      name: 지휘봉 그립 디자인
+    battery_cell_type:
+      name: 배터리 셀 유형
+    battery_features:
+      name: 배터리 기능
+    battery_management_features:
+      name: 배터리 관리 기능
+    battery_size:
+      name: 배터리 크기
+    battery_technology:
+      name: 배터리 기술
+    battery_type:
+      name: 배터리 유형
+    bead_shape:
+      name: 비즈 모양
+    beat_subdivisions:
+      name: 비트 분할
+    beater_head_size:
+      name: 비터 헤드 크기
+    bed/frame_features:
+      name: 침대/프레임 기능
+    bed_pan_type:
+      name: 환자용 간이 변기 유형
+    bedding_pieces_included:
+      name: 침구 포함
+    bedding_size:
+      name: 침구 크기
+    beer_style:
+      name: 맥주 스타일
+    beer_variety:
+      name: 맥주 종류
+    bell_design:
+      name: 벨 디자인
+    bell_size:
+      name: 벨 크기
+    bell_sound:
+      name: 벨 소리
+    belt_type:
+      name: 벨트 유형
+    best_uses:
+      name: 최적 용도
+    bevel_type:
+      name: 베벨 유형
+    beverage_product_form:
+      name: 음료 제품 형태
+    bib_design:
+      name: 턱받이 디자인
+    bicycle_brake_type:
+      name: 자전거 브레이크 유형
+    bicycle_features:
+      name: 자전거 기능
+    bidet_mounting_type:
+      name: 비데 장착 유형
+    binder_ring_shape:
+      name: 바인더링 모양
+    binding_mount:
+      name: 바인딩 마운트
+    binding_style:
+      name: 바인딩 스타일
+    binocular/monocular_design:
+      name: 쌍안경/단안경 디자인
+    binocular_design:
+      name: 쌍안경 디자인
+    biometric_monitor_accessory_features:
+      name: 생체 인식 모니터 액세서리 기능
+    bios_type:
+      name: 바이오스 유형
+    bird_cage/stand_design:
+      name: 새장/스탠드 디자인
+    bird_food_form:
+      name: 새 먹이 형태
+    bird_food_ingredients:
+      name: 새 모이 성분
+    bird_treat_type:
+      name: 새 사료 유형
+    birthday_candle_design:
+      name: 생일 초 디자인
+    birthday_candle_type:
+      name: 생일 캔들 타입
+    bitter_variety:
+      name: 비터 종류
+    blade_curve:
+      name: 블레이드 커브
+    blade_design:
+      name: 블레이드 디자인
+    blade_material:
+      name: 블레이드 소재
+    blade_type:
+      name: 블레이드 유형
+    blanket_color:
+      name: 담요 색상
+    blanket_pattern:
+      name: 담요 패턴
+    blending_type:
+      name: 혼합 유형
+    blind/shade_style:
+      name: 블라인드/셰이드 스타일
+    blood_test_kit_components:
+      name: 혈액 검사 키트 구성품
+    board_concave_shape:
+      name: 오목 보드 모양
+    board_game_features:
+      name: 보드게임 기능
+    board_game_mechanics:
+      name: 보드게임 메커니즘
+    board_material:
+      name: 보드 소재
+    board_mounting_type:
+      name: 보드 장착 유형
+    board_profile:
+      name: 보드 프로필
+    board_surface:
+      name: 보드 표면
+    board_type:
+      name: 보드 유형
+    boat_type:
+      name: 보트 유형
+    body/facial_hair_type:
+      name: 체모 유형
+    body_area:
+      name: 신체 부위
+    body_color:
+      name: 본체 색상
+    body_jewelry_type:
+      name: 장신구 타입
+    body_material:
+      name: 본체 소재
+    body_paint/foundation_type:
+      name: 보디 페인트/파운데이션 타입
+    body_pattern:
+      name: 보디 패턴
+    bodyboard_features:
+      name: 보디보드 기능
+    boiler_system:
+      name: 보일러 시스템
+    bolt_form:
+      name: 볼트 형태
+    bolt_material:
+      name: 볼트 소재
+    book/file_cover_material:
+      name: 책/파일 표지 소재
+    book_cover_material:
+      name: 책 표지 소재
+    book_cover_type:
+      name: 책 표지 유형
+    bookmark_design:
+      name: 북마크 디자인
+    bookmark_shape:
+      name: 북마크 모양
+    boot_style:
+      name: 부츠 스타일
+    boot_type:
+      name: 부츠 유형
+    borescope_design:
+      name: 보스코프 디자인
+    bottle/container_closure:
+      name: 병/용기 마개
+    bottle_closure_type:
+      name: 병마개 유형
+    bottle_design:
+      name: 젖병 디자인
+    bottle_material:
+      name: 병 소재
+    bottle_sterilizer_features:
+      name: 병소독기 기능
+    bottle_type:
+      name: 젖병 유형
+    bottle_warmer/sterilizer_features:
+      name: 병 워머/소독기 기능
+    bottle_warmer_features:
+      name: 병 워머 기능
+    bottom_surface_material:
+      name: 바닥면 소재
+    bow/crossbow_features:
+      name: 활/석궁 기능
+    bow_features:
+      name: 활 기능
+    bow_hair_material:
+      name: 활털 소재
+    bow_material:
+      name: 활 소재
+    box_type:
+      name: 박스 유형
+    bra_closure_type:
+      name: 브라 여밈 유형
+    bra_coverage:
+      name: 브라 커버리지
+    bra_features:
+      name: 브래지어 기능
+    bra_strap_type:
+      name: 브래지어 끈 유형
+    bra_style:
+      name: 브라 스타일
+    bra_support_level:
+      name: 브래지어 지지력 수준
+    bracelet_design:
+      name: 팔찌 디자인
+    bracket/brace_design:
+      name: 브래킷/브레이스 디자인
+    brandy_variety:
+      name: 브랜디 종류
+    breath_sprays_certifications:
+      name: 구강 청정 스프레이 인증
+    bridge/router_advanced_features:
+      name: 브리지/라우터 고급 기능
+    brightness_levels:
+      name: 밝기 수준
+    bristle_material:
+      name: 모 소재
+    bristle_shape:
+      name: 강모 모양
+    broadhead/field_point_material:
+      name: 브로드헤드/필드 포인트 소재
+    brush_application:
+      name: 브러시 어플리케이션
+    brush_head_usage:
+      name: 브러시 헤드 용도
+    brush_material:
+      name: 브러쉬 소재
+    brush_size:
+      name: 브러시 크기
+    brush_type:
+      name: 브러시 유형
+    bug_type:
+      name: 버그 유형
+    building_board_material:
+      name: 건축판재 소재
+    building_consumable_form:
+      name: 건축 소모품 형태
+    building_toy_type:
+      name: 블록 장난감 타입
+    bulb_cap_type:
+      name: 전구 캡 유형
+    bulb_shape:
+      name: 전구 모양
+    bulb_size:
+      name: 전구 크기
+    bulb_type:
+      name: 전구 유형
+    bulldozer_blade_type:
+      name: 불도저 블레이드 유형
+    bullet_protection_level:
+      name: 방탄 수준
+    bullhorn_features:
+      name: 확성기 기능
+    bullion_form:
+      name: 괴 형태
+    burner_material:
+      name: 버너 소재
+    butt_cap_color:
+      name: 버트 캡 색상
+    butt_cap_material:
+      name: 엉덩이 캡 소재
+    butt_cap_pattern:
+      name: 버트 캡 패턴
+    button/snap_closure_type:
+      name: 버튼/스냅 잠금 방식
+    cabinet_type:
+      name: 캐비닛 유형
+    cable_housing_material:
+      name: 케이블 하우징 소재
+    cable_shielding:
+      name: 케이블 차폐
+    cable_type:
+      name: 케이블 유형
+    cage_type:
+      name: 케이지 유형
+    calculator_accessory_type:
+      name: 계산기 부대용품 타입
+    calculator_features:
+      name: 계산기 기능
+    calendar/organizer_features:
+      name: 달력/오거나이저 기능
+    calendar_format:
+      name: 달력 형태
+    cam_system:
+      name: 캠 시스템
+    camera_attachment:
+      name: 카메라 부착
+    camera_button/knob_type:
+      name: 카메라 버튼/노브 유형
+    camera_control_type:
+      name: 카메라 제어 유형
+    camera_display_technology:
+      name: 카메라 디스플레이 기술
+    camera_features:
+      name: 카메라 기능
+    camera_gear_type:
+      name: 카메라 기어 유형
+    camera_hd_type:
+      name: 카메라 HD 유형
+    camera_lens_material:
+      name: 카메라 렌즈 소재
+    camera_lens_type:
+      name: 카메라 렌즈 종류
+    camera_mounting_type:
+      name: 카메라 장착 유형
+    camera_sensor_type:
+      name: 카메라 센서 유형
+    camera_shape:
+      name: 카메라 모양
+    candle_kit_items_included:
+      name: 캔들 키트 품목 포함
+    candle_material:
+      name: 캔들 소재
+    candle_shape:
+      name: 양초 모양
+    candle_type:
+      name: 캔들 유형
+    canned_meat_variety:
+      name: 통조림 고기 종류
+    canopy_color:
+      name: 캐노피 색상
+    canopy_material:
+      name: 캐노피 소재
+    canopy_pattern:
+      name: 캐노피 패턴
+    canvas_finish:
+      name: 캔버스 마감
+    canvas_material:
+      name: 캔버스 소재
+    canvas_texture:
+      name: 캔버스 질감
+    car_freshener_fragrance:
+      name: 차량 방향제 향
+    car_seat_installation:
+      name: 카시트 설치
+    car_seat_orientation:
+      name: 카시트 방향
+    car_type:
+      name: 자동차 유형
+    carabiner_gate_type:
+      name: 카라비너 게이트 유형
+    carabiner_shape:
+      name: 카라비너 모양
+    card/adapter_installation:
+      name: 카드/어댑터 설치
+    card_attributes:
+      name: 카드 속성
+    card_design:
+      name: 카드 디자인
+    card_format:
+      name: 카드 형식
+    card_holder_design:
+      name: 카드 홀더 디자인
+    card_size:
+      name: 카드 크기
+    care_instructions:
+      name: 취급 지침
+    carry_options:
+      name: 휴대 옵션
+    carrying_positions:
+      name: 휴대 위치
+    carrying_type:
+      name: 휴대 유형
+    cart_design:
+      name: 카트 디자인
+    cart_type:
+      name: 카트 유형
+    cartridge_type:
+      name: 카트리지 유형
+    case_color:
+      name: 케이스 색상
+    case_pattern:
+      name: 케이스 패턴
+    case_type:
+      name: 케이스 유형
+    cassette_adapter_type:
+      name: 카세트 어댑터 유형
+    cat_age_group:
+      name: 고양이 연령대
+    cat_litter_formula:
+      name: 반려묘 모래 포뮬러
+    cbd_ingredients:
+      name: CBD 성분
+    celebration_type:
+      name: 축하 유형
+    chain_link_type:
+      name: 체인 링크 유형
+    chain_type:
+      name: 체인 유형
+    chair/sofa_features:
+      name: 의자/소파 기능
+    chair_features:
+      name: 의자 기능
+    chalkboard_surface:
+      name: 칠판 표면
+    changing_mat/tray_features:
+      name: 기저귀 교체 매트/트레이 기능
+    changing_mat_features:
+      name: 기저귀 교체 매트 기능
+    changing_tray_features:
+      name: 기저귀 교체 트레이 기능
+    charger_type:
+      name: 충전기 유형
+    charging_cable_type:
+      name: 충전 케이블 유형
+    charging_level:
+      name: 충전 수준
+    charging_method:
+      name: 충전 방식
+    chassis_type:
+      name: 섀시 유형
+    chemical_application:
+      name: 화학물질 도포
+    chemical_container_type:
+      name: 화학물질 용기 유형
+    chemical_grade:
+      name: 화학 등급
+    chemical_product_form:
+      name: 화학 제품 형태
+    chemical_purity:
+      name: 화학적 순도
+    chemical_safety_features:
+      name: 화학물질 안전 기능
+    chicken_feed_stage:
+      name: 닭 사료 단계
+    child_seat_placement:
+      name: 어린이용 시트 배치
+    chipper_technology:
+      name: 치퍼 기술
+    chiropractic_table_design:
+      name: 척추교정 테이블 디자인
+    chuck_type:
+      name: 척 유형
+    cigar_body:
+      name: 시가 바디
+    circuit_board_features:
+      name: 회로 기판 기능
+    circuit_breaker_design:
+      name: 회로 차단기 디자인
+    circuit_breaker_panel_form:
+      name: 회로 차단기 패널 형태
+    circuit_breaker_type:
+      name: 회로 차단기 유형
+    clarinet_key_system:
+      name: 클라리넷 키 시스템
+    clasp_type:
+      name: 고리 유형
+    claw_design:
+      name: 클로 디자인
+    clay/slip_texture:
+      name: 클레이/슬립 질감
+    clay_texture:
+      name: 점토 질감
+    cleaner_purpose:
+      name: 클리너 용도
+    cleaning_instructions:
+      name: 청소 지침
+    cleaning_purpose:
+      name: 청소 목적
+    cleaning_surfaces:
+      name: 청소 대상
+    cleat_type:
+      name: 클리트 유형
+    climbing_activity:
+      name: 등산 활동
+    clip_type:
+      name: 클립 유형
+    clipper/trimmer_type:
+      name: 클리퍼/트리머 타입
+    closure_style:
+      name: 잠금 스타일
+    closure_type:
+      name: 잠금 방식
+    clothing_accessory_material:
+      name: 의류 액세서리 소재
+    clothing_features:
+      name: 의류 기능
+    club_subset:
+      name: 클럽 서브세트
+    club_type:
+      name: 클럽 유형
+    coating/sealant_application:
+      name: 코팅/실란트 도포
+    cocktail_decoration_design:
+      name: 칵테일 장식 디자인
+    cocktail_decoration_material:
+      name: 칵테일 장식 재료
+    coffee/tea_set_pieces_included:
+      name: 커피/차 세트 포함
+    coffee_creamer_variety:
+      name: 커피 크리머 종류
+    coffee_input_type:
+      name: 커피 투입 유형
+    coffee_product_form:
+      name: 커피 제품 형태
+    coffee_roast:
+      name: 커피 로스트
+    coil_connection:
+      name: 코일 연결
+    coin_material:
+      name: 코인 소재
+    collar/mount_compatible_device:
+      name: 칼라/마운트 호환 가능한 장치
+    collar/mount_design:
+      name: 칼라/마운트 디자인
+    collar_lock_type:
+      name: 칼라 잠금 타입
+    color:
+      name: 색상
+    color_accuracy_standards:
+      name: 색상 정확도 표준
+    color_saturation:
+      name: 채도
+    communication_device_features:
+      name: 통신 장치 기능
+    communication_protocols:
+      name: 통신 프로토콜
+    compass_style:
+      name: 나침반 스타일
+    compatible_aircraft_type:
+      name: 호환 가능한 항공기 유형
+    compatible_amplifier:
+      name: 호환 가능한 앰프
+    compatible_aquarium:
+      name: 호환 수족관
+    compatible_baby_bottle_design:
+      name: 호환 가능한 젖병 디자인
+    compatible_baby_carrier_type:
+      name: 호환 가능한 아기띠 유형
+    compatible_baby_chair_type:
+      name: 호환 가능한 아기 의자 유형
+    compatible_baby_transport_type:
+      name: 호환 가능한 영유아용 캐리어 유형
+    compatible_ball_type:
+      name: 호환 가능한 공 유형
+    compatible_battery_size:
+      name: 호환 가능한 배터리 크기
+    compatible_battery_technology:
+      name: 호환 가능한 배터리 기술
+    compatible_bench_positions:
+      name: 관련 벤치 위치
+    compatible_bike_type:
+      name: 호환 가능한 자전거 유형
+    compatible_brass_instrument:
+      name: 호환 가능한 금관 악기
+    compatible_clarinet_type:
+      name: 호환 가능한 클라리넷 유형
+    compatible_cosmetic_tools:
+      name: 호환 가능한 화장 도구
+    compatible_device:
+      name: 호환 가능한 장치
+    compatible_drum_configuration:
+      name: 호환 가능한 드럼 구성
+    compatible_electric/acoustic_instrument:
+      name: 호환 가능한 전자/어쿠스틱 악기
+    compatible_electronic_card_type:
+      name: 호환 가능한 전자 카드 유형
+    compatible_exercises:
+      name: 할 수 있는 운동
+    compatible_filament:
+      name: 호환 가능한 필라멘트
+    compatible_film_type:
+      name: 호환 가능한 필름 유형
+    compatible_flute_type:
+      name: 호환 가능한 플루트 유형
+    compatible_game_format:
+      name: 호환 가능한 게임 형식
+    compatible_gardening_tool:
+      name: 관련 원예 도구
+    compatible_hair_color:
+      name: 가능한 헤어 컬러
+    compatible_hammock_design:
+      name: 관련 해먹 디자인
+    compatible_harmonica_type:
+      name: 호환 가능한 하모니카 유형
+    compatible_hdcp:
+      name: 호환 가능한 HDCP
+    compatible_instrument:
+      name: 호환 가능한 악기
+    compatible_keyboard_configuration:
+      name: 호환 가능한 키보드 구성
+    compatible_lock_type:
+      name: 호환 가능한 잠금 유형
+    compatible_makeup:
+      name: 호환 가능한 메이크업
+    compatible_mattress_size:
+      name: 관련 매트리스 크기
+    compatible_memory_cards:
+      name: 호환 가능한 메모리 카드
+    compatible_microphone_thread:
+      name: 호환 가능한 마이크 스레드
+    compatible_motherboard_form_factor:
+      name: 호환 가능한 마더보드 폼 팩터
+    compatible_oboe_type:
+      name: 호환 가능한 오보에 유형
+    compatible_operating_system:
+      name: 호환 가능한 운영 체제
+    compatible_orchestral_string_instrument:
+      name: 호환 가능한 오케스트라 현악기
+    compatible_paper_size:
+      name: 호환 가능한 용지 크기
+    compatible_patient_profile:
+      name: 호환 가능한 환자 프로필
+    compatible_percussion_instrument:
+      name: 호환 가능한 타악기
+    compatible_play_vehicle_type:
+      name: 호환 가능한 장난감 차 유형
+    compatible_player:
+      name: 호환 가능한 플레이어
+    compatible_printer:
+      name: 호환 가능한 프린터
+    compatible_processor_series:
+      name: 호환 가능한 프로세서 시리즈
+    compatible_programming_languages:
+      name: 호환 가능한 프로그래밍 언어
+    compatible_recipes:
+      name: 호환 가능한 레시피
+    compatible_resolution:
+      name: 호환 가능한 해상도
+    compatible_seat_type:
+      name: 호환 가능한 시트 유형
+    compatible_shoe_size:
+      name: 호환 가능한 신발 사이즈
+    compatible_software_platform:
+      name: 호환 가능한 소프트웨어 플랫폼
+    compatible_special_effects_device:
+      name: 호환 가능한 특수 효과 장치
+    compatible_stove_top_type:
+      name: 호환 쿡탑 타입
+    compatible_string_instrument:
+      name: 호환 가능한 현악기
+    compatible_stroller_type:
+      name: 호환 가능한 유모차 유형
+    compatible_vacuum_type:
+      name: 호환 가능한 진공 유형
+    compatible_vehicle:
+      name: 호환 가능한 차량
+    compatible_walking_aid_equipment:
+      name: 호환 가능한 보행 보조기 장비
+    compatible_weight_lifting_accessory:
+      name: 관련 역도 액세서리
+    compliance_certifications:
+      name: 규정 준수 인증
+    component_output_type:
+      name: 컴포넌트 출력 유형
+    component_package_type:
+      name: 구성품 패키지 유형
+    compression_format:
+      name: 압축 형식
+    compression_level:
+      name: 압축 수준
+    computer_accessories_included:
+      name: 컴퓨터 부대용품 포함
+    computer_form:
+      name: 컴퓨터 형식
+    computer_server_features:
+      name: 컴퓨터 서버 기능
+    computer_specialized_features:
+      name: 컴퓨터 전문 기능
+    concertina_button_configuration:
+      name: 콘서티나 버튼 구성
+    condition:
+      name: 상태
+    conditioner_effect:
+      name: 컨디셔너 효과
+    condom_type:
+      name: 콘돔 유형
+    connecting_thread:
+      name: 연결 스레드
+    connection_method:
+      name: 연결 방법
+    connection_type:
+      name: 연결 유형
+    connectivity_technology:
+      name: 연결 기술
+    connector_design:
+      name: 커넥터 디자인
+    connector_gender:
+      name: 커넥터 젠더
+    console_system:
+      name: 콘솔 시스템
+    constitutive_ingredients:
+      name: 구성 성분
+    construction_set_theme:
+      name: 건설 현장 세트 테마
+    contrast:
+      name: 콘트라스트
+    contrast_ratio_typical:
+      name: 명암비(일반)
+    control_functions:
+      name: 제어 기능
+    control_method:
+      name: 제어 방식
+    control_technology:
+      name: 제어 기술
+    control_type:
+      name: 제어 유형
+    controller_design:
+      name: 컨트롤러 설계
+    controller_drive_type:
+      name: 컨트롤러 드라이브 유형
+    converter_functionality:
+      name: 컨버터 기능
+    conveyor_operation:
+      name: 컨베이어 작동
+    cooking_method:
+      name: 조리 방식
+    cooking_wine_variety:
+      name: 요리용 와인 종류
+    cookware/bakeware_features:
+      name: 쿡웨어/베이크웨어 기능
+    cookware/bakeware_material:
+      name: 쿡웨어/베이크웨어 자재
+    cookware_features:
+      name: 쿡웨어 기능
+    cookware_items_included:
+      name: 바웨어 품목 포함
+    cooling_technology:
+      name: 냉각 기술
+    cord_fastening_system:
+      name: 코드 체결 시스템
+    core_color:
+      name: 코어 컬러
+    core_material:
+      name: 코어 소재
+    core_pattern:
+      name: 케이스 패턴
+    corrector_features:
+      name: 교정기 기능
+    corsage/boutonniere_design:
+      name: 코르사주/부토니에르 디자인
+    cosmetic_condition:
+      name: 외관 상태
+    cosmetic_finish:
+      name: 화장 마무리
+    cosmetic_function:
+      name: 화장품 기능
+    costume_theme:
+      name: 분장 의상 테마
+    counter_shape:
+      name: 카운터 모양
+    country:
+      name: 국가
+    cover_closure_design:
+      name: 커버 여밈 디자인
+    cover_color:
+      name: 커버 색상
+    cover_features:
+      name: 커버 기능
+    cover_material:
+      name: 커버 소재
+    cover_pattern:
+      name: 커버 패턴
+    cover_type:
+      name: 커버 유형
+    coverage_area:
+      name: 커버리지 영역
+    coverage_region:
+      name: 도달 지역
+    craft/sculpting_project_type:
+      name: 공예/조각 프로젝트 유형
+    craft_cutter/embosser_type:
+      name: 공예 절단기/엠보서 타입
+    craft_decoration_maker_type:
+      name: 공예 장식 제작 도구 타입
+    craft_knife_design:
+      name: 공예용 칼 디자인
+    craft_pipe_cleaner_design:
+      name: 공예 파이프 클리너 디자인
+    craft_project_type:
+      name: 공예 프로젝트 유형
+    crafting_frame/stretcher_features:
+      name: 제작 프레임/들것 기능
+    crafting_frame_features:
+      name: 제작 프레임 기능
+    crafting_hoop_features:
+      name: 제작 후프 기능
+    crafting_mat/pad_features:
+      name: 제작 매트/패드 기능
+    crafting_stretcher_features:
+      name: 제작 들것 기능
+    crampon_attachment_type:
+      name: 아이젠 부착 타입
+    creative_art_project_type:
+      name: 창의적인 예술 프로젝트 유형
+    crib/toddler_bed_features:
+      name: 영유아용 침대 기능
+    crib_features:
+      name: 아기 침대 기능
+    cricket_equipment_included:
+      name: 크리켓 장비 포함
+    crutch_type:
+      name: 목발 유형
+    crystal_system:
+      name: 결정계
+    cue_style:
+      name: 큐 스타일
+    cue_type:
+      name: 큐 유형
+    cue_wrap:
+      name: 큐 랩
+    cuisine:
+      name: 요리
+    culinary_botanical_name:
+      name: 요리 관련 식물 이름
+    cup_size:
+      name: 컵 크기
+    curler_type:
+      name: 헤어롤 유형
+    currencies_supported:
+      name: 지원되는 통화
+    currency:
+      name: 통화
+    currency_type:
+      name: 통화 유형
+    customer_support_channels:
+      name: 고객 지원 채널
+    customization:
+      name: 맞춤화
+    cutter_options:
+      name: 커터 옵션
+    cutting_method:
+      name: 절단 방식
+    cycling_style:
+      name: 사이클링 스타일
+    data_network:
+      name: 데이터 네트워크
+    decoration_material:
+      name: 장식 재료
+    decorative_stamp_design:
+      name: 장식용 도장 디자인
+    denomination:
+      name: 액면가
+    dental_floss_shape:
+      name: 치실 모양
+    dental_floss_thickness_level:
+      name: 치실 두께
+    dental_floss_type:
+      name: 치실 타입
+    dental_mouthgard_recommended_use:
+      name: 권장 치과용 마우스가드 사용
+    dental_mouthguard_certifications:
+      name: 교정용 마우스피스 인증
+    dental_paste_flavor:
+      name: 치약 맛
+    dental_repair_kit_certifications:
+      name: 치과 수리 키트 인증
+    dental_water_jet_operation:
+      name: 치과 워터젯 작동
+    dentistry_items_included:
+      name: 치과 물품 포함
+    denture_base_color:
+      name: 의치 베이스 색상
+    denture_coverage:
+      name: 의치피개
+    denture_design:
+      name: 의치 디자인
+    denture_teeth_color:
+      name: 의치 치아 색상
+    deployment_type:
+      name: 배포 유형
+    desk_organizer_features:
+      name: 데스크 오거나이저 기능
+    desk_size:
+      name: 책상 크기
+    detailed_ingredients:
+      name: 세부 성분
+    detectable_drugs:
+      name: 검출 가능한 약물
+    detector_operation_mode:
+      name: 감지기 작동 모드
+    detector_sensitivity:
+      name: 감지기 감도
+    detector_type:
+      name: 감지기 유형
+    developmental_features:
+      name: 발달 특징
+    device_interface:
+      name: 장치 인터페이스
+    device_technology:
+      name: 장치 기술
+    dexterity_skills:
+      name: 손재주 기술
+    dial_color:
+      name: 다이얼 색상
+    dial_pattern:
+      name: 다이얼 패턴
+    diaper_bag_additional_features:
+      name: 기저귀 가방 추가 기능
+    diaper_bag_material:
+      name: 기저귀 가방 소재
+    diaper_bag_style:
+      name: 기저귀 가방 스타일
+    diaper_features:
+      name: 기저귀 기능
+    diaper_kit_components:
+      name: 기저귀 키트 구성품
+    diaper_organizer_features:
+      name: 기저귀 정리 기능
+    diaper_size:
+      name: 기저귀 사이즈
+    diaper_type:
+      name: 기저귀 유형
+    dice_shape:
+      name: 주사위 모양
+    dielectric_type:
+      name: 유전체 유형
+    dietary_preferences:
+      name: 선호 식단
+    dietary_supplements:
+      name: 식이 보충제
+    dietary_use:
+      name: 식이 용도
+    difficulty_level:
+      name: 난이도
+    diffuser_design:
+      name: 디퓨저 디자인
+    digital_sound_processing:
+      name: 디지털 사운드 프로세싱
+    dinnerware_pieces_included:
+      name: 식기류 포함
+    dirt_separating_method:
+      name: 먼지 분리 방식
+    discharge_type:
+      name: 배출 유형
+    disk_format_type:
+      name: 디스크 형식 유형
+    dispenser_type:
+      name: 디스펜서 유형
+    display_board_features:
+      name: 디스플레이 보드 기능
+    display_color_mode:
+      name: 디스플레이 색상 모드
+    display_features:
+      name: 디스플레이 기능
+    display_mode:
+      name: 디스플레이 모드
+    display_recommended_use:
+      name: 디스플레이 권장 용도
+    display_resolution:
+      name: 디스플레이 해상도
+    display_sign_design:
+      name: 디스플레이 표지판 디자인
+    display_technology:
+      name: 디스플레이 기술
+    disposable/reusable_bag_features:
+      name: 일회용/재사용 가방 기능
+    disposable/reusable_item_material:
+      name: 일회용/재사용 품목 소재
+    disposable_bag_features:
+      name: 일회용 가방 기능
+    disposable_bag_material:
+      name: 일회용 가방 소재
+    disposable_glove_features:
+      name: 일회용 장갑 기능
+    disposable_tableware_material:
+      name: 일회용 식기 소재
+    dive_computer_items_included:
+      name: 다이브 컴퓨터 품목 포함
+    diving/snorkeling_equipment_included:
+      name: 다이빙/스노클링 장비 포함
+    diving_regulator_style:
+      name: 다이빙 레귤레이터 스타일
+    dj_equipment_features:
+      name: DJ 장비 기능
+    dj_software_compatibility:
+      name: DJ 소프트웨어 호환성
+    dog_age_group:
+      name: 개 연령대
+    dog_diaper_size:
+      name: 강아지 기저귀 사이즈
+    dog_diaper_type:
+      name: 강아지 기저귀 타입
+    dog_house_features:
+      name: 개집 기능
+    dog_kennel/run_features:
+      name: 강아지 사육장/운동장 기능
+    dog_kennel_features:
+      name: 강아지 사육장 기능
+    dog_pen_features:
+      name: 강아지 펜 기능
+    dog_toy_type:
+      name: 강아지 장난감 타입
+    doll/playset_features:
+      name: 인형/플레이세트 기능
+    doll_features:
+      name: 인형 기능
+    doll_type:
+      name: 인형 타입
+    door/frame_application:
+      name: 문/프레임 적용
+    door_application:
+      name: 문 적용
+    door_closer_application:
+      name: 도어 클로저 적용
+    door_closer_design:
+      name: 도어 클로저 디자인
+    door_color:
+      name: 도어 색상
+    door_frame_application:
+      name: 문틀 적용
+    door_frame_finish:
+      name: 문틀 마감
+    door_glass_finish:
+      name: 문 유리 마감
+    door_insulation:
+      name: 문 단열재
+    door_knob_function:
+      name: 문 손잡이 기능
+    door_mat_base_color:
+      name: 도어매트 베이스 컬러
+    door_mat_base_material:
+      name: 도어매트 베이스 소재
+    door_mat_base_pattern:
+      name: 도어매트 베이스 패턴
+    door_mat_surface_material:
+      name: 도어매트 표면 소재
+    door_material:
+      name: 도어 소재
+    door_pattern:
+      name: 도어 패턴
+    door_stop_placement:
+      name: 문버팀쇠 위치
+    door_stopper_design:
+      name: 도어 스토퍼 디자인
+    door_suitable_location:
+      name: 문의 적합한 위치
+    door_surface_finish:
+      name: 문 표면 마감
+    door_type:
+      name: 문 유형
+    double_stroller_configuration:
+      name: 쌍둥이 유모차 구성
+    download_format:
+      name: 다운로드 형식
+    drain_location:
+      name: 배수 위치
+    drawing/painting_kit_items_included:
+      name: 드로잉/페인팅 키트 품목 포함
+    dress_form_features:
+      name: 드레스폼 기능
+    dress_occasion:
+      name: 드레스 행사
+    dress_style:
+      name: 드레스 스타일
+    drill_features:
+      name: 드릴 기능
+    drilling_method:
+      name: 드릴링 방식
+    drilling_rig_orientation:
+      name: 굴착 장치 방향
+    drinkware_material:
+      name: 드링크웨어 소재
+    drinkware_pieces_included:
+      name: 음료 용기 포함
+    drive_size:
+      name: 드라이브 크기
+    drive_type:
+      name: 드라이브 유형
+    drum_configuration:
+      name: 드럼 구성
+    drum_hardware_adjustability:
+      name: 드럼 하드웨어 조정 가능성
+    drum_hardware_material:
+      name: 드럼 하드웨어 소재
+    dry/wet_cleaning:
+      name: 건식/습식 청소
+    dry_bean_variety:
+      name: 건조 콩 품종
+    dryer_features:
+      name: 건조기 기능
+    dryer_technology:
+      name: 건조기 기술
+    drying_speed:
+      name: 건조 속도
+    duct_design:
+      name: 덕트 디자인
+    duct_shape:
+      name: 덕트 모양
+    duplexing_technology:
+      name: 양면 인쇄 기술
+    durability_features:
+      name: 내구성 특징
+    dust_container_type:
+      name: 먼지통 유형
+    dust_mask_type:
+      name: 방진 마스크 종류
+    dye_form:
+      name: 염료 형태
+    dynamic_level:
+      name: 동적 수준
+    e_book_formats_supported:
+      name: 지원되는 전자책 형식
+    e_cigarette/vaporizer_style:
+      name: 전자담배/기화기 스타일
+    e_liquid_flavor:
+      name: 전자담배 액상 향
+    e_liquid_variety:
+      name: 전자담배 액상 종류
+    e_reader_display_technology:
+      name: E-리더 디스플레이 기술
+    ear_care_application_method:
+      name: 이어케어 도포방법
+    earphone_features:
+      name: 이어폰 기능
+    earplug_use:
+      name: 귀마개 용도
+    earring_design:
+      name: 귀걸이 디자인
+    edge_style:
+      name: 가장자리 스타일
+    edge_type:
+      name: 엣지 타입
+    education_level:
+      name: 교육 수준
+    egg_decorating_items_included:
+      name: 계란 장식 품목 포함
+    egg_turning:
+      name: 알굴리기
+    electronic_drum_components:
+      name: 전자 드럼 부품
+    electronic_game_genre:
+      name: 전자 게임 장르
+    embellishment/trim_material:
+      name: 장식/트림 소재
+    embellishments:
+      name: 장식
+    embossing_project_type:
+      name: 엠보싱 프로젝트 유형
+    embouchure_hole_shape:
+      name: 취구 모양
+    emergency/safety_sign_design:
+      name: 비상/안전 표지판 디자인
+    emergency_items_included:
+      name: 비상용품 포함
+    enclosure_type:
+      name: 인클로저 유형
+    energy_efficiency_class:
+      name: 에너지 효율 등급
+    energy_efficiency_class_hdr:
+      name: 에너지 효율 등급(HDR)
+    energy_efficiency_class_sdr:
+      name: 에너지 효율 등급(SDR)
+    engine_design:
+      name: 엔진 디자인
+    engine_purpose:
+      name: 엔진 용도
+    engine_type:
+      name: 엔진 유형
+    engraving:
+      name: 새겨넣기
+    envelope_features:
+      name: 봉투 기능
+    envelope_seal_design:
+      name: 봉투 씰 디자인
+    equipment_operation:
+      name: 장비 작동
+    era:
+      name: 시대
+    esrb_rating:
+      name: ESRB 등급
+    ethernet_lan_interface_type:
+      name: 이더넷 LAN 인터페이스 유형
+    ev_battery_features:
+      name: EV 배터리 기능
+    ev_battery_type:
+      name: EV 배터리 유형
+    ev_connector/adapter_type:
+      name: EV 커넥터/어댑터 유형
+    ev_conversion_kit_components:
+      name: EV 변환 키트 구성품
+    evaporation_technology:
+      name: 증발 기술
+    event_type:
+      name: 이벤트 유형
+    exercise_equipment_included:
+      name: 운동기구 포함
+    exercise_equipment_material:
+      name: 운동기구 재질
+    exercise_machine_features:
+      name: 운동기구 기능
+    exercise_mat_material:
+      name: 운동매트 자재
+    expansion_slots:
+      name: 확장 슬롯
+    exposure_control:
+      name: 노출 제어
+    extended_saxophone_range:
+      name: 확장된 색소폰 범위
+    external_defibrillator_features:
+      name: 외부 제세동기 기능
+    extinguisher_rating:
+      name: 소화기 등급
+    extinguishing_agent_type:
+      name: 소화제 유형
+    extraction_type:
+      name: 추출 유형
+    extractor_tip_style:
+      name: 추출기 팁 스타일
+    eye_pillow_shape:
+      name: 눈 베개 모양
+    eye_shadow_effect:
+      name: 아이섀도 효과
+    eyebrow_enhancer_color:
+      name: 눈썹 강화 컬러
+    eyelash_applicator_design:
+      name: 속눈썹 부착 도구 디자인
+    eyelash_material:
+      name: 속눈썹 소재
+    eyelash_type:
+      name: 속눈썹 타입
+    eyepiece/adapter_material:
+      name: 접안렌즈/어댑터 자재
+    eyewear_frame_color:
+      name: 안경 프레임 색상
+    eyewear_frame_design:
+      name: 안경 프레임 디자인
+    eyewear_frame_material:
+      name: 안경 프레임 소재
+    eyewear_frame_pattern:
+      name: 안경 프레임 패턴
+    eyewear_frame_shape:
+      name: 안경 프레임 형태
+    eyewear_lens_color:
+      name: 안경 렌즈 색상
+    eyewear_lens_material:
+      name: 안경 렌즈 소재
+    eyewear_lens_pattern:
+      name: 안경 렌즈 패턴
+    fabric:
+      name: 패브릭
+    fabric_structure:
+      name: 패브릭 구조
+    face_area:
+      name: 얼굴 부위
+    face_powder_color:
+      name: 페이스 파우더 컬러
+    face_powder_type:
+      name: 페이스 파우더 타입
+    faceplate_design:
+      name: 페이스플레이트 디자인
+    facility_sign_design:
+      name: 시설 표지판 디자인
+    false_nail_application_method:
+      name: 인조네일 적용 방법
+    fastener_finish:
+      name: 패스너 마감
+    fastener_material:
+      name: 패스너 소재
+    fastener_type:
+      name: 패스너 유형
+    fat_content:
+      name: 지방 함량
+    faucet_thread:
+      name: 수도꼭지 스레드
+    features:
+      name: 기능
+    feed_system:
+      name: 급지 시스템
+    feet_type:
+      name: 다리 유형
+    felt_tip_design:
+      name: 펠트 팁 디자인
+    feminine_sanitary_supply_features:
+      name: 여성 위생 용품 기능
+    fencing_components:
+      name: 장벽 구성품
+    fiber_art_project_type:
+      name: 섬유 공예 프로젝트 유형
+    field_flatness:
+      name: 필드 평편도
+    filament_type:
+      name: 필라멘트 타입
+    file_format_type:
+      name: 파일 형식 유형
+    file_shape:
+      name: 파일 형태
+    filler_material:
+      name: 충진 소재
+    filler_support:
+      name: 필러 충전재
+    filler_type:
+      name: 필러 유형
+    filling/padding_project_type:
+      name: 충전/패딩 프로젝트 유형
+    film_application_method:
+      name: 필름 도포 방법
+    film_format:
+      name: 필름 형식
+    film_type:
+      name: 필름 유형
+    filter_material:
+      name: 필터 소재
+    filter_type:
+      name: 필터 유형
+    filtering_modes:
+      name: 필터링 모드
+    filtration_class:
+      name: 여과 등급
+    fin_material:
+      name: 핀 소재
+    fin_pocket_type:
+      name: 핀 포켓 유형
+    fin_profile:
+      name: 핀 프로필
+    fingerboard_color:
+      name: 지판 색상
+    fingerboard_material:
+      name: 지판 소재
+    fingerboard_pattern:
+      name: 지판 패턴
+    fingerprint_capture_method:
+      name: 지문 캡처 방식
+    finial_shape:
+      name: 최종 모양
+    finish:
+      name: 마감
+    fire_extinguisher_items_included:
+      name: 소화기 품목 포함
+    firmness:
+      name: 단단함
+    first_aid_kit_components:
+      name: 구급약품 키트 구성품
+    first_aid_kit_usage:
+      name: 구급약품 키트 용도
+    first_steps/crawlers_style:
+      name: 첫 번째 단계/크롤러 스타일
+    fish_type:
+      name: 어종
+    fishing_rod_action:
+      name: 낚싯대 움직임
+    fishing_rod_power:
+      name: 낚싯대 무게
+    fishing_wire_material:
+      name: 낚시줄 소재
+    fit:
+      name: 핏
+    fit_type:
+      name: 핏 유형
+    fixation_type:
+      name: 고정 유형
+    flag_shape:
+      name: 깃발 모양
+    flare_type:
+      name: 플레어 유형
+    flash_card_theme:
+      name: 플래시 카드 테마
+    flash_modes:
+      name: 플래시 모드
+    flash_type:
+      name: 플래시 종류
+    flashing_material:
+      name: 플래싱 소재
+    flat_shoe_style:
+      name: 플랫 슈즈 스타일
+    flatware_material:
+      name: 플랫웨어 소재
+    flatware_pieces_included:
+      name: 커틀러리 포함
+    flavor:
+      name: 맛
+    flavor_profile:
+      name: 맛 프로필
+    flexibility_rating:
+      name: 유연성 등급
+    floral_wire_design:
+      name: 꽃꽂이용 와이어 디자인
+    flour/grain_type:
+      name: 밀가루/곡물 유형
+    flow_rate_type:
+      name: 유량 유형
+    flower_color:
+      name: 꽃 색상
+    flower_pattern:
+      name: 플라워 패턴
+    flue_type:
+      name: 급배기 유형
+    fluid_type:
+      name: 유체 유형
+    flush_plate_color:
+      name: 플러시 플레이트 색상
+    flush_plate_pattern:
+      name: 플러시 플레이트 패턴
+    flush_system:
+      name: 플러시 시스템
+    flute_configuration:
+      name: 플루트 구성
+    foam_form:
+      name: 폼 형태
+    focus_adjustment:
+      name: 초점 조정
+    focus_device_type:
+      name: 초점 보조 장치 유형
+    focus_type:
+      name: 초점 유형
+    fold_type:
+      name: 접는 방식
+    folder/report_cover_material:
+      name: 폴더/보고서 표지 소재
+    folding_mechanism:
+      name: 폴딩 메커니즘
+    font_style:
+      name: 글꼴 스타일
+    food_bag_material:
+      name: 식품 가방 소재
+    food_dispenser_type:
+      name: 식품 디스펜서 유형
+    food_product_form:
+      name: 식품 형태
+    food_storage_material:
+      name: 식품 보관 자재
+    food_supplement_form:
+      name: 식품 보충제 형식
+    footage_type:
+      name: 영상 유형
+    footboard_type:
+      name: 풋보드 유형
+    footwear_color:
+      name: 신발 색상
+    footwear_material:
+      name: 신발 소재
+    footwear_pattern:
+      name: 신발 패턴
+    format_supported:
+      name: 지원되는 형식
+    formula_level:
+      name: 분유 단계
+    fossil_type:
+      name: 화석 유형
+    foundation_color:
+      name: 파운데이션 색상
+    foundation_material:
+      name: 파운데이션 소재
+    foundation_pattern:
+      name: 파운데이션 패턴
+    fragrance:
+      name: 향
+    fragrance_level:
+      name: 향 수준
+    frame_color:
+      name: 프레임 색상
+    frame_design:
+      name: 액자 디자인
+    frame_material:
+      name: 프레임 소재
+    frame_pattern:
+      name: 프레임 패턴
+    frame_style:
+      name: 프레임 스타일
+    frequency/radio_bands_supported:
+      name: 지원되는 주파수/무선 대역
+    frequency_type:
+      name: 주파수 유형
+    frequency_weighting:
+      name: 주파수 가중
+    frog_material:
+      name: 개구리 소재
+    fruit_source:
+      name: 과일 원액
+    fuel_additives:
+      name: 연료 첨가제
+    fuel_container_features:
+      name: 연료통 기능
+    fuel_grade:
+      name: 연료 등급
+    fuel_purity:
+      name: 연료 순도
+    fuel_source:
+      name: 연료원
+    fuel_supply:
+      name: 연료 공급
+    furniture/fixture_color:
+      name: 가구/고정물 색상
+    furniture/fixture_features:
+      name: 가구/고정물 기능
+    furniture/fixture_material:
+      name: 가구/고정물 자재
+    furniture/fixture_pattern:
+      name: 가구/고정물 패턴
+    game_components:
+      name: 게임 구성품
+    game_difficulty:
+      name: 게임 난이도
+    game_features:
+      name: 게임 기능
+    game_name:
+      name: 게임 이름
+    gameplay_skills:
+      name: 게임 플레이 기술
+    games_included:
+      name: 포함된 게임
+    garage_door_material:
+      name: 차고문 소재
+    gardening_use:
+      name: 원예용
+    garment_steamer_design:
+      name: 전기 스팀 다리미 디자인
+    gases_detected:
+      name: 가스 감지됨
+    gate_mounting_type:
+      name: 게이트 장착 유형
+    gauge_type:
+      name: 게이지 유형
+    gear_material:
+      name: 기어 소재
+    gear_ratio:
+      name: 기어비
+    gearing_type:
+      name: 기어링 유형
+    gel_strength:
+      name: 젤 강도
+    genre:
+      name: 장르
+    geological_era:
+      name: 지질 시대
+    gift_bag_handle_design:
+      name: 선물 가방 핸들 디자인
+    gift_set_format:
+      name: 선물 세트 형식
+    gin_variety:
+      name: 진 종류
+    glaze_finish:
+      name: 유약 마감
+    glazing_type:
+      name: 유리끼움 방식
+    glitter_shape:
+      name: 반짝이 모양
+    glucose_meter_features:
+      name: 혈당 측정기 기능
+    glue_gun_features:
+      name: 글루건 기능
+    glue_gun_operation:
+      name: 글루건 작동
+    glue_gun_technology:
+      name: 글루건 기술
+    glue_strength:
+      name: 접착제 강도
+    golf_ball_type:
+      name: 골프공 유형
+    golf_equipment_included:
+      name: 골프 장비 포함
+    gps_compatible_device:
+      name: GPS 호환 장치
+    gps_device_features:
+      name: GPS 장치 기능
+    gps_map_type:
+      name: GPS 지도 타입
+    gps_software_focus:
+      name: GPS 소프트웨어 초점
+    grading:
+      name: 등급
+    grain:
+      name: 그레인
+    grape_variety:
+      name: 포도 품종
+    graphics_card_type:
+      name: 그래픽 카드 유형
+    graphics_tablet_accessories_included:
+      name: 그래픽 태블릿 액세서리 포함
+    graphics_tablet_specialized_features:
+      name: 그래픽 태블릿 특화 기능
+    gravel/substrate_material:
+      name: 자갈/기질 자재
+    grease_filter_material:
+      name: 그리스 필터 소재
+    grip_texture:
+      name: 그립 질감
+    grip_type:
+      name: 그립 유형
+    grit_type:
+      name: 그릿 유형
+    grooming_kit_format:
+      name: 그루밍 키트 형식
+    guitar_fitting/part_type:
+      name: 기타 피팅/부품 타입
+    guitar_size:
+      name: 기타 크기
+    gutter_fitting_type:
+      name: 홈통 피팅 유형
+    gutter_style:
+      name: 홈통 스타일
+    habitat_material:
+      name: 서식지 재료
+    hair_care_finish:
+      name: 헤어 케어 마무리
+    hair_care_items_included:
+      name: 헤어 케어 품목 포함
+    hair_care_technology:
+      name: 헤어 케어 기술
+    hair_color/shade:
+      name: 헤어 컬러/세이드
+    hair_loss_type:
+      name: 탈모 유형
+    hair_shear_type:
+      name: 헤어 커팅 타입
+    hair_styling_items_included:
+      name: 헤어 스타일링 아이템 포함
+    hair_styling_tool_features:
+      name: 헤어 스타일링 도구 기능
+    hair_type:
+      name: 헤어 유형
+    hammer_head_material:
+      name: 해머 헤드 소재
+    hand_side:
+      name: 주 사용 손
+    hand_warmer_type:
+      name: 손난로형
+    handcuff_lock_type:
+      name: 수갑 잠금 방식
+    handle_color:
+      name: 핸들 색상
+    handle_design:
+      name: 핸들 디자인
+    handle_grip_texture:
+      name: 핸들 그립 질감
+    handle_material:
+      name: 손잡이 소재
+    handle_pattern:
+      name: 핸들 패턴
+    handle_type:
+      name: 핸들 유형
+    handset_type:
+      name: 핸드셋 유형
+    handwear_features:
+      name: 핸드웨어 기능
+    handwear_material:
+      name: 핸드웨어 소재
+    handwear_type:
+      name: 핸드웨어 타입
+    hanging_chair_design:
+      name: 교수형 의자 디자인
+    hard_cider_variety:
+      name: 발효 사과술 종류
+    hard_drive_features:
+      name: 하드 드라이브 기능
+    hard_drive_form_factor:
+      name: 하드 드라이브 폼 팩터
+    hard_drive_installation:
+      name: 하드 드라이브 설치
+    hardhat_class:
+      name: 안전모 등급
+    hardness:
+      name: 경도
+    hardware_finish:
+      name: 하드웨어 마감
+    hardware_material:
+      name: 하드웨어 소재
+    hardware_mounting_type:
+      name: 하드웨어 장착 유형
+    hardwood_lumber_grade:
+      name: 견목재 등급
+    harness_closure_type:
+      name: 하네스 폐쇄 유형
+    harp_size:
+      name: 하프 크기
+    hatch_suitable_location:
+      name: 해치의 적합한 위치
+    hazmat_suit_design:
+      name: 방호복 디자인
+    hdr_format:
+      name: HDR 형식
+    headjoint_cut:
+      name: 헤드조인트 컷
+    headphone_jack_type:
+      name: 헤드폰 잭 유형
+    headphone_style:
+      name: 헤드폰 스타일
+    headwear_features:
+      name: 헤드웨어 기능
+    hearing_aid_features:
+      name: 보청기 기능
+    hearing_aid_material:
+      name: 보청기 자재
+    heat_function:
+      name: 발열 기능
+    heat_level:
+      name: 뜨겁기 정도
+    heat_settings:
+      name: 열 설정
+    heat_source:
+      name: 열원
+    heating_instructions:
+      name: 가열 지침
+    heating_method:
+      name: 가열 방식
+    heating_speed:
+      name: 가열 속도
+    heel_height_type:
+      name: 뒷굽 높이 유형
+    heel_shoe_type:
+      name: 힐 슈즈 타입
+    height_adjustment:
+      name: 높이 조정
+    helmet_shade_design:
+      name: 헬멧 차양 디자인
+    hitch_class:
+      name: 히치 클래스
+    hitch_type:
+      name: 히치 유형
+    hockey_equipment_included:
+      name: 하키 장비 포함
+    hold_level:
+      name: 홀드 수준
+    hook_design:
+      name: 후크 디자인
+    hook_grip_design:
+      name: 후크 그립 디자인
+    hook_size:
+      name: 후크 크기
+    hook_type:
+      name: 후크 유형
+    hoop_shape:
+      name: 후프 모양
+    horse_category:
+      name: 말 카테고리
+    horse_grooming_accessories_included:
+      name: 말털 손질 액세서리 포함
+    hose_material:
+      name: 호스 소재
+    host_interface:
+      name: 호스트 인터페이스
+    housing_color:
+      name: 하우징 색상
+    housing_material:
+      name: 하우징 소재
+    housing_pattern:
+      name: 하우징 패턴
+    hub/switch_storage_options:
+      name: 허브/스위치 스토리지 옵션
+    humidifier_design:
+      name: 가습기 디자인
+    humidity_control:
+      name: 습도 조절
+    humidy_control:
+      name: 습도 조절
+    hunting/survival_knife_design:
+      name: 사냥/생존 나이프 디자인
+    hunting_blind_design:
+      name: 사냥용 위장막 원단
+    hvac_control_type:
+      name: HVAC 제어 유형
+    ice_pack_type:
+      name: 얼음 팩 유형
+    icon_type:
+      name: 아이콘 유형
+    ignition_system:
+      name: 점화 시스템
+    illumination_technique:
+      name: 조명 기술
+    image_formats_supported:
+      name: 지원되는 이미지 형식
+    image_sensor_size:
+      name: 이미지 센서 크기
+    immobilizer_type:
+      name: 이모빌라이저 유형
+    incense_fragrance:
+      name: 인센스 향
+    incense_kit_items_included:
+      name: 향 키트 품목 포함
+    incense_type:
+      name: 향 종류
+    incontinence_aid_features:
+      name: 요실금 보조 기능
+    industry_focus:
+      name: 산업 초점
+    infant_age_group:
+      name: 유아 연령대
+    inflation_method:
+      name: 팽창 방식
+    ingredient_category:
+      name: 성분 카테고리
+    ingredient_origin:
+      name: 성분 원산지
+    ingredients:
+      name: 성분
+    ink_application_technique:
+      name: 잉크 도포 기법
+    ink_color:
+      name: 잉크 색상
+    ink_form:
+      name: 잉크 형태
+    ink_pattern:
+      name: 잉크 패턴
+    ink_type:
+      name: 잉크 유형
+    inline_skating_style:
+      name: 인라인 스케이트 스타일
+    input/output_ports:
+      name: 입력/출력 포트
+    input_connection:
+      name: 입력 연결
+    instruction_set_architecture:
+      name: 명령 세트 아키텍처
+    instrument/accessory_finish:
+      name: 악기/액세서리 마감
+    instrument_accessory_material:
+      name: 악기/액세서리 재료
+    instrument_bow_material:
+      name: 악기 활 재료
+    instrument_color:
+      name: 악기 색상
+    instrument_controller_type:
+      name: 악기 컨트롤러 유형
+    instrument_material:
+      name: 악기 재료
+    instrument_part_material:
+      name: 악기 부품 재료
+    instrument_pattern:
+      name: 악기 패턴
+    instrument_string_color:
+      name: 악기 현 색상
+    instrument_string_material:
+      name: 악기 현 소재
+    instrument_string_pattern:
+      name: 악기 현 패턴
+    instrument_support_type:
+      name: 악기 지원 유형
+    insulation_material:
+      name: 단열재
+    intended_application:
+      name: 사용 목적
+    interface_type:
+      name: 인터페이스 유형
+    internal_drive_form_factor_supported:
+      name: 지원되는 내장형 드라이브 폼 팩터
+    intimate_apparel_features:
+      name: 실내복 기능
+    inverter_type:
+      name: 인버터 유형
+    invitation_personalization_design:
+      name: 초대장 개인화 디자인
+    ironing_features:
+      name: 다림질 기능
+    item_condition:
+      name: 품목 상태
+    item_material:
+      name: 품목 소재
+    item_style:
+      name: 아이템 스타일
+    j_cup_type:
+      name: J컵 유형
+    jaw_material:
+      name: 죠 소재
+    jewelry_finding_type:
+      name: 주얼리 부자재 타입
+    jewelry_material:
+      name: 쥬얼리 소재
+    jewelry_project_type:
+      name: 주얼리 프로젝트 유형
+    jewelry_set_type:
+      name: 주얼리 세트 종류
+    jewelry_type:
+      name: 주얼리 유형
+    joint_connection:
+      name: 조인트 연결
+    joint_face_type:
+      name: 조인트 면 타입
+    joint_style:
+      name: 조인트 스타일
+    jump_rope_design:
+      name: 줄넘기 디자인
+    jumping_surface_color:
+      name: 점프면 색상
+    jumping_surface_material:
+      name: 점프면 소재
+    jumping_surface_pattern:
+      name: 점프면 패턴
+    karaoke_modes:
+      name: 노래방 모드
+    kerosene_application:
+      name: 등유 도포
+    key_purpose:
+      name: 주 용도
+    keyboard_action:
+      name: 키보드 동작
+    keyboard_format:
+      name: 키보드 형식
+    keyboard_key_type:
+      name: 키보드 키 타입
+    keyboard_language:
+      name: 키보드 언어
+    keyboard_layout:
+      name: 키보드 레이아웃
+    keyboard_port_type:
+      name: 키보드 포트 유형
+    keyboard_specialized_features:
+      name: 컴퓨터 특화 기능
+    keyboard_switch_type:
+      name: 키보드 스위치 유형
+    keyboard_type:
+      name: 키보드 유형
+    keypad_style:
+      name: 키패드 스타일
+    kit_construction_type:
+      name: 키트 조립 유형
+    kitchen/dining_furniture_items_included:
+      name: 주방/식탁 가구 품목 포함
+    kitchen_utensil_items_included:
+      name: 주방용품 포함
+    kitesurfing_style:
+      name: 카이트서핑 스타일
+    kneeboard_features:
+      name: 무릎 보드 기능
+    knife_type:
+      name: 칼 유형
+    knitting/padding_project_type:
+      name: 뜨개질/패딩 프로젝트 타입
+    knitting_project_type:
+      name: 뜨개질 프로젝트 유형
+    knob/handle_design:
+      name: 노브/핸들 디자인
+    knob_function:
+      name: 노브 기능
+    knob_style:
+      name: 노브 스타일
+    labeling_project_type:
+      name: 라벨링 프로젝트 타입
+    laboratory_freezer_design:
+      name: 실험용 냉동고 디자인
+    lacrosse_equipment_included:
+      name: 라크로스 장비 포함
+    ladder_type:
+      name: 사다리 유형
+    lamination_mode:
+      name: 라미네이션 모드
+    lamp_type:
+      name: 램프 유형
+    language:
+      name: 언어
+    language_version:
+      name: 언어 버전
+    laser_color:
+      name: 레이저 색상
+    laser_light_source:
+      name: 레이저 광원
+    laser_pattern:
+      name: 레이저 패턴
+    lathe_application:
+      name: 선반 적용
+    laundry_detergent_features:
+      name: 세제 기능
+    lead_grade:
+      name: 연필심 진하기
+    leash_design:
+      name: 가죽끈 디자인
+    leather/vinyl_texture:
+      name: 가죽/비닐 질감
+    lectern_mounting_type:
+      name: 독서대 장착 유형
+    leg_color:
+      name: 다리 색상
+    leg_lock_type:
+      name: 다리 잠금 유형
+    leg_material:
+      name: 다리 소재
+    leg_pattern:
+      name: 다리 패턴
+    leg_sections:
+      name: 다리 섹션 수
+    lens/slide_material:
+      name: 렌즈/슬라이드 소재
+    lens_cap_compatible_device:
+      name: 렌즈 덮개와 호환 가능한 장치
+    lens_coating:
+      name: 렌즈 코팅
+    lens_color:
+      name: 렌즈 색상
+    lens_configuration:
+      name: 렌즈 구성
+    lens_filter_effects:
+      name: 렌즈 필터 효과
+    lens_filter_type:
+      name: 렌즈 필터 종류
+    lens_pattern:
+      name: 렌즈 패턴
+    lens_polarization:
+      name: 렌즈 편광
+    lens_storage_type:
+      name: 저장 보관 타입
+    lens_type:
+      name: 렌즈 유형
+    license_type:
+      name: 라이센스 유형
+    lid_material:
+      name: 뚜껑 소재
+    lid_type:
+      name: 뚜껑 유형
+    life_jacket_features:
+      name: 구명조끼 특징
+    light_attachment_type:
+      name: 조명 부착 유형
+    light_color:
+      name: 밝은 색
+    light_control:
+      name: 조명 제어
+    light_design:
+      name: 라이트 디자인
+    light_exposure_modes:
+      name: 광 노출 모드
+    light_filtering:
+      name: 빛 필터
+    light_options:
+      name: 조명 옵션
+    light_pattern:
+      name: 조명 패턴
+    light_source:
+      name: 광원
+    light_spectrum:
+      name: 광 스펙트럼
+    light_temperature:
+      name: 빛 온도
+    light_type:
+      name: 조명 유형
+    lighting_features:
+      name: 조명 기능
+    lighting_options:
+      name: 조명 옵션
+    line/rope_type:
+      name: 밧줄/로프 유형
+    line_spacing_options:
+      name: 줄 간격 옵션
+    liner_features:
+      name: 라이너 기능
+    lip_gloss_effect:
+      name: 립글로스 효과
+    lip_liner_design:
+      name: 립라이너 디자인
+    lip_plate_material:
+      name: 립 플레이트 소재
+    lipstick_effect:
+      name: 립스틱 효과
+    liqueur_variety:
+      name: 리큐어 종류
+    livestock_food_ingredients:
+      name: 축산식품 재료
+    lnb_output:
+      name: LNB 출력
+    lnb_technology:
+      name: LNB 기술
+    load_capacity:
+      name: 부하 용량
+    loading_ramp_type:
+      name: 사다리차 유형
+    loading_type:
+      name: 세탁물 투입 방식
+    lock_placement:
+      name: 잠금장치 위치
+    lock_type:
+      name: 잠금 유형
+    locking_mechanism:
+      name: 잠금 메커니즘
+    lovibond:
+      name: 로비본드
+    lubricant_application:
+      name: 윤활유 도포
+    lubricant_composition:
+      name: 윤활유 구성
+    lubricant_dispenser_type:
+      name: 윤활유 디스펜서 유형
+    lubricant_form:
+      name: 윤활제 형태
+    luggage/bag_closure:
+      name: 수하물/가방 클로저
+    lumber/wood_type:
+      name: 목재/나무 타입
+    lyre/flip_folder_attachment_type:
+      name: 리라/플립 보면대 부착 유형
+    magnet_type:
+      name: 자석 유형
+    magnification:
+      name: 배율
+    makeup_color/shade:
+      name: 메이크업 컬러/색상
+    makeup_features:
+      name: 메이크업 기능
+    mallet_material:
+      name: 말렛 소재
+    manufacturer_type:
+      name: 제조업체 유형
+    marine_navigator_features:
+      name: 해양 네비게이터 기능
+    marker_tip_design:
+      name: 마커 팁 디자인
+    mascara_effect:
+      name: 마스카라 효과
+    mask_type:
+      name: 마스크 유형
+    masonry_material:
+      name: Masonry 소재
+    masonry_product_form:
+      name: 미장 제품 형태
+    massage_area:
+      name: 마사지 부위
+    massage_stone_texture:
+      name: 마사지 스톤 질감
+    massage_technique:
+      name: 마사지 기법
+    mat/rug_shape:
+      name: 매트/러그 모양
+    mat_base_material:
+      name: 매트 베이스 소재
+    mat_features:
+      name: 매트 기능
+    material:
+      name: 소재
+    material_firmness:
+      name: 소재 견고성
+    material_hardness:
+      name: 재료 경도
+    maternity_clothing_features:
+      name: 임부복 기능
+    maternity_sleepwear_style:
+      name: 임산부 잠옷 스타일
+    mattress_features:
+      name: 매트리스 기능
+    maximum_magnification:
+      name: 최대 배율
+    measuring_method:
+      name: 측정 방식
+    measuring_tool_features:
+      name: 측정 도구 기능
+    measuring_type:
+      name: 측정 유형
+    meat_cut:
+      name: 고기 부위
+    meat_type:
+      name: 고기 종류
+    media_access:
+      name: 매체 접근
+    media_content_type:
+      name: 미디어 콘텐츠 유형
+    media_format:
+      name: 미디어 형식
+    media_section:
+      name: 미디어 섹션
+    media_theme:
+      name: 매체 테마
+    medical_alarm_features:
+      name: 의료용 알람 기능
+    medical_identification_type:
+      name: 의료용 인식표 유형
+    medical_syringe_purpose:
+      name: 의료용 주사기 용도
+    medical_tape_material:
+      name: 의료용 테이프 소재
+    medicine/drug_form:
+      name: 의약품/약품 형태
+    medicine/supplement_form:
+      name: 의약품/보충제 형태
+    medium:
+      name: 매체
+    melodica_style:
+      name: 멜로디카 스타일
+    memory_channels:
+      name: 메모리 채널
+    memory_form_factor:
+      name: 메모리 폼 팩터
+    memory_storage_type:
+      name: 메모리 저장 유형
+    memory_technology:
+      name: 메모리 기술
+    menstrual_cup_shape:
+      name: 생리컵 모양
+    metal_detector_features:
+      name: 금속 탐지기 기능
+    metal_molding_application:
+      name: 금속 몰딩 적용
+    meter_type:
+      name: 측정기 유형
+    metrics_supported:
+      name: 지원되는 측정항목
+    microphone_thread:
+      name: 마이크 스레드
+    microphone_type:
+      name: 마이크 유형
+    microscope_features:
+      name: 현미경 기능
+    microscope_slide_material:
+      name: 현미경 슬라이드 자재
+    midi_connectivity:
+      name: 미디 연결
+    mineral_class:
+      name: 광물 분류
+    minimum_magnification:
+      name: 최소 배율
+    mirror_handle_design:
+      name: 거울 손잡이 디자인
+    mixer_type:
+      name: 믹서 유형
+    mobile_mounting_type:
+      name: 모바일 장착 유형
+    mobile_movement:
+      name: 모빌 움직임 방식
+    mobile_phone_case_features:
+      name: 휴대전화 케이스 기능
+    mobility/accessibility_equipment_features:
+      name: 이동성/접근성 장비 기능
+    mobility_scooter_type:
+      name: 전동 스쿠터 유형
+    model_control_technology:
+      name: 모델 제어 기술
+    model_train_accessory_type:
+      name: 모형 기차 액세서리 유형
+    model_train_theme:
+      name: 모형 기차 테마
+    modulation_method:
+      name: 변조 방식
+    moisturizer_type:
+      name: 보습제 타입
+    mold/cut_shape:
+      name: 몰드/컷팅 모양
+    mold_shape:
+      name: 금형 모양
+    molding_application:
+      name: 몰딩 적용
+    molding_shape:
+      name: 몰딩 모양
+    monitor/screen_specialized_features:
+      name: 모니터/스크린 특화 기능
+    monitor_mounting_type:
+      name: 모니터 장착 타입
+    monitor_shape:
+      name: 모니터 모양
+    monitor_specialized_features:
+      name: 모니터 특화 기능
+    monitor_type:
+      name: 모니터 유형
+    monocular_design:
+      name: 단안경 디자인
+    motherboard_chipset_family:
+      name: 마더보드 칩셋 제품군
+    motherboard_form_factor:
+      name: 마더보드 폼 팩터
+    motherboard_memory_features:
+      name: 마더보드 메모리 기능
+    motion:
+      name: 동작 방식
+    motion_sensor_type:
+      name: 모션 센서 타입
+    motor_starting_method:
+      name: 모터 시동 방식
+    motor_vehicle_placement:
+      name: 자동차 위치
+    motor_vehicle_type:
+      name: 모터 구동 차종
+    motorcycle/scooter_type:
+      name: 오토바이/스쿠터 유형
+    motorcycle_drive_type:
+      name: 오토바이 구동 방식
+    motorcycle_glove_purpose:
+      name: 오토바이 장갑 용도
+    motorcycle_tire_type:
+      name: 오토바이 타이어 종류
+    mount/stand_features:
+      name: 마운트/스탠드 기능
+    mount_material:
+      name: 마운트 소재
+    mounting_hardware:
+      name: 장착 하드웨어
+    mounting_type:
+      name: 장착 유형
+    mouse/trackball_features:
+      name: 마우스/트랙볼 기능
+    mouse_pad_features:
+      name: 마우스 패드 기능
+    mouse_port_type:
+      name: 마우스 포트 유형
+    mouse_technology:
+      name: 마우스 기술
+    mouthgard_design:
+      name: 마우스가드 디자인
+    mouthpiece:
+      name: 마우스피스
+    moving/shipping_box_material:
+      name: 이사/운송 상자 소재
+    mp3_player_accessories_included:
+      name: MP3 플레이어 부대용품 포함
+    mpaa_rating:
+      name: MPAA 등급
+    multi_gpu_technology:
+      name: 다중 GPU 기술
+    muscle_stimulator_design:
+      name: 근육 자극기 디자인
+    music_genre:
+      name: 음악 장르
+    music_stand_design:
+      name: 보면대 디자인
+    musical_key:
+      name: 조성
+    nail_art_items_included:
+      name: 네일 아트 품목 포함
+    nail_care_features:
+      name: 네일 케어 기능
+    nail_design:
+      name: 네일 디자인
+    nail_polish_drying_form:
+      name: 매니큐어 건조 형태
+    nail_shape:
+      name: 손톱 모양
+    national/regional_rating:
+      name: 국가/지역 등급
+    native_aspect_ratio:
+      name: 기본 종횡비
+    nebulizer_design:
+      name: 분무기 디자인
+    nebulizer_technology:
+      name: 분무기 기술
+    neck_color:
+      name: 넥 컬러
+    neck_material:
+      name: 넥 소재
+    neck_pattern:
+      name: 넥 패턴
+    necklace_design:
+      name: 목걸이 디자인
+    neckline:
+      name: 네크라인
+    needle_eye_type:
+      name: 바늘 구멍 유형
+    needle_gauge:
+      name: 니들 게이지
+    needle_housing_material:
+      name: 바늘 하우징 소재
+    needle_material:
+      name: 침 소재
+    needle_size:
+      name: 바늘 크기
+    needlecraft_kit_type:
+      name: 수예품 키트 타입
+    negative/slide_storage_type:
+      name: 네거티브 사진/슬라이드 보관함 유형
+    net_material:
+      name: 네트 소재
+    net_mounting_type:
+      name: 네트 장착 타입
+    network_cable_interface:
+      name: 네트워크 케이블 인터페이스
+    network_protocols_supported:
+      name: 지원되는 네트워크 프로토콜
+    networking_standards:
+      name: 네트워킹 표준
+    nightgown_style:
+      name: 잠옷 스타일
+    nipple_material:
+      name: 젖꼭지 소재
+    nipple_shape:
+      name: 젖꼭지 모양
+    nipple_type:
+      name: 젖꼭지 유형
+    nock_material:
+      name: 노크 소재
+    noise_intensity:
+      name: 소음 강도
+    notepad_cover_type:
+      name: 메모장 표지 타입
+    notepad_design:
+      name: 메모장 디자인
+    nozzle_type:
+      name: 노즐 유형
+    nursery_theme:
+      name: 보육실 테마
+    nursing_cover_coverage:
+      name: 수유 가리개 면적
+    nursing_pad_design:
+      name: 수유 패드 디자인
+    nursing_pillow_shape:
+      name: 수유 베개 모양
+    nut/seed_type:
+      name: 너트/씨앗 타입
+    nut_butter_variety:
+      name: 호두 버터 종류
+    nut_form:
+      name: 너트 형태
+    nut_processing_method:
+      name: 너트 가공 방법
+    nutrient_content:
+      name: 영양 성분
+    oboe_key_system:
+      name: 오보에 키 시스템
+    ocarina_style:
+      name: 오카리나 스타일
+    occasion:
+      name: 행사
+    occasion_style:
+      name: 행사 스타일
+    office_cart_features:
+      name: 사무실 카트 기능
+    office_instrument_material:
+      name: 사무용 기구 소재
+    office_supply_material:
+      name: 사무용품 소재
+    oil_type:
+      name: 오일 종류
+    one_piece_style:
+      name: 원피스 스타일
+    open/closed_sign_design:
+      name: 영업 시작/영업 종료 표지판 디자인
+    opening_direction:
+      name: 열리는 방향
+    opening_mechanism:
+      name: 열기 메커니즘
+    operating_mode:
+      name: 작동 모드
+    operating_system:
+      name: 운영체제
+    operation_method:
+      name: 작동 방식
+    optical_drive_type:
+      name: 광학 드라이브 유형
+    optical_frame_design:
+      name: 광학 프레임 디자인
+    optical_zoom:
+      name: 광학 줌
+    organizer_type:
+      name: 정리함 유형
+    orientation:
+      name: 방향
+    outdoor_equipment_features:
+      name: 아웃도어 장비 기능
+    outdoor_furniture_items_included:
+      name: 아웃도어 가구 품목 포함
+    outdoor_power_accessories_included:
+      name: 실외용 전원 액세서리 포함
+    outdoor_walking_activity:
+      name: 야외 걷기 활동
+    outerwear_clothing_features:
+      name: 겉옷 의류 기능
+    outlet_type:
+      name: 콘센트 유형
+    output_connection:
+      name: 출력 연결
+    output_level:
+      name: 출력 레벨
+    output_waveform:
+      name: 출력 파형
+    oven_accessories_included:
+      name: 오븐 액세서리 포함
+    oxygen_tank_valve_type:
+      name: 산소 탱크 밸브 유형
+    pacifier/teether_design:
+      name: 고무 젖꼭지/치발기 디자인
+    package_type:
+      name: 패키지 유형
+    packing_materials_included:
+      name: 포장재 포함
+    pad_display_profile:
+      name: 패드 디스플레이 프로필
+    pad_type:
+      name: 패드 유형
+    paddle/oar_material:
+      name: 패들/노 재료
+    paddle_equipment_included:
+      name: 패들 장비 포함
+    paddleboard_features:
+      name: 패들보드 기능
+    page_layout:
+      name: 페이지 레이아웃
+    page_size:
+      name: 페이지 사이즈
+    paint/dye_form:
+      name: 페인트/염료 형태
+    paint_brush_design:
+      name: 페인트 브러시 디자인
+    paint_finish:
+      name: 페인트 마감
+    paint_form:
+      name: 페인트 형태
+    paint_medium_type:
+      name: 페인트 매제 유형
+    paint_type:
+      name: 페인트 유형
+    paintball/airsoft_equipment_included:
+      name: 페인트볼/에어소프트 장비 포함
+    paintball_equipment_included:
+      name: 페인트볼 장비 포함
+    painting_canvas_material:
+      name: 회화용 캔버스 소재
+    pairing_method:
+      name: 페어링 방식
+    palette_design:
+      name: 팔레트 디자인
+    palette_knife_shape:
+      name: 팔레트 나이프 모양
+    panel_specification:
+      name: 패널 사양
+    panel_termination:
+      name: 패널 종단
+    pants_length_type:
+      name: 바지 길이 유형
+    pantyhose_style:
+      name: 팬티스타킹 스타일
+    paper_finish:
+      name: 종이 마감
+    paper_format:
+      name: 종이 형태
+    paper_size:
+      name: 용지 크기
+    paper_texture:
+      name: 종이 질감
+    paper_type:
+      name: 용지 종류
+    paperweight_design:
+      name: 문진 디자인
+    papier_mache_shape:
+      name: 종이 반죽 모양
+    parachuting_activity:
+      name: 낙하산 활동
+    parallel_processing_technology_support:
+      name: 병렬 처리 기술 지원
+    parking_camera_features:
+      name: 주차 카메라 기능
+    parking_sign_design:
+      name: 주차 표지판 디자인
+    passband:
+      name: 통과 대역
+    pasta_shape_type:
+      name: 파스타 모양 유형
+    pasta_type:
+      name: 파스타 유형
+    patch_shape:
+      name: 패치 모양
+    pattern:
+      name: 패턴
+    pattern_distribution_format:
+      name: 패턴 분포 형식
+    pcb_type:
+      name: PCB 타입
+    pedal_polarity:
+      name: 페달 극성
+    pegi_rating:
+      name: PEGI 등급
+    pen/felt_tip_design:
+      name: 펜/펠트 팁 디자인
+    pen/pencil_features:
+      name: 펜/연필 기능
+    pen_color:
+      name: 펜 색상
+    pen_features:
+      name: 펜 기능
+    pen_pattern:
+      name: 펜 패턴
+    pen_tip_design:
+      name: 펜 팁 디자인
+    pen_type:
+      name: 펜 유형
+    pencil_features:
+      name: 연필 기능
+    pencil_sharpener_design:
+      name: 연필깎이 디자인
+    pencil_type:
+      name: 연필 유형
+    percussion_stand_design:
+      name: 타악기 스탠드 디자인
+    percussion_tip_shape:
+      name: 타악기 팁 모양
+    performance_metrics:
+      name: 실적 메트릭
+    peroxide_content:
+      name: 과산화물 함량
+    personal_watercraft_type:
+      name: 개인용 선박 타입
+    personalization_design:
+      name: 개인화 디자인
+    personalization_options:
+      name: 개인화 옵션
+    pest_control_method:
+      name: 해충 방제 방식
+    pet_apparel/bedding_features:
+      name: 반려동물 의류/침구 기능
+    pet_apparel_features:
+      name: 반려동물 의류 기능
+    pet_bedding_features:
+      name: 반려동물 침구 기능
+    pet_control_accessory_features:
+      name: 반려동물 통제 액세서리 기능
+    pet_dietary_preferences:
+      name: 반려동물 식단 선호도
+    pet_dietary_requirements:
+      name: 반려동물 식단 요구사항
+    pet_food_flavor:
+      name: 반려동물 사료 맛
+    pet_food_form:
+      name: 반려동물 사료 형태
+    pet_food_supplements:
+      name: 반려동물 사료 보충제
+    pet_hair_dryer_design:
+      name: 반려동물 헤어 드라이어 디자인
+    pet_hair_dryer_speed_settings:
+      name: 반려동물 헤어드라이어 속도 설정
+    pet_medical_collar_design:
+      name: 반려동물 의료용 칼라 디자인
+    pet_medical_supply_type:
+      name: 반려동물 의료용품 타입
+    pet_monitor_items_included:
+      name: 반려동물 모니터 품목 포함
+    pet_nail_tool_type:
+      name: 반려동물 네일 케어 도구 타입
+    pet_pad_features:
+      name: 반려동물 패드 기능
+    pet_spray/solution_type:
+      name: 반려동물 스프레이/용액 타입
+    pet_supply_product_form:
+      name: 반려동물 용품 형태
+    pet_thermometer_design:
+      name: 반려동물 체온계 디자인
+    pet_trainer_type:
+      name: 반려동물 조련사 유형
+    pet_treat_texture:
+      name: 반려동물 간식 식감
+    pet_treat_type:
+      name: 반려동물 사료 유형
+    phase_type:
+      name: 상 종류
+    photo_effects_type:
+      name: 사진 효과 유형
+    photographic_chemical_form:
+      name: 사진용 화학용품 형태
+    photographic_paper_size:
+      name: 인화지 크기
+    photographic_paper_type:
+      name: 인화지 종류
+    piano_additional_features:
+      name: 피아노 추가 기능
+    piano_pedals:
+      name: 피아노 페달
+    piano_size:
+      name: 피아노 크기
+    pick_design:
+      name: 픽 디자인
+    pickup_design:
+      name: 픽업 디자인
+    pickup_mounting_type:
+      name: 가제트팔 장착 유형
+    pickup_position:
+      name: 가제트팔 위치
+    pickup_type:
+      name: 가제트팔 유형
+    pig_feed_stage:
+      name: 돼지 사료 단계
+    pile_type:
+      name: 파일 유형
+    pillow_shape:
+      name: 베개 모양
+    pin_size:
+      name: 핀 크기
+    pinata_design:
+      name: 피냐타 디자인
+    ping_pong_equipment_included:
+      name: 탁구 장비 포함
+    ping_pong_robot_features:
+      name: 탁구 로봇 기능
+    pipe_clamp_design:
+      name: 파이프 클램프 디자인
+    pipe_shape:
+      name: 파이프 모양
+    placement_supported:
+      name: 지원되는 설치 위치
+    plant_characteristics:
+      name: 식물 특성
+    plant_class:
+      name: 식물 품종
+    plant_name:
+      name: 식물명
+    plant_support_material:
+      name: 식물 지지대 재료
+    plate_type:
+      name: 플레이트 유형
+    play_equipment_items_included:
+      name: 놀이 장비 품목 포함
+    play_slide_design:
+      name: 미끄럼틀 디자인
+    play_vehicle_propulsion:
+      name: 놀이 차량 추진
+    play_yard_design_features:
+      name: 놀이터 디자인 기능
+    playback_disc_formats:
+      name: 재생 디스크 형식
+    player/recorder_specialized_features:
+      name: 플레이어/리코더 특화 기능
+    player_drive_type:
+      name: 플레이어 드라이브 유형
+    player_position:
+      name: 선수 포지션
+    player_specialized_features:
+      name: 플레이어 특화 기능
+    playhouse_design:
+      name: 장난감 집 디자인
+    playset_features:
+      name: 플레이세트 기능
+    plug_type:
+      name: 플러그 유형
+    plug_type_input:
+      name: 플러그 유형(입력)
+    plug_type_output:
+      name: 플러그 유형(출력)
+    plumbing_primer_application:
+      name: 배관 프라이머 도포
+    plumbing_trap_design:
+      name: 배수 트랩 디자인
+    plunger_shape:
+      name: 플런저 모양
+    plywood_grade:
+      name: 합판 등급
+    pneumatic_conveyor_operation:
+      name: 뉴매틱 컨베이어 작동
+    poe_standard:
+      name: PoE 표준
+    point_design:
+      name: 포인트 디자인
+    pointing_device:
+      name: 포인팅 장치
+    polar_pattern:
+      name: 극성 패턴
+    polarization:
+      name: 편파
+    pole/post_material:
+      name: 기둥/포스트 재료
+    pole_color:
+      name: 기둥 색상
+    pole_material:
+      name: 막대 소재
+    pole_pattern:
+      name: 기둥 패턴
+    policy_sign_design:
+      name: 방침 표지판 디자인
+    polish_dry_form:
+      name: 광택 건조 형태
+    polish_remover_form:
+      name: 매니큐어 리무버 형태
+    polish_type:
+      name: 광택제 유형
+    polyphony:
+      name: 폴리포니
+    portability:
+      name: 휴대성
+    post_material:
+      name: 포스트 재료
+    postage_stamp_features:
+      name: 우표 기능
+    potential_extract:
+      name: 추출량
+    pottery/sculpting_project_type:
+      name: 도자기/조각 프로젝트 유형
+    potty/toilet_seat_design:
+      name: 유아 변기/변기 디자인
+    potty_training_kit_components:
+      name: 배변 훈련 키트 구성품
+    power_source:
+      name: 전원
+    pregnancy_test_sensitivity:
+      name: 임신 테스트 감도
+    presentation_supply_features:
+      name: 프레젠테이션 supply 기능
+    preservation_type:
+      name: 보존 유형
+    pretend_electronics_toy_type:
+      name: 모조 전자제품 장난감 타입
+    pretend_housekeeping_toy_type:
+      name: 소꿉놀이 장난감 타입
+    primary_region:
+      name: 기본 지역
+    primer_use:
+      name: 프라이머 용도
+    print_technology:
+      name: 인쇄 기술
+    printer/copier_specialized_features:
+      name: 프린터/복사기 특화 기능
+    printer_accessories_included:
+      name: 프린터 부대용품 포함
+    printer_functions:
+      name: 프린터 기능
+    printing_color:
+      name: 인쇄 색상
+    printing_method:
+      name: 인쇄 방식
+    processor_cores:
+      name: 프로세서 코어
+    processor_family:
+      name: 프로세서 제품군
+    processor_socket:
+      name: 프로세서 소켓
+    processor_technology:
+      name: 처리자 기술
+    product_benefits:
+      name: 제품 효능
+    product_certifications_standards:
+      name: 제품 인증 및 표준
+    product_form:
+      name: 제품 형태
+    product_formulation:
+      name: 제품 제형
+    product_manual_area:
+      name: 제품 설명서 부분
+    product_sterility:
+      name: 제품 소독
+    program_format:
+      name: 프로그램 형식
+    projection_design:
+      name: 프로젝션 디자인
+    projector_light_source:
+      name: 프로젝터 광원
+    prop_theme:
+      name: 소품 테마
+    propane_application:
+      name: 프로판 도포
+    propeller_blade_design:
+      name: 프로펠러 블레이드 디자인
+    prophy_cup_design:
+      name: 프로피 컵 디자인
+    propulsion_type:
+      name: 추진 방식
+    protection_type:
+      name: 보호 유형
+    protective_gear_features:
+      name: 보호 장비 기능
+    protective_mask_design:
+      name: 보호 마스크 디자인
+    protective_mask_features:
+      name: 보호 마스크 기능
+    pstn_connectivity_options:
+      name: PSTN 연결 옵션
+    publication_frequency:
+      name: 출간 빈도
+    publication_type:
+      name: 출판 유형
+    pull_up_bar:
+      name: 풀업 바
+    pump_accessories:
+      name: 펌프 부대용품
+    pump_speed_settings:
+      name: 펌프 속도 설정
+    punching/training_bag_material:
+      name: 샌드백 재료
+    puppet_theme:
+      name: 인형 테마
+    puppet_type:
+      name: 인형 유형
+    puzzle_theme:
+      name: 퍼즐 테마
+    puzzle_type:
+      name: 퍼즐 타입
+    quiver_style:
+      name: 화살통 스타일
+    rack_design:
+      name: 랙 디자인
+    rack_type:
+      name: 랙 유형
+    racket_gauge:
+      name: 라켓 게이지
+    racket_material:
+      name: 라켓 소재
+    racket_string_design:
+      name: 라켓 줄 디자인
+    racket_string_material:
+      name: 라켓 줄 소재
+    radar_bands:
+      name: 레이더 대역
+    radar_technology:
+      name: 레이더 기술
+    radio_case_design:
+      name: 라디오 케이스 디자인
+    radio_features:
+      name: 라디오 기능
+    ramp_type:
+      name: 램프 유형
+    range_type:
+      name: 레인지 유형
+    rarity:
+      name: 희소성
+    razor_flexibility:
+      name: 면도기 유연성
+    razor_head_design:
+      name: 면도기 헤드 디자인
+    razor_type:
+      name: 면도기 유형
+    read/write_speed:
+      name: 읽기/쓰기 속도
+    reading_toy_type:
+      name: 읽기 학습용 완구 타입
+    receipt_paper_features:
+      name: 영수증 용지 기능
+    reclining_function:
+      name: 리클라이닝 기능
+    recommended_age_group:
+      name: 권장 연령
+    recommended_skill_level:
+      name: 권장 스킬 레벨
+    recommended_use:
+      name: 권장 용도
+    recorder_fingering_system:
+      name: 리코더 운지법 시스템
+    recorder_specialized_features:
+      name: 리코더 특화 기능
+    recording_accessories_included:
+      name: 녹음 부대용품 포함
+    recording_quality:
+      name: 녹음 품질
+    recreational_vehicle_type:
+      name: 레저 차량 유형
+    reed_strength:
+      name: 리드 경도
+    reel_capacity:
+      name: 릴 용량
+    reflector_design:
+      name: 반사기 디자인
+    regenerative_braking_features:
+      name: 회생제동 기능
+    region:
+      name: 지역
+    region_code:
+      name: 지역 코드
+    release_schedule:
+      name: 공개 일정
+    remote_technology:
+      name: 원격 기술
+    removable_storage_formats_supported:
+      name: 지원되는 이동식 저장소 형식
+    reptile/amphibian_food_form:
+      name: 파충류/양서류 먹이 형태
+    reptile/amphibian_habitat_supply_type:
+      name: 파충류/양서류 집 부대용품 타입
+    research_focus:
+      name: 연구 초점
+    research_methodology:
+      name: 연구 방법론
+    resistance_level:
+      name: 탄력 수준
+    resistance_system:
+      name: 저항 시스템
+    result_display:
+      name: 결과 표시
+    retail/sale_sign_design:
+      name: 상점/세일 표지판 디자인
+    reticle_plane:
+      name: 레티클 평면
+    reticle_type:
+      name: 레티클 유형
+    rfid_frequency:
+      name: RFID 주파수
+    riding_style:
+      name: 라이딩 스타일
+    riding_toy_propulsion_type:
+      name: 탑승용 장난감 추진 방식
+    rim/wheel_design:
+      name: 림/휠 디자인
+    ring_design:
+      name: 반지 디자인
+    ring_size:
+      name: 반지 크기
+    riser_color:
+      name: 라이저 색상
+    riser_material:
+      name: 라이저 소재
+    riser_pattern:
+      name: 라이저 패턴
+    rivet_form:
+      name: 리벳 형태
+    road_sign_design:
+      name: 도로 표지판 디자인
+    rock_composition:
+      name: 암석 조성
+    rock_formation:
+      name: 암석 성상
+    rocker_type:
+      name: 로커 유형
+    rod_color:
+      name: 막대 색상
+    rod_material:
+      name: 막대 소재
+    rod_pattern:
+      name: 막대 패턴
+    rod_shape:
+      name: 막대 모양
+    roller_head:
+      name: 롤러 헤드
+    roller_material:
+      name: 롤러 소재
+    roller_type:
+      name: 롤러 유형
+    roof_decor_shape:
+      name: 지붕 장식 모양
+    rosin_form:
+      name: 송진 형태
+    rosin_grade:
+      name: 로진 등급
+    rotating_direction:
+      name: 회전 방향
+    rotator_control_technology:
+      name: 로테이터 제어 기술
+    rug/mat_features:
+      name: 러그/매트 기능
+    rug/mat_material:
+      name: 러그/매트 소재
+    rug/mat_shape:
+      name: 러그/매트 모양
+    rug_features:
+      name: 러그 기능
+    rug_material:
+      name: 러그 소재
+    rug_shape:
+      name: 러그 모양
+    rum_grade:
+      name: 럼 등급
+    saddle_base_color:
+      name: 안장 베이스 색상
+    saddle_base_material:
+      name: 매트 베이스 소재
+    saddle_base_pattern:
+      name: 안장 베이스 패턴
+    saddle_material:
+      name: 안장 소재
+    saddle_seat_color:
+      name: 안장 시트 색상
+    saddle_seat_material:
+      name: 안장 시트 소재
+    saddle_seat_pattern:
+      name: 안장 시트 패턴
+    safety_certifications:
+      name: 안전 인증
+    safety_device_installation:
+      name: 안전 장치 설치
+    safety_equipment_material:
+      name: 안전장비 소재
+    safety_rail_installation:
+      name: 안전 가드 설치
+    sailboat_type:
+      name: 범선 유형
+    sandal_style:
+      name: 샌들 스타일
+    sandblaster_application:
+      name: 모래 분사기 적용
+    sander_type:
+      name: 샌더 유형
+    sanding_application:
+      name: 샌딩 적용
+    satellite_coverage_area:
+      name: 위성 서비스 지역
+    satellite_network_type:
+      name: 위성 네트워크 유형
+    sauna_accessories_included:
+      name: 사우나 액세서리 포함
+    scaffolding_mounting_type:
+      name: 비계 장착 유형
+    scale_material:
+      name: 스케일 소재
+    scale_model_accessory_type:
+      name: 축소 모형 부대용품 유형
+    scale_model_kit_type:
+      name: 축소 모형 타입
+    scale_model_material:
+      name: 축소 모형 자재
+    scale_model_theme:
+      name: 축소 모형 테마
+    scalpel_blade_material:
+      name: 메스날 소재
+    scalpel_blade_number:
+      name: 메스날 번호
+    scalpel_blade_shape:
+      name: 메스날 모양
+    scalpel_handle_number:
+      name: 메스대 번호
+    scan_converter_features:
+      name: 스캔 변환기 기능
+    scanner_features:
+      name: 스캐너 기능
+    scanner_sensor_type:
+      name: 스캐너 센서 유형
+    scarf/shawl_style:
+      name: 스카프/숄 스타일
+    scene_modes:
+      name: 장면 모드
+    scent:
+      name: 향기
+    scissor_blade_type:
+      name: 가위날 유형
+    scope/sight_design:
+      name: 스코프/조준경 디자인
+    scope/sight_features:
+      name: 스코프/조준경 기능
+    scope_design:
+      name: 스코프 디자인
+    scope_lens_type:
+      name: 스코프 렌즈 타입
+    scoreboard_features:
+      name: 스코어보드 기능
+    scrapbook_paper_type:
+      name: 스크랩북 용지 종류
+    screen/display_design:
+      name: 스크린/디스플레이 디자인
+    screen_material:
+      name: 스크린 소재
+    screen_specialized_features:
+      name: 스크린 특화 기능
+    seafood_type:
+      name: 해산물 종류
+    seal_stamp_design:
+      name: 씰 도장 디자인
+    season:
+      name: 계절
+    seat_color:
+      name: 시트 색상
+    seat_cushioning:
+      name: 시트 쿠셔닝
+    seat_pattern:
+      name: 시트 패턴
+    seat_shape:
+      name: 시트 모양
+    seat_structure:
+      name: 시트 구조
+    seat_type:
+      name: 시트 유형
+    seat_upholstery_color:
+      name: 시트 커버 색상
+    seat_upholstery_material:
+      name: 시트 커버 소재
+    seat_upholstery_pattern:
+      name: 시트 커버 패턴
+    security_algorithms:
+      name: 보안 알고리즘
+    security_level:
+      name: 보안 수준
+    sensor/measuring_tool_features:
+      name: 센서/측정 도구 기능
+    sensor_features:
+      name: 센서 기능
+    sensor_type:
+      name: 센서 유형
+    sequin/glitter_shape:
+      name: 스팽클/반짝이 모양
+    sequin_shape:
+      name: 스팽글 모양
+    serum_target_areas:
+      name: 세럼 표적 부위
+    service_type:
+      name: 서비스 유형
+    sewing_foot_type:
+      name: 재봉틀 발 유형
+    sewing_machine_part_category:
+      name: 재봉틀 부품 카테고리
+    sfx_control_technology:
+      name: SFX 제어 기술
+    shaft_color:
+      name: 샤프트 색상
+    shaft_flex:
+      name: 샤프트 플렉스
+    shaft_material:
+      name: 샤프트 소재
+    shaft_orientation:
+      name: 샤프트 방향
+    shaft_pattern:
+      name: 샤프트 패턴
+    shampoo/conditioner_effect:
+      name: 샴푸/컨디셔너 효과
+    shampoo/conditioner_items_included:
+      name: 샴푸/컨디셔너 품목 포함
+    shampoo_type:
+      name: 샴푸 유형
+    shape:
+      name: 모양
+    shapewear_support_level:
+      name: 쉐이프웨어 지지력 수준
+    shaving_cream_formulation:
+      name: 면도용 크림 제형
+    shaving_kit_components:
+      name: 면도 키트 구성품
+    sheen/gloss_level:
+      name: 광택/광택 수준
+    sheet_color:
+      name: 시트 색상
+    sheet_pattern:
+      name: 시트 패턴
+    shelf_color:
+      name: 선반 색상
+    shelf_material:
+      name: 선반 재료
+    shelf_pattern:
+      name: 선반 패턴
+    shell/frame_color:
+      name: 쉘/프레임 색상
+    shell/frame_material:
+      name: 쉘/프레임 소재
+    shell/frame_pattern:
+      name: 쉘/프레임 패턴
+    shingle/tile_material:
+      name: 지붕널/타일 소재
+    shoe_binding_type:
+      name: 신발 묶기 유형
+    shoe_features:
+      name: 신발 기능
+    shoe_fit:
+      name: 신발 핏
+    shoe_size:
+      name: 신발 사이즈
+    shooting_modes:
+      name: 촬영 모드
+    shopping_bag_material:
+      name: 쇼핑백 소재
+    shower_base_design:
+      name: 샤워실 바닥 디자인
+    shower_curtain_mounting_type:
+      name: 샤워커튼 장착 타입
+    shower_design:
+      name: 샤워기 디자인
+    shower_features:
+      name: 샤워 기능
+    shower_opening_type:
+      name: 샤워 공간 타입
+    shrink_ratio:
+      name: 수축률
+    shutter_finish:
+      name: 셔터 마감
+    siding_material:
+      name: 외장 자재
+    signature_placement:
+      name: 서명 위치
+    silencer/blimp_type:
+      name: 소음기/블림프 유형
+    sim_card_capability:
+      name: SIM 카드 삽입 방식
+    sim_card_type:
+      name: SIM 카드 유형
+    sim_card_type_1:
+      name: SIM 카드 유형 1
+    sim_card_type_2:
+      name: SIM 카드 유형 2
+    sink_mounting_type:
+      name: 싱크대 장착 유형
+    sink_shape:
+      name: 싱크대 모양
+    sink_type:
+      name: 싱크대 유형
+    sinker_material:
+      name: 싱커 소재
+    size:
+      name: 사이즈
+    skateboarding_style:
+      name: 스케이트보드 스타일
+    ski_construction:
+      name: 스키 구성
+    skiing_style:
+      name: 스키 스타일
+    skill_level:
+      name: 스킬 레벨
+    skin_care_effect:
+      name: 스킨 케어 효과
+    skin_care_features:
+      name: 스킨 케어 기능
+    skin_care_mask_type:
+      name: 스킨 케어 마스크 타입
+    skin_tone:
+      name: 피부톤
+    skin_undertone:
+      name: 피부 언더톤
+    skirt/dress_length_type:
+      name: 스커트/드레스 길이 종류
+    skirt_style:
+      name: 스커트 스타일
+    slat_color:
+      name: 판 색상
+    slat_material:
+      name: 널판 소재
+    slat_pattern:
+      name: 판 패턴
+    sleeve_length_type:
+      name: 소매 길이 유형
+    slip_texture:
+      name: 슬립 질감
+    slipper_style:
+      name: 슬리퍼 스타일
+    slot_machine_type:
+      name: 슬롯머신 타입
+    small_animal_dietary_requirements:
+      name: 소동물 식단 요구사항
+    small_animal_food_form:
+      name: 소동물 사료 형태
+    small_animal_food_ingredients:
+      name: 소동물 사료 성분
+    small_animal_habitat/cage_type:
+      name: 소동물 집/케이지 타입
+    smart_tv_platform:
+      name: 스마트 TV 플랫폼
+    smart_watch_features:
+      name: 스마트워치 기능
+    sneaker_style:
+      name: 스니커즈 스타일
+    snorkel_shape:
+      name: 스노클 모양
+    snowboard_construction:
+      name: 스노보드 구성
+    snowboard_design:
+      name: 스노우보드 디자인
+    snowboarding_style:
+      name: 스노보드 스타일
+    snowmobile_type:
+      name: 스노모빌 유형
+    socket_driver_tip:
+      name: 소켓 드라이버 팁
+    socket_type:
+      name: 소켓 유형
+    soda_maker_accessories_included:
+      name: 소다 메이커 액세서리 포함
+    soda_variety:
+      name: 소다 종류
+    sofa_features:
+      name: 소파 기능
+    softball_discipline:
+      name: 소프트볼 훈련
+    softbox_mounting_type:
+      name: 소프트박스 장착 유형
+    softbox_shape:
+      name: 소프트박스 모양
+    software_features:
+      name: 소프트웨어 기능
+    software_tool_type:
+      name: 소프트웨어 도구 유형
+    softwood_lumber_grade:
+      name: 연목재 등급
+    solar_cell_type:
+      name: 태양전지 유형
+    solar_panel_connections:
+      name: 태양 전지판 연결
+    solar_panel_design:
+      name: 태양 전지판 디자인
+    solder/flux_application:
+      name: 땜납/플럭스 도포
+    soleplate_type:
+      name: 열판 유형
+    solubility:
+      name: 용해도
+    solution_type:
+      name: 용액 유형
+    solvent/thinner_application:
+      name: 용제/시너 도포
+    solvent_application:
+      name: 용제 도포
+    soothing_sounds:
+      name: 마음을 달래주는 소리
+    sound_controls:
+      name: 사운드 컨트롤
+    sound_effects:
+      name: 음향 효과
+    sound_insulation:
+      name: 방음
+    sound_options:
+      name: 사운드 옵션
+    speaker_configuration:
+      name: 스피커 구성
+    speaker_design:
+      name: 스피커 디자인
+    speaker_features:
+      name: 스피커 기능
+    speaker_technology:
+      name: 스피커 기술
+    speakerphone_type:
+      name: 스피커폰 유형
+    speed_settings:
+      name: 속도 설정
+    spf_level:
+      name: SPF 수준
+    spike_design:
+      name: 스파이크 디자인
+    spinner_type:
+      name: 바퀴 유형
+    spirit_dilution:
+      name: 스피릿 희석
+    splitter/switch_features:
+      name: 분배기/스위치 기능
+    splitter_use:
+      name: 스플리터 용도
+    sponge_shape:
+      name: 스펀지 모양
+    spool_color:
+      name: 스풀 색상
+    spool_material:
+      name: 스풀 소재
+    spool_pattern:
+      name: 스풀 패턴
+    sport:
+      name: 스포츠
+    sports_logo:
+      name: 스포츠 로고
+    sports_theme:
+      name: 스포츠 테마
+    spout_type:
+      name: 스파우트 유형
+    spreader_type:
+      name: 스프레더 유형
+    sprinkler_head_type:
+      name: 스프링클러 헤드 유형
+    sprinkler_shape:
+      name: 스프링클러 모양
+    squeegee_blade_design:
+      name: 스퀴지 블레이드 디자인
+    stack_configuration:
+      name: 스택 구성
+    stage:
+      name: 성장 단계
+    stair_lifts_control_type:
+      name: 계단 리프트 제어 유형
+    staircase_features:
+      name: 계단 기능
+    staircase_type:
+      name: 계단 유형
+    stamp_theme:
+      name: 스탬프 테마
+    stamp_type:
+      name: 스탬프 유형
+    stand/display_type:
+      name: 스탠드/디스플레이 타입
+    staple_wire_gauge:
+      name: 스테이플러 심 게이지
+    stapler_features:
+      name: 스테이플러 기능
+    star_rating:
+      name: 별점
+    start_type:
+      name: 시동 유형
+    station_type:
+      name: 충전소 유형
+    stationery_binding_type:
+      name: 문구 제본 유형
+    stem_length:
+      name: 줄기 길이
+    stencil/cut_shape:
+      name: 스텐실/컷 모양
+    step_type:
+      name: 발판 유형
+    sterilization_cycle_time:
+      name: 살균 주기 시간
+    sterilization_instructions:
+      name: 살균 지침
+    sterilization_method:
+      name: 살균 방식
+    stethoscope_design:
+      name: 청진기 디자인
+    stethoscope_technology:
+      name: 청진기 기술
+    stick_material:
+      name: 스틱 소재
+    stiffness:
+      name: 강성
+    stimulator_tip_shape:
+      name: 자극기 팁 모양
+    stone_material:
+      name: 석재
+    stone_name:
+      name: 스톤 이름
+    stone_shape:
+      name: 돌 모양
+    stone_type:
+      name: 스톤 유형
+    stopband:
+      name: 저지 대역
+    stopwatch_features:
+      name: 스톱워치 기능
+    storage_drive_interface_type:
+      name: 스토리지 드라이브 인터페이스 유형
+    storage_drive_interfaces_supported:
+      name: 지원되는 스토리지 드라이브 인터페이스
+    storage_drive_type_installed:
+      name: 설치된 스토리지 드라이브 유형
+    storage_media_type:
+      name: 저장 매체 유형
+    storage_tank_application:
+      name: 저장 탱크 적용
+    storage_types_supported:
+      name: 지원되는 저장 유형
+    stove_airflow:
+      name: 스토브 공기 흐름
+    stove_top_type:
+      name: 쿡탑 타입
+    strap_design:
+      name: 스트랩 디자인
+    straw/stirrer_design:
+      name: 빨대/커피 스틱 디자인
+    stretcher/gurney_intended_use:
+      name: 들것/바퀴 달린 들것 용도
+    string_color:
+      name: 선 색상
+    string_instrument_size:
+      name: 현악기 크기
+    string_material:
+      name: 끈 소재
+    string_pattern:
+      name: 선 패턴
+    stripper_application:
+      name: 스트리퍼 도포
+    stroller_features:
+      name: 유모차 기능
+    stroller_wheel_type:
+      name: 유모차 바퀴 유형
+    style:
+      name: 스타일
+    stylus_type:
+      name: 스타일러스 유형
+    subject_area:
+      name: 분야
+    subscription_type:
+      name: 구독 유형
+    substrate_features:
+      name: 기판 기능
+    suction_cup_color:
+      name: 석션 컵 색상
+    suction_cup_material:
+      name: 석션 컵 소재
+    suction_cup_pattern:
+      name: 석션 컵 패턴
+    suction_levels:
+      name: 흡입 수준
+    suitable_for_angling_type:
+      name: 적합한 낚시 유형
+    suitable_for_animal_type:
+      name: 적합한 동물
+    suitable_for_art_technique:
+      name: 미술 기법에 적합
+    suitable_for_bird_type:
+      name: 적합한 조류
+    suitable_for_boat_type:
+      name: 보트 유형에 적합
+    suitable_for_body/facial_hair:
+      name: 신체/얼굴 털에 적합
+    suitable_for_breed_size:
+      name: 품종 크기에 적합
+    suitable_for_bug_type:
+      name: 버그 유형에 적합
+    suitable_for_camera/optics_device:
+      name: 적합한 카메라/광학 기기 장치
+    suitable_for_camera_type:
+      name: 적합한 카메라 유형
+    suitable_for_camping_activity:
+      name: 캠핑 활동에 적합
+    suitable_for_chair_type:
+      name: 의자 유형에 적합
+    suitable_for_container_type:
+      name: 컨테이너 타입에 적합
+    suitable_for_crafting_material:
+      name: 공예 재료에 적합
+    suitable_for_door_type:
+      name: 적합한 문 유형
+    suitable_for_egg_type:
+      name: 계랸 타입에 적합
+    suitable_for_fabric_type:
+      name: 적합한 직물 유형
+    suitable_for_fire_class:
+      name: 적합한 화재 등급
+    suitable_for_fish_type:
+      name: 어종에 적합
+    suitable_for_food_processor_type:
+      name: 푸드 프로세서 유형에 적합
+    suitable_for_furniture_type:
+      name: 가구 유형에 적합
+    suitable_for_gas_type:
+      name: 가스 종류에 적합
+    suitable_for_hair_type:
+      name: 적합한 모발 유형
+    suitable_for_material_type:
+      name: 적합한 재료 유형
+    suitable_for_pest_type:
+      name: 적합한 해충
+    suitable_for_pipe_type:
+      name: 적합한 파이프 유형
+    suitable_for_pool_type:
+      name: 수영장 유형에 적합
+    suitable_for_power_equipment_type:
+      name: 전력 장비 유형에 적합
+    suitable_for_precious_material:
+      name: 귀중한 자료에 적합
+    suitable_for_printer_type:
+      name: 프린터 유형에 적합
+    suitable_for_skin_tone:
+      name: 적합한 피부톤
+    suitable_for_skin_type:
+      name: 적합한 피부 유형
+    suitable_for_snowshoeing_activity:
+      name: 스노슈잉 활동에 적합
+    suitable_for_storage_type:
+      name: 저장소 유형에 적합
+    suitable_for_toothbrush:
+      name: 적합한 칫솔 유형
+    suitable_for_vehicle_type:
+      name: 적합한 차종
+    suitable_for_water_feature_type:
+      name: 적합한 급수 용도
+    suitable_for_water_type:
+      name: 적합한 용수 유형
+    suitable_for_weapon_type:
+      name: 무기 종류에 적합
+    suitable_installation:
+      name: 적합한 설치
+    suitable_location:
+      name: 적합한 위치
+    suitable_space:
+      name: 적당한 공간
+    suitcase_handle_type:
+      name: 여행 가방 핸들 유형
+    sulfur_content:
+      name: 황 함량
+    sunlight:
+      name: 일광량
+    support/brace_material:
+      name: 지지대/버팀대 자재
+    supported_language:
+      name: 지원되는 언어
+    surface_texture:
+      name: 표면 질감
+    surfboard_features:
+      name: 서핑보드 기능
+    surveillance_camera_design:
+      name: 감시 카메라 디자인
+    surveillance_camera_mounting_type:
+      name: 감시 카메라 장착 유형
+    surverying_accessories_included:
+      name: 측장 액세서리 포함
+    suspender_style:
+      name: 서스펜더 스타일
+    sustainability:
+      name: 지속 가능성
+    swab_material:
+      name: 면봉 소재
+    swimwear_features:
+      name: 수영복 기능
+    swing_style:
+      name: 스윙 스타일
+    swing_weighting:
+      name: 스윙 웨이트
+    switch_control_type:
+      name: 스위치 제어 유형
+    switching_method:
+      name: 전환 방식
+    synthesis_method:
+      name: 합성 방식
+    system_of_measurement:
+      name: 측정 단위계
+    system_range:
+      name: 시스템 범위
+    systems_supported:
+      name: 시스템 지원
+    tab_style:
+      name: 탭 스타일
+    tabletop_color:
+      name: 탁상 색상
+    tabletop_material:
+      name: 탁상 소재
+    tabletop_pattern:
+      name: 탁상 패턴
+    tabletop_shape:
+      name: 탁상 모양
+    tableware_material:
+      name: 식탁용 식기류 소재
+    tack/pushpin_head_design:
+      name: 압정/푸시핀 헤드 디자인
+    tag_fastening:
+      name: 태그 체결
+    tampon_absorbency_level:
+      name: 탐폰 흡수 수준
+    tampon_features:
+      name: 탐폰 기능
+    tan_type:
+      name: 태닝 유형
+    tank_color:
+      name: 탱크 색상
+    tank_material:
+      name: 탱크 소재
+    tank_pattern:
+      name: 탱크 패턴
+    tape_material:
+      name: 테이프 소재
+    target_audience:
+      name: 대상
+    target_gender:
+      name: 대상 성별
+    targeted_pests:
+      name: 표적 해충
+    targeted_stains:
+      name: 표적 얼룩
+    tea_input_type:
+      name: 차 투입 유형
+    technology_level:
+      name: 기술 수준
+    teeth_material:
+      name: 칼퀴 소재
+    telephone_cable_interface:
+      name: 전화 케이블 인터페이스
+    telephone_style:
+      name: 전화 스타일
+    telescope_level:
+      name: 망원경 수준
+    telescope_tracking_system:
+      name: 망원경 추적 시스템
+    television_shape:
+      name: 텔레비전 모양
+    television_specialized_features:
+      name: TV 특화 기능
+    temperature:
+      name: 온도
+    temperature_control:
+      name: 온도 제어
+    temperature_measurement:
+      name: 온도 측정
+    template_type:
+      name: 템플릿 유형
+    temple_color:
+      name: 템플 색상
+    temple_pattern:
+      name: 템플 패턴
+    tension:
+      name: 장력
+    tequila_variety:
+      name: 데킬라 종류
+    terminal_operation:
+      name: 단말기 작동
+    terrain:
+      name: 지형
+    test_format:
+      name: 테스트 형식
+    test_method:
+      name: 테스트 방식
+    test_sample:
+      name: 테스트 샘플
+    tetherball_equipment_included:
+      name: 테더볼 장비 포함
+    text_plate_material:
+      name: 스템프 텍스트면 재질
+    textile_craft_machine_features:
+      name: 직물 공예 머신 기능
+    textile_craft_project_type:
+      name: 직물 공예 프로젝트 유형
+    texture:
+      name: 질감(식감)
+    texture_level:
+      name: 질감 수준
+    theme:
+      name: 테마
+    thermal_detector_type:
+      name: 열 검출기 유형
+    thermocouple_type:
+      name: 열전대 유형
+    thickness_type:
+      name: 두께 정도
+    thinner_application:
+      name: 시너 도포
+    thread_direction:
+      name: 나사산 방향
+    threaded_rod_size:
+      name: 나사봉 사이즈
+    throw_pillow_shape:
+      name: 소형 쿠션 모양
+    ticket_additional_features:
+      name: 티켓 추가 기능
+    ticket_type:
+      name: 티켓 종류
+    tile_design:
+      name: 타일 디자인
+    tile_game_type:
+      name: 타일 게임 타입
+    tile_installation_method:
+      name: 타일 설치 방법
+    tile_look:
+      name: 타일 모양
+    tile_material:
+      name: 타일 자재
+    tile_texture:
+      name: 타일 질감
+    time_period:
+      name: 기간
+    time_signatures:
+      name: 박자표
+    time_weighting:
+      name: 시간 가중
+    timepiece_features:
+      name: 시계 기능
+    timer_design:
+      name: 타이머 디자인
+    timer_features:
+      name: 타이머 기능
+    timer_type:
+      name: 타이머 유형
+    tip_design:
+      name: 팁 디자인
+    tip_material:
+      name: 팁 소재
+    tip_opening:
+      name: 팁 오프닝
+    tip_style:
+      name: 팁 스타일
+    tip_type:
+      name: 팁 유형
+    tire_bead_type:
+      name: 타이어 비드 유형
+    tobacco_type:
+      name: 담배 종류
+    toddler_bed_features:
+      name: 영유아용 침대 기능
+    toe_spacer_design:
+      name: 발가락 교정기 디자인
+    toe_strap_type:
+      name: 토 스트랩 유형
+    toe_style:
+      name: 토 스타일
+    toilet/bidet_mounting_type:
+      name: 변기/비데 장착 타입
+    toilet_cover_design:
+      name: 변기 커버 디자인
+    toilet_cover_features:
+      name: 변기 커버 기능
+    toilet_mounting_type:
+      name: 변기 장착 유형
+    toilet_shape:
+      name: 변기 모양
+    tom_tom_design:
+      name: 톰톰 디자인
+    tool/utensil_material:
+      name: 도구/기구 자재
+    tool_key_tip:
+      name: 도구 주요 팁
+    tool_mobility:
+      name: 도구 이동성
+    tool_operation:
+      name: 도구 작동
+    toothpaste_type:
+      name: 치약 유형
+    toothpick_design:
+      name: 이쑤시개 디자인
+    top_color:
+      name: 인기 색상
+    top_length_type:
+      name: 상단 길이 유형
+    top_material:
+      name: 인기 소재
+    top_pattern:
+      name: 톱 패턴
+    top_surface_material:
+      name: 인기 표면 소재
+    tote_handle_type:
+      name: 토트 핸들 유형
+    totem_design:
+      name: 토템 디자인
+    touch_capabilities:
+      name: 터치 기능
+    touchscreen_technology:
+      name: 터치스크린 기술
+    toy/game_material:
+      name: 장난감/게임 재료
+    toy_figure_features:
+      name: 장난감 피규어 기능
+    toy_figure_theme:
+      name: 장난감 피규어 테마
+    toy_tool_type:
+      name: 장난감 도구 타입
+    tracking_metrics:
+      name: 추적 항목
+    tracking_purpose:
+      name: 추적 용도
+    tractor_accessories_included:
+      name: 트랙터 액세서리 포함
+    trade_show_display_features:
+      name: 전시회 디스플레이 기능
+    trading_card_packaging:
+      name: 트레이딩 카드 포장
+    traffic_control_device_features:
+      name: 교통 통제 장치 기능
+    trail_camera_design:
+      name: 아웃도어 카메라 디자인
+    trailer_type:
+      name: 트레일러 유형
+    training_data_requirements:
+      name: 훈련 데이터 요구사항
+    trampoline_design:
+      name: 트램펄린 디자인
+    transcriber/dictation_system_features:
+      name: 전사/받아쓰기 시스템 기능
+    transfer_boards_surface_type:
+      name: 이동 보드 표면 유형
+    transfer_paper_technique:
+      name: 전사지 기술
+    transmission_type:
+      name: 변속기 유형
+    trash_can_features:
+      name: 쓰레기통 기능
+    travel_pillow_shape:
+      name: 여행용 목베개 모양
+    treatment_area:
+      name: 안마 부위
+    treatment_objective:
+      name: 치료 목적
+    treatment_texture:
+      name: 트리트먼트 질감
+    treatment_type:
+      name: 트리트먼트 유형
+    tree_stand_material:
+      name: 나무 스탠드 소재
+    trellis_design:
+      name: 격자 구조물 디자인
+    tricycle_design:
+      name: 세발자전거 디자인
+    tricycle_propulsion_type:
+      name: 세발자전거 추진 타입
+    trip_type:
+      name: 트립 유형
+    tripod/monopod_attachment_type:
+      name: 삼각대/모노포드 부착 타입
+    tripod/monopod_head_type:
+      name: 삼각대/모노포드 헤드 유형
+    tripod_handle_type:
+      name: 삼각대 핸들 타입
+    trophy_design:
+      name: 트로피 디자인
+    truck_type:
+      name: 트럭 유형
+    tube_component:
+      name: 튜브 구성품
+    tube_configuration:
+      name: 튜브 구성
+    tuner_design:
+      name: 튜너 디자인
+    tuner_type:
+      name: 튜너 유형
+    tuning_fork_design:
+      name: 소리굽쇠 디자인
+    tuning_fork_frequency:
+      name: 소리굽쇠 주파수
+    tuning_modes:
+      name: 튜닝 모드
+    tuning_pitch:
+      name: 피치 조율
+    tuning_range:
+      name: 튜닝 범위
+    undershirt_style:
+      name: 언더셔츠 스타일
+    underwear_style:
+      name: 속옷 스타일
+    units_of_measurement:
+      name: 측정 단위
+    update_frequency:
+      name: 업데이트 빈도
+    upholstery_color:
+      name: 실내 커버 색상
+    upholstery_material:
+      name: 커버 소재
+    upholstery_pattern:
+      name: 커버 패턴
+    urinal_mounting_type:
+      name: 소변기 장착 유형
+    usage_conditions:
+      name: 사용 조건
+    usage_frequency:
+      name: 사용 빈도
+    usage_type:
+      name: 사용 유형
+    usb_standard:
+      name: USB 표준
+    user_type:
+      name: 사용자 유형
+    utility/maintenance_task_type:
+      name: 유틸리티/유지보수 작업 유형
+    uv_protection:
+      name: UV 차단
+    vacuum_air_filtering_technology:
+      name: 진공 공기 필터링 기술
+    valve_type:
+      name: 밸브 유형
+    van_type:
+      name: 밴 유형
+    vaping_style:
+      name: 기화 스타일
+    varnish/finish_application:
+      name: 바니시/피니시 도포
+    vase_shape:
+      name: 꽃병 모양
+    vdi_protocol_support:
+      name: VDI 프로토콜 지원
+    vehicle_alarm/lock_features:
+      name: 차량 알람/잠금 기능
+    vehicle_application_area:
+      name: 차량 적용 지역
+    vehicle_audio_system_features:
+      name: 차량 오디오 시스템 기능
+    vehicle_braking_features:
+      name: 자동차 제동 기능
+    vehicle_cleaning_item_features:
+      name: 차량 청소용품 기능
+    vehicle_decor_features:
+      name: 차량 장식 기능
+    vehicle_drive/handling_features:
+      name: 차량 주행/조향 기능
+    vehicle_engine/part_features:
+      name: 차량 엔진/부품 기능
+    vehicle_engine_features:
+      name: 차량 엔진 기능
+    vehicle_engine_part_features:
+      name: 차량 엔진 부품 기능
+    vehicle_exhaust_type:
+      name: 차량 배기 타입
+    vehicle_features:
+      name: 차량 기능
+    vehicle_fluid_features:
+      name: 차량 윤활유 기능
+    vehicle_fluid_type:
+      name: 차량 윤활유 타입
+    vehicle_frame/body_features:
+      name: 차량 프레임/보디 기능
+    vehicle_mirror_design:
+      name: 차량 미러 디자인
+    vehicle_mirror_features:
+      name: 차량 미러 기능
+    vehicle_mirror_type:
+      name: 차량 미러 타입
+    vehicle_oil_features:
+      name: 차량 오일 기능
+    vehicle_paint_type:
+      name: 차량용 페인트 유형
+    vehicle_placement:
+      name: 장착 위치
+    vehicle_seating_features:
+      name: 차량 좌석 기능
+    vehicle_suspension_features:
+      name: 차량 서스펜션 기능
+    vehicle_tire_type:
+      name: 차량 타이어 종류
+    vehicle_type:
+      name: 차종
+    verification_technology:
+      name: 검증 기술
+    vg/pg_ratio:
+      name: VG/PG 비율
+    video_codecs/formats_supported:
+      name: 지원되는 비디오 코덱/형식
+    video_game_content_features:
+      name: 비디오 게임 콘텐츠 기능
+    video_game_genre:
+      name: 비디오 게임 장르
+    video_game_platform:
+      name: 비디오 게임 플랫폼
+    video_game_sub_genre:
+      name: 비디오 게임 하위 장르
+    video_port_type:
+      name: 비디오 포트 유형
+    video_region_code:
+      name: 비디오 지역 코드
+    video_resolution_supported:
+      name: 지원되는 비디오 해상도
+    viewing_area_height:
+      name: 시야 창 높이
+    viewing_area_width:
+      name: 시야 창 너비
+    vinegar_drink_variety:
+      name: 식초 음료 종류
+    vinegar_variety:
+      name: 식초 종류
+    viscosity:
+      name: 점도
+    visual_effect:
+      name: 시각 효과
+    voip_protocol_support:
+      name: VoIP 프로토콜 지원
+    wader_type:
+      name: 방수바지 타입
+    waist_rise:
+      name: 허리 밑위
+    wall_material:
+      name: 벽 소재
+    wall_patching_application:
+      name: 벽 패칭 도포
+    wall_plate_style:
+      name: 월 플레이트 스타일
+    wallet_features:
+      name: 지갑 기능
+    wallpaper_application_method:
+      name: 배경화면 적용 방법
+    wallpaper_theme:
+      name: 배경 화면 테마
+    warning_category:
+      name: 경고 카테고리
+    washer/dryer_features:
+      name: 세탁기/건조기 기능
+    washer_form:
+      name: 와셔 형태
+    washing_machine_features:
+      name: 세탁기 기능
+    washing_method:
+      name: 세탁 방법
+    washing_programs:
+      name: 세탁 프로그램
+    waste_bag_features:
+      name: 쓰레기 봉투 기능
+    waste_bag_material:
+      name: 쓰레기 봉투 자재
+    watch/band_material:
+      name: 시계/밴드 소재
+    watch_accessory_style:
+      name: 시계 액세서리 스타일
+    watch_display:
+      name: 시계 디스플레이
+    watch_features:
+      name: 시계 기능
+    watch_material:
+      name: 시계 소재
+    water_filter_application:
+      name: 정수 필터 적용
+    water_sport:
+      name: 수상 스포츠
+    watercraft_engine_control_type:
+      name: 선박용 엔진 제어장치 유형
+    watercraft_features:
+      name: 선박 기능
+    watercraft_motor_mounting_type:
+      name: 선박 모터 장착 유형
+    watercraft_propulsion_type:
+      name: 선박 추진 타입
+    watercraft_steering_wheel_type:
+      name: 선박 조타기 유형
+    watercraft_type:
+      name: 선박 유형
+    waveski_features:
+      name: 웨이브스키 기능
+    wax_application_method:
+      name: 왁스 도포 방법
+    wax_type:
+      name: 왁스 종류
+    weather_strip_design:
+      name: 문풍지 디자인
+    weather_supply_application_method:
+      name: 기상 용품 도포 방법
+    weatherization_application:
+      name: 방한 적용
+    webcam_design:
+      name: 웹캠 디자인
+    weight_bar_activity:
+      name: 웨이트 바 활용
+    weight_bar_type:
+      name: 웨이트 바 유형
+    weight_type:
+      name: 무게추 유형
+    weight_unit_supported:
+      name: 지원되는 무게 단위
+    welding_helmet_features:
+      name: 용접 헬멧 기능
+    wet_bag_features:
+      name: 습식 가방 기능
+    wheel_hardness:
+      name: 휠 경도
+    wheel_hub_placement:
+      name: 휠 허브 배치
+    wheel_part_type:
+      name: 바퀴 부품 종류
+    wheel_type:
+      name: 휠 유형
+    wheelchair_type:
+      name: 휠체어 유형
+    whiskey_style:
+      name: 위스키 스타일
+    whiskey_variety:
+      name: 위스키 종류
+    wi_fi_band:
+      name: Wi-Fi 대역
+    wi_fi_standard:
+      name: Wi-Fi 표준
+    winder_features:
+      name: 와인더 기능
+    windlass_design:
+      name: 양묘기 디자인
+    window_treatment_material:
+      name: 창 처리 자재
+    windsurfing_board_style:
+      name: 윈드서핑 보드 스타일
+    wine_rack_design:
+      name: 와인 랙 디자인
+    wine_sweetness:
+      name: 와인 당도
+    wine_variety:
+      name: 와인 종류
+    wipe_dispenser/warmer_features:
+      name: 물티슈 디스펜서/워머 기능
+    wipe_dispenser_features:
+      name: 물티슈 디스펜서 기능
+    wipe_fragrance:
+      name: 물티슈 향
+    wipe_packaging:
+      name: 물티슈 패키지
+    wipe_warmer_features:
+      name: 물티슈 워머 기능
+    wire/rope_material:
+      name: 와이어/로프 소재
+    wire_thickness:
+      name: 와이어 두께
+    woodwind_care_items_included:
+      name: 목관 악기 관리 용품 포함
+    work_capacity:
+      name: 작업 능력
+    wreath_design:
+      name: 리스 디자인
+    yacht_type:
+      name: 요트 유형
+    yarn_weight_category:
+      name: 털실 중량 카테고리
+    zipper_pull_style:
+      name: 지퍼 손잡이 스타일
+    zoom_type:
+      name: 줌 유형

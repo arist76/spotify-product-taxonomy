@@ -1,0 +1,4531 @@
+---
+pl:
+  attributes:
+    3d_glasses_material:
+      name: Materiał okularów 3D
+    abrasive_material:
+      name: Materiał ścierny
+    absinthe_style:
+      name: Styl absyntu
+    absinthe_variety:
+      name: Odmiana absyntu
+    absorbency_level:
+      name: Poziom chłonności
+    absorbent_hygiene_product_features:
+      name: Charakterystyka chłonnego produktu higienicznego
+    academic_level:
+      name: Poziom akademicki
+    accessory_material:
+      name: Materiał akcesorium
+    accessory_size:
+      name: Rozmiar akcesoriów
+    accordion_tuning:
+      name: Strojenie akordeonu
+    active_ingredient:
+      name: Składnik aktywny
+    activewear_clothing_features:
+      name: Charakterystyka ubrań sportowych
+    activity:
+      name: Czynność
+    activity_tracker_design:
+      name: Design monitora aktywności
+    acupuncture_model_format:
+      name: Format modelu akupunktury
+    acupuncture_model_type:
+      name: Typ modelu akupunktury
+    additional_animation_software_features:
+      name: Dodatkowe funkcje oprogramowania do animacji
+    additional_design_software_type:
+      name: Dodatkowy typ oprogramowania do projektowania
+    additional_financial_software_features:
+      name: Dodatkowe funkcje oprogramowania finansowego
+    additional_graphic_software_features:
+      name: Dodatkowe funkcje oprogramowania do przetwarzania grafiki
+    additional_publishing_software_features:
+      name: Dodatkowe funkcje oprogramowania do publikowania
+    additional_security_software_features:
+      name: Dodatkowe funkcje oprogramowania zabezpieczającego
+    adhesive_type:
+      name: Typ kleju
+    aftershave_product_form:
+      name: Forma produktu po goleniu
+    age_group:
+      name: Grupa wiekowa
+    age_restrictions:
+      name: Ograniczenia wiekowe
+    ai_application:
+      name: Zastosowanie AI
+    air_freshener_form:
+      name: Forma odświeżacza powietrza
+    air_mattress_features:
+      name: Charakterystyka materaca dmuchanego
+    airbrush_feed_type:
+      name: Rodzaj podawania farby w aerografie
+    airbrush_operation_method:
+      name: Metoda działania aerografu
+    airsoft_equipment_included:
+      name: Sprzęt ASG w zestawie
+    album_type:
+      name: Typ albumu
+    alert_type:
+      name: Typ alertu
+    allergen_information:
+      name: Informacje o alergenach
+    allergen_test_type:
+      name: Typ testu na alergeny
+    allergens:
+      name: Alergeny
+    allergy_friendly_features:
+      name: Funkcje przyjazne dla osób cierpiących na alergię
+    amplifier/booster_suitable_location:
+      name: Odpowiednia lokalizacja wzmacniacza/Boostera
+    amplifier_class:
+      name: Klasa wzmacniacza
+    amplifier_configuration:
+      name: Konfiguracja wzmacniacza
+    anchor_type:
+      name: Typ kotwy
+    anemometer_application:
+      name: Zastosowanie anemometru
+    angles_supported:
+      name: Obsługiwane kąty
+    angling_style:
+      name: Styl wędkarski
+    animal_feed_form:
+      name: Forma paszy dla zwierząt
+    animal_type:
+      name: Typ zwierzęcia
+    antenna_type:
+      name: Typ anteny
+    anti_agin_skin_care_type:
+      name: Rodzaj pielęgnacji przeciwstarzeniowej skóry
+    antifreeze_type:
+      name: Typ środka zapobiegającego zamarzaniu
+    application_area:
+      name: Obszar zastosowania
+    application_method:
+      name: Metoda zastosowania
+    applicator_material:
+      name: Materiał aplikatora
+    applicator_type:
+      name: Rodzaj aplikatora
+    applique/patch_shape:
+      name: Kształt aplikacji/łaty
+    applique_shape:
+      name: Kształt aplikacji
+    aquarium_filter_features:
+      name: Charakterystyka filtra akwariowego
+    aquarium_light_spectrum:
+      name: Spektrum światła do akwarium
+    aquarium_overflow_box_design:
+      name: Konstrukcja pudełka przelewowego do akwarium
+    archery_activity:
+      name: Łucznictwo
+    archery_equipment_included:
+      name: Sprzęt łuczniczy w zestawie
+    archery_style:
+      name: Styl łuczniczy
+    aromatherapy:
+      name: Aromaterapia
+    arrangement:
+      name: Układ
+    arrow/bolt_material:
+      name: Materiał strzały/bełtu
+    arrow_fletching_material:
+      name: Materiał lotki strzały
+    arrow_material:
+      name: Materiał strzały
+    art/crafting_tool_material:
+      name: Materiał narzędzi dla artystów i rękodzielników
+    art_fixative_application_method:
+      name: Metoda aplikacji utrwalacza artystycznego
+    art_style:
+      name: Styl artystyczny
+    artwork_frame_material:
+      name: Materiał ramy dzieła sztuki
+    artwork_type:
+      name: Typ grafiki
+    assisted_braking_technology:
+      name: Technologia wspomaganego hamowania
+    attachment_method:
+      name: Metoda załącznika
+    attachment_options:
+      name: Opcje załączników
+    attachment_type:
+      name: Typ załącznika
+    atv/off_road_tire_type:
+      name: Typ opony do quada/terenowej
+    audio/scan_converter_features:
+      name: Charakterystyka konwertera audio/skanującego
+    audio_codecs/formats_supported:
+      name: Obsługiwane kodeki/formaty audio
+    audio_connectivity:
+      name: Łączność audio
+    audio_converter_features:
+      name: Charakterystyka konwertera audio
+    audio_d/a_converter_dac:
+      name: Konwerter audio D/A (Dac)
+    audio_mixer_type:
+      name: Rodzaj miksera audio
+    audio_output_channel:
+      name: Kanał wyjścia audio
+    audio_output_format:
+      name: Format wyjścia audio
+    audio_player/recorder_features:
+      name: Charakterystyka odtwarzacza/nagrywarki audio
+    audio_purpose:
+      name: Cel audio
+    audio_technology:
+      name: Technologia audio
+    authentication_technology:
+      name: Technologia uwierzytelniania
+    authenticity:
+      name: Autentyczność
+    auto_focusing_modes:
+      name: Tryby automatycznego ustawiania ostrości
+    autoclave_sterilization_method:
+      name: Metoda sterylizacji w autoklawie
+    autograph_type:
+      name: Typ autografu
+    automation:
+      name: Automatyzacja
+    award_design:
+      name: Projekt nagrody
+    award_occasion:
+      name: Okazja do nagrody
+    awning_construction_type:
+      name: Typ konstrukcji markizy
+    awning_design:
+      name: Konstrukcja markizy
+    baby/toddler_car_seat_features:
+      name: Charakterystyka fotelika samochodowego dla dzieci i niemowląt
+    baby/toddler_clothing_features:
+      name: Charakterystyka ubrań dla dzieci i niemowląt
+    baby/toddler_equipment_safety_features:
+      name: Środki bezpieczeństwa sprzętu dla dzieci i niemowląt
+    baby/toddler_furniture_features:
+      name: Charakterystyka mebli dla dzieci i niemowląt
+    baby/toddler_furniture_items_included:
+      name: Meble dla dzieci i niemowląt w zestawie
+    baby/toddler_hat_style:
+      name: Styl kapelusza dla dzieci i niemowląt
+    baby/toddler_hosiery_style:
+      name: Styl wyrobu pończoszniczego  dla dzieci i niemowląt
+    baby/toddler_seat_features:
+      name: Charakterystyka fotelika dla dzieci i niemowląt
+    baby/toddler_sleepwear_style:
+      name: Styl piżamy i becika dla dzieci i niemowląt
+    baby_drink_packaging:
+      name: Opakowanie napoju dla niemowląt
+    baby_equipment_safety_features:
+      name: Środki bezpieczeństwa sprzętu dla dzieci
+    baby_food_flavor:
+      name: Smak jedzenia dla niemowląt
+    baby_formula_format:
+      name: Format formuły dla niemowląt
+    baby_gift_items_included:
+      name: W zestawie upominki dla dziecka
+    baby_health_items_included:
+      name: W zestawie artykuły zdrowotne dla niemowląt
+    baby_monitor_features:
+      name: Charakterystyka niani elektronicznej
+    baby_snack_flavor:
+      name: Smak przekąski dla niemowląt
+    baby_snack_texture:
+      name: Konsystencja przekąski dla niemowląt
+    back_type:
+      name: Typ tylny
+    background_design:
+      name: Projekt tła
+    backing_color:
+      name: Kolor podkładu
+    backing_material:
+      name: Materiał podkładowy
+    backing_pattern:
+      name: Wzór podkładu
+    backrest_type:
+      name: Typ oparcia
+    backrest_upholstery_color:
+      name: Kolor tapicerki oparcia
+    backrest_upholstery_material:
+      name: Materiał tapicerki oparcia
+    backrest_upholstery_pattern:
+      name: Wzór tapicerki oparcia
+    bag/case_closure:
+      name: Zamknięcie torby/etui
+    bag/case_features:
+      name: Charakterystyka torby/obudowy
+    bag/case_material:
+      name: Materiał torby/obudowy
+    bag/case_storage_features:
+      name: Funkcje przechowywania torby/obudowy
+    bag_closure:
+      name: Zapięcie torby
+    bag_strap_type:
+      name: Typ paska torby
+    bag_style:
+      name: Styl torby
+    bag_type:
+      name: Typ worka
+    bakery_items_included:
+      name: Artykuły piekarnicze w zestawie
+    bakeware_features:
+      name: Charakterystyka formy do pieczenia
+    bakeware_items_included:
+      name: Formy do pieczenia w zestawie
+    bakeware_pieces_included:
+      name: W zestawie akcesoria do pieczenia
+    bakeware_shape:
+      name: Kształt form do pieczenia
+    baking_purpose:
+      name: Cel pieczenia
+    baking_sheet_material:
+      name: Materiał blachy do pieczenia
+    ball_material:
+      name: Materiał piłki
+    ball_size:
+      name: Rozmiar piłki
+    balloon_kit_items_included:
+      name: W zestawie elementy zestawu balonowego
+    balloon_shape:
+      name: Kształt balonu
+    band_color:
+      name: Kolor paska
+    band_material:
+      name: Materiał paska
+    band_pattern:
+      name: Wzór paska
+    band_strength:
+      name: Wytrzymałość taśmy
+    banner_design:
+      name: Projekt banera
+    bar_mounting_type:
+      name: Rodzaj mocowania baru
+    barcode_scanner_interface:
+      name: Interfejs skanera kodów kreskowych
+    barcode_supported:
+      name: Obsługiwany kod kreskowy
+    barrel_material:
+      name: Materiał beczki
+    barware_items_included:
+      name: Naczynia barowe w zestawie
+    barware_material:
+      name: Materiał naczyń barowych
+    base_oil:
+      name: Olej bazowy
+    base_spirit:
+      name: Benzyna lakiernicza
+    base_type:
+      name: Typ podstawowy
+    baseball/softball_ball_type:
+      name: Typ piłki baseballowej/softballowej
+    basket_material:
+      name: Materiał kosza
+    basketball_equipment_included:
+      name: Sprzęt do koszykówki w zestawie
+    bass_button_configuration:
+      name: Konfiguracja przycisku basowego
+    bat_material:
+      name: Materiał kija
+    bat_standard:
+      name: Standard BAT
+    bathroom_furniture_items_included:
+      name: Meble łazienkowe w zestawie
+    bathtub_base_design:
+      name: Projekt podstawy wanny
+    bathtub_features:
+      name: Charakterystyka wanny
+    bathtub_skirt_shape:
+      name: Kształt listwy wanny
+    baton_grip_design:
+      name: Projekt uchwytu pałeczki
+    battery_cell_type:
+      name: Typ ogniwa akumulatora
+    battery_features:
+      name: Charakterystyka akumulatora
+    battery_management_features:
+      name: Funkcje zarządzania akumulatorami
+    battery_size:
+      name: Rozmiar akumulatora
+    battery_technology:
+      name: Technologia wykonania akumulatora
+    battery_type:
+      name: Typ akumulatora
+    bead_shape:
+      name: Kształt koralika
+    beat_subdivisions:
+      name: Podział bitu
+    beater_head_size:
+      name: Rozmiar główki ubijaka
+    bed/frame_features:
+      name: Charakterystyka łóżka/ramy
+    bed_pan_type:
+      name: Typ basenu łóżkowego
+    bedding_pieces_included:
+      name: W zestawie pościel
+    bedding_size:
+      name: Rozmiar pościeli
+    beer_style:
+      name: Styl piwa
+    beer_variety:
+      name: Odmiana piwa
+    bell_design:
+      name: Projekt dzwonka
+    bell_size:
+      name: Rozmiar dzwonka
+    bell_sound:
+      name: Dźwięk dzwonka
+    belt_type:
+      name: Typ pasa
+    best_uses:
+      name: Najlepsze zastosowania
+    bevel_type:
+      name: Typ ukosu
+    beverage_product_form:
+      name: Forma napoju
+    bib_design:
+      name: Forma śliniaczka
+    bicycle_brake_type:
+      name: Typ hamulców rowerowych
+    bicycle_features:
+      name: Charakterystyka roweru
+    bidet_mounting_type:
+      name: Typ montażu bidetu
+    binder_ring_shape:
+      name: Kształt pierścienia segregatora
+    binding_mount:
+      name: Mocowanie oprawy
+    binding_style:
+      name: Styl oprawy
+    binocular/monocular_design:
+      name: Konstrukcja lornetek i lunet
+    binocular_design:
+      name: Konstrukcja lornetki
+    biometric_monitor_accessory_features:
+      name: Charakterystyka akcesorium do monitorów funkcji życiowych
+    bios_type:
+      name: Typ Bios
+    bird_cage/stand_design:
+      name: Projekt klatki/stojaka dla ptaków
+    bird_food_form:
+      name: Forma karmy dla ptaków
+    bird_food_ingredients:
+      name: Składniki żywności dla ptaków
+    bird_treat_type:
+      name: Rodzaj smakołyków dla ptaków
+    birthday_candle_design:
+      name: Projekt świecy urodzinowej
+    birthday_candle_type:
+      name: Rodzaj świeczki urodzinowej
+    bitter_variety:
+      name: Odmiana gorzka
+    blade_curve:
+      name: Krzywa ostrza
+    blade_design:
+      name: Konstrukcja ostrza
+    blade_material:
+      name: Materiał ostrza
+    blade_type:
+      name: Typ ostrza
+    blanket_color:
+      name: Kolor kołdry
+    blanket_pattern:
+      name: Wzór kołdry
+    blending_type:
+      name: Typ mieszania
+    blind/shade_style:
+      name: Styl żaluzji/rolety
+    blood_test_kit_components:
+      name: Składniki zestawu do badania krwi
+    board_concave_shape:
+      name: Wklęsły kształt deski
+    board_game_features:
+      name: Charakterystyka gry planszowej
+    board_game_mechanics:
+      name: Mechanika gier planszowych
+    board_material:
+      name: Materiał płyty
+    board_mounting_type:
+      name: Typ montażu płyty
+    board_profile:
+      name: Profil deski
+    board_surface:
+      name: Powierzchnia deski
+    board_type:
+      name: Typ deski
+    boat_type:
+      name: Typ łodzi
+    body/facial_hair_type:
+      name: Rodzaj zarostu na ciele/twarzy
+    body_area:
+      name: Obszar treści
+    body_color:
+      name: Kolor skóry
+    body_jewelry_type:
+      name: Rodzaj biżuterii do ciała
+    body_material:
+      name: Materiał korpusu
+    body_paint/foundation_type:
+      name: Rodzaj farby i podkładu do ciała
+    body_pattern:
+      name: Wzór ciała
+    bodyboard_features:
+      name: Charakterystyka deski bodyboardowej
+    boiler_system:
+      name: Układ kotła
+    bolt_form:
+      name: Forma śruby
+    bolt_material:
+      name: Materiał bełtu
+    book/file_cover_material:
+      name: Materiał okładki książki/akt
+    book_cover_material:
+      name: Materiał okładki książki
+    book_cover_type:
+      name: Typ okładki książki
+    bookmark_design:
+      name: Projekt zakładki
+    bookmark_shape:
+      name: Kształt zakładki
+    boot_style:
+      name: Styl buta
+    boot_type:
+      name: Typ rozruchu
+    borescope_design:
+      name: Konstrukcja boroskopu
+    bottle/container_closure:
+      name: Zamknięcie butelki/pojemnika
+    bottle_closure_type:
+      name: Typ zamknięcia butelki
+    bottle_design:
+      name: Projekt butelki
+    bottle_material:
+      name: Materiał butelki
+    bottle_sterilizer_features:
+      name: Charakterystyka sterylizatora do butelek
+    bottle_type:
+      name: Typ butelki
+    bottle_warmer/sterilizer_features:
+      name: Charakterystyka podgrzewacza/sterylizatora do butelek
+    bottle_warmer_features:
+      name: Charakterystyka podgrzewacza do butelek
+    bottom_surface_material:
+      name: Materiał dolnej powierzchni
+    bow/crossbow_features:
+      name: Charakterystyka łuku/kuszy
+    bow_features:
+      name: Charakterystyka łuku
+    bow_hair_material:
+      name: Materiał włosia do łuku
+    bow_material:
+      name: Materiał łuku
+    box_type:
+      name: Typ pudełka
+    bra_closure_type:
+      name: Typ zamknięcia biustonosza
+    bra_coverage:
+      name: Pokrycie biustonosza
+    bra_features:
+      name: Charakterystyka biustonosza
+    bra_strap_type:
+      name: Typ paska biustonosza
+    bra_style:
+      name: Styl biustonosza
+    bra_support_level:
+      name: Poziom wsparcia biustonosza
+    bracelet_design:
+      name: Projekt bransoletki
+    bracket/brace_design:
+      name: Konstrukcja wspornika/usztywnienia
+    brandy_variety:
+      name: Odmiana brandy
+    breath_sprays_certifications:
+      name: Certyfikaty odświeżaczy do ust
+    bridge/router_advanced_features:
+      name: Zaawansowane funkcje mostka/routera
+    brightness_levels:
+      name: Poziomy jasności
+    bristle_material:
+      name: Materiał włosia
+    bristle_shape:
+      name: Kształt włosia
+    broadhead/field_point_material:
+      name: Materiał grotów do strzał
+    brush_application:
+      name: Zastosowanie pędzla
+    brush_head_usage:
+      name: Zastosowanie główki szczoteczki
+    brush_material:
+      name: Materiał pędzla
+    brush_size:
+      name: Rozmiar szczotki
+    brush_type:
+      name: Typ szczotki
+    bug_type:
+      name: Typ insekta
+    building_board_material:
+      name: Materiał płyty budowlanej
+    building_consumable_form:
+      name: Budowanie formy użytkowej
+    building_toy_type:
+      name: Materiał zabawki do budowania
+    bulb_cap_type:
+      name: Typ nasadki żarówki
+    bulb_shape:
+      name: Kształt żarówki
+    bulb_size:
+      name: Rozmiar żarówki
+    bulb_type:
+      name: Typ żarówki
+    bulldozer_blade_type:
+      name: Typ lemiesza spycharki
+    bullet_protection_level:
+      name: Poziom ochrony przed pociskami
+    bullhorn_features:
+      name: Charakterystyka megafonu
+    bullion_form:
+      name: Forma kruszcu
+    burner_material:
+      name: Materiał palnika
+    butt_cap_color:
+      name: Kolor nasadki
+    butt_cap_material:
+      name: Materiał nasadki
+    butt_cap_pattern:
+      name: Wzór nasadki
+    button/snap_closure_type:
+      name: Zapięcie na guziki/zatrzaski
+    cabinet_type:
+      name: Typ szafki
+    cable_housing_material:
+      name: Materiał obudowy kabla
+    cable_shielding:
+      name: Ekranowanie kabla
+    cable_type:
+      name: Typ kabla
+    cage_type:
+      name: Typ klatki
+    calculator_accessory_type:
+      name: Rodzaj akcesorium do kalkulatorów
+    calculator_features:
+      name: Charakterystyka kalkulatora
+    calendar/organizer_features:
+      name: Charakterystyka kalendarza/organizera
+    calendar_format:
+      name: Format kalendarza
+    cam_system:
+      name: System krzywki
+    camera_attachment:
+      name: Mocowanie aparatu
+    camera_button/knob_type:
+      name: Typ przycisku/pokrętła aparatu
+    camera_control_type:
+      name: Typ sterowania aparatem
+    camera_display_technology:
+      name: Technologia wyświetlania aparatu
+    camera_features:
+      name: Charakterystyka kamery
+    camera_gear_type:
+      name: Typ sprzętu fotograficznego
+    camera_hd_type:
+      name: Typ kamery HD
+    camera_lens_material:
+      name: Materiał obiektywu kamery
+    camera_lens_type:
+      name: Typ obiektywu aparatu
+    camera_mounting_type:
+      name: Typ mocowania aparatu
+    camera_sensor_type:
+      name: Typ czujnika aparatu
+    camera_shape:
+      name: Kształt aparatu
+    candle_kit_items_included:
+      name: W zestawie elementy zestawu świec
+    candle_material:
+      name: Materiał świecy
+    candle_shape:
+      name: Kształt świecy
+    candle_type:
+      name: Typ świecy
+    canned_meat_variety:
+      name: Odmiana konserwy mięsnej
+    canopy_color:
+      name: Kolor baldachimu
+    canopy_material:
+      name: Materiał baldachimu
+    canopy_pattern:
+      name: Wzór baldachimu
+    canvas_finish:
+      name: Wykończenie płótna
+    canvas_material:
+      name: Materiał płócienny
+    canvas_texture:
+      name: Tekstura płótna
+    car_freshener_fragrance:
+      name: Zapach odświeżacza samochodowego
+    car_seat_installation:
+      name: Montaż fotelika samochodowego
+    car_seat_orientation:
+      name: Orientacja fotelika samochodowego
+    car_type:
+      name: Typ samochodu
+    carabiner_gate_type:
+      name: Typ zasuwy zatrzaśnika
+    carabiner_shape:
+      name: Kształt karabińczyka
+    card/adapter_installation:
+      name: Instalacja karty/adaptera
+    card_attributes:
+      name: Atrybuty karty
+    card_design:
+      name: Projekt karty
+    card_format:
+      name: Format karty
+    card_holder_design:
+      name: Projekt uchwytu na kartę
+    card_size:
+      name: Rozmiar karty
+    care_instructions:
+      name: Instrukcja pielęgnacji
+    carry_options:
+      name: Opcje przenoszenia
+    carrying_positions:
+      name: Pozycje nośne
+    carrying_type:
+      name: Typ nośności
+    cart_design:
+      name: Projekt koszyka
+    cart_type:
+      name: Typ koszyka
+    cartridge_type:
+      name: Typ wkładu
+    case_color:
+      name: Kolor obudowy
+    case_pattern:
+      name: Wzór obudowy
+    case_type:
+      name: Typ sprawy
+    cassette_adapter_type:
+      name: Typ adaptera kasetowego
+    cat_age_group:
+      name: Grupa wiekowa kotów
+    cat_litter_formula:
+      name: Formuła żwirku dla kota
+    cbd_ingredients:
+      name: Składniki CBD
+    celebration_type:
+      name: Typ uroczystości
+    chain_link_type:
+      name: Typ ogniwa łańcucha
+    chain_type:
+      name: Typ łańcucha
+    chair/sofa_features:
+      name: Charakterystyka krzesła/sofy
+    chair_features:
+      name: Charakterystyka krzesła
+    chalkboard_surface:
+      name: Powierzchnia tablicy
+    changing_mat/tray_features:
+      name: Charakterystyka maty i blatu do przewijania
+    changing_mat_features:
+      name: Charakterystyka maty do przewijania
+    changing_tray_features:
+      name: Charakterystyka blatu do przewijania
+    charger_type:
+      name: Typ ładowarki
+    charging_cable_type:
+      name: Typ kabla do ładowania
+    charging_level:
+      name: Poziom naładowania
+    charging_method:
+      name: Metoda ładowania
+    chassis_type:
+      name: Typ podwozia
+    chemical_application:
+      name: Zastosowanie substancji chemicznych
+    chemical_container_type:
+      name: Typ pojemnika na chemikalia
+    chemical_grade:
+      name: Klasa chemiczna
+    chemical_product_form:
+      name: Forma produktu chemicznego
+    chemical_purity:
+      name: Czystość chemiczna
+    chemical_safety_features:
+      name: Środki bezpieczeństwa chemicznego
+    chicken_feed_stage:
+      name: Etap karmienia kurczaków
+    child_seat_placement:
+      name: Umiejscowienie fotelika dziecięcego
+    chipper_technology:
+      name: Technologia rozdrabniania
+    chiropractic_table_design:
+      name: Projekt stołu do chiropraktyki
+    chuck_type:
+      name: Typ uchwytu
+    cigar_body:
+      name: Korpus cygara
+    circuit_board_features:
+      name: Charakterystyka płytki drukowanej
+    circuit_breaker_design:
+      name: Konstrukcja wyłącznika obwodu
+    circuit_breaker_panel_form:
+      name: Forma tablicy bezpiecznikowej
+    circuit_breaker_type:
+      name: Typ wyłącznika ochronnego
+    clarinet_key_system:
+      name: System klawiszy klarnetowych
+    clasp_type:
+      name: Typ zapięcia
+    claw_design:
+      name: Konstrukcja pazurów
+    clay/slip_texture:
+      name: Tekstura poślizgu/gliny
+    clay_texture:
+      name: Tekstura gliny
+    cleaner_purpose:
+      name: Czystszy cel
+    cleaning_instructions:
+      name: Instrukcje czyszczenia
+    cleaning_purpose:
+      name: Przeznaczenie do czyszczenia
+    cleaning_surfaces:
+      name: Czyszczenie powierzchni
+    cleat_type:
+      name: Typ łącznika
+    climbing_activity:
+      name: Wspinaczka
+    clip_type:
+      name: Typ zacisku
+    clipper/trimmer_type:
+      name: Rodzaj trymera do włosów
+    closure_style:
+      name: Styl zamknięcia
+    closure_type:
+      name: Typ zamknięcia
+    clothing_accessory_material:
+      name: Materiał akcesorium do ubrań
+    clothing_features:
+      name: Charakterystyka ubrań
+    club_subset:
+      name: Podzbiór klubowy
+    club_type:
+      name: Typ klubu
+    coating/sealant_application:
+      name: Zastosowanie powłoki/uszczelniacza
+    cocktail_decoration_design:
+      name: Projekt dekoracji koktajlowych
+    cocktail_decoration_material:
+      name: Materiał dekoracji koktajlowych
+    coffee/tea_set_pieces_included:
+      name: W zestawie elementy zestawu do kawy/herbaty
+    coffee_creamer_variety:
+      name: Odmiana śmietanki do kawy
+    coffee_input_type:
+      name: Typ surowca kawowego
+    coffee_product_form:
+      name: Forma kawy
+    coffee_roast:
+      name: Palenie kawy
+    coil_connection:
+      name: Połączenie cewki
+    coin_material:
+      name: Materiał monety
+    collar/mount_compatible_device:
+      name: Urządzenie kompatybilne z kołnierzem/uchwytem
+    collar/mount_design:
+      name: Konstrukcja kołnierza/uchwytu
+    collar_lock_type:
+      name: Typ blokady kołnierza
+    color:
+      name: Kolor
+    color_accuracy_standards:
+      name: Standardy dokładności kolorów
+    color_saturation:
+      name: Nasycenie
+    communication_device_features:
+      name: Charakterystyka urządzenia komunikacyjnego
+    communication_protocols:
+      name: Protokoły komunikacyjne
+    compass_style:
+      name: Styl kompasu
+    compatible_aircraft_type:
+      name: Kompatybilny typ statku powietrznego
+    compatible_amplifier:
+      name: Kompatybilny wzmacniacz
+    compatible_aquarium:
+      name: Zgodne akwarium
+    compatible_baby_bottle_design:
+      name: Pasująca forma butelki dla niemowląt
+    compatible_baby_carrier_type:
+      name: Kompatybilny typ nosidełka dla niemowląt
+    compatible_baby_chair_type:
+      name: Kompatybilny typ krzesełka dla dziecka
+    compatible_baby_transport_type:
+      name: Kompatybilny typ środka transportu dla niemowląt
+    compatible_ball_type:
+      name: Zgodny typ piłki
+    compatible_battery_size:
+      name: Kompatybilny rozmiar baterii
+    compatible_battery_technology:
+      name: Zgodna technologia wykonania akumulatora
+    compatible_bench_positions:
+      name: Zgodne pozycje ławki
+    compatible_bike_type:
+      name: Zgodny typ roweru
+    compatible_brass_instrument:
+      name: Kompatybilny instrument dęty blaszany
+    compatible_clarinet_type:
+      name: Kompatybilny typ klarnetu
+    compatible_cosmetic_tools:
+      name: Kompatybilne narzędzia kosmetyczne
+    compatible_device:
+      name: Zgodne urządzenie
+    compatible_drum_configuration:
+      name: Kompatybilna konfiguracja bębna
+    compatible_electric/acoustic_instrument:
+      name: Kompatybilny instrument elektryczny/akustyczny
+    compatible_electronic_card_type:
+      name: Zgodny typ karty elektronicznej
+    compatible_exercises:
+      name: Zgodne ćwiczenia
+    compatible_filament:
+      name: Zgodny żarnik
+    compatible_film_type:
+      name: Zgodny typ filmu
+    compatible_flute_type:
+      name: Kompatybilny typ fletu
+    compatible_game_format:
+      name: Zgodny format gry
+    compatible_gardening_tool:
+      name: Zgodne narzędzie ogrodnicze
+    compatible_hair_color:
+      name: Zgodny kolor włosów
+    compatible_hammock_design:
+      name: Zgodny projekt hamaka
+    compatible_harmonica_type:
+      name: Kompatybilny typ harmonijki
+    compatible_hdcp:
+      name: Zgodny z Hdcp
+    compatible_instrument:
+      name: Kompatybilny instrument
+    compatible_keyboard_configuration:
+      name: Kompatybilna konfiguracja klawiatury
+    compatible_lock_type:
+      name: Zgodny typ blokady
+    compatible_makeup:
+      name: Pasujący makijaż
+    compatible_mattress_size:
+      name: Zgodny rozmiar materaca
+    compatible_memory_cards:
+      name: Zgodne karty pamięci
+    compatible_microphone_thread:
+      name: Zgodny gwint mikrofonu
+    compatible_motherboard_form_factor:
+      name: Zgodny współczynnik kształtu płyty głównej
+    compatible_oboe_type:
+      name: Kompatybilny typ oboju
+    compatible_operating_system:
+      name: Zgodny system operacyjny
+    compatible_orchestral_string_instrument:
+      name: Kompatybilny orkiestrowy instrument smyczkowy
+    compatible_paper_size:
+      name: Odpowiedni rozmiar papieru
+    compatible_patient_profile:
+      name: Zgodny profil pacjenta
+    compatible_percussion_instrument:
+      name: Kompatybilny instrument perkusyjny
+    compatible_play_vehicle_type:
+      name: Kompatybilny typ pojazdu do zabawy
+    compatible_player:
+      name: Kompatybilny odtwarzacz
+    compatible_printer:
+      name: Kompatybilna drukarka
+    compatible_processor_series:
+      name: Zgodna seria procesorów
+    compatible_programming_languages:
+      name: Zgodne języki programowania
+    compatible_recipes:
+      name: Zgodne przepisy
+    compatible_resolution:
+      name: Zgodna rozdzielczość
+    compatible_seat_type:
+      name: Kompatybilny typ fotelika
+    compatible_shoe_size:
+      name: Pasujący rozmiar buta
+    compatible_software_platform:
+      name: Kompatybilna platforma oprogramowania
+    compatible_special_effects_device:
+      name: Kompatybilne urządzenie do efektów specjalnych
+    compatible_stove_top_type:
+      name: Zgodny typ płyty kuchennej
+    compatible_string_instrument:
+      name: Kompatybilny instrument smyczkowy
+    compatible_stroller_type:
+      name: Kompatybilny typ wózka dziecięcego
+    compatible_vacuum_type:
+      name: Zgodny typ podciśnienia
+    compatible_vehicle:
+      name: Zgodny pojazd
+    compatible_walking_aid_equipment:
+      name: Kompatybilny sprzęt wspomagający chodzenie
+    compatible_weight_lifting_accessory:
+      name: Zgodne akcesoria do ćwiczeń z ciężarami
+    compliance_certifications:
+      name: Certyfikaty zgodności
+    component_output_type:
+      name: Typ wyjścia komponentowego
+    component_package_type:
+      name: Typ pakietu składników
+    compression_format:
+      name: Format kompresji
+    compression_level:
+      name: Poziom kompresji
+    computer_accessories_included:
+      name: Akcesoria komputerowe w zestawie
+    computer_form:
+      name: Formularz komputerowy
+    computer_server_features:
+      name: Funkcje serwera komputerowego
+    computer_specialized_features:
+      name: Specjalistyczne funkcje komputerowe
+    concertina_button_configuration:
+      name: Konfiguracja przycisku harmonijkowego
+    condition:
+      name: Stan
+    conditioner_effect:
+      name: Efekt odżywki
+    condom_type:
+      name: Typ prezerwatywy
+    connecting_thread:
+      name: Gwint łączący
+    connection_method:
+      name: Metoda połączenia
+    connection_type:
+      name: Typ połączenia
+    connectivity_technology:
+      name: Technologia łączności
+    connector_design:
+      name: Projekt złącza
+    connector_gender:
+      name: Rodzaj złącza
+    console_system:
+      name: System konsoli
+    constitutive_ingredients:
+      name: Składniki konstytutywne
+    construction_set_theme:
+      name: Motyw zestawu konstrukcyjnego
+    contrast:
+      name: Kontrast
+    contrast_ratio_typical:
+      name: Współczynnik kontrastu (typowy)
+    control_functions:
+      name: Funkcje sterowania
+    control_method:
+      name: Metoda sterowania
+    control_technology:
+      name: Technologia sterowania
+    control_type:
+      name: Typ sterowania
+    controller_design:
+      name: Projekt sterownika
+    controller_drive_type:
+      name: Typ napędu sterownika
+    converter_functionality:
+      name: Funkcjonalność konwertera
+    conveyor_operation:
+      name: Obsługa przenośnika
+    cooking_method:
+      name: Technika wykonania
+    cooking_wine_variety:
+      name: Odmiana wina do gotowania
+    cookware/bakeware_features:
+      name: Charakterystyka garnka / formy do pieczenia
+    cookware/bakeware_material:
+      name: Materiał garnka / formy do pieczenia
+    cookware_features:
+      name: Charakterystyka garnka
+    cookware_items_included:
+      name: Garnki w zestawie
+    cooling_technology:
+      name: Technologia chłodzenia
+    cord_fastening_system:
+      name: System mocowania linki
+    core_color:
+      name: Kolor rdzenia
+    core_material:
+      name: Główny materiał
+    core_pattern:
+      name: Wzór rdzenia
+    corrector_features:
+      name: Charakterystyka korektora
+    corsage/boutonniere_design:
+      name: Projekt Corsage/Boutonni√®re
+    cosmetic_condition:
+      name: Stan kosmetyku
+    cosmetic_finish:
+      name: Kosmetyczne wykończenie
+    cosmetic_function:
+      name: Funkcja kosmetyczna
+    costume_theme:
+      name: Motyw kostiumowy
+    counter_shape:
+      name: Kształt licznika
+    country:
+      name: Kraj
+    cover_closure_design:
+      name: Forma zamknięcia osłony
+    cover_color:
+      name: Kolor pokrycia
+    cover_features:
+      name: Charakterystyka pokrowca
+    cover_material:
+      name: Materiał pokrycia
+    cover_pattern:
+      name: Wzór pokrycia
+    cover_type:
+      name: Typ okładki
+    coverage_area:
+      name: Wielkość ogrzewanej powierzchni
+    coverage_region:
+      name: Zasięg radiowy
+    craft/sculpting_project_type:
+      name: Typ projektu z zakresu rzemiosła/rzeźby
+    craft_cutter/embosser_type:
+      name: Rodzaj urządzenia do wycinania i wytłaczania
+    craft_decoration_maker_type:
+      name: Rodzaj narzędzia do tworzenia ozdób
+    craft_knife_design:
+      name: Projekt noża rzemieślniczego
+    craft_pipe_cleaner_design:
+      name: Konstrukcja kolorowych wyciorów do fajki
+    craft_project_type:
+      name: Typ projektu rzemieślniczego
+    crafting_frame/stretcher_features:
+      name: Charakterystyka ramy i rozpinacza do tkanin w rękodzielnictwie
+    crafting_frame_features:
+      name: Charakterystyka ramy do tkanin w rękodzielnictwie
+    crafting_hoop_features:
+      name: Charakterystyka tamborka w rękodzielnictwie
+    crafting_mat/pad_features:
+      name: Charakterystyka maty/podkładki w rękodzielnictwie
+    crafting_stretcher_features:
+      name: Charakterystyka rozpinacza do tkanin w rękodzielnictwie
+    crampon_attachment_type:
+      name: Rodzaj mocowania raków
+    creative_art_project_type:
+      name: Typ projektu kreatywnego
+    crib/toddler_bed_features:
+      name: Charakterystyka akcesorium do łóżeczek i łóżek dziecinnych
+    crib_features:
+      name: Charakterystyka łóżeczka
+    cricket_equipment_included:
+      name: Sprzęt do gry w krykieta w zestawie
+    crutch_type:
+      name: Typ kul
+    crystal_system:
+      name: Układ krystalograficzny
+    cue_style:
+      name: Styl kija bilardowego
+    cue_type:
+      name: Typ kija bilardowego
+    cue_wrap:
+      name: Płaszcz kija bilardowego
+    cuisine:
+      name: Kuchnia
+    culinary_botanical_name:
+      name: Kulinarna nazwa botaniczna
+    cup_size:
+      name: Rozmiar miseczki
+    curler_type:
+      name: Typ lokówki
+    currencies_supported:
+      name: Obsługiwane waluty
+    currency:
+      name: Waluta
+    currency_type:
+      name: Typ waluty
+    customer_support_channels:
+      name: Kanały obsługi klienta
+    customization:
+      name: Dostosowywanie
+    cutter_options:
+      name: Opcje obcinaka
+    cutting_method:
+      name: Metoda cięcia
+    cycling_style:
+      name: Styl rowerowy
+    data_network:
+      name: Sieć danych
+    decoration_material:
+      name: Materiał dekoracyjny
+    decorative_stamp_design:
+      name: Dekoracyjny projekt stempla
+    denomination:
+      name: Nominał
+    dental_floss_shape:
+      name: Kształt nici dentystycznej
+    dental_floss_thickness_level:
+      name: Poziom grubości nici dentystycznej
+    dental_floss_type:
+      name: Rodzaj nici dentystycznej
+    dental_mouthgard_recommended_use:
+      name: Zalecane zastosowanie ochraniaczy zębów
+    dental_mouthguard_certifications:
+      name: Certyfikaty ochraniaczy dentystycznych
+    dental_paste_flavor:
+      name: Smak pasty dentystycznej
+    dental_repair_kit_certifications:
+      name: Certyfikaty zestawów do naprawy zębów
+    dental_water_jet_operation:
+      name: Działanie irygatora dentystycznego
+    dentistry_items_included:
+      name: W zestawie artykuły stomatologiczne
+    denture_base_color:
+      name: Kolor podstawy protezy
+    denture_coverage:
+      name: Pokrycie protezy
+    denture_design:
+      name: Konstrukcja protezy
+    denture_teeth_color:
+      name: Kolor zębów protezy
+    deployment_type:
+      name: Typ wdrożenia
+    desk_organizer_features:
+      name: Charakterystyka organizera na biurko
+    desk_size:
+      name: Rozmiar pulpitu
+    detailed_ingredients:
+      name: Składniki szczegółowe
+    detectable_drugs:
+      name: Wykrywalne leki
+    detector_operation_mode:
+      name: Tryb działania detektora
+    detector_sensitivity:
+      name: Czułość detektora
+    detector_type:
+      name: Typ detektora
+    developmental_features:
+      name: Cechy rozwojowe
+    device_interface:
+      name: Interfejs urządzenia
+    device_technology:
+      name: Technologia urządzenia
+    dexterity_skills:
+      name: Zręczność
+    dial_color:
+      name: Kolor tarczy
+    dial_pattern:
+      name: Wzór tarczy
+    diaper_bag_additional_features:
+      name: Dodatkowa charakterystyka akcesorium dziecięcego
+    diaper_bag_material:
+      name: Materiał torby na pieluchy
+    diaper_bag_style:
+      name: Styl torby na pieluchy
+    diaper_features:
+      name: Charakterystyka pieluchy
+    diaper_kit_components:
+      name: Składniki zestawu pieluszek
+    diaper_organizer_features:
+      name: Charakterystyka organizera na pieluchy
+    diaper_size:
+      name: Rozmiar pieluchy
+    diaper_type:
+      name: Rodzaj pieluchy
+    dice_shape:
+      name: Kształt kostki
+    dielectric_type:
+      name: Typ dielektryczny
+    dietary_preferences:
+      name: Preferencje dietetyczne
+    dietary_supplements:
+      name: Suplementy diety
+    dietary_use:
+      name: Zastosowanie żywieniowe
+    difficulty_level:
+      name: Poziom trudności
+    diffuser_design:
+      name: Konstrukcja dyfuzora
+    digital_sound_processing:
+      name: Cyfrowe przetwarzanie dźwięku
+    dinnerware_pieces_included:
+      name: W zestawie elementy zastawy obiadowej
+    dirt_separating_method:
+      name: Metoda oddzielania zanieczyszczeń
+    discharge_type:
+      name: Typ wypisu
+    disk_format_type:
+      name: Typ formatu dysku
+    dispenser_type:
+      name: Typ dozownika
+    display_board_features:
+      name: Charakterystyka tablicy do prezentacji
+    display_color_mode:
+      name: Tryb koloru wyświetlacza
+    display_features:
+      name: Charakterystyka wyświetlacza
+    display_mode:
+      name: Tryb wyświetlania
+    display_recommended_use:
+      name: Zalecane użycie wyświetlacza
+    display_resolution:
+      name: Rozdzielczość monitora
+    display_sign_design:
+      name: Projekt znaku wystawowego
+    display_technology:
+      name: Technologia monitora
+    disposable/reusable_bag_features:
+      name: Charakterystyka torby jednorazowej / wielokrotnego użytku
+    disposable/reusable_item_material:
+      name: Materiał przedmiotu jednorazowego / wielokrotnego użytku
+    disposable_bag_features:
+      name: Charakterystyka torby jednorazowej
+    disposable_bag_material:
+      name: Materiał torby jednorazowej
+    disposable_glove_features:
+      name: Charakterystyka rękawic jednorazowych
+    disposable_tableware_material:
+      name: Materiał zastawy jednorazowej
+    dive_computer_items_included:
+      name: Elementy komputera nurkowego w zestawie
+    diving/snorkeling_equipment_included:
+      name: Sprzęt do nurkowania z rurką lub akwalungiem w zestawie
+    diving_regulator_style:
+      name: Styl automatu oddechowego
+    dj_equipment_features:
+      name: Charakterystyka sprzętu DJ-skiego
+    dj_software_compatibility:
+      name: Zgodność oprogramowania DJ-skiego
+    dog_age_group:
+      name: Grupa wiekowa psów
+    dog_diaper_size:
+      name: Rozmiar pieluchy dla psa
+    dog_diaper_type:
+      name: Rodzaj pieluchy dla psa
+    dog_house_features:
+      name: Charakterystyka budy dla psa
+    dog_kennel/run_features:
+      name: Charakterystyka budy i boksu dla psa
+    dog_kennel_features:
+      name: Charakterystyka budy dla psa
+    dog_pen_features:
+      name: Charakterystyka kojca dla psa
+    dog_toy_type:
+      name: Rodzaj zabawki dla psa
+    doll/playset_features:
+      name: Charakterystyka lalki / zestawu do zabawy
+    doll_features:
+      name: Charakterystyka lalki
+    doll_type:
+      name: Rodzaj lalki
+    door/frame_application:
+      name: Zastosowanie drzwi/ościeżnicy
+    door_application:
+      name: Zastosowanie drzwi
+    door_closer_application:
+      name: Zastosowanie samozamykacza
+    door_closer_design:
+      name: Konstrukcja samozamykacza
+    door_color:
+      name: Kolor drzwi
+    door_frame_application:
+      name: Zastosowanie ościeżnicy
+    door_frame_finish:
+      name: Wykończenie ościeżnicy
+    door_glass_finish:
+      name: Wykończenie szklane drzwi
+    door_insulation:
+      name: Izolacja drzwi
+    door_knob_function:
+      name: Funkcja gałki drzwi
+    door_mat_base_color:
+      name: Kolor bazowy wycieraczki
+    door_mat_base_material:
+      name: Materiał bazowy wycieraczki
+    door_mat_base_pattern:
+      name: Wzór bazowy wycieraczki
+    door_mat_surface_material:
+      name: Materiał powierzchni wycieraczki
+    door_material:
+      name: Materiał drzwi
+    door_pattern:
+      name: Wzór drzwi
+    door_stop_placement:
+      name: Umieszczenie ogranicznika drzwi
+    door_stopper_design:
+      name: Konstrukcja ogranicznika drzwi
+    door_suitable_location:
+      name: Odpowiednia lokalizacja drzwi
+    door_surface_finish:
+      name: Wykończenie powierzchni drzwi
+    door_type:
+      name: Typ drzwi
+    double_stroller_configuration:
+      name: Konfiguracja podwójnego wózka dziecięcego
+    download_format:
+      name: Format pobrania
+    drain_location:
+      name: Lokalizacja odpływu
+    drawing/painting_kit_items_included:
+      name: W zestawie elementy zestawu do rysowania/malowania
+    dress_form_features:
+      name: Charakterystyka manekina krawieckiego
+    dress_occasion:
+      name: Okazja do założenia ubioru
+    dress_style:
+      name: Styl ubioru
+    drill_features:
+      name: Charakterystyka wiertarki
+    drilling_method:
+      name: Metoda wiercenia
+    drilling_rig_orientation:
+      name: Orientacja wiertnicy
+    drinkware_material:
+      name: Materiał naczyń do napojów
+    drinkware_pieces_included:
+      name: W zestawie elementy zastawy do napojów
+    drive_size:
+      name: Rozmiar dysku
+    drive_type:
+      name: Typ napędu
+    drum_configuration:
+      name: Konfiguracja bębna
+    drum_hardware_adjustability:
+      name: Możliwość regulacji osprzętu bębna
+    drum_hardware_material:
+      name: Materiał osprzętu bębna
+    dry/wet_cleaning:
+      name: Czyszczenie na sucho/mokro
+    dry_bean_variety:
+      name: Odmiana suchej fasoli
+    dryer_features:
+      name: Charakterystyka suszarki
+    dryer_technology:
+      name: Technologia osuszacza
+    drying_speed:
+      name: Szybkość suszenia
+    duct_design:
+      name: Konstrukcja kanału
+    duct_shape:
+      name: Kształt kanału
+    duplexing_technology:
+      name: Technologia dupleksowania
+    durability_features:
+      name: Cechy wpływające na trwałość
+    dust_container_type:
+      name: Typ pojemnika na pył
+    dust_mask_type:
+      name: Typ maski przeciwpyłowej
+    dye_form:
+      name: Forma barwnika
+    dynamic_level:
+      name: Poziom dynamiczny
+    e_book_formats_supported:
+      name: Obsługiwane formaty e-booków
+    e_cigarette/vaporizer_style:
+      name: Styl e-papierosa/parownika
+    e_liquid_flavor:
+      name: Smak e-papierosa
+    e_liquid_variety:
+      name: Odmiana e-papierosa
+    e_reader_display_technology:
+      name: Technologia wyświetlania e-czytnika
+    ear_care_application_method:
+      name: Metoda aplikacji produktów do pielęgnacji uszu
+    earphone_features:
+      name: Charakterystyka słuchawek dousznych
+    earplug_use:
+      name: Zastosowanie zatyczek do uszu
+    earring_design:
+      name: Konstrukcja kolczyka
+    edge_style:
+      name: Styl krawędzi
+    edge_type:
+      name: Typ krawędzi
+    education_level:
+      name: Poziom wykształcenia
+    egg_decorating_items_included:
+      name: W zestawie elementy do dekoracji jajek
+    egg_turning:
+      name: Obracanie jaj
+    electronic_drum_components:
+      name: Elementy elektronicznego zestawu perkusyjnego
+    electronic_game_genre:
+      name: Gatunek gier elektronicznych
+    embellishment/trim_material:
+      name: Materiał ozdobny/wykończeniowy
+    embellishments:
+      name: Ozdobniki
+    embossing_project_type:
+      name: Typ projektu wytłaczania
+    embouchure_hole_shape:
+      name: Kształt otworu ustnika
+    emergency/safety_sign_design:
+      name: Projekt znaku awaryjnego/bezpieczeństwa
+    emergency_items_included:
+      name: W zestawie elementy awaryjne
+    enclosure_type:
+      name: Typ obudowy
+    energy_efficiency_class:
+      name: Klasa energetyczna
+    energy_efficiency_class_hdr:
+      name: Klasa efektywności energetycznej (Hdr)
+    energy_efficiency_class_sdr:
+      name: Klasa efektywności energetycznej (Sdr)
+    engine_design:
+      name: Konstrukcja silnika
+    engine_purpose:
+      name: Przeznaczenie silnika
+    engine_type:
+      name: Typ silnika
+    engraving:
+      name: Grawerunek
+    envelope_features:
+      name: Charakterystyka koperty
+    envelope_seal_design:
+      name: Projekt pieczęci kopertowej
+    equipment_operation:
+      name: Obsługa sprzętu
+    era:
+      name: Era
+    esrb_rating:
+      name: Ocena ESRB
+    ethernet_lan_interface_type:
+      name: Typ interfejsu Ethernet Lan
+    ev_battery_features:
+      name: Charakterystyka akumulatora EV
+    ev_battery_type:
+      name: Typ akumulatora EV
+    ev_connector/adapter_type:
+      name: Typ złącza/adaptera EV
+    ev_conversion_kit_components:
+      name: Elementy zestawu do konwersji EV
+    evaporation_technology:
+      name: Technologia odparowywania
+    event_type:
+      name: Typ zdarzenia
+    exercise_equipment_included:
+      name: Sprzęt do ćwiczeń w zestawie
+    exercise_equipment_material:
+      name: Materiał sprzętu do ćwiczeń
+    exercise_machine_features:
+      name: Charakterystyka urządzenia do ćwiczeń
+    exercise_mat_material:
+      name: Materiał maty do ćwiczeń
+    expansion_slots:
+      name: Gniazda rozszerzeń
+    exposure_control:
+      name: Regulacja ekspozycji
+    extended_saxophone_range:
+      name: Rozszerzony zakres saksofonowy
+    external_defibrillator_features:
+      name: Charakterystyka defibrylatora zewnętrznego
+    extinguisher_rating:
+      name: Klasa gaśnicy
+    extinguishing_agent_type:
+      name: Typ środka gaśniczego
+    extraction_type:
+      name: Typ ekstrakcji
+    extractor_tip_style:
+      name: Styl końcówki ekstraktora
+    eye_pillow_shape:
+      name: Kształt poduszki na oczy
+    eye_shadow_effect:
+      name: Efekt cienia do powiek
+    eyebrow_enhancer_color:
+      name: Kolor kredki do brwi
+    eyelash_applicator_design:
+      name: Design aplikatora do sztucznych rzęs
+    eyelash_material:
+      name: Materiał rzęs
+    eyelash_type:
+      name: Rodzaj rzęs
+    eyepiece/adapter_material:
+      name: Materiał adaptera do okularów
+    eyewear_frame_color:
+      name: Kolor oprawek do okularów
+    eyewear_frame_design:
+      name: Kolor oprawek do okularów
+    eyewear_frame_material:
+      name: Materiał oprawek do okularów
+    eyewear_frame_pattern:
+      name: Wzór oprawek do okularów
+    eyewear_frame_shape:
+      name: Kształt oprawek do okularów
+    eyewear_lens_color:
+      name: Kolor soczewek do okularów
+    eyewear_lens_material:
+      name: Materiał soczewek do okularów
+    eyewear_lens_pattern:
+      name: Wzór soczewek do okularów
+    fabric:
+      name: Tkanina
+    fabric_structure:
+      name: Struktura tkaniny
+    face_area:
+      name: Obszar twarzy
+    face_powder_color:
+      name: Kolor pudru do twarzy
+    face_powder_type:
+      name: Rodzaj pudru do twarzy
+    faceplate_design:
+      name: Konstrukcja płyty czołowej
+    facility_sign_design:
+      name: Projekt znaku obiektu
+    false_nail_application_method:
+      name: Metoda aplikacji sztucznych rzęs
+    fastener_finish:
+      name: Wykończenie zapięcia
+    fastener_material:
+      name: Materiał zapięcia
+    fastener_type:
+      name: Typ łącznika
+    fat_content:
+      name: Zawartość tłuszczu
+    faucet_thread:
+      name: Gwint kranu
+    features:
+      name: Charakterystyka
+    feed_system:
+      name: Układ podajnika
+    feet_type:
+      name: Typ stóp
+    felt_tip_design:
+      name: Konstrukcja końcówki filcowej
+    feminine_sanitary_supply_features:
+      name: Charakterystyka środków do higieny intymnej dla kobiet
+    fencing_components:
+      name: Elementy ogrodzenia
+    fiber_art_project_type:
+      name: Typ projektu sztuki włókna
+    field_flatness:
+      name: Płaskość pola
+    filament_type:
+      name: Rodzaj włókna
+    file_format_type:
+      name: Typ formatu pliku
+    file_shape:
+      name: Kształt pilnika
+    filler_material:
+      name: Materiał wypełniający
+    filler_support:
+      name: Wspornik napełniacza
+    filler_type:
+      name: Typ napełniacza
+    filling/padding_project_type:
+      name: Typ projektu wypełniania/obijania
+    film_application_method:
+      name: Metoda aplikacji folii
+    film_format:
+      name: Format filmu
+    film_type:
+      name: Typ filmu
+    filter_material:
+      name: Materiał filtra
+    filter_type:
+      name: Typ filtra
+    filtering_modes:
+      name: Tryby filtrowania
+    filtration_class:
+      name: Klasa filtracji
+    fin_material:
+      name: Materiał płetwy
+    fin_pocket_type:
+      name: Typ kieszeni płetwy
+    fin_profile:
+      name: Profil płetwy
+    fingerboard_color:
+      name: Kolor fingerboardu
+    fingerboard_material:
+      name: Materiał gryfu
+    fingerboard_pattern:
+      name: Wzór fingerboardu
+    fingerprint_capture_method:
+      name: Metoda rejestracji odcisków palców
+    finial_shape:
+      name: Ostateczny kształt
+    finish:
+      name: Meta
+    fire_extinguisher_items_included:
+      name: Elementy gaśnicy w zestawie
+    firmness:
+      name: Jędrność
+    first_aid_kit_components:
+      name: Elementy zestawu pierwszej pomocy
+    first_aid_kit_usage:
+      name: Zastosowanie apteczki pierwszej pomocy
+    first_steps/crawlers_style:
+      name: Styl pierwszych bucików i butów do raczkowania
+    fish_type:
+      name: Typ ryby
+    fishing_rod_action:
+      name: Działanie wędki
+    fishing_rod_power:
+      name: Moc wędki
+    fishing_wire_material:
+      name: Materiał drutu wędkarskiego
+    fit:
+      name: Dopasowanie
+    fit_type:
+      name: Typ dopasowania
+    fixation_type:
+      name: Typ mocowania
+    flag_shape:
+      name: Kształt flagi
+    flare_type:
+      name: Typ flary
+    flash_card_theme:
+      name: Motyw fiszki
+    flash_modes:
+      name: Tryby lampy błyskowej
+    flash_type:
+      name: Typ lampy błyskowej
+    flashing_material:
+      name: Materiał pokrywy dachowej
+    flat_shoe_style:
+      name: Styl butów płaskich
+    flatware_material:
+      name: Materiał sztućców
+    flatware_pieces_included:
+      name: W zestawie sztućce
+    flavor:
+      name: Aromat
+    flavor_profile:
+      name: Profil aromatu
+    flexibility_rating:
+      name: Ocena elastyczności
+    floral_wire_design:
+      name: Konstrukcja drutu florystycznego
+    flour/grain_type:
+      name: Typ mąki/ziarna
+    flow_rate_type:
+      name: Typ natężenia przepływu
+    flower_color:
+      name: Kolor kwiatu
+    flower_pattern:
+      name: Wzór kwiatowy
+    flue_type:
+      name: Rodzaj kanału spalinowego
+    fluid_type:
+      name: Typ cieczy
+    flush_plate_color:
+      name: Kolor przycisku spłukującego
+    flush_plate_pattern:
+      name: Wzór przycisku spłukującego
+    flush_system:
+      name: Układ spłukiwania
+    flute_configuration:
+      name: Konfiguracja fletu
+    foam_form:
+      name: Forma pianki
+    focus_adjustment:
+      name: Regulacja ostrości
+    focus_device_type:
+      name: Typ urządzenia do ustawiania ostrości
+    focus_type:
+      name: Typ ostrości
+    fold_type:
+      name: Typ złożenia
+    folder/report_cover_material:
+      name: Materiał teczki i ofertówki
+    folding_mechanism:
+      name: Mechanizm składania
+    font_style:
+      name: Styl czcionki
+    food_bag_material:
+      name: Materiał torby na żywność
+    food_dispenser_type:
+      name: Typ dozownika żywności
+    food_product_form:
+      name: Forma produktu spożywczego
+    food_storage_material:
+      name: Materiał, w którym przechowuje się żywność
+    food_supplement_form:
+      name: Forma suplementu diety
+    footage_type:
+      name: Typ materiału filmowego
+    footboard_type:
+      name: Typ podnóżka
+    footwear_color:
+      name: Kolor obuwia
+    footwear_material:
+      name: Materiał obuwia
+    footwear_pattern:
+      name: Wzór obuwia
+    format_supported:
+      name: Obsługiwany format
+    formula_level:
+      name: Poziom formuły
+    fossil_type:
+      name: Typ skamieliny
+    foundation_color:
+      name: Kolor podkładu
+    foundation_material:
+      name: Materiał podkładu
+    foundation_pattern:
+      name: Wzór podkładu
+    fragrance:
+      name: Zapach
+    fragrance_level:
+      name: Poziom zapachu
+    frame_color:
+      name: Kolor ramy
+    frame_design:
+      name: Konstrukcja ramy
+    frame_material:
+      name: Materiał ramy
+    frame_pattern:
+      name: Wzór ramy
+    frame_style:
+      name: Styl oprawki
+    frequency/radio_bands_supported:
+      name: Obsługiwane pasma częstotliwości/radiowe
+    frequency_type:
+      name: Rodzaj częstotliwości
+    frequency_weighting:
+      name: Ważenie częstotliwości
+    frog_material:
+      name: Materiał żabki
+    fruit_source:
+      name: Źródło owoców
+    fuel_additives:
+      name: Dodatki do paliwa
+    fuel_container_features:
+      name: Charakterystyka zbiornika paliwa
+    fuel_grade:
+      name: Klasa paliwa
+    fuel_purity:
+      name: Czystość paliwa
+    fuel_source:
+      name: Źródło paliwa
+    fuel_supply:
+      name: Zapas paliwa
+    furniture/fixture_color:
+      name: Kolor mebli/armatury
+    furniture/fixture_features:
+      name: Charakterystyka mebli/armatury
+    furniture/fixture_material:
+      name: Materiał mebli/armatury
+    furniture/fixture_pattern:
+      name: Wzór mebli/armatury
+    game_components:
+      name: Komponenty gry
+    game_difficulty:
+      name: Trudność gry
+    game_features:
+      name: Charakterystyka gry
+    game_name:
+      name: Nazwa gry
+    gameplay_skills:
+      name: Umiejętności rozgrywki
+    games_included:
+      name: Gry w zestawie
+    garage_door_material:
+      name: Materiał bram garażowych
+    gardening_use:
+      name: Użytek ogrodniczy
+    garment_steamer_design:
+      name: Projekt parownicy do ubrań
+    gases_detected:
+      name: Wykryte gazy
+    gate_mounting_type:
+      name: Typ montażu bramki
+    gauge_type:
+      name: Typ miernika
+    gear_material:
+      name: Materiał sprzętu
+    gear_ratio:
+      name: Przełożenie przekładni
+    gearing_type:
+      name: Typ mechanizmu przekładni
+    gel_strength:
+      name: Wytrzymałość żelu
+    genre:
+      name: Gatunek
+    geological_era:
+      name: Era geologiczna
+    gift_bag_handle_design:
+      name: Konstrukcja uchwytu torby na prezent
+    gift_set_format:
+      name: Format zestawu upominkowego
+    gin_variety:
+      name: Odmiana ginu
+    glaze_finish:
+      name: Wykończenie glazurą
+    glazing_type:
+      name: Typ przeszklenia
+    glitter_shape:
+      name: Kształt brokatu
+    glucose_meter_features:
+      name: Charakterystyka glukometru
+    glue_gun_features:
+      name: Charakterystyka pistoletu do klejenia
+    glue_gun_operation:
+      name: Działanie pistoletu do klejenia
+    glue_gun_technology:
+      name: Technologia pistoletu do klejenia
+    glue_strength:
+      name: Wytrzymałość kleju
+    golf_ball_type:
+      name: Typ piłki golfowej
+    golf_equipment_included:
+      name: Sprzęt do gry w golfa w zestawie
+    gps_compatible_device:
+      name: Kompatybilne urządzenie GPS
+    gps_device_features:
+      name: Funkcje urządzenia GPS
+    gps_map_type:
+      name: Rodzaj mapy GPS
+    gps_software_focus:
+      name: Cel oprogramowania GPS
+    grading:
+      name: Klasyfikacja
+    grain:
+      name: Ziarno
+    grape_variety:
+      name: Odmiana winogron
+    graphics_card_type:
+      name: Typ karty graficznej
+    graphics_tablet_accessories_included:
+      name: Akcesoria do tabletu graficznego w zestawie
+    graphics_tablet_specialized_features:
+      name: Specjalistyczne funkcje tabletu graficznego
+    gravel/substrate_material:
+      name: Materiał żwirku i podłoża
+    grease_filter_material:
+      name: Materiał filtra tłuszczu
+    grip_texture:
+      name: Tekstura chwytu
+    grip_type:
+      name: Typ uchwytu
+    grit_type:
+      name: Typ żwiru
+    grooming_kit_format:
+      name: Format zestawu do pielęgnacji
+    guitar_fitting/part_type:
+      name: Rodzaj części i osprzętu do gitar
+    guitar_size:
+      name: Rozmiar gitary
+    gutter_fitting_type:
+      name: Typ łącznika rynny
+    gutter_style:
+      name: Styl rynny
+    habitat_material:
+      name: Materiał do siedlisk
+    hair_care_finish:
+      name: Wykończenie pielęgnacji włosów
+    hair_care_items_included:
+      name: Środki do pielęgnacji włosów w zestawie
+    hair_care_technology:
+      name: Technologia pielęgnacji włosów
+    hair_color/shade:
+      name: Kolor/odcień włosów
+    hair_loss_type:
+      name: Typ wypadania włosów
+    hair_shear_type:
+      name: Rodzaj nożyczek do włosów
+    hair_styling_items_included:
+      name: Elementy do stylizacji włosów w zestawie
+    hair_styling_tool_features:
+      name: Charakterystyka narzędzia do stylizacji włosów
+    hair_type:
+      name: Typ włosów
+    hammer_head_material:
+      name: Materiał obucha do młotków
+    hand_side:
+      name: Strona
+    hand_warmer_type:
+      name: Rodzaj ogrzewacza dłoni
+    handcuff_lock_type:
+      name: Typ zamka kajdanek
+    handle_color:
+      name: Kolor uchwytu
+    handle_design:
+      name: Konstrukcja uchwytu
+    handle_grip_texture:
+      name: Tekstura uchwytu
+    handle_material:
+      name: Materiał uchwytu
+    handle_pattern:
+      name: Wzór uchwytu
+    handle_type:
+      name: Typ uchwytu
+    handset_type:
+      name: Typ słuchawki
+    handwear_features:
+      name: Funkcje odzieży na ręce
+    handwear_material:
+      name: Materiał odzieży na ręce
+    handwear_type:
+      name: Rodzaj odzieży na ręce
+    hanging_chair_design:
+      name: Projekt wiszącego fotela
+    hard_cider_variety:
+      name: Odmiana twardego cydru
+    hard_drive_features:
+      name: Funkcje dysku twardego
+    hard_drive_form_factor:
+      name: Kształt dysku twardego
+    hard_drive_installation:
+      name: Instalacja dysku twardego
+    hardhat_class:
+      name: Klasa kasku
+    hardness:
+      name: Twardość
+    hardware_finish:
+      name: Wykończenie sprzętu
+    hardware_material:
+      name: Materiał sprzętu
+    hardware_mounting_type:
+      name: Typ montażu sprzętu
+    hardwood_lumber_grade:
+      name: Gatunek drewna liściastego
+    harness_closure_type:
+      name: Typ zamknięcia uprzęży
+    harp_size:
+      name: Rozmiar harfy
+    hatch_suitable_location:
+      name: Odpowiednia lokalizacja włazu
+    hazmat_suit_design:
+      name: Projekt kombinezonu ochronnego
+    hdr_format:
+      name: Format HDR
+    headjoint_cut:
+      name: Przecięcie łącznika czołowego
+    headphone_jack_type:
+      name: Typ gniazda słuchawkowego
+    headphone_style:
+      name: Styl słuchawek
+    headwear_features:
+      name: Charakterystyka nakrycia głowy
+    hearing_aid_features:
+      name: Charakterystyka aparatu słuchowego
+    hearing_aid_material:
+      name: Materiał aparatu słuchowego
+    heat_function:
+      name: Funkcja nagrzewania
+    heat_level:
+      name: Poziom nagrzewania
+    heat_settings:
+      name: Ustawienia nagrzewania
+    heat_source:
+      name: Źródło ciepła
+    heating_instructions:
+      name: Instrukcja podgrzewania
+    heating_method:
+      name: Metoda podgrzewania
+    heating_speed:
+      name: Szybkość podgrzewania
+    heel_height_type:
+      name: Typ wysokości obcasa
+    heel_shoe_type:
+      name: Rodzaj buta na obcasie
+    height_adjustment:
+      name: Regulacja wysokości
+    helmet_shade_design:
+      name: Projekt daszka kasku
+    hitch_class:
+      name: Klasa zaczepu
+    hitch_type:
+      name: Typ zaczepu
+    hockey_equipment_included:
+      name: Sprzęt do hokeja w zestawie
+    hold_level:
+      name: Poziom wstrzymania
+    hook_design:
+      name: Konstrukcja haka
+    hook_grip_design:
+      name: Konstrukcja uchwytu hakowego
+    hook_size:
+      name: Rozmiar haka
+    hook_type:
+      name: Rodzaj haka
+    hoop_shape:
+      name: Kształt obręczy
+    horse_category:
+      name: Kategoria konia
+    horse_grooming_accessories_included:
+      name: Akcesoria do pielęgnacji koni w zestawie
+    hose_material:
+      name: Materiał węża
+    host_interface:
+      name: Interfejs hosta
+    housing_color:
+      name: Kolor obudowy
+    housing_material:
+      name: Materiał obudowy
+    housing_pattern:
+      name: Wzór obudowy
+    hub/switch_storage_options:
+      name: Opcje montażu huba/przełącznika
+    humidifier_design:
+      name: Konstrukcja nawilżacza
+    humidity_control:
+      name: Kontrola wilgotności
+    humidy_control:
+      name: Kontrola wilgotności
+    hunting/survival_knife_design:
+      name: Konstrukcja noża myśliwskiego/survivalowego
+    hunting_blind_design:
+      name: Konstrukcja osłony myśliwskiej
+    hvac_control_type:
+      name: Typ sterowania HVAC
+    ice_pack_type:
+      name: Typ opakowania chłodzącego
+    icon_type:
+      name: Typ ikony
+    ignition_system:
+      name: Układ zapłonu
+    illumination_technique:
+      name: Technika oświetlenia
+    image_formats_supported:
+      name: Obsługiwane formaty obrazów
+    image_sensor_size:
+      name: Rozmiar przetwornika obrazu
+    immobilizer_type:
+      name: Typ immobilizera
+    incense_fragrance:
+      name: Zapach kadzidła
+    incense_kit_items_included:
+      name: Elementy zestawu kadzidełek
+    incense_type:
+      name: Typ kadzidła
+    incontinence_aid_features:
+      name: Charakterystyka środków higienicznych dla osób cierpiących na nietrzymanie moczu
+    industry_focus:
+      name: Koncentracja na branży
+    infant_age_group:
+      name: Grupa wiekowa niemowląt
+    inflation_method:
+      name: Metoda nadmuchiwania
+    ingredient_category:
+      name: Kategoria składnika
+    ingredient_origin:
+      name: Pochodzenie składnika
+    ingredients:
+      name: Składniki
+    ink_application_technique:
+      name: Technika aplikacji tuszu
+    ink_color:
+      name: Kolor atramentu
+    ink_form:
+      name: Forma atramentu
+    ink_pattern:
+      name: Wzór tuszu
+    ink_type:
+      name: Typ tuszu
+    inline_skating_style:
+      name: Styl rolkarstwa
+    input/output_ports:
+      name: Porty wejścia/wyjścia
+    input_connection:
+      name: Połączenie wejściowe
+    instruction_set_architecture:
+      name: Architektura zestawu instrukcji
+    instrument/accessory_finish:
+      name: Wykończenie instrumentu/akcesoriów
+    instrument_accessory_material:
+      name: Materiał akcesorium do instrumentów
+    instrument_bow_material:
+      name: Materiał smyczka
+    instrument_color:
+      name: Kolor instrumentu
+    instrument_controller_type:
+      name: Typ sterownika instrumentu
+    instrument_material:
+      name: Materiał instrumentu
+    instrument_part_material:
+      name: Materiał części instrumentu
+    instrument_pattern:
+      name: Wzór instrumentu
+    instrument_string_color:
+      name: Kolor struny instrumentu
+    instrument_string_material:
+      name: Materiał struny instrumentu
+    instrument_string_pattern:
+      name: Wzór struny instrumentu
+    instrument_support_type:
+      name: Pomoc techniczna do instrumentu
+    insulation_material:
+      name: Materiał izolacji
+    intended_application:
+      name: Docelowe zastosowanie
+    interface_type:
+      name: Typ interfejsu
+    internal_drive_form_factor_supported:
+      name: Obsługiwany współczynnik kształtu napędu wewnętrznego
+    intimate_apparel_features:
+      name: Charakterystyka odzieży intymnej
+    inverter_type:
+      name: Typ falownika
+    invitation_personalization_design:
+      name: Projekt personalizacji zaproszenia
+    ironing_features:
+      name: Funkcje prasowania
+    item_condition:
+      name: Stan przedmiotu
+    item_material:
+      name: Materiał przedmiotu
+    item_style:
+      name: Styl przedmiotu
+    j_cup_type:
+      name: Typ miseczki J
+    jaw_material:
+      name: Materiał szczęki
+    jewelry_finding_type:
+      name: Rodzaj zapięcia do biżuterii
+    jewelry_material:
+      name: Materiał biżuterii
+    jewelry_project_type:
+      name: Typ projektu biżuterii
+    jewelry_set_type:
+      name: Typ zestawu biżuterii
+    jewelry_type:
+      name: Typ biżuterii
+    joint_connection:
+      name: Połączenie
+    joint_face_type:
+      name: Rodzaj powierzchni styku w połączeniu
+    joint_style:
+      name: Styl połączenia
+    jump_rope_design:
+      name: Konstrukcja skakanki
+    jumping_surface_color:
+      name: Kolor powierzchni do skakania
+    jumping_surface_material:
+      name: Materiał powierzchni do skakania
+    jumping_surface_pattern:
+      name: Wzór powierzchni do skakania
+    karaoke_modes:
+      name: Tryby karaoke
+    kerosene_application:
+      name: Zastosowanie nafty
+    key_purpose:
+      name: Podstawowy cel
+    keyboard_action:
+      name: Działanie klawiatury
+    keyboard_format:
+      name: Format klawiatury
+    keyboard_key_type:
+      name: Rodzaj klawisza
+    keyboard_language:
+      name: Język klawiatury
+    keyboard_layout:
+      name: Układ klawiatury
+    keyboard_port_type:
+      name: Typ portu klawiatury
+    keyboard_specialized_features:
+      name: Specjalistyczne funkcje klawiatury
+    keyboard_switch_type:
+      name: Typ przełącznika klawiatury
+    keyboard_type:
+      name: Typ klawiatury
+    keypad_style:
+      name: Styl klawiatury
+    kit_construction_type:
+      name: Typ konstrukcji zestawu
+    kitchen/dining_furniture_items_included:
+      name: Meble do kuchni i jadalni w zestawie
+    kitchen_utensil_items_included:
+      name: W zestawie przybory kuchenne
+    kitesurfing_style:
+      name: Styl kitesurfingu
+    kneeboard_features:
+      name: Charakterystyka deski kneeboardowej
+    knife_type:
+      name: Typ noża
+    knitting/padding_project_type:
+      name: Typ projektu dziergania/wypełniania
+    knitting_project_type:
+      name: Typ projektu dziewiarskiego
+    knob/handle_design:
+      name: Konstrukcja gałki/uchwytu
+    knob_function:
+      name: Funkcja pokrętła
+    knob_style:
+      name: Styl pokrętła
+    labeling_project_type:
+      name: Typ projektu etykietowania
+    laboratory_freezer_design:
+      name: Projekt zamrażarki laboratoryjnej
+    lacrosse_equipment_included:
+      name: Sprzęt do lacrosse w zestawie
+    ladder_type:
+      name: Typ drabiny
+    lamination_mode:
+      name: Tryb laminowania
+    lamp_type:
+      name: Typ lampy
+    language:
+      name: Język
+    language_version:
+      name: Wersja językowa
+    laser_color:
+      name: Kolor lasera
+    laser_light_source:
+      name: Źródło światła lasera
+    laser_pattern:
+      name: Wzór lasera
+    lathe_application:
+      name: Zastosowanie tokarki
+    laundry_detergent_features:
+      name: Charakterystyka detergentów do prania
+    lead_grade:
+      name: Gatunek ołowiu
+    leash_design:
+      name: Konstrukcja smyczy
+    leather/vinyl_texture:
+      name: Tekstura skóry/winylu
+    lectern_mounting_type:
+      name: Typ montażu mównicy
+    leg_color:
+      name: Kolor nogi
+    leg_lock_type:
+      name: Typ blokady nogi
+    leg_material:
+      name: Materiał nogi
+    leg_pattern:
+      name: Wzór na nodze
+    leg_sections:
+      name: Sekcje nóg
+    lens/slide_material:
+      name: Materiał soczewki/szkiełka
+    lens_cap_compatible_device:
+      name: Urządzenie kompatybilne z osłoną obiektywu
+    lens_coating:
+      name: Powłoka soczewki
+    lens_color:
+      name: Kolor soczewki
+    lens_configuration:
+      name: Konfiguracja obiektywu
+    lens_filter_effects:
+      name: Efekty filtra obiektywu
+    lens_filter_type:
+      name: Typ filtra obiektywu
+    lens_pattern:
+      name: Wzór soczewki
+    lens_polarization:
+      name: Polaryzacja soczewki
+    lens_storage_type:
+      name: Rodzaj przechowywania obiektywu
+    lens_type:
+      name: Typ soczewki
+    license_type:
+      name: Typ licencji
+    lid_material:
+      name: Materiał pokrywy
+    lid_type:
+      name: Typ pokrywy
+    life_jacket_features:
+      name: Charakterystyka kamizelki ratunkowej
+    light_attachment_type:
+      name: Typ mocowania lekkiego
+    light_color:
+      name: Jasny kolor
+    light_control:
+      name: Sterowanie oświetleniem
+    light_design:
+      name: Lekka konstrukcja
+    light_exposure_modes:
+      name: Tryby ekspozycji na światło
+    light_filtering:
+      name: Filtrowanie światła
+    light_options:
+      name: Opcje oświetlenia
+    light_pattern:
+      name: Wzór światła
+    light_source:
+      name: Źródło światła
+    light_spectrum:
+      name: Widmo światła
+    light_temperature:
+      name: Temperatura światła
+    light_type:
+      name: Typ światła
+    lighting_features:
+      name: Charakterystyka oświetlenia
+    lighting_options:
+      name: Opcje oświetlenia
+    line/rope_type:
+      name: Typ liny/sznurka
+    line_spacing_options:
+      name: Opcje odstępów między wierszami
+    liner_features:
+      name: Charakterystyka konturówki
+    lip_gloss_effect:
+      name: Efekt błyszczyka do ust
+    lip_liner_design:
+      name: Konstrukcja konturówki do ust
+    lip_plate_material:
+      name: Materiał płyty ustnikowej
+    lipstick_effect:
+      name: Efekt szminki
+    liqueur_variety:
+      name: Odmiana likieru
+    livestock_food_ingredients:
+      name: Składniki żywności dla zwierząt gospodarskich
+    lnb_output:
+      name: Wyjście Lnb
+    lnb_technology:
+      name: Technologia Lnb
+    load_capacity:
+      name: Ładowność
+    loading_ramp_type:
+      name: Typ rampy załadunkowej
+    loading_type:
+      name: Typ ładowania
+    lock_placement:
+      name: Umieszczenie blokady
+    lock_type:
+      name: Typ zamka
+    locking_mechanism:
+      name: Mechanizm blokujący
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: Aplikacja środka nawilżającego
+    lubricant_composition:
+      name: Skład środka nawilżającego
+    lubricant_dispenser_type:
+      name: Typ dozownika smaru
+    lubricant_form:
+      name: Forma smaru
+    luggage/bag_closure:
+      name: Zamknięcie bagażu/torby
+    lumber/wood_type:
+      name: Rodzaj tarcicy/drewna
+    lyre/flip_folder_attachment_type:
+      name: Typ załącznika folderu z lirą/z systemem przewracania stron
+    magnet_type:
+      name: Typ magnesu
+    magnification:
+      name: Powiększenie
+    makeup_color/shade:
+      name: Kolor/odcień makijażu
+    makeup_features:
+      name: Charakterystyka makijażu
+    mallet_material:
+      name: Materiał kija typu mallet
+    manufacturer_type:
+      name: Typ producenta
+    marine_navigator_features:
+      name: Funkcje urządzenia nawigacyjnego
+    marker_tip_design:
+      name: Konstrukcja końcówki markera
+    mascara_effect:
+      name: Efekt tuszu do rzęs
+    mask_type:
+      name: Typ maski
+    masonry_material:
+      name: Materiał murarski
+    masonry_product_form:
+      name: Forma produktu murarskiego
+    massage_area:
+      name: Strefa masażu
+    massage_stone_texture:
+      name: Tekstura kamienia do masażu
+    massage_technique:
+      name: Technika masażu
+    mat/rug_shape:
+      name: Kształt maty/dywanu
+    mat_base_material:
+      name: Materiał bazowy maty
+    mat_features:
+      name: Charakterystyka maty
+    material:
+      name: Materiał
+    material_firmness:
+      name: Sztywność materiału
+    material_hardness:
+      name: Twardość materiału
+    maternity_clothing_features:
+      name: Charakterystyka odzieży ciążowej
+    maternity_sleepwear_style:
+      name: Styl koszul nocnych ciążowych
+    mattress_features:
+      name: Charakterystyka materaca
+    maximum_magnification:
+      name: Maksymalne powiększenie
+    measuring_method:
+      name: Metoda pomiaru
+    measuring_tool_features:
+      name: Charakterystyka narzędzia pomiarowego
+    measuring_type:
+      name: Typ pomiaru
+    meat_cut:
+      name: Kawałek mięsa
+    meat_type:
+      name: Typ mięsa
+    media_access:
+      name: Dostęp do mediów
+    media_content_type:
+      name: Typ treści medialnej
+    media_format:
+      name: Format nośnika
+    media_section:
+      name: Sekcja mediów
+    media_theme:
+      name: Motyw medialny
+    medical_alarm_features:
+      name: Charakterystyka alarmu medycznego
+    medical_identification_type:
+      name: Rodzaj identyfikatora medycznego
+    medical_syringe_purpose:
+      name: Przeznaczenie strzykawki medycznej
+    medical_tape_material:
+      name: Materiał taśmy medycznej
+    medicine/drug_form:
+      name: Forma leku
+    medicine/supplement_form:
+      name: Forma leku/suplementu
+    medium:
+      name: Środek
+    melodica_style:
+      name: Styl melodyki
+    memory_channels:
+      name: Kanały pamięci
+    memory_form_factor:
+      name: Współczynnik kształtu pamięci
+    memory_storage_type:
+      name: Typ pamięci masowej
+    memory_technology:
+      name: Technologia pamięci
+    menstrual_cup_shape:
+      name: Kształt kubeczka menstruacyjnego
+    metal_detector_features:
+      name: Charakterystyka wykrywacza metalu
+    metal_molding_application:
+      name: Zastosowanie do formowania metali
+    meter_type:
+      name: Typ licznika
+    metrics_supported:
+      name: Obsługiwane wskaźniki
+    microphone_thread:
+      name: Gwint mikrofonu
+    microphone_type:
+      name: Typ mikrofonu
+    microscope_features:
+      name: Charakterystyka mikroskopu
+    microscope_slide_material:
+      name: Materiał szkiełka do mikroskopu
+    midi_connectivity:
+      name: Łączność Midi
+    mineral_class:
+      name: Klasa minerału
+    minimum_magnification:
+      name: Minimalne powiększenie
+    mirror_handle_design:
+      name: Konstrukcja uchwytu lustrzanego
+    mixer_type:
+      name: Typ mieszalnika
+    mobile_mounting_type:
+      name: Typ montażu mobilnego
+    mobile_movement:
+      name: Ruch mobilny
+    mobile_phone_case_features:
+      name: Charakterystyka futerału na telefony komórkowe
+    mobility/accessibility_equipment_features:
+      name: Charakterystyka sprzętu ułatwiającego poruszanie się
+    mobility_scooter_type:
+      name: Typ skutera inwalidzkiego
+    model_control_technology:
+      name: Technologia sterowania modelem
+    model_train_accessory_type:
+      name: Typ akcesoriów do modelu pociągu
+    model_train_theme:
+      name: Motyw modelu pociągu
+    modulation_method:
+      name: Metoda modulacji
+    moisturizer_type:
+      name: Rodzaj kremu do ciała
+    mold/cut_shape:
+      name: Kształt formy/wycięcia
+    mold_shape:
+      name: Kształt formy
+    molding_application:
+      name: Zastosowanie formowania
+    molding_shape:
+      name: Kształt formy
+    monitor/screen_specialized_features:
+      name: Specjalistyczne funkcje monitora/ekranu
+    monitor_mounting_type:
+      name: Rodzaj mocowania monitora
+    monitor_shape:
+      name: Kształt monitora
+    monitor_specialized_features:
+      name: Specjalistyczne funkcje monitora
+    monitor_type:
+      name: Typ monitora
+    monocular_design:
+      name: Konstrukcja monokularu
+    motherboard_chipset_family:
+      name: Rodzina chipsetów płyty głównej
+    motherboard_form_factor:
+      name: Współczynnik kształtu płyty głównej
+    motherboard_memory_features:
+      name: Funkcje pamięci płyty głównej
+    motion:
+      name: Ruch
+    motion_sensor_type:
+      name: Rodzaj czujnika ruchu
+    motor_starting_method:
+      name: Metoda rozruchu silnika
+    motor_vehicle_placement:
+      name: Umiejscowienie pojazdu silnikowego
+    motor_vehicle_type:
+      name: Typ pojazdu silnikowego
+    motorcycle/scooter_type:
+      name: Typ motocykla/skutera
+    motorcycle_drive_type:
+      name: Typ napędu motocykla
+    motorcycle_glove_purpose:
+      name: Przeznaczenie rękawic motocyklowych
+    motorcycle_tire_type:
+      name: Typ opony motocyklowej
+    mount/stand_features:
+      name: Charakterystyka stojaka/montażu
+    mount_material:
+      name: Materiał montażowy
+    mounting_hardware:
+      name: Sprzęt montażowy
+    mounting_type:
+      name: Typ mocowania
+    mouse/trackball_features:
+      name: Charakterystyka myszy/trackballa
+    mouse_pad_features:
+      name: Charakterystyka podkładki pod mysz
+    mouse_port_type:
+      name: Typ portu myszy
+    mouse_technology:
+      name: Technologia myszy
+    mouthgard_design:
+      name: Konstrukcja ochraniacza zębów
+    mouthpiece:
+      name: Ustnik
+    moving/shipping_box_material:
+      name: Materiał pudełka wysyłkowego
+    mp3_player_accessories_included:
+      name: Dołączone akcesoria do odtwarzacza MP3
+    mpaa_rating:
+      name: Ocena Mpaa
+    multi_gpu_technology:
+      name: Technologia wielu procesorów graficznych
+    muscle_stimulator_design:
+      name: Konstrukcja elektrostymulatora mięśni
+    music_genre:
+      name: Gatunek muzyki
+    music_stand_design:
+      name: Projekt statywu muzycznego
+    musical_key:
+      name: Klucz muzyczny
+    nail_art_items_included:
+      name: Akcesoria do zdobienia paznokci w zestawie
+    nail_care_features:
+      name: Charakterystyka produktów do pielęgnacji paznokci
+    nail_design:
+      name: Projekt paznokci
+    nail_polish_drying_form:
+      name: Forma produktów przyspieszających schnięcie lakieru do paznokci
+    nail_shape:
+      name: Kształt paznokcia
+    national/regional_rating:
+      name: Ocena krajowa/regionalna
+    native_aspect_ratio:
+      name: Natywny współczynnik proporcji
+    nebulizer_design:
+      name: Konstrukcja nebulizatora
+    nebulizer_technology:
+      name: Technologia nebulizatora
+    neck_color:
+      name: Kolor obszaru szyi
+    neck_material:
+      name: Materiał szyjki
+    neck_pattern:
+      name: Wzór obszaru szyi
+    necklace_design:
+      name: Konstrukcja naszyjnika
+    neckline:
+      name: Dekolt
+    needle_eye_type:
+      name: Typ ucha igły
+    needle_gauge:
+      name: Miernik igłowy
+    needle_housing_material:
+      name: Materiał obudowy igły
+    needle_material:
+      name: Tworzywo igły
+    needle_size:
+      name: Rozmiar igły
+    needlecraft_kit_type:
+      name: Rodzaj zestawu do haftu gobelinowego
+    negative/slide_storage_type:
+      name: Typ przechowywania negatywów/slajdów
+    net_material:
+      name: Materiał siatki
+    net_mounting_type:
+      name: Typ mocowania siatki
+    network_cable_interface:
+      name: Interfejs kabla sieciowego
+    network_protocols_supported:
+      name: Obsługiwane protokoły sieciowe
+    networking_standards:
+      name: Standardy sieciowe
+    nightgown_style:
+      name: Styl koszuli nocnej
+    nipple_material:
+      name: Tworzywo smoczka
+    nipple_shape:
+      name: Kształt smoczka
+    nipple_type:
+      name: Typ złączki wkrętnej
+    nock_material:
+      name: Materiał nasadki
+    noise_intensity:
+      name: Intensywność hałasu
+    notepad_cover_type:
+      name: Typ okładki notatnika
+    notepad_design:
+      name: Konstrukcja notatnika
+    nozzle_type:
+      name: Typy dysz
+    nursery_theme:
+      name: Motyw pokoju dziecinnego
+    nursing_cover_coverage:
+      name: Osłona dla karmiących piersią
+    nursing_pad_design:
+      name: Design podkładki laktacyjnej
+    nursing_pillow_shape:
+      name: Kształt poduszki do karmienia
+    nut/seed_type:
+      name: Rodzaj orzecha/nasiona
+    nut_butter_variety:
+      name: Odmiana masła orzechowego
+    nut_form:
+      name: Forma nakrętki
+    nut_processing_method:
+      name: Metoda przetwórstwa orzechów
+    nutrient_content:
+      name: Zawartość składników odżywczych
+    oboe_key_system:
+      name: System kluczy na obój
+    ocarina_style:
+      name: Styl okaryny
+    occasion:
+      name: Okazja
+    occasion_style:
+      name: Styl okazjonalny
+    office_cart_features:
+      name: Charakterystyka wózka biurowego
+    office_instrument_material:
+      name: Materiał akcesorium biurowego
+    office_supply_material:
+      name: Materiał artykułu biurowego
+    oil_type:
+      name: Typ oleju
+    one_piece_style:
+      name: Styl jednoczęściowy
+    open/closed_sign_design:
+      name: Projekt znaku „otwarte”/„zamknięte”
+    opening_direction:
+      name: Kierunek otwierania
+    opening_mechanism:
+      name: Mechanizm otwierania
+    operating_mode:
+      name: Tryb pracy
+    operating_system:
+      name: System operacyjny
+    operation_method:
+      name: Metoda działania
+    optical_drive_type:
+      name: Typ napędu optycznego
+    optical_frame_design:
+      name: Design oprawek optycznych
+    optical_zoom:
+      name: Zoom optyczny
+    organizer_type:
+      name: Typ organizatora
+    orientation:
+      name: Orientacja
+    outdoor_equipment_features:
+      name: Charakterystyka sprzętu ogrodowego
+    outdoor_furniture_items_included:
+      name: Meble zewnętrzne w zestawie
+    outdoor_power_accessories_included:
+      name: W zestawie akcesoria do zasilania zewnętrznego
+    outdoor_walking_activity:
+      name: Spacery na świeżym powietrzu
+    outerwear_clothing_features:
+      name: Charakterystyka odzieży wierzchniej
+    outlet_type:
+      name: Typ placówki
+    output_connection:
+      name: Połączenie wyjściowe
+    output_level:
+      name: Poziom wyjściowy
+    output_waveform:
+      name: Krzywa wyjściowa
+    oven_accessories_included:
+      name: W zestawie akcesoria do piekarnika
+    oxygen_tank_valve_type:
+      name: Typ zaworu zbiornika tlenu
+    pacifier/teether_design:
+      name: Design smoczka/gryzaka
+    package_type:
+      name: Typ paczki
+    packing_materials_included:
+      name: W zestawie materiały do pakowania
+    pad_display_profile:
+      name: Profil wyświetlacza podkładki
+    pad_type:
+      name: Typ podkładki
+    paddle/oar_material:
+      name: Materiał pagaju/wiosła
+    paddle_equipment_included:
+      name: Sprzęt do wiosłowania w zestawie
+    paddleboard_features:
+      name: Charakterystyka deski paddleboardowej
+    page_layout:
+      name: Układ strony
+    page_size:
+      name: Rozmiar strony
+    paint/dye_form:
+      name: Forma farby/barwnika
+    paint_brush_design:
+      name: Projekt pędzla
+    paint_finish:
+      name: Wykończenie farby
+    paint_form:
+      name: Forma do malowania
+    paint_medium_type:
+      name: Typ medium malarskiego
+    paint_type:
+      name: Typ farby
+    paintball/airsoft_equipment_included:
+      name: Sprzęt do paintballa/ASG w zestawie
+    paintball_equipment_included:
+      name: Sprzęt do paintballa w zestawie
+    painting_canvas_material:
+      name: Materiał kanwy i tablicy malarskiej
+    pairing_method:
+      name: Metoda parowania
+    palette_design:
+      name: Projekt palety
+    palette_knife_shape:
+      name: Kształt noża paletowego
+    panel_specification:
+      name: Specyfikacja panelu
+    panel_termination:
+      name: Końcówka panelu
+    pants_length_type:
+      name: Typ długości spodni
+    pantyhose_style:
+      name: Styl rajstop
+    paper_finish:
+      name: Wykończenie papieru
+    paper_format:
+      name: Format papieru
+    paper_size:
+      name: Rozmiar papieru
+    paper_texture:
+      name: Tekstura papieru
+    paper_type:
+      name: Typ papieru
+    paperweight_design:
+      name: Konstrukcja przycisku do papieru
+    papier_mache_shape:
+      name: Kształt papier-mache
+    parachuting_activity:
+      name: Spadochroniarstwo
+    parallel_processing_technology_support:
+      name: Obsługa technologii przetwarzania równoległego
+    parking_camera_features:
+      name: Charakterystyka kamery parkowania
+    parking_sign_design:
+      name: Projekt znaku parkingu
+    passband:
+      name: Pasmo
+    pasta_shape_type:
+      name: Typ kształtu makaronu
+    pasta_type:
+      name: Typ makaronu
+    patch_shape:
+      name: Kształt łaty
+    pattern:
+      name: Wzorzec
+    pattern_distribution_format:
+      name: Format dystrybucji wzorców
+    pcb_type:
+      name: Typ PCB
+    pedal_polarity:
+      name: Polaryzacja pedału
+    pegi_rating:
+      name: Ocena PEGI
+    pen/felt_tip_design:
+      name: Konstrukcja końcówki długopisu/filcowej
+    pen/pencil_features:
+      name: Charakterystyka długopisu/ołówka
+    pen_color:
+      name: Kolor pióra
+    pen_features:
+      name: Charakterystyka długopisu
+    pen_pattern:
+      name: Wzór długopisu
+    pen_tip_design:
+      name: Konstrukcja końcówki pióra
+    pen_type:
+      name: Typ pióra
+    pencil_features:
+      name: Charakterystyka ołówka
+    pencil_sharpener_design:
+      name: Konstrukcja temperówki
+    pencil_type:
+      name: Typ ołówka
+    percussion_stand_design:
+      name: Projekt statywu perkusyjnego
+    percussion_tip_shape:
+      name: Kształt końcówki perkusyjnej
+    performance_metrics:
+      name: Wskaźniki wydajności
+    peroxide_content:
+      name: Zawartość nadtlenku
+    personal_watercraft_type:
+      name: Rodzaj skutera wodnego
+    personalization_design:
+      name: Projekt personalizacji
+    personalization_options:
+      name: Opcje personalizacji
+    pest_control_method:
+      name: Metoda zwalczania szkodników
+    pet_apparel/bedding_features:
+      name: Charakterystyka ubrania/legowiska dla zwierząt
+    pet_apparel_features:
+      name: Charakterystyka ubrania dla zwierząt
+    pet_bedding_features:
+      name: Charakterystyka legowiska dla zwierząt
+    pet_control_accessory_features:
+      name: Charakterystyka akcesorium do kontroli zwierząt
+    pet_dietary_preferences:
+      name: Preferencje dietetyczne zwierząt
+    pet_dietary_requirements:
+      name: Wymagania dietetyczne zwierząt domowych
+    pet_food_flavor:
+      name: Smak karmy dla zwierząt
+    pet_food_form:
+      name: Forma karmy dla ptaków
+    pet_food_supplements:
+      name: Suplementy CBD dla zwierząt
+    pet_hair_dryer_design:
+      name: Konstrukcja suszarki do sierści
+    pet_hair_dryer_speed_settings:
+      name: Ustawienia prędkości suszarki do sierści
+    pet_medical_collar_design:
+      name: Konstrukcja kołnierza weterynaryjnego dla zwierząt
+    pet_medical_supply_type:
+      name: Rodzaj medycznych materiałów eksploatacyjnych dla zwierząt
+    pet_monitor_items_included:
+      name: W zestawie elementy monitorujące zwierzęta
+    pet_nail_tool_type:
+      name: Rodzaj narzędzia do pielęgnacji pazurów
+    pet_pad_features:
+      name: Charakterystyka podkładki dla zwierząt
+    pet_spray/solution_type:
+      name: Rodzaj sprayu/roztworu dla zwierząt
+    pet_supply_product_form:
+      name: Forma produktu dla zwierząt domowych
+    pet_thermometer_design:
+      name: Konstrukcja termometru dla zwierząt
+    pet_trainer_type:
+      name: Rodzaj trenażera dla zwierząt
+    pet_treat_texture:
+      name: Konsystencja smakołyku dla zwierząt
+    pet_treat_type:
+      name: Rodzaj smakołyków dla zwierząt
+    phase_type:
+      name: Typ fazy
+    photo_effects_type:
+      name: Typ efektów zdjęciowych
+    photographic_chemical_form:
+      name: Forma chemikaliów fotograficznych
+    photographic_paper_size:
+      name: Rozmiar papieru fotograficznego
+    photographic_paper_type:
+      name: Typ papieru fotograficznego
+    piano_additional_features:
+      name: Dodatkowe funkcje fortepianu
+    piano_pedals:
+      name: Pedały fortepianowe
+    piano_size:
+      name: Rozmiar fortepianu
+    pick_design:
+      name: Projekt przystawki
+    pickup_design:
+      name: Konstrukcja przetwornika
+    pickup_mounting_type:
+      name: Typ montażu przetwornika
+    pickup_position:
+      name: Położenie przetwornika
+    pickup_type:
+      name: Typ przetwornika
+    pig_feed_stage:
+      name: Etap karmienia świń
+    pile_type:
+      name: Typ stosu
+    pillow_shape:
+      name: Kształt poduszki
+    pin_size:
+      name: Rozmiar bolca
+    pinata_design:
+      name: Projekt Pi√±ata
+    ping_pong_equipment_included:
+      name: Sprzęt do tenisa stołowego w zestawie
+    ping_pong_robot_features:
+      name: Charakterystyka robota treningowego do tenisa stołowego
+    pipe_clamp_design:
+      name: Konstrukcja zacisku rurowego
+    pipe_shape:
+      name: Kształt rury
+    placement_supported:
+      name: Obsługiwane miejsce docelowe
+    plant_characteristics:
+      name: Charakterystyka zakładu
+    plant_class:
+      name: Klasa zakładu
+    plant_name:
+      name: Nazwa zakładu
+    plant_support_material:
+      name: Materiał podpory dla roślin
+    plate_type:
+      name: Typ płyty
+    play_equipment_items_included:
+      name: Zabawki w zestawie
+    play_slide_design:
+      name: Konstrukcja zjeżdżalni
+    play_vehicle_propulsion:
+      name: Napęd pojazdu do zabawy
+    play_yard_design_features:
+      name: Charakterystyka konstrukcji kojca
+    playback_disc_formats:
+      name: Formaty płyt do odtwarzania
+    player/recorder_specialized_features:
+      name: Specjalistyczne funkcje odtwarzacza/nagrywarki
+    player_drive_type:
+      name: Typ napędu odtwarzacza
+    player_position:
+      name: Pozycja gracza
+    player_specialized_features:
+      name: Specjalistyczne funkcje odtwarzacza
+    playhouse_design:
+      name: Projekt domku zabaw
+    playset_features:
+      name: Charakterystyka zestawu do zabawy
+    plug_type:
+      name: Typ wtyczki
+    plug_type_input:
+      name: Typ wtyczki (wejście)
+    plug_type_output:
+      name: Typ wtyczki (wyjście)
+    plumbing_primer_application:
+      name: Zastosowanie podkładu pod hydraulikę
+    plumbing_trap_design:
+      name: Konstrukcja syfonu sanitarnego
+    plunger_shape:
+      name: Kształt tłoka
+    plywood_grade:
+      name: Gatunek sklejki
+    pneumatic_conveyor_operation:
+      name: Obsługa przenośnika pneumatycznego
+    poe_standard:
+      name: Standard PoE
+    point_design:
+      name: Projekt punktu
+    pointing_device:
+      name: Urządzenie wskazujące
+    polar_pattern:
+      name: Wzorzec biegunowy
+    polarization:
+      name: Polaryzacja
+    pole/post_material:
+      name: Materiał słupa/słupka
+    pole_color:
+      name: Kolor słupka
+    pole_material:
+      name: Materiał słupa
+    pole_pattern:
+      name: Wzór słupka
+    policy_sign_design:
+      name: Projekt znaku polityki
+    polish_dry_form:
+      name: Forma produktu przyspieszającego schnięcie lakieru do paznokci
+    polish_remover_form:
+      name: Forma zmywacza do paznokci
+    polish_type:
+      name: Typ polerki
+    polyphony:
+      name: Polifonia
+    portability:
+      name: Przenośność
+    post_material:
+      name: Materiał słupa
+    postage_stamp_features:
+      name: Charakterystyka znaczka pocztowego
+    potential_extract:
+      name: Potencjalne wyodrębnienie
+    pottery/sculpting_project_type:
+      name: Typ projektu z zakresu ceramiki/rzeźby
+    potty/toilet_seat_design:
+      name: Projekt nocnika/deski sedesowej
+    potty_training_kit_components:
+      name: Elementy zestawu do nauki korzystania z nocnika
+    power_source:
+      name: Źródło zasilania
+    pregnancy_test_sensitivity:
+      name: Czułość testu ciążowego
+    presentation_supply_features:
+      name: Charakterystyka sprzętu do prezentacji
+    preservation_type:
+      name: Typ zabezpieczenia
+    pretend_electronics_toy_type:
+      name: Rodzaj imitacji urządzeń elektronicznych do zabawy
+    pretend_housekeeping_toy_type:
+      name: Rodzaj zabawek do sprzątania
+    primary_region:
+      name: Region podstawowy
+    primer_use:
+      name: Użycie podkładu
+    print_technology:
+      name: Technologia druku
+    printer/copier_specialized_features:
+      name: Specjalistyczne funkcje drukarki/kopiarki
+    printer_accessories_included:
+      name: Akcesoria do drukarki w zestawie
+    printer_functions:
+      name: Funkcje drukarki
+    printing_color:
+      name: Kolor druku
+    printing_method:
+      name: Metoda drukowania
+    processor_cores:
+      name: Rdzenie procesora
+    processor_family:
+      name: Rodzina procesora
+    processor_socket:
+      name: Gniazdo procesora
+    processor_technology:
+      name: Technologia procesorowa
+    product_benefits:
+      name: Zalety produktu
+    product_certifications_standards:
+      name: Certyfikaty i standardy produktu
+    product_form:
+      name: Forma produktu
+    product_formulation:
+      name: Formuła produktu
+    product_manual_area:
+      name: Obszar instrukcji produktu
+    product_sterility:
+      name: Sterylność produktu
+    program_format:
+      name: Format programu
+    projection_design:
+      name: Projekt projekcji
+    projector_light_source:
+      name: Źródło światła projektora
+    prop_theme:
+      name: Temat rekwizytów
+    propane_application:
+      name: Zastosowanie propanu
+    propeller_blade_design:
+      name: Konstrukcja łopatek śmigła
+    prophy_cup_design:
+      name: Konstrukcja gumek polerskich
+    propulsion_type:
+      name: Typ napędu
+    protection_type:
+      name: Typ ochrony
+    protective_gear_features:
+      name: Charakterystyka ochraniaczy
+    protective_mask_design:
+      name: Konstrukcja maski ochronnej
+    protective_mask_features:
+      name: Charakterystyka maski ochronnej
+    pstn_connectivity_options:
+      name: Opcje łączności Pstn
+    publication_frequency:
+      name: Częstotliwość publikacji
+    publication_type:
+      name: Typ publikacji
+    pull_up_bar:
+      name: Drążek podciągania
+    pump_accessories:
+      name: Akcesoria do laktatorów
+    pump_speed_settings:
+      name: Ustawienia prędkości pompki
+    punching/training_bag_material:
+      name: Materiał worka treningowego
+    puppet_theme:
+      name: Motyw lalek
+    puppet_type:
+      name: Typ marionetki
+    puzzle_theme:
+      name: Temat puzzle
+    puzzle_type:
+      name: Rodzaj puzzli
+    quiver_style:
+      name: Styl kołczanu
+    rack_design:
+      name: Konstrukcja szafy
+    rack_type:
+      name: Typ szafy
+    racket_gauge:
+      name: Skrajnia rakiety
+    racket_material:
+      name: Materiał rakiety
+    racket_string_design:
+      name: Konstrukcja naciągu do rakiet
+    racket_string_material:
+      name: Materiał naciągu do rakiet
+    radar_bands:
+      name: Pasma radaru
+    radar_technology:
+      name: Technologia radarowa
+    radio_case_design:
+      name: Projekt obudowy radia
+    radio_features:
+      name: Charakterystyka radia
+    ramp_type:
+      name: Typ rampy
+    range_type:
+      name: Typ zasięgu
+    rarity:
+      name: Rzadkość
+    razor_flexibility:
+      name: Elastyczność golarki
+    razor_head_design:
+      name: Projekt głowicy golarki
+    razor_type:
+      name: Typ maszynki do golenia
+    read/write_speed:
+      name: Szybkość odczytu/zapisu
+    reading_toy_type:
+      name: Rozmiar zabawki do nauki czytania
+    receipt_paper_features:
+      name: Charakterystyka papieru paragonowego
+    reclining_function:
+      name: Funkcja odchylania
+    recommended_age_group:
+      name: Zalecana grupa wiekowa
+    recommended_skill_level:
+      name: Zalecany poziom umiejętności
+    recommended_use:
+      name: Zalecane zastosowanie
+    recorder_fingering_system:
+      name: System palcowania rejestratora
+    recorder_specialized_features:
+      name: Specjalistyczne funkcje nagrywarki
+    recording_accessories_included:
+      name: Akcesoria do nagrywania w zestawie
+    recording_quality:
+      name: Jakość nagrywania
+    recreational_vehicle_type:
+      name: Typ pojazdu rekreacyjnego
+    reed_strength:
+      name: Wytrzymałość stroika
+    reel_capacity:
+      name: Pojemność szpuli
+    reflector_design:
+      name: Konstrukcja reflektora
+    regenerative_braking_features:
+      name: Charakterystyka hamowania regeneracyjnego
+    region:
+      name: Region
+    region_code:
+      name: Kod regionu
+    release_schedule:
+      name: Harmonogram publikacji
+    remote_technology:
+      name: Technologia zdalna
+    removable_storage_formats_supported:
+      name: Obsługiwane formaty wymiennej pamięci masowej
+    reptile/amphibian_food_form:
+      name: Forma karmy dla gadów i płazów
+    reptile/amphibian_habitat_supply_type:
+      name: Rodzaj artykułów do terrariów dla gadów i płazów
+    research_focus:
+      name: Obszar badań
+    research_methodology:
+      name: Metodologia badań
+    resistance_level:
+      name: Poziom oporu
+    resistance_system:
+      name: Układ oporowy
+    result_display:
+      name: Wyświetlanie wyników
+    retail/sale_sign_design:
+      name: Projekt znaku handlu/sprzedaży detalicznej
+    reticle_plane:
+      name: Płaszczyzna siatki
+    reticle_type:
+      name: Typ siatki
+    rfid_frequency:
+      name: Częstotliwość RFID
+    riding_style:
+      name: Styl jazdy
+    riding_toy_propulsion_type:
+      name: Typ napędu zabawki jeżdżącej
+    rim/wheel_design:
+      name: Konstrukcja obręczy/koła
+    ring_design:
+      name: Konstrukcja pierścionka
+    ring_size:
+      name: Rozmiar pierścienia
+    riser_color:
+      name: Kolor trzpienia
+    riser_material:
+      name: Materiał trzpienia
+    riser_pattern:
+      name: Wzór trzpienia
+    rivet_form:
+      name: Forma nitu
+    road_sign_design:
+      name: Projekt znaku drogowego
+    rock_composition:
+      name: Kompozycja skalna
+    rock_formation:
+      name: Formacja skalna
+    rocker_type:
+      name: Typ wahacza
+    rod_color:
+      name: Kolor wędki
+    rod_material:
+      name: Materiał kija
+    rod_pattern:
+      name: Wzór wędki
+    rod_shape:
+      name: Kształt kija
+    roller_head:
+      name: Głowica rolki
+    roller_material:
+      name: Materiał wałka
+    roller_type:
+      name: Typ rolki
+    roof_decor_shape:
+      name: Kształt dekoracji dachu
+    rosin_form:
+      name: Forma kalafonii
+    rosin_grade:
+      name: Klasa kalafonii
+    rotating_direction:
+      name: Kierunek obrotu
+    rotator_control_technology:
+      name: Technologia sterowania wirnikiem
+    rug/mat_features:
+      name: Charakterystyka dywanu/maty
+    rug/mat_material:
+      name: Materiał dywanu/maty
+    rug/mat_shape:
+      name: Kształt dywanu/maty
+    rug_features:
+      name: Charakterystyka dywanu
+    rug_material:
+      name: Materiał dywanu
+    rug_shape:
+      name: Kształt dywanu
+    rum_grade:
+      name: Gatunek rumu
+    saddle_base_color:
+      name: Kolor bazowy siodła
+    saddle_base_material:
+      name: Materiał bazowy siodła
+    saddle_base_pattern:
+      name: Wzór bazowy siodła
+    saddle_material:
+      name: Materiał siodełka
+    saddle_seat_color:
+      name: Kolor siedziska siodła
+    saddle_seat_material:
+      name: Materiał siedziska siodła
+    saddle_seat_pattern:
+      name: Wzór siedziska siodła
+    safety_certifications:
+      name: Certyfikaty bezpieczeństwa
+    safety_device_installation:
+      name: Montaż urządzeń zabezpieczających
+    safety_equipment_material:
+      name: Materiał sprzętu zabezpieczającego
+    safety_rail_installation:
+      name: Montaż barierki bezpieczeństwa
+    sailboat_type:
+      name: Typ żaglówki
+    sandal_style:
+      name: Styl sandałów
+    sandblaster_application:
+      name: Zastosowanie piaskarki
+    sander_type:
+      name: Typ szlifierki
+    sanding_application:
+      name: Zastosowanie do szlifowania
+    satellite_coverage_area:
+      name: Obszar pokrycia satelitarnego
+    satellite_network_type:
+      name: Typ sieci satelitarnej
+    sauna_accessories_included:
+      name: Akcesoria do sauny w zestawie
+    scaffolding_mounting_type:
+      name: Typ montażu rusztowania
+    scale_material:
+      name: Materiał skali
+    scale_model_accessory_type:
+      name: Typ akcesoriów do modelarstwa redukcyjnego
+    scale_model_kit_type:
+      name: Rodzaj zestawów do modelarstwa redukcyjnego
+    scale_model_material:
+      name: Materiał modelu redukcyjnego
+    scale_model_theme:
+      name: Temat do modelarstwa redukcyjnego
+    scalpel_blade_material:
+      name: Materiał ostrza skalpela
+    scalpel_blade_number:
+      name: Numer ostrza skalpela
+    scalpel_blade_shape:
+      name: Kształt ostrza skalpela
+    scalpel_handle_number:
+      name: Numer rękojeści skalpela
+    scan_converter_features:
+      name: Charakterystyka konwertera skanującego
+    scanner_features:
+      name: Charakterystyka skanera
+    scanner_sensor_type:
+      name: Typ czujnika skanera
+    scarf/shawl_style:
+      name: Styl szalika/szalu
+    scene_modes:
+      name: Tryby sceny
+    scent:
+      name: Zapach
+    scissor_blade_type:
+      name: Typ ostrza nożycowego
+    scope/sight_design:
+      name: Konstrukcja lunety/celownika
+    scope/sight_features:
+      name: Charakterystyka lunety/celownika
+    scope_design:
+      name: Konstrukcja lunety
+    scope_lens_type:
+      name: Typ soczewki lunety
+    scoreboard_features:
+      name: Charakterystyka tablicy wyników
+    scrapbook_paper_type:
+      name: Typ papieru do scrapbookingu
+    screen/display_design:
+      name: Konstrukcja ekranu/wyświetlacza
+    screen_material:
+      name: Materiał ekranu
+    screen_specialized_features:
+      name: Specjalistyczne funkcje ekranu
+    seafood_type:
+      name: Typ owoców morza
+    seal_stamp_design:
+      name: Projekt pieczęci
+    season:
+      name: Sezon
+    seat_color:
+      name: Kolor siedzenia
+    seat_cushioning:
+      name: Amortyzacja siedziska
+    seat_pattern:
+      name: Wzór siedziska
+    seat_shape:
+      name: Kształt siedziska
+    seat_structure:
+      name: Konstrukcja siedziska
+    seat_type:
+      name: Typ siedziska
+    seat_upholstery_color:
+      name: Kolor tapicerki siedzenia
+    seat_upholstery_material:
+      name: Materiał tapicerki siedzenia
+    seat_upholstery_pattern:
+      name: Wzór tapicerki siedzenia
+    security_algorithms:
+      name: Algorytmy bezpieczeństwa
+    security_level:
+      name: Poziom bezpieczeństwa
+    sensor/measuring_tool_features:
+      name: Charakterystyka narzędzi pomiarowych i czujników
+    sensor_features:
+      name: Charakterystyka czujników
+    sensor_type:
+      name: Typ czujnika
+    sequin/glitter_shape:
+      name: Kształt cekinów/brokatu
+    sequin_shape:
+      name: Kształt cekinu
+    serum_target_areas:
+      name: Obszary stosowania serum
+    service_type:
+      name: Typ usługi
+    sewing_foot_type:
+      name: Typ stopki do szycia
+    sewing_machine_part_category:
+      name: Kategoria części maszyny do szycia
+    sfx_control_technology:
+      name: Technologia sterowania SFX
+    shaft_color:
+      name: Kolor wału
+    shaft_flex:
+      name: Elastyczność kija golfowego
+    shaft_material:
+      name: Materiał wału
+    shaft_orientation:
+      name: Orientacja wału
+    shaft_pattern:
+      name: Wzór wału
+    shampoo/conditioner_effect:
+      name: Efekt zastosowania szamponu/odżywki
+    shampoo/conditioner_items_included:
+      name: Szampony/odżywki w zestawie
+    shampoo_type:
+      name: Typ szamponu
+    shape:
+      name: Kształt
+    shapewear_support_level:
+      name: Poziom wsparcia bielizny modelującej
+    shaving_cream_formulation:
+      name: Formuła kremu do golenia
+    shaving_kit_components:
+      name: Elementy zestawu do golenia
+    sheen/gloss_level:
+      name: Poziom połysku/błysku
+    sheet_color:
+      name: Kolor arkusza
+    sheet_pattern:
+      name: Wzór arkusza
+    shelf_color:
+      name: Kolor półki
+    shelf_material:
+      name: Materiał półki
+    shelf_pattern:
+      name: Wzór półki
+    shell/frame_color:
+      name: Kolor powłoki/ramy
+    shell/frame_material:
+      name: Materiał powłoki/ramy
+    shell/frame_pattern:
+      name: Wzór powłoki/ramy
+    shingle/tile_material:
+      name: Materiał kafelków/gontów
+    shoe_binding_type:
+      name: Typ szycia butów
+    shoe_features:
+      name: Charakterystyka buta
+    shoe_fit:
+      name: Dopasowanie obuwia
+    shoe_size:
+      name: Rozmiar buta
+    shooting_modes:
+      name: Tryby fotografowania
+    shopping_bag_material:
+      name: Materiał torby na zakupy
+    shower_base_design:
+      name: Konstrukcja podstawy prysznica
+    shower_curtain_mounting_type:
+      name: Rodzaj mocowania zasłon prysznicowych
+    shower_design:
+      name: Konstrukcja prysznica
+    shower_features:
+      name: Charakterystyka prysznica
+    shower_opening_type:
+      name: Rodzaj otwierania się drzwi prysznicowych
+    shrink_ratio:
+      name: Współczynnik kurczenia
+    shutter_finish:
+      name: Wykończenie migawki
+    siding_material:
+      name: Materiał listwy wykończeniowej
+    signature_placement:
+      name: Lokalizacja podpisu
+    silencer/blimp_type:
+      name: Typ tłumika/obudowy wygłuszającej
+    sim_card_capability:
+      name: Obsługa kart SIM
+    sim_card_type:
+      name: Typ karty SIM
+    sim_card_type_1:
+      name: Typ 1 karty SIM
+    sim_card_type_2:
+      name: Typ 2 karty SIM
+    sink_mounting_type:
+      name: Typ montażu zlewu
+    sink_shape:
+      name: Kształt zlewu
+    sink_type:
+      name: Typ zlewu
+    sinker_material:
+      name: Materiał obciążnika
+    size:
+      name: Rozmiar
+    skateboarding_style:
+      name: Styl jazdy na deskorolce
+    ski_construction:
+      name: Konstrukcja nart
+    skiing_style:
+      name: Styl narciarski
+    skill_level:
+      name: Poziom umiejętności
+    skin_care_effect:
+      name: Efekt pielęgnacji skóry
+    skin_care_features:
+      name: Charakterystyka produktów do pielęgnacji skóry
+    skin_care_mask_type:
+      name: Rodzaj maski do twarzy
+    skin_tone:
+      name: Ton skóry
+    skin_undertone:
+      name: Odcień skóry
+    skirt/dress_length_type:
+      name: Typ długości spódnicy/sukienki
+    skirt_style:
+      name: Styl spódnicy
+    slat_color:
+      name: Kolor listwy
+    slat_material:
+      name: Materiał listwy
+    slat_pattern:
+      name: Wzór listwy
+    sleeve_length_type:
+      name: Typ długości tulei
+    slip_texture:
+      name: Tekstura poślizgu
+    slipper_style:
+      name: Styl pantofla
+    slot_machine_type:
+      name: Rodzaj automatu wrzutowego
+    small_animal_dietary_requirements:
+      name: Wymagania dietetyczne małych zwierząt
+    small_animal_food_form:
+      name: Forma karmy dla małych zwierząt
+    small_animal_food_ingredients:
+      name: Składniki karmy dla małych zwierząt
+    small_animal_habitat/cage_type:
+      name: Rodzaj pomieszczeń i klatek dla małych zwierząt
+    smart_tv_platform:
+      name: Platforma Smart TV
+    smart_watch_features:
+      name: Funkcje smartwatcha
+    sneaker_style:
+      name: Styl butów sportowych
+    snorkel_shape:
+      name: Kształt fajki do nurkowania
+    snowboard_construction:
+      name: Konstrukcja snowboardu
+    snowboard_design:
+      name: Projekt snowboardu
+    snowboarding_style:
+      name: Styl snowboardowy
+    snowmobile_type:
+      name: Typ skutera śnieżnego
+    socket_driver_tip:
+      name: Końcówka śrubokręta nasadkowego
+    socket_type:
+      name: Typ gniazda
+    soda_maker_accessories_included:
+      name: W zestawie akcesoria do syfonu
+    soda_variety:
+      name: Odmiana napoju gazowanego
+    sofa_features:
+      name: Charakterystyka sofy
+    softball_discipline:
+      name: Dyscyplina softballu
+    softbox_mounting_type:
+      name: Typ mocowania softboksa
+    softbox_shape:
+      name: Kształt softboksa
+    software_features:
+      name: Funkcje oprogramowania
+    software_tool_type:
+      name: Typ narzędzia programowego
+    softwood_lumber_grade:
+      name: Gatunek drewna iglastego
+    solar_cell_type:
+      name: Typ ogniwa słonecznego
+    solar_panel_connections:
+      name: Połączenia paneli słonecznych
+    solar_panel_design:
+      name: Konstrukcja panelu słonecznego
+    solder/flux_application:
+      name: Zastosowanie lutu/topnika
+    soleplate_type:
+      name: Typ stopy żelazka
+    solubility:
+      name: Rozpuszczalność
+    solution_type:
+      name: Typ roztworu
+    solvent/thinner_application:
+      name: Zastosowanie rozpuszczalnika/rozcieńczalnika
+    solvent_application:
+      name: Zastosowanie rozpuszczalnika
+    soothing_sounds:
+      name: Kojące dźwięki
+    sound_controls:
+      name: Kontrola dźwięku
+    sound_effects:
+      name: Efekty dźwiękowe
+    sound_insulation:
+      name: Izolacja akustyczna
+    sound_options:
+      name: Opcje dźwięku
+    speaker_configuration:
+      name: Konfiguracja głośnika
+    speaker_design:
+      name: Konstrukcja głośnika
+    speaker_features:
+      name: Charakterystyka głośnika
+    speaker_technology:
+      name: Technologia głośników
+    speakerphone_type:
+      name: Typ zestawu głośnomówiącego
+    speed_settings:
+      name: Ustawienia prędkości
+    spf_level:
+      name: Poziom SPF
+    spike_design:
+      name: Konstrukcja kolca
+    spinner_type:
+      name: Typ tarczy obrotowej
+    spirit_dilution:
+      name: Rozcieńczanie alkoholu
+    splitter/switch_features:
+      name: Charakterystyka rozdzielacza/przełącznika
+    splitter_use:
+      name: Zastosowanie rozdzielacza
+    sponge_shape:
+      name: Kształt gąbki
+    spool_color:
+      name: Kolor szpuli
+    spool_material:
+      name: Materiał szpuli
+    spool_pattern:
+      name: Wzór szpuli
+    sport:
+      name: Sport
+    sports_logo:
+      name: Logo sportowe
+    sports_theme:
+      name: Motyw sportowy
+    spout_type:
+      name: Typ wylewki
+    spreader_type:
+      name: Typ rozrzutnika
+    sprinkler_head_type:
+      name: Typ głowicy tryskaczowej
+    sprinkler_shape:
+      name: Kształt zraszacza
+    squeegee_blade_design:
+      name: Konstrukcja ostrza ściągaczki
+    stack_configuration:
+      name: Konfiguracja stosu
+    stage:
+      name: Etap
+    stair_lifts_control_type:
+      name: Typ sterowania windami schodowymi
+    staircase_features:
+      name: Charakterystyka klatki schodowej
+    staircase_type:
+      name: Typ klatki schodowej
+    stamp_theme:
+      name: Motyw stempla
+    stamp_type:
+      name: Typ stempla
+    stand/display_type:
+      name: Typ stojaka/ekspozycji
+    staple_wire_gauge:
+      name: Wielkość zszywki
+    stapler_features:
+      name: Charakterystyka zszywacza
+    star_rating:
+      name: Ocena za pomocą gwiazdek
+    start_type:
+      name: Typ rozpoczęcia
+    station_type:
+      name: Typ stacji
+    stationery_binding_type:
+      name: Typ oprawy papierniczej
+    stem_length:
+      name: Długość trzpienia
+    stencil/cut_shape:
+      name: Kształt szablonu/wycięcia
+    step_type:
+      name: Typ kroku
+    sterilization_cycle_time:
+      name: Czas cyklu sterylizacji
+    sterilization_instructions:
+      name: Instrukcje sterylizacji
+    sterilization_method:
+      name: Metoda sterylizacji
+    stethoscope_design:
+      name: Konstrukcja stetoskopu
+    stethoscope_technology:
+      name: Technologia stetoskopu
+    stick_material:
+      name: Materiał laski
+    stiffness:
+      name: Sztywność
+    stimulator_tip_shape:
+      name: Kształt końcówki elektrostymulatora
+    stone_material:
+      name: Materiał kamienia
+    stone_name:
+      name: Nazwa kamienia
+    stone_shape:
+      name: Kształt kamienia
+    stone_type:
+      name: Typ kamienia
+    stopband:
+      name: Taśma zatrzymująca
+    stopwatch_features:
+      name: Funkcje stopera
+    storage_drive_interface_type:
+      name: Typ interfejsu napędu pamięci masowej
+    storage_drive_interfaces_supported:
+      name: Obsługiwane interfejsy napędu pamięci masowej
+    storage_drive_type_installed:
+      name: Zainstalowany typ napędu pamięci masowej
+    storage_media_type:
+      name: Typ nośnika pamięci masowej
+    storage_tank_application:
+      name: Zastosowanie zbiornika magazynowego
+    storage_types_supported:
+      name: Obsługiwane typy pamięci masowej
+    stove_airflow:
+      name: Przepływ powietrza w piecu
+    stove_top_type:
+      name: Rodzaj płyty kuchennej
+    strap_design:
+      name: Projekt paska
+    straw/stirrer_design:
+      name: Konstrukcja ze słomką/mieszadłem
+    stretcher/gurney_intended_use:
+      name: Przeznaczenie noszy
+    string_color:
+      name: Kolor naciągu
+    string_instrument_size:
+      name: Wielkość instrumentu strunowego
+    string_material:
+      name: Materiał cięciwy
+    string_pattern:
+      name: Wzór naciągu
+    stripper_application:
+      name: Zastosowanie środka do usuwania powłok
+    stroller_features:
+      name: Charakterystyka wózka dziecięcego
+    stroller_wheel_type:
+      name: Typ koła wózka dziecięcego
+    style:
+      name: Styl
+    stylus_type:
+      name: Typ rysika
+    subject_area:
+      name: Tematyka
+    subscription_type:
+      name: Typ subskrypcji
+    substrate_features:
+      name: Charakterystyka podłoża
+    suction_cup_color:
+      name: Kolor przyssawki
+    suction_cup_material:
+      name: Materiał przyssawki
+    suction_cup_pattern:
+      name: Wzór przyssawki
+    suction_levels:
+      name: Poziomy ssania
+    suitable_for_angling_type:
+      name: Typ odpowiedni do wędkarstwa
+    suitable_for_animal_type:
+      name: Typ odpowiedni dla zwierząt
+    suitable_for_art_technique:
+      name: Nadaje się do techniki plastycznej
+    suitable_for_bird_type:
+      name: Typ odpowiedni dla ptaków
+    suitable_for_boat_type:
+      name: Odpowiednie dla typu łodzi
+    suitable_for_body/facial_hair:
+      name: Odpowiednie do włosów na ciele/twarzy
+    suitable_for_breed_size:
+      name: Odpowiednie do wielkości/rasy
+    suitable_for_bug_type:
+      name: Odpowiednie dla typu owadów
+    suitable_for_camera/optics_device:
+      name: Nadaje się do aparatu/urządzenia optycznego
+    suitable_for_camera_type:
+      name: Typ odpowiedni do kamery
+    suitable_for_camping_activity:
+      name: Nadaje się na kemping
+    suitable_for_chair_type:
+      name: Typ odpowiedni dla fotela
+    suitable_for_container_type:
+      name: Odpowiednie do rodzaju pojemnika
+    suitable_for_crafting_material:
+      name: Nadaje się do materiału rzemieślniczego
+    suitable_for_door_type:
+      name: Typ odpowiedni do drzwi
+    suitable_for_egg_type:
+      name: Odpowiednie do rodzaju jajka
+    suitable_for_fabric_type:
+      name: Typ odpowiedni do tkaniny
+    suitable_for_fire_class:
+      name: Odpowiedni dla klasy pożarowej
+    suitable_for_fish_type:
+      name: Odpowiednie dla typu ryby
+    suitable_for_food_processor_type:
+      name: Typ odpowiedni dla robota kuchennego
+    suitable_for_furniture_type:
+      name: Typ odpowiedni dla mebli
+    suitable_for_gas_type:
+      name: Odpowiedni dla typu gazu
+    suitable_for_hair_type:
+      name: Typ odpowiedni dla włosów
+    suitable_for_material_type:
+      name: Typ odpowiedni dla materiału
+    suitable_for_pest_type:
+      name: Typ odpowiedni dla szkodników
+    suitable_for_pipe_type:
+      name: Typ odpowiedni dla rury
+    suitable_for_pool_type:
+      name: Typ odpowiedni dla basenu
+    suitable_for_power_equipment_type:
+      name: Odpowiednie do rodzaju sprzętu zasilanego elektrycznie
+    suitable_for_precious_material:
+      name: Odpowiednie do cennego materiału
+    suitable_for_printer_type:
+      name: Pasuje do typu drukarki
+    suitable_for_skin_tone:
+      name: Ton odpowiedni dla skóry
+    suitable_for_skin_type:
+      name: Typ odpowiedni dla skóry
+    suitable_for_snowshoeing_activity:
+      name: Nadaje się do wędrówek z rakietami śnieżnymi
+    suitable_for_storage_type:
+      name: Nadaje się do typu przechowywania
+    suitable_for_toothbrush:
+      name: Odpowiedni do szczoteczki do zębów
+    suitable_for_vehicle_type:
+      name: Typ odpowiedni do pojazdu
+    suitable_for_water_feature_type:
+      name: Typ funkcji odpowiedni do wody
+    suitable_for_water_type:
+      name: Typ odpowiedni do wody
+    suitable_for_weapon_type:
+      name: Odpowiedni dla typu broni
+    suitable_installation:
+      name: Odpowiednia instalacja
+    suitable_location:
+      name: Odpowiednia lokalizacja
+    suitable_space:
+      name: Odpowiednia przestrzeń
+    suitcase_handle_type:
+      name: Typ uchwytu walizki
+    sulfur_content:
+      name: Zawartość siarki
+    sunlight:
+      name: Promieniowanie słoneczne
+    support/brace_material:
+      name: Materiał podparcia/usztywnienia
+    supported_language:
+      name: Obsługiwany język
+    surface_texture:
+      name: Tekstura powierzchni
+    surfboard_features:
+      name: Charakterystyka deski surfingowej
+    surveillance_camera_design:
+      name: Konstrukcja kamery przemysłowej
+    surveillance_camera_mounting_type:
+      name: Typ mocowania kamery przemysłowej
+    surverying_accessories_included:
+      name: Akcesoria miernicze w zestawie
+    suspender_style:
+      name: Styl podwiązek
+    sustainability:
+      name: Trwały i zrównoważony rozwój
+    swab_material:
+      name: Materiał wymazówki
+    swimwear_features:
+      name: Charakterystyka stroju kąpielowego
+    swing_style:
+      name: Styl huśtawki
+    swing_weighting:
+      name: Obciążenie huśtawki
+    switch_control_type:
+      name: Typ sterowania przełącznikiem
+    switching_method:
+      name: Metoda przełączania
+    synthesis_method:
+      name: Metoda syntezy
+    system_of_measurement:
+      name: Układ pomiarowy
+    system_range:
+      name: Zakres systemu
+    systems_supported:
+      name: Obsługiwane systemy
+    tab_style:
+      name: Styl zakładki
+    tabletop_color:
+      name: Kolor blatu
+    tabletop_material:
+      name: Materiał blatu
+    tabletop_pattern:
+      name: Wzór blatu
+    tabletop_shape:
+      name: Kształt blatu
+    tableware_material:
+      name: Materiał zastawy stołowej
+    tack/pushpin_head_design:
+      name: Konstrukcja główki pinezki/kołka
+    tag_fastening:
+      name: Zapięcie na etykietę
+    tampon_absorbency_level:
+      name: Poziom chłonności tamponu
+    tampon_features:
+      name: Charakterystyka tamponu
+    tan_type:
+      name: Typ opalenizny
+    tank_color:
+      name: Kolor zbiornika
+    tank_material:
+      name: Materiał zbiornika
+    tank_pattern:
+      name: Wzór zbiornika
+    tape_material:
+      name: Materiał taśmy
+    target_audience:
+      name: Grupa odbiorców
+    target_gender:
+      name: Docelowa płeć
+    targeted_pests:
+      name: Zwalczane szkodniki
+    targeted_stains:
+      name: Usuwane plamy
+    tea_input_type:
+      name: Typ surowca herbacianego
+    technology_level:
+      name: Poziom technologii
+    teeth_material:
+      name: Materiał zębów
+    telephone_cable_interface:
+      name: Interfejs kabla telefonicznego
+    telephone_style:
+      name: Styl telefonu
+    telescope_level:
+      name: Mechanizm poziomujący teleskop
+    telescope_tracking_system:
+      name: System śledzenia używany w teleskopie
+    television_shape:
+      name: Kształt telewizora
+    television_specialized_features:
+      name: Specjalistyczne funkcje telewizora
+    temperature:
+      name: Temperatura
+    temperature_control:
+      name: Regulacja temperatury
+    temperature_measurement:
+      name: Pomiar temperatury
+    template_type:
+      name: Typ szablonu
+    temple_color:
+      name: Kolor zauszników
+    temple_pattern:
+      name: Wzór zauszników
+    tension:
+      name: Napięcie
+    tequila_variety:
+      name: Odmiana tequili
+    terminal_operation:
+      name: Obsługa terminala
+    terrain:
+      name: Teren
+    test_format:
+      name: Format testu
+    test_method:
+      name: Metoda testowa
+    test_sample:
+      name: Próbka testowa
+    tetherball_equipment_included:
+      name: Sprzęt do gry w piłkę na uwięzi w zestawie
+    text_plate_material:
+      name: Materiał płyty tekstowej
+    textile_craft_machine_features:
+      name: Charakterystyka urządzeń do tekstyliów
+    textile_craft_project_type:
+      name: Typ projektu rzemiosła tekstylnego
+    texture:
+      name: Tekstura
+    texture_level:
+      name: Stopień konsystencji
+    theme:
+      name: Motyw
+    thermal_detector_type:
+      name: Typ czujki termicznej
+    thermocouple_type:
+      name: Typ termopary
+    thickness_type:
+      name: Typ grubości
+    thinner_application:
+      name: Zastosowanie rozcieńczalnika
+    thread_direction:
+      name: Kierunek gwintu
+    threaded_rod_size:
+      name: Rozmiar pręta gwintowanego
+    throw_pillow_shape:
+      name: Kształt poduszki dekoracyjnej
+    ticket_additional_features:
+      name: Dodatkowa charakterystyka biletu
+    ticket_type:
+      name: Typ biletu
+    tile_design:
+      name: Projekt płytek
+    tile_game_type:
+      name: Rodzaj gry z żetonami
+    tile_installation_method:
+      name: Metoda instalacji kafelków
+    tile_look:
+      name: Wygląd płytek
+    tile_material:
+      name: Materiał kafelków
+    tile_texture:
+      name: Tekstura płytek
+    time_period:
+      name: Okres
+    time_signatures:
+      name: Sygnatury czasowe
+    time_weighting:
+      name: Ważenie czasem
+    timepiece_features:
+      name: Charakterystyka czasomierza
+    timer_design:
+      name: Projekt timera
+    timer_features:
+      name: Charakterystyka timera
+    timer_type:
+      name: Typ licznika
+    tip_design:
+      name: Projekt końcówki
+    tip_material:
+      name: Materiał końcówki
+    tip_opening:
+      name: Otwór końcówki
+    tip_style:
+      name: Styl końcówki
+    tip_type:
+      name: Typ końcówki
+    tire_bead_type:
+      name: Typ stopki opony
+    tobacco_type:
+      name: Typ tytoniu
+    toddler_bed_features:
+      name: Charakterystyka łóżka dziecięcego
+    toe_spacer_design:
+      name: Forma separatora palców stopy
+    toe_strap_type:
+      name: Typ paska na palce
+    toe_style:
+      name: Styl stopki
+    toilet/bidet_mounting_type:
+      name: Typ mocowania sedesu/bidetu
+    toilet_cover_design:
+      name: Konstrukcja nakładki na toaletę
+    toilet_cover_features:
+      name: Charakterystyka nakładki na toaletę
+    toilet_mounting_type:
+      name: Typ montażu toalety
+    toilet_shape:
+      name: Kształt toalety
+    tom_tom_design:
+      name: Niestandardowy projekt
+    tool/utensil_material:
+      name: Materiał narzędzia
+    tool_key_tip:
+      name: Końcówka klucza
+    tool_mobility:
+      name: Mobilność narzędzia
+    tool_operation:
+      name: Obsługa narzędzia
+    toothpaste_type:
+      name: Typ pasty do zębów
+    toothpick_design:
+      name: Forma wykałaczki
+    top_color:
+      name: Kolor topu
+    top_length_type:
+      name: Typ długości topu
+    top_material:
+      name: Materiał topu
+    top_pattern:
+      name: Wzór wierzchni
+    top_surface_material:
+      name: Materiał wierzchni
+    tote_handle_type:
+      name: Typ uchwytu torby
+    totem_design:
+      name: Projekt totemu
+    touch_capabilities:
+      name: Możliwości dotykowe
+    touchscreen_technology:
+      name: Technologia ekranu dotykowego
+    toy/game_material:
+      name: Materiał zabawki/gry
+    toy_figure_features:
+      name: Charakterystyka figurki
+    toy_figure_theme:
+      name: Motyw figurki
+    toy_tool_type:
+      name: Rodzaj narzędzia do zabawy
+    tracking_metrics:
+      name: Wskaźniki śledzenia
+    tracking_purpose:
+      name: Cel śledzenia
+    tractor_accessories_included:
+      name: Akcesoria do ciągnika w zestawie
+    trade_show_display_features:
+      name: Charakterystyka stoiska targowego
+    trading_card_packaging:
+      name: Opakowanie karty kolekcjonerskiej
+    traffic_control_device_features:
+      name: Charakterystyka urządzenia sterującego ruchem
+    trail_camera_design:
+      name: Konstrukcja kamery terenowej
+    trailer_type:
+      name: Typ naczepy
+    training_data_requirements:
+      name: Wymagania dotyczące danych szkoleniowych
+    trampoline_design:
+      name: Projekt trampoliny
+    transcriber/dictation_system_features:
+      name: Charakterystyka transkrybera i systemu dyktowania
+    transfer_boards_surface_type:
+      name: Typ powierzchni płyt transferowych
+    transfer_paper_technique:
+      name: Technika stosowania papieru transferowego
+    transmission_type:
+      name: Typ przekładni
+    trash_can_features:
+      name: Charakterystyka pojemnika na śmieci
+    travel_pillow_shape:
+      name: Kształt poduszki podróżnej
+    treatment_area:
+      name: Obszar poddawany zabiegowi
+    treatment_objective:
+      name: Cel leczenia
+    treatment_texture:
+      name: Konsystencja środka
+    treatment_type:
+      name: Typ leczenia
+    tree_stand_material:
+      name: Materiał ambony
+    trellis_design:
+      name: Projekt kraty
+    tricycle_design:
+      name: Konstrukcja roweru trójkołowego
+    tricycle_propulsion_type:
+      name: Rodzaj napędu roweru trójkołowego
+    trip_type:
+      name: Typ wycieczki
+    tripod/monopod_attachment_type:
+      name: Typ mocowania statywu trójnożnego/jednonożnego
+    tripod/monopod_head_type:
+      name: Typ głowicy statywu trójnożnego/jednonożnego
+    tripod_handle_type:
+      name: Typ uchwytu statywu trójnożnego
+    trophy_design:
+      name: Projekt trofeum
+    truck_type:
+      name: Typ wózka
+    tube_component:
+      name: Komponent rury
+    tube_configuration:
+      name: Konfiguracja rury
+    tuner_design:
+      name: Konstrukcja tunera
+    tuner_type:
+      name: Typ tunera
+    tuning_fork_design:
+      name: Projekt kamertonu
+    tuning_fork_frequency:
+      name: Częstotliwość kamertonu
+    tuning_modes:
+      name: Tryby strojenia
+    tuning_pitch:
+      name: Tonacja strojenia
+    tuning_range:
+      name: Zakres strojenia
+    undershirt_style:
+      name: Styl podkoszulka
+    underwear_style:
+      name: Styl bielizny
+    units_of_measurement:
+      name: Jednostki miary
+    update_frequency:
+      name: Częstotliwość aktualizacji
+    upholstery_color:
+      name: Kolor tapicerki
+    upholstery_material:
+      name: Materiał tapicerki
+    upholstery_pattern:
+      name: Wzór tapicerki
+    urinal_mounting_type:
+      name: Typ montażu pisuaru
+    usage_conditions:
+      name: Warunki użytkowania
+    usage_frequency:
+      name: Częstotliwość użytkowania
+    usage_type:
+      name: Typ użytkowania
+    usb_standard:
+      name: Standard USB
+    user_type:
+      name: Typ użytkownika
+    utility/maintenance_task_type:
+      name: Typ zadania użyteczności/konserwacji
+    uv_protection:
+      name: Ochrona przed promieniowaniem UV
+    vacuum_air_filtering_technology:
+      name: Technologia próżniowego filtrowania powietrza
+    valve_type:
+      name: Typ zaworu
+    van_type:
+      name: Typ furgonetki
+    vaping_style:
+      name: Styl wapowania
+    varnish/finish_application:
+      name: Zastosowanie lakieru/wykończenia
+    vase_shape:
+      name: Kształt wazonu
+    vdi_protocol_support:
+      name: Obsługa protokołu Vdi
+    vehicle_alarm/lock_features:
+      name: Charakterystyka alarmu/blokady pojazdu
+    vehicle_application_area:
+      name: Obszar zastosowań pojazdów
+    vehicle_audio_system_features:
+      name: Charakterystyka systemu audio pojazdu
+    vehicle_braking_features:
+      name: Charakterystyka układu hamulcowego
+    vehicle_cleaning_item_features:
+      name: Charakterystyka przedmiotów do czyszczenia pojazdów
+    vehicle_decor_features:
+      name: Charakterystyka elementów ozdobnych do pojazdów
+    vehicle_drive/handling_features:
+      name: Charakterystyka napędu/obsługi pojazdu
+    vehicle_engine/part_features:
+      name: Charakterystyka części/silnika pojazdu
+    vehicle_engine_features:
+      name: Charakterystyka silnika pojazdu
+    vehicle_engine_part_features:
+      name: Charakterystyka części do silnika pojazdu
+    vehicle_exhaust_type:
+      name: Rodzaj układu wydechowego pojazdu
+    vehicle_features:
+      name: Charakterystyka pojazdu
+    vehicle_fluid_features:
+      name: Charakterystyka płynów eksploatacyjnych pojazdu
+    vehicle_fluid_type:
+      name: Rodzaj płynów eksploatacyjnych pojazdu
+    vehicle_frame/body_features:
+      name: Charakterystyka karoserii/ramy pojazdu
+    vehicle_mirror_design:
+      name: Konstrukcja lusterka samochodowego
+    vehicle_mirror_features:
+      name: Charakterystyka lusterka samochodowego
+    vehicle_mirror_type:
+      name: Rodzaj lusterka samochodowego
+    vehicle_oil_features:
+      name: Charakterystyka oleju w pojeździe
+    vehicle_paint_type:
+      name: Typ lakieru pojazdu
+    vehicle_placement:
+      name: Lokalizacja pojazdów
+    vehicle_seating_features:
+      name: Charakterystyka foteli i siedzeń
+    vehicle_suspension_features:
+      name: Charakterystyka części zawieszenia pojazdu
+    vehicle_tire_type:
+      name: Typ opony pojazdu
+    vehicle_type:
+      name: Typ pojazdu
+    verification_technology:
+      name: Technologia weryfikacji
+    vg/pg_ratio:
+      name: Stosunek VG/PG
+    video_codecs/formats_supported:
+      name: Obsługiwane kodeki/formaty wideo
+    video_game_content_features:
+      name: Charakterystyka treści gry wideo
+    video_game_genre:
+      name: Gatunek gry wideo
+    video_game_platform:
+      name: Platforma gier wideo
+    video_game_sub_genre:
+      name: Podgatunek gry wideo
+    video_port_type:
+      name: Typ portu wideo
+    video_region_code:
+      name: Kod regionu filmu
+    video_resolution_supported:
+      name: Obsługiwana rozdzielczość wideo
+    viewing_area_height:
+      name: Wysokość obszaru wyświetlania
+    viewing_area_width:
+      name: Szerokość obszaru wyświetlania
+    vinegar_drink_variety:
+      name: Odmiana napoju octowego
+    vinegar_variety:
+      name: Odmiana octu
+    viscosity:
+      name: Lepkość
+    visual_effect:
+      name: Efekt wizualny
+    voip_protocol_support:
+      name: Obsługa protokołu Voip
+    wader_type:
+      name: Typ spodniobutów
+    waist_rise:
+      name: Wysokość talii
+    wall_material:
+      name: Materiał ściany
+    wall_patching_application:
+      name: Zastosowanie łaty ściennej
+    wall_plate_style:
+      name: Styl płyty ściennej
+    wallet_features:
+      name: Charakterystyka portfela
+    wallpaper_application_method:
+      name: Metoda aplikacji tapety
+    wallpaper_theme:
+      name: Motyw tapety
+    warning_category:
+      name: Kategoria ostrzeżenia
+    washer/dryer_features:
+      name: Charakterystyka pralki/suszarki
+    washer_form:
+      name: Forma podkładki
+    washing_machine_features:
+      name: Charakterystyka pralki
+    washing_method:
+      name: Metoda czyszczenia
+    washing_programs:
+      name: Programy prania
+    waste_bag_features:
+      name: Charakterystyka worka na odpady
+    waste_bag_material:
+      name: Materiał worka na odpady
+    watch/band_material:
+      name: Materiał zegarka/paska
+    watch_accessory_style:
+      name: Styl akcesoriów do zegarka
+    watch_display:
+      name: Wyświetlacz zegarka
+    watch_features:
+      name: Charakterystyka zegarka
+    watch_material:
+      name: Materiał zegarka
+    water_filter_application:
+      name: Instalacja filtra wody
+    water_sport:
+      name: Sport wodny
+    watercraft_engine_control_type:
+      name: Elementy sterowania silnikiem do jednostek pływających
+    watercraft_features:
+      name: Charakterystyka jednostki pływającej
+    watercraft_motor_mounting_type:
+      name: Typ mocowania silnika jednostki pływającej
+    watercraft_propulsion_type:
+      name: Rodzaj napędu jednostki pływającej
+    watercraft_steering_wheel_type:
+      name: Typ kierownicy jednostki pływającej
+    watercraft_type:
+      name: Typ jednostki pływającej
+    waveski_features:
+      name: Cechy deski waveski
+    wax_application_method:
+      name: Metoda aplikacji wosku
+    wax_type:
+      name: Typ wosku
+    weather_strip_design:
+      name: Projekt taśmy uszczelniającej
+    weather_supply_application_method:
+      name: Metoda aplikacji w zależności od pogody
+    weatherization_application:
+      name: Zastosowanie termomodernizacji
+    webcam_design:
+      name: Konstrukcja kamery internetowej
+    weight_bar_activity:
+      name: Ćwiczenie ze sztangą
+    weight_bar_type:
+      name: Typ sztangi
+    weight_type:
+      name: Typ wagi
+    weight_unit_supported:
+      name: Obsługiwana jednostka masy
+    welding_helmet_features:
+      name: Charakterystyka hełmu dla spawacza
+    wet_bag_features:
+      name: Charakterystyka worków na mokre rzeczy
+    wheel_hardness:
+      name: Twardość koła
+    wheel_hub_placement:
+      name: Umiejscowienie piasty koła
+    wheel_part_type:
+      name: Typ części koła
+    wheel_type:
+      name: Typ koła
+    wheelchair_type:
+      name: Typ wózka inwalidzkiego
+    whiskey_style:
+      name: Styl whisky
+    whiskey_variety:
+      name: Odmiana whisky
+    wi_fi_band:
+      name: Pasmo Wi-Fi
+    wi_fi_standard:
+      name: Standard Wi-Fi
+    winder_features:
+      name: Charakterystyka zwijacza strun
+    windlass_design:
+      name: Projekt windy kotwicznej
+    window_treatment_material:
+      name: Materiał do zasłon okiennych
+    windsurfing_board_style:
+      name: Styl deski windsurfingowej
+    wine_rack_design:
+      name: Projekt stojaka na wino
+    wine_sweetness:
+      name: Słodkość wina
+    wine_variety:
+      name: Odmiana wina
+    wipe_dispenser/warmer_features:
+      name: Charakterystyka zasobników i podgrzewaczy do chusteczek
+    wipe_dispenser_features:
+      name: Charakterystyka zasobnika na chusteczki
+    wipe_fragrance:
+      name: Zapach chusteczek
+    wipe_packaging:
+      name: Opakowanie chusteczek nawilżanych
+    wipe_warmer_features:
+      name: Charakterystyka podgrzewacza do chusteczek
+    wire/rope_material:
+      name: Materiał drutu/sznura
+    wire_thickness:
+      name: Grubość przewodu
+    woodwind_care_items_included:
+      name: W zestawie elementy do pielęgnacji instrumentów dętych drewnianych
+    work_capacity:
+      name: Wytrzymałość robocza
+    wreath_design:
+      name: Projekt wieńca
+    yacht_type:
+      name: Typ jachtu
+    yarn_weight_category:
+      name: Kategoria wagowa przędzy
+    zipper_pull_style:
+      name: Styl zapięcia na zamek błyskawiczny
+    zoom_type:
+      name: Typ powiększenia

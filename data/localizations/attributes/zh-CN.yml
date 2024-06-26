@@ -1,0 +1,4531 @@
+---
+zh-CN:
+  attributes:
+    3d_glasses_material:
+      name: 3D 眼镜材质
+    abrasive_material:
+      name: 研磨材料
+    absinthe_style:
+      name: 苦艾酒款式
+    absinthe_variety:
+      name: 苦艾酒品种
+    absorbency_level:
+      name: 吸水性等级
+    absorbent_hygiene_product_features:
+      name: 吸水卫生用品特点
+    academic_level:
+      name: 学术水平
+    accessory_material:
+      name: 配件材质
+    accessory_size:
+      name: 配件尺寸
+    accordion_tuning:
+      name: 手风琴调音
+    active_ingredient:
+      name: 活性成分
+    activewear_clothing_features:
+      name: 运动服特点
+    activity:
+      name: 活动
+    activity_tracker_design:
+      name: 活动追踪器设计
+    acupuncture_model_format:
+      name: 针灸模型形态
+    acupuncture_model_type:
+      name: 针灸模型类型
+    additional_animation_software_features:
+      name: 其他动画软件功能
+    additional_design_software_type:
+      name: 其他设计软件类型
+    additional_financial_software_features:
+      name: 其他财务软件功能
+    additional_graphic_software_features:
+      name: 其他图形软件功能
+    additional_publishing_software_features:
+      name: 其他排版软件功能
+    additional_security_software_features:
+      name: 其他安全软件功能
+    adhesive_type:
+      name: 粘合剂类型
+    aftershave_product_form:
+      name: 须后产品形态
+    age_group:
+      name: 年龄段
+    age_restrictions:
+      name: 年龄限制
+    ai_application:
+      name: AI 应用程序
+    air_freshener_form:
+      name: 空气清新剂形式
+    air_mattress_features:
+      name: 充气床垫特点
+    airbrush_feed_type:
+      name: 喷枪进料类型
+    airbrush_operation_method:
+      name: 喷枪操作方法
+    airsoft_equipment_included:
+      name: 包含软弹气枪设备
+    album_type:
+      name: 专辑类型
+    alert_type:
+      name: 警报类型
+    allergen_information:
+      name: 过敏原信息
+    allergen_test_type:
+      name: 过敏原测试类型
+    allergens:
+      name: 过敏原
+    allergy_friendly_features:
+      name: 抗过敏特性
+    amplifier/booster_suitable_location:
+      name: 放大器/助力器适用地点
+    amplifier_class:
+      name: 扩音器类
+    amplifier_configuration:
+      name: 放大器配置
+    anchor_type:
+      name: 锚类型
+    anemometer_application:
+      name: 风速计应用
+    angles_supported:
+      name: 支持的角度
+    angling_style:
+      name: 钓鱼器具款式
+    animal_feed_form:
+      name: 动物饲料型
+    animal_type:
+      name: 动物类型
+    antenna_type:
+      name: 天线类型
+    anti_agin_skin_care_type:
+      name: 抗衰老护肤品类型
+    antifreeze_type:
+      name: 防冻液类型
+    application_area:
+      name: 应用领域
+    application_method:
+      name: 应用方法
+    applicator_material:
+      name: 涂抹器材质
+    applicator_type:
+      name: 敷抹器类型
+    applique/patch_shape:
+      name: 贴花/贴片形状
+    applique_shape:
+      name: 贴花形状
+    aquarium_filter_features:
+      name: 水族箱过滤器特点
+    aquarium_light_spectrum:
+      name: 水族箱光谱
+    aquarium_overflow_box_design:
+      name: 水族箱溢流盒设计
+    archery_activity:
+      name: 射箭活动
+    archery_equipment_included:
+      name: 包含射箭设备
+    archery_style:
+      name: 射箭器具款式
+    aromatherapy:
+      name: 芳香疗法
+    arrangement:
+      name: 安排
+    arrow/bolt_material:
+      name: 箭头/螺栓材质
+    arrow_fletching_material:
+      name: 箭羽材质
+    arrow_material:
+      name: 箭头材质
+    art/crafting_tool_material:
+      name: 手工艺工具材料
+    art_fixative_application_method:
+      name: 艺术品固定剂使用方法
+    art_style:
+      name: 艺术风格
+    artwork_frame_material:
+      name: 艺术品框架材料
+    artwork_type:
+      name: 艺术品类型
+    assisted_braking_technology:
+      name: 辅助制动技术
+    attachment_method:
+      name: 安装方式
+    attachment_options:
+      name: 安装选项
+    attachment_type:
+      name: 安装类型
+    atv/off_road_tire_type:
+      name: ATV/越野轮胎类型
+    audio/scan_converter_features:
+      name: 音频/扫描转换功能
+    audio_codecs/formats_supported:
+      name: 支持的音频编解码器/格式
+    audio_connectivity:
+      name: 音频连接
+    audio_converter_features:
+      name: 音频转换器功能
+    audio_d/a_converter_dac:
+      name: 音频 D/A 转换器 (DAC)
+    audio_mixer_type:
+      name: 音频混音器类型
+    audio_output_channel:
+      name: 音频输出通道
+    audio_output_format:
+      name: 音频输出格式
+    audio_player/recorder_features:
+      name: 音频播放器/录音机功能
+    audio_purpose:
+      name: 音频用途
+    audio_technology:
+      name: 音频技术
+    authentication_technology:
+      name: 身份认证技术
+    authenticity:
+      name: 真实性
+    auto_focusing_modes:
+      name: 自动对焦模式
+    autoclave_sterilization_method:
+      name: 高压灭菌法
+    autograph_type:
+      name: 亲笔签名类型
+    automation:
+      name: 自动化
+    award_design:
+      name: 奖项设计
+    award_occasion:
+      name: 颁奖场合
+    awning_construction_type:
+      name: 遮阳篷结构类型
+    awning_design:
+      name: 遮阳篷设计
+    baby/toddler_car_seat_features:
+      name: 婴幼儿汽车安全座椅特点
+    baby/toddler_clothing_features:
+      name: 婴幼儿服装特点
+    baby/toddler_equipment_safety_features:
+      name: 婴幼儿设备安全功能
+    baby/toddler_furniture_features:
+      name: 婴幼儿家具特点
+    baby/toddler_furniture_items_included:
+      name: 包含婴幼儿家具用品
+    baby/toddler_hat_style:
+      name: 婴幼儿帽子款式
+    baby/toddler_hosiery_style:
+      name: 婴幼儿袜子款式
+    baby/toddler_seat_features:
+      name: 婴幼儿座椅特点
+    baby/toddler_sleepwear_style:
+      name: 婴幼儿睡衣款式
+    baby_drink_packaging:
+      name: 婴儿饮料包装
+    baby_equipment_safety_features:
+      name: 婴儿设备安全功能
+    baby_food_flavor:
+      name: 婴儿食品口味
+    baby_formula_format:
+      name: 婴儿配方奶粉形态
+    baby_gift_items_included:
+      name: 包括婴儿礼品
+    baby_health_items_included:
+      name: 包括婴儿保健用品
+    baby_monitor_features:
+      name: 婴儿监视器功能
+    baby_snack_flavor:
+      name: 婴儿零食口味
+    baby_snack_texture:
+      name: 婴儿零食质地
+    back_type:
+      name: 靠背类型
+    background_design:
+      name: 背景设计
+    backing_color:
+      name: 背景颜色
+    backing_material:
+      name: 背衬材料
+    backing_pattern:
+      name: 背景图案
+    backrest_type:
+      name: 座位靠背类型
+    backrest_upholstery_color:
+      name: 靠背装饰颜色
+    backrest_upholstery_material:
+      name: 靠背装饰材料
+    backrest_upholstery_pattern:
+      name: 靠背装饰图案
+    bag/case_closure:
+      name: 袋/箱封口
+    bag/case_features:
+      name: 箱包特点
+    bag/case_material:
+      name: 箱包材质
+    bag/case_storage_features:
+      name: 箱包收纳功能
+    bag_closure:
+      name: 包袋闭合方式
+    bag_strap_type:
+      name: 包带类型
+    bag_style:
+      name: 包袋款式
+    bag_type:
+      name: 包类型
+    bakery_items_included:
+      name: 包含烘焙食品
+    bakeware_features:
+      name: 烘焙用具特点
+    bakeware_items_included:
+      name: 包含烘焙用具
+    bakeware_pieces_included:
+      name: 包括烘焙用具
+    bakeware_shape:
+      name: 烘焙用具形状
+    baking_purpose:
+      name: 烘焙目的
+    baking_sheet_material:
+      name: 烤盘材质
+    ball_material:
+      name: 球材质
+    ball_size:
+      name: 球尺寸
+    balloon_kit_items_included:
+      name: 内附气球套件物品
+    balloon_shape:
+      name: 气球形状
+    band_color:
+      name: 表带颜色
+    band_material:
+      name: 表带材质
+    band_pattern:
+      name: 带状图案
+    band_strength:
+      name: 带强度
+    banner_design:
+      name: 横幅设计
+    bar_mounting_type:
+      name: 杆安装类型
+    barcode_scanner_interface:
+      name: 条码扫描器接口
+    barcode_supported:
+      name: 支持的条码
+    barrel_material:
+      name: 筒体材质
+    barware_items_included:
+      name: 包含酒吧用具
+    barware_material:
+      name: 酒吧用具材质
+    base_oil:
+      name: 基础油
+    base_spirit:
+      name: 基酒
+    base_type:
+      name: 底座类型
+    baseball/softball_ball_type:
+      name: 棒球/垒球球型
+    basket_material:
+      name: 篮筐材质
+    basketball_equipment_included:
+      name: 包含篮球装备
+    bass_button_configuration:
+      name: 低音按键配置
+    bat_material:
+      name: 球棒材质
+    bat_standard:
+      name: 球棒标准
+    bathroom_furniture_items_included:
+      name: 包含浴室家具用品
+    bathtub_base_design:
+      name: 浴缸底座设计
+    bathtub_features:
+      name: 浴缸特点
+    bathtub_skirt_shape:
+      name: 裙边式浴缸形状
+    baton_grip_design:
+      name: 指挥棒握把设计
+    battery_cell_type:
+      name: 蓄电池类型
+    battery_features:
+      name: 电池特点
+    battery_management_features:
+      name: 电池管理功能
+    battery_size:
+      name: 电池尺寸
+    battery_technology:
+      name: 电池技术
+    battery_type:
+      name: 电池类型
+    bead_shape:
+      name: 珠子形状
+    beat_subdivisions:
+      name: 节拍细分
+    beater_head_size:
+      name: 锤头尺寸
+    bed/frame_features:
+      name: 床/床架特点
+    bed_pan_type:
+      name: 便盆类型
+    bedding_pieces_included:
+      name: 包括床上用品
+    bedding_size:
+      name: 床上用品尺寸
+    beer_style:
+      name: 啤酒款式
+    beer_variety:
+      name: 啤酒品种
+    bell_design:
+      name: 铃设计
+    bell_size:
+      name: 喇叭尺寸
+    bell_sound:
+      name: 铃声
+    belt_type:
+      name: 系带类型
+    best_uses:
+      name: 最佳用途
+    bevel_type:
+      name: 斜角类型
+    beverage_product_form:
+      name: 饮料产品形态
+    bib_design:
+      name: 围兜设计
+    bicycle_brake_type:
+      name: 自行车制动类型
+    bicycle_features:
+      name: 自行车特点
+    bidet_mounting_type:
+      name: 坐浴盆安装方式
+    binder_ring_shape:
+      name: 活页夹环形状
+    binding_mount:
+      name: 固定装置
+    binding_style:
+      name: 固定方式
+    binocular/monocular_design:
+      name: 双筒/单筒设计
+    binocular_design:
+      name: 双目镜设计
+    biometric_monitor_accessory_features:
+      name: 生物特征监测器配件功能
+    bios_type:
+      name: BIOS 类型
+    bird_cage/stand_design:
+      name: 鸟笼/鸟架设计
+    bird_food_form:
+      name: 鸟食形态
+    bird_food_ingredients:
+      name: 鸟食成分
+    bird_treat_type:
+      name: 鸟用零食类型
+    birthday_candle_design:
+      name: 生日蜡烛设计
+    birthday_candle_type:
+      name: 生日蜡烛类型
+    bitter_variety:
+      name: 苦味品种
+    blade_curve:
+      name: 刃口曲线
+    blade_design:
+      name: 刀片设计
+    blade_material:
+      name: 刀刃材质
+    blade_type:
+      name: 刀片类型
+    blanket_color:
+      name: 毯子颜色
+    blanket_pattern:
+      name: 毯子图案
+    blending_type:
+      name: 混合类型
+    blind/shade_style:
+      name: 百叶窗/遮光帘款式
+    blood_test_kit_components:
+      name: 血液检测套件组件
+    board_concave_shape:
+      name: 板凹形状
+    board_game_features:
+      name: 棋盘游戏特点
+    board_game_mechanics:
+      name: 棋盘游戏机制
+    board_material:
+      name: 板材材质
+    board_mounting_type:
+      name: 板安装方式
+    board_profile:
+      name: 板外形
+    board_surface:
+      name: 板面
+    board_type:
+      name: 板类型
+    boat_type:
+      name: 船类型
+    body/facial_hair_type:
+      name: 身体/面部毛发类型
+    body_area:
+      name: 身体部位
+    body_color:
+      name: 机身颜色
+    body_jewelry_type:
+      name: 穿刺饰品类型
+    body_material:
+      name: 机身材质
+    body_paint/foundation_type:
+      name: 身体彩绘/粉底类型
+    body_pattern:
+      name: 身体图案
+    bodyboard_features:
+      name: 冲浪趴板特点
+    boiler_system:
+      name: 锅炉系统
+    bolt_form:
+      name: 螺栓形式
+    bolt_material:
+      name: 螺栓材质
+    book/file_cover_material:
+      name: 书籍/文件封面材质
+    book_cover_material:
+      name: 书籍封面材质
+    book_cover_type:
+      name: 书籍封面类型
+    bookmark_design:
+      name: 书签设计
+    bookmark_shape:
+      name: 书签形状
+    boot_style:
+      name: 靴子款式
+    boot_type:
+      name: 靴子类型
+    borescope_design:
+      name: 管道镜设计
+    bottle/container_closure:
+      name: 瓶子/容器封盖
+    bottle_closure_type:
+      name: 瓶盖类型
+    bottle_design:
+      name: 瓶子设计
+    bottle_material:
+      name: 瓶身材质
+    bottle_sterilizer_features:
+      name: 奶瓶消毒器特点
+    bottle_type:
+      name: 瓶子类型
+    bottle_warmer/sterilizer_features:
+      name: 奶瓶加热器/消毒器特点
+    bottle_warmer_features:
+      name: 奶瓶加热器特点
+    bottom_surface_material:
+      name: 底面材质
+    bow/crossbow_features:
+      name: 弓/弩特点
+    bow_features:
+      name: 弓特点
+    bow_hair_material:
+      name: 弓毛材质
+    bow_material:
+      name: 弓材质
+    box_type:
+      name: 箱子类型
+    bra_closure_type:
+      name: 胸罩闭合类型
+    bra_coverage:
+      name: 胸罩遮盖范围
+    bra_features:
+      name: 文胸特点
+    bra_strap_type:
+      name: 胸罩肩带类型
+    bra_style:
+      name: 文胸款式
+    bra_support_level:
+      name: 胸罩支撑度
+    bracelet_design:
+      name: 手镯设计
+    bracket/brace_design:
+      name: 托架/支架设计
+    brandy_variety:
+      name: 白兰地品种
+    breath_sprays_certifications:
+      name: 口气清新剂认证
+    bridge/router_advanced_features:
+      name: 网桥/路由器高级功能
+    brightness_levels:
+      name: 亮度水平
+    bristle_material:
+      name: 刷毛材质
+    bristle_shape:
+      name: 刷毛形状
+    broadhead/field_point_material:
+      name: 宽箭头/野外箭箭头材料
+    brush_application:
+      name: 刷子应用
+    brush_head_usage:
+      name: 刷头使用
+    brush_material:
+      name: 刷子材质
+    brush_size:
+      name: 画笔尺寸
+    brush_type:
+      name: 刷子类型
+    bug_type:
+      name: Bug 类型
+    building_board_material:
+      name: 建筑板材
+    building_consumable_form:
+      name: 建筑消耗品形式
+    building_toy_type:
+      name: 建筑玩具类型
+    bulb_cap_type:
+      name: 灯泡盖类型
+    bulb_shape:
+      name: 灯泡形状
+    bulb_size:
+      name: 灯泡尺寸
+    bulb_type:
+      name: 灯泡类型
+    bulldozer_blade_type:
+      name: 推土机铲刀类型
+    bullet_protection_level:
+      name: 防弹等级
+    bullhorn_features:
+      name: 扩音器功能
+    bullion_form:
+      name: 贵金属形状
+    burner_material:
+      name: 燃烧器材质
+    butt_cap_color:
+      name: 尾盖颜色
+    butt_cap_material:
+      name: 尾盖材质
+    butt_cap_pattern:
+      name: 尾盖图案
+    button/snap_closure_type:
+      name: 纽扣/按扣类型
+    cabinet_type:
+      name: 储藏柜类型
+    cable_housing_material:
+      name: 刹车导线材料
+    cable_shielding:
+      name: 电缆屏蔽
+    cable_type:
+      name: 电缆类型
+    cage_type:
+      name: 护框类型
+    calculator_accessory_type:
+      name: 计算器配件类型
+    calculator_features:
+      name: 计算器功能
+    calendar/organizer_features:
+      name: 日程本功能
+    calendar_format:
+      name: 日历格式
+    cam_system:
+      name: 凸轮系统
+    camera_attachment:
+      name: 相机附件
+    camera_button/knob_type:
+      name: 相机按钮/旋钮类型
+    camera_control_type:
+      name: 相机控制类型
+    camera_display_technology:
+      name: 相机显示技术
+    camera_features:
+      name: 相机功能
+    camera_gear_type:
+      name: 相机齿轮类型
+    camera_hd_type:
+      name: 相机 HD 类型
+    camera_lens_material:
+      name: 相机镜头材质
+    camera_lens_type:
+      name: 相机镜头类型
+    camera_mounting_type:
+      name: 相机安装方式
+    camera_sensor_type:
+      name: 相机传感器类型
+    camera_shape:
+      name: 相机形状
+    candle_kit_items_included:
+      name: 随附蜡烛套件物品
+    candle_material:
+      name: 蜡烛材质
+    candle_shape:
+      name: 蜡烛形状
+    candle_type:
+      name: 蜡烛类型
+    canned_meat_variety:
+      name: 肉类罐头品种
+    canopy_color:
+      name: 顶篷颜色
+    canopy_material:
+      name: 顶篷材质
+    canopy_pattern:
+      name: 顶篷图案
+    canvas_finish:
+      name: 帆布饰面
+    canvas_material:
+      name: 画布材质
+    canvas_texture:
+      name: 画布纹理
+    car_freshener_fragrance:
+      name: 汽车清新剂香精
+    car_seat_installation:
+      name: 汽车座椅安装
+    car_seat_orientation:
+      name: 汽车座椅方向
+    car_type:
+      name: 车类型
+    carabiner_gate_type:
+      name: 钩环开口类型
+    carabiner_shape:
+      name: 登山扣形状
+    card/adapter_installation:
+      name: 存储卡/适配器安装
+    card_attributes:
+      name: 卡牌属性
+    card_design:
+      name: 卡片设计
+    card_format:
+      name: 卡片格式
+    card_holder_design:
+      name: 卡夹设计
+    card_size:
+      name: 卡片尺寸
+    care_instructions:
+      name: 保养说明
+    carry_options:
+      name: 携带选项
+    carrying_positions:
+      name: 携带位置
+    carrying_type:
+      name: 携带类型
+    cart_design:
+      name: 推车设计
+    cart_type:
+      name: 推车类型
+    cartridge_type:
+      name: 磁带盒类型
+    case_color:
+      name: 表壳颜色
+    case_pattern:
+      name: 盒子图案
+    case_type:
+      name: 外装盒类型
+    cassette_adapter_type:
+      name: 盒式适配器类型
+    cat_age_group:
+      name: 猫咪年龄段
+    cat_litter_formula:
+      name: 猫砂配方
+    cbd_ingredients:
+      name: 大麻二酚含量
+    celebration_type:
+      name: 庆典型
+    chain_link_type:
+      name: 链节类型
+    chain_type:
+      name: 链条类型
+    chair/sofa_features:
+      name: 椅子/沙发特点
+    chair_features:
+      name: 椅子特点
+    chalkboard_surface:
+      name: 黑板面
+    changing_mat/tray_features:
+      name: 换尿布垫/换尿布盘的特点
+    changing_mat_features:
+      name: 换尿布垫特点
+    changing_tray_features:
+      name: 换尿布盘特点
+    charger_type:
+      name: 充电器类型
+    charging_cable_type:
+      name: 充电线类型
+    charging_level:
+      name: 充电电量
+    charging_method:
+      name: 充电方式
+    chassis_type:
+      name: 机箱类型
+    chemical_application:
+      name: 化学应用
+    chemical_container_type:
+      name: 化学品容器类型
+    chemical_grade:
+      name: 化学等级
+    chemical_product_form:
+      name: 化学品形态
+    chemical_purity:
+      name: 化学纯度
+    chemical_safety_features:
+      name: 化学安全特性
+    chicken_feed_stage:
+      name: 鸡饲料阶段
+    child_seat_placement:
+      name: 儿童座椅安装
+    chipper_technology:
+      name: 削片机技术
+    chiropractic_table_design:
+      name: 脊椎按摩床设计
+    chuck_type:
+      name: 卡盘类型
+    cigar_body:
+      name: 雪茄主体
+    circuit_board_features:
+      name: 电路板特点
+    circuit_breaker_design:
+      name: 断路器设计
+    circuit_breaker_panel_form:
+      name: 断路器面板形式
+    circuit_breaker_type:
+      name: 断路器类型
+    clarinet_key_system:
+      name: 单簧管琴键系统
+    clasp_type:
+      name: 卡扣类型
+    claw_design:
+      name: 爪形器具设计
+    clay/slip_texture:
+      name: 粘土/浆料质地
+    clay_texture:
+      name: 粘土质地
+    cleaner_purpose:
+      name: 清洁剂/去污剂用途
+    cleaning_instructions:
+      name: 清洁说明
+    cleaning_purpose:
+      name: 清洁目的
+    cleaning_surfaces:
+      name: 清洁表面
+    cleat_type:
+      name: 系缆墩类型
+    climbing_activity:
+      name: 攀岩活动
+    clip_type:
+      name: 夹子类型
+    clipper/trimmer_type:
+      name: 电推剪/理发器类型
+    closure_style:
+      name: 闭合方式
+    closure_type:
+      name: 闭合类型
+    clothing_accessory_material:
+      name: 服装配饰材质
+    clothing_features:
+      name: 服装特点
+    club_subset:
+      name: 球杆子集
+    club_type:
+      name: 球杆类型
+    coating/sealant_application:
+      name: 涂层/密封剂应用
+    cocktail_decoration_design:
+      name: 鸡尾酒装饰设计
+    cocktail_decoration_material:
+      name: 鸡尾酒装饰品材质
+    coffee/tea_set_pieces_included:
+      name: 包括咖啡/茶具
+    coffee_creamer_variety:
+      name: 咖啡奶精品种
+    coffee_input_type:
+      name: 咖啡输入类型
+    coffee_product_form:
+      name: 咖啡产品形态
+    coffee_roast:
+      name: 咖啡烘焙
+    coil_connection:
+      name: 线圈接头
+    coin_material:
+      name: 硬币材质
+    collar/mount_compatible_device:
+      name: 保护圈/转换座兼容设备
+    collar/mount_design:
+      name: 保护圈/转换座设计
+    collar_lock_type:
+      name: 项圈锁类型
+    color:
+      name: 颜色
+    color_accuracy_standards:
+      name: 色彩准确度标准
+    color_saturation:
+      name: 色彩饱和度
+    communication_device_features:
+      name: 通信设备功能
+    communication_protocols:
+      name: 通讯协议
+    compass_style:
+      name: 指南针样式
+    compatible_aircraft_type:
+      name: 兼容机型
+    compatible_amplifier:
+      name: 兼容放大器
+    compatible_aquarium:
+      name: 适用水族箱
+    compatible_baby_bottle_design:
+      name: 适用婴儿奶瓶设计
+    compatible_baby_carrier_type:
+      name: 适用婴儿背袋类型
+    compatible_baby_chair_type:
+      name: 适用婴儿椅类型
+    compatible_baby_transport_type:
+      name: 适用婴儿出行用品类型
+    compatible_ball_type:
+      name: 适用球类型
+    compatible_battery_size:
+      name: 适用电池容量
+    compatible_battery_technology:
+      name: 适用电池技术
+    compatible_bench_positions:
+      name: 兼容的工作台位置
+    compatible_bike_type:
+      name: 适用自行车类型
+    compatible_brass_instrument:
+      name: 兼容铜管乐器
+    compatible_clarinet_type:
+      name: 兼容单簧管类型
+    compatible_cosmetic_tools:
+      name: 适用美妆工具
+    compatible_device:
+      name: 适用设备
+    compatible_drum_configuration:
+      name: 兼容鼓配置
+    compatible_electric/acoustic_instrument:
+      name: 兼容电/声乐器
+    compatible_electronic_card_type:
+      name: 适用电子卡片类型
+    compatible_exercises:
+      name: 适用锻炼
+    compatible_filament:
+      name: 适用灯丝
+    compatible_film_type:
+      name: 兼容灯丝类型
+    compatible_flute_type:
+      name: 兼容长笛类型
+    compatible_game_format:
+      name: 适用游戏格式
+    compatible_gardening_tool:
+      name: 兼容的园艺工具
+    compatible_hair_color:
+      name: 适用染发剂
+    compatible_hammock_design:
+      name: 兼容的吊床设计
+    compatible_harmonica_type:
+      name: 兼容口琴类型
+    compatible_hdcp:
+      name: 适用 HDCP
+    compatible_instrument:
+      name: 兼容仪器
+    compatible_keyboard_configuration:
+      name: 兼容键盘配置
+    compatible_lock_type:
+      name: 适用锁类型
+    compatible_makeup:
+      name: 适用化妆用品
+    compatible_mattress_size:
+      name: 兼容的床垫尺寸
+    compatible_memory_cards:
+      name: 适用存储卡
+    compatible_microphone_thread:
+      name: 适用麦克风线
+    compatible_motherboard_form_factor:
+      name: 适用主板形状因子
+    compatible_oboe_type:
+      name: 兼容双簧管类型
+    compatible_operating_system:
+      name: 适用操作系统
+    compatible_orchestral_string_instrument:
+      name: 兼容管弦乐器
+    compatible_paper_size:
+      name: 适用纸张尺寸
+    compatible_patient_profile:
+      name: 适用患者资料
+    compatible_percussion_instrument:
+      name: 兼容打击乐器
+    compatible_play_vehicle_type:
+      name: 兼容游戏车辆类型
+    compatible_player:
+      name: 兼容播放器
+    compatible_printer:
+      name: 兼容打印机
+    compatible_processor_series:
+      name: 适用处理器系列
+    compatible_programming_languages:
+      name: 适用编程语言
+    compatible_recipes:
+      name: 适用食谱
+    compatible_resolution:
+      name: 适用分辨率
+    compatible_seat_type:
+      name: 适用座椅类型
+    compatible_shoe_size:
+      name: 适用鞋码
+    compatible_software_platform:
+      name: 兼容软件平台
+    compatible_special_effects_device:
+      name: 兼容特效设备
+    compatible_stove_top_type:
+      name: 兼容的炉灶类型
+    compatible_string_instrument:
+      name: 兼容弦乐器
+    compatible_stroller_type:
+      name: 适用婴儿车类型
+    compatible_vacuum_type:
+      name: 适用吸尘器类型
+    compatible_vehicle:
+      name: 适用车辆
+    compatible_walking_aid_equipment:
+      name: 适用助行设备
+    compatible_weight_lifting_accessory:
+      name: 兼容的举重配件
+    compliance_certifications:
+      name: 合规认证
+    component_output_type:
+      name: 组件输出类型
+    component_package_type:
+      name: 元件包裹类型
+    compression_format:
+      name: 压缩格式
+    compression_level:
+      name: 压缩级别
+    computer_accessories_included:
+      name: 包括计算机配件
+    computer_form:
+      name: 计算机形式
+    computer_server_features:
+      name: 计算机服务器功能
+    computer_specialized_features:
+      name: 计算机专业功能
+    concertina_button_configuration:
+      name: 手风琴按键配置
+    condition:
+      name: 商品状况
+    conditioner_effect:
+      name: 护发素效果
+    condom_type:
+      name: 安全套类型
+    connecting_thread:
+      name: 连接螺纹
+    connection_method:
+      name: 连接方式
+    connection_type:
+      name: 连接类型
+    connectivity_technology:
+      name: 连接技术
+    connector_design:
+      name: 连接器设计
+    connector_gender:
+      name: 连接器公母
+    console_system:
+      name: 控制手柄系统
+    constitutive_ingredients:
+      name: 构成成分
+    construction_set_theme:
+      name: 搭建套装主题
+    contrast:
+      name: 对比
+    contrast_ratio_typical:
+      name: 对比度（典型）
+    control_functions:
+      name: 控制功能
+    control_method:
+      name: 控制方法
+    control_technology:
+      name: 控制技术
+    control_type:
+      name: 控制类型
+    controller_design:
+      name: 控制器设计
+    controller_drive_type:
+      name: 控制器驱动类型
+    converter_functionality:
+      name: 转换器功能
+    conveyor_operation:
+      name: 输送机操作
+    cooking_method:
+      name: 烹调方法
+    cooking_wine_variety:
+      name: 料酒品种
+    cookware/bakeware_features:
+      name: 炊具/烘焙用具特点
+    cookware/bakeware_material:
+      name: 炊具/烘焙用具材质
+    cookware_features:
+      name: 炊具特点
+    cookware_items_included:
+      name: 包含炊具
+    cooling_technology:
+      name: 散热技术
+    cord_fastening_system:
+      name: 绳索紧固系统
+    core_color:
+      name: 芯颜色
+    core_material:
+      name: 芯材质
+    core_pattern:
+      name: 芯图案
+    corrector_features:
+      name: 校正工具特点
+    corsage/boutonniere_design:
+      name: 小花束/胸花√®重新设计
+    cosmetic_condition:
+      name: 外观状况
+    cosmetic_finish:
+      name: 美容润饰
+    cosmetic_function:
+      name: 美容功能
+    costume_theme:
+      name: 服装主题
+    counter_shape:
+      name: 柜台形状
+    country:
+      name: 国家/地区
+    cover_closure_design:
+      name: 盖闭合设计
+    cover_color:
+      name: 遮盖颜色
+    cover_features:
+      name: 封面特征
+    cover_material:
+      name: 封盖材料
+    cover_pattern:
+      name: 遮盖形式
+    cover_type:
+      name: 盖罩类型
+    coverage_area:
+      name: 覆盖面积
+    coverage_region:
+      name: 覆盖区域
+    craft/sculpting_project_type:
+      name: 工艺/雕刻项目类型
+    craft_cutter/embosser_type:
+      name: 手工艺切割器/压花机类型
+    craft_decoration_maker_type:
+      name: 手工艺装饰制作机类型
+    craft_knife_design:
+      name: 手工刀设计
+    craft_pipe_cleaner_design:
+      name: 扭扭棒/绒线铁丝设计
+    craft_project_type:
+      name: 工艺项目类型
+    crafting_frame/stretcher_features:
+      name: 绣绷/箍圈特征
+    crafting_frame_features:
+      name: 绣绷特征
+    crafting_hoop_features:
+      name: 手工艺箍圈特征
+    crafting_mat/pad_features:
+      name: 手工艺衬垫/垫子特征
+    crafting_stretcher_features:
+      name: 箍圈特征
+    crampon_attachment_type:
+      name: 攀岩用鞋底钉的固定类型
+    creative_art_project_type:
+      name: 创意艺术项目类型
+    crib/toddler_bed_features:
+      name: 婴儿床/儿童床特点
+    crib_features:
+      name: 婴儿床特点
+    cricket_equipment_included:
+      name: 包含板球装备
+    crutch_type:
+      name: 拐杖类型
+    crystal_system:
+      name: 晶系
+    cue_style:
+      name: 台球杆款式
+    cue_type:
+      name: 台球杆类型
+    cue_wrap:
+      name: 台球杆包装
+    cuisine:
+      name: 美食
+    culinary_botanical_name:
+      name: 烹饪植物名称
+    cup_size:
+      name: 罩杯尺寸
+    curler_type:
+      name: 卷发器类型
+    currencies_supported:
+      name: 支持的货币
+    currency:
+      name: 货币
+    currency_type:
+      name: 货币类型
+    customer_support_channels:
+      name: 客户支持渠道
+    customization:
+      name: 定制
+    cutter_options:
+      name: 切刀类型
+    cutting_method:
+      name: 切割方法
+    cycling_style:
+      name: 骑行风格
+    data_network:
+      name: 数据网络
+    decoration_material:
+      name: 装饰品材质
+    decorative_stamp_design:
+      name: 装饰图章设计
+    denomination:
+      name: 面值
+    dental_floss_shape:
+      name: 牙线形状
+    dental_floss_thickness_level:
+      name: 牙线粗细等级
+    dental_floss_type:
+      name: 牙线类型
+    dental_mouthgard_recommended_use:
+      name: 牙套推荐用途
+    dental_mouthguard_certifications:
+      name: 牙套认证
+    dental_paste_flavor:
+      name: 牙膏香精
+    dental_repair_kit_certifications:
+      name: 假牙修复套装的认证
+    dental_water_jet_operation:
+      name: 水压式冲牙器的操作
+    dentistry_items_included:
+      name: 内附牙科用品
+    denture_base_color:
+      name: 义齿基托颜色
+    denture_coverage:
+      name: 义齿覆盖范围
+    denture_design:
+      name: 义齿设计
+    denture_teeth_color:
+      name: 义齿牙齿颜色
+    deployment_type:
+      name: 部署类型
+    desk_organizer_features:
+      name: 桌面文具盘特点
+    desk_size:
+      name: 桌子尺寸
+    detailed_ingredients:
+      name: 详细成分
+    detectable_drugs:
+      name: 可检测药物
+    detector_operation_mode:
+      name: 探测器操作模式
+    detector_sensitivity:
+      name: 探测器灵敏度
+    detector_type:
+      name: 探测器类型
+    developmental_features:
+      name: '发育展特征  '
+    device_interface:
+      name: 设备接口
+    device_technology:
+      name: 设备技术
+    dexterity_skills:
+      name: 敏捷技能
+    dial_color:
+      name: 表盘颜色
+    dial_pattern:
+      name: 表盘图案
+    diaper_bag_additional_features:
+      name: 尿布包的附加功能
+    diaper_bag_material:
+      name: 尿布包材质
+    diaper_bag_style:
+      name: 尿布包款式
+    diaper_features:
+      name: 尿布特点
+    diaper_kit_components:
+      name: 尿布套装组件
+    diaper_organizer_features:
+      name: 尿布收纳用品的特点
+    diaper_size:
+      name: 尿布尺寸
+    diaper_type:
+      name: 尿布类型
+    dice_shape:
+      name: 骰子形状
+    dielectric_type:
+      name: 电介质类型
+    dietary_preferences:
+      name: 饮食偏好
+    dietary_supplements:
+      name: 膳食补充剂
+    dietary_use:
+      name: 饮食用途
+    difficulty_level:
+      name: 难度级别
+    diffuser_design:
+      name: 扩散器设计
+    digital_sound_processing:
+      name: 数字声音处理
+    dinnerware_pieces_included:
+      name: 包括餐具
+    dirt_separating_method:
+      name: 污垢分离方法
+    discharge_type:
+      name: 放电类型
+    disk_format_type:
+      name: 磁盘格式类型
+    dispenser_type:
+      name: 分装器类型
+    display_board_features:
+      name: 显示板功能
+    display_color_mode:
+      name: 显示颜色模式
+    display_features:
+      name: 显示屏特点
+    display_mode:
+      name: 显示模式
+    display_recommended_use:
+      name: 显示推荐用法
+    display_resolution:
+      name: 显示屏分辨率
+    display_sign_design:
+      name: 展示标志设计
+    display_technology:
+      name: 显示屏技术
+    disposable/reusable_bag_features:
+      name: 一次性/可重复使用袋子的特点
+    disposable/reusable_item_material:
+      name: 一次性/可重复使用商品的材质
+    disposable_bag_features:
+      name: 一次性袋子特点
+    disposable_bag_material:
+      name: 一次性袋子材质
+    disposable_glove_features:
+      name: 一次性手套特点
+    disposable_tableware_material:
+      name: 一次性餐具材质
+    dive_computer_items_included:
+      name: 包含潜水电脑物品
+    diving/snorkeling_equipment_included:
+      name: 包含潜水/浮潜设备
+    diving_regulator_style:
+      name: 呼吸调节器款式
+    dj_equipment_features:
+      name: DJ 设备特点
+    dj_software_compatibility:
+      name: DJ 软件兼容性
+    dog_age_group:
+      name: 犬只年龄段
+    dog_diaper_size:
+      name: 狗尿布尺寸
+    dog_diaper_type:
+      name: 狗尿布类型
+    dog_house_features:
+      name: 狗屋特点
+    dog_kennel/run_features:
+      name: 狗窝/狗笼/狗运动区特点
+    dog_kennel_features:
+      name: 狗窝/狗笼特点
+    dog_pen_features:
+      name: 狗围栏特点
+    dog_toy_type:
+      name: 狗狗玩具类型
+    doll/playset_features:
+      name: 玩偶/玩具套装特点
+    doll_features:
+      name: 玩偶特点
+    doll_type:
+      name: 玩偶类型
+    door/frame_application:
+      name: 门/门框应用
+    door_application:
+      name: 门应用
+    door_closer_application:
+      name: 闭门器应用
+    door_closer_design:
+      name: 闭门器设计
+    door_color:
+      name: 门颜色
+    door_frame_application:
+      name: 门框应用
+    door_frame_finish:
+      name: 门框饰面
+    door_glass_finish:
+      name: 门玻璃饰面
+    door_insulation:
+      name: 门隔热材料
+    door_knob_function:
+      name: 门把手功能
+    door_mat_base_color:
+      name: 门垫底部颜色
+    door_mat_base_material:
+      name: 门垫底部材质
+    door_mat_base_pattern:
+      name: 门垫底部图案
+    door_mat_surface_material:
+      name: 门垫表面材质
+    door_material:
+      name: 门材质
+    door_pattern:
+      name: 门图案
+    door_stop_placement:
+      name: 门挡放置
+    door_stopper_design:
+      name: 门吸设计
+    door_suitable_location:
+      name: 门合适位置
+    door_surface_finish:
+      name: 门表面光洁度
+    door_type:
+      name: 门类型
+    double_stroller_configuration:
+      name: 双人婴儿车配置
+    download_format:
+      name: 下载格式
+    drain_location:
+      name: 排水位置
+    drawing/painting_kit_items_included:
+      name: 内附绘图/绘画套件物品
+    dress_form_features:
+      name: 人台特点
+    dress_occasion:
+      name: 穿着场合
+    dress_style:
+      name: 裙子风格
+    drill_features:
+      name: 钻机特点
+    drilling_method:
+      name: 钻孔方法
+    drilling_rig_orientation:
+      name: 钻机定向仪
+    drinkware_material:
+      name: 饮具材质
+    drinkware_pieces_included:
+      name: 包括饮具
+    drive_size:
+      name: 驱动器尺寸
+    drive_type:
+      name: 驱动类型
+    drum_configuration:
+      name: 鼓配置
+    drum_hardware_adjustability:
+      name: 鼓硬件可调性
+    drum_hardware_material:
+      name: 鼓硬件材质
+    dry/wet_cleaning:
+      name: 干/湿洗
+    dry_bean_variety:
+      name: 干豆品种
+    dryer_features:
+      name: 烘干机特点
+    dryer_technology:
+      name: 干燥机技术
+    drying_speed:
+      name: 干燥速度
+    duct_design:
+      name: 管道设计
+    duct_shape:
+      name: 风管形状
+    duplexing_technology:
+      name: 双面技术
+    durability_features:
+      name: 耐用性特点
+    dust_container_type:
+      name: 集尘容器类型
+    dust_mask_type:
+      name: 防尘口罩类型
+    dye_form:
+      name: 染料形式
+    dynamic_level:
+      name: 动力水平
+    e_book_formats_supported:
+      name: 支持的电子书格式
+    e_cigarette/vaporizer_style:
+      name: 电子烟/雾化器款式
+    e_liquid_flavor:
+      name: 电子烟油香味
+    e_liquid_variety:
+      name: 电子烟油品种
+    e_reader_display_technology:
+      name: 电子阅读器显示屏技术
+    ear_care_application_method:
+      name: 耳部护理用品的使用方法
+    earphone_features:
+      name: 耳机功能
+    earplug_use:
+      name: 耳塞使用
+    earring_design:
+      name: 耳环设计
+    edge_style:
+      name: 边缘款式
+    edge_type:
+      name: 边缘样式
+    education_level:
+      name: 教育程度
+    egg_decorating_items_included:
+      name: 包括彩蛋装饰物品
+    egg_turning:
+      name: 翻转蛋
+    electronic_drum_components:
+      name: 电子鼓零部件
+    electronic_game_genre:
+      name: 电子游戏类型
+    embellishment/trim_material:
+      name: 装饰/修饰材料
+    embellishments:
+      name: 装饰品
+    embossing_project_type:
+      name: 压花项目类型
+    embouchure_hole_shape:
+      name: 吹孔形状
+    emergency/safety_sign_design:
+      name: 紧急/安全标志设计
+    emergency_items_included:
+      name: 包括应急物品
+    enclosure_type:
+      name: 封装类型
+    energy_efficiency_class:
+      name: 能源效率等级
+    energy_efficiency_class_hdr:
+      name: 能源效率等级 (HDR)
+    energy_efficiency_class_sdr:
+      name: 能源效率等级 (SDR)
+    engine_design:
+      name: 发动机设计
+    engine_purpose:
+      name: 发动机用途
+    engine_type:
+      name: 发动机类型
+    engraving:
+      name: 镌刻
+    envelope_features:
+      name: 信封特征
+    envelope_seal_design:
+      name: 信封封口设计
+    equipment_operation:
+      name: 装置操作
+    era:
+      name: 时代
+    esrb_rating:
+      name: ESRB 评级
+    ethernet_lan_interface_type:
+      name: 以太网 LAN 接口类型
+    ev_battery_features:
+      name: 电动汽车电池特点
+    ev_battery_type:
+      name: EV 电池类型
+    ev_connector/adapter_type:
+      name: EV 连接器/适配器类型
+    ev_conversion_kit_components:
+      name: EV 转换套件组件
+    evaporation_technology:
+      name: 蒸发技术
+    event_type:
+      name: 活动类型
+    exercise_equipment_included:
+      name: 包含健身器材
+    exercise_equipment_material:
+      name: 健身器材材质
+    exercise_machine_features:
+      name: 健身器材特点
+    exercise_mat_material:
+      name: 健身垫材质
+    expansion_slots:
+      name: 扩展插槽
+    exposure_control:
+      name: 曝光控制
+    extended_saxophone_range:
+      name: 加长萨克斯管音域
+    external_defibrillator_features:
+      name: 体外除颤器功能
+    extinguisher_rating:
+      name: 灭火器等级
+    extinguishing_agent_type:
+      name: 灭火剂类型
+    extraction_type:
+      name: 萃取类型
+    extractor_tip_style:
+      name: 提取器尖款式
+    eye_pillow_shape:
+      name: 眼枕形状
+    eye_shadow_effect:
+      name: 眼影效果
+    eyebrow_enhancer_color:
+      name: 眉毛化妆用品的颜色
+    eyelash_applicator_design:
+      name: 睫毛刷设计
+    eyelash_material:
+      name: 睫毛材质
+    eyelash_type:
+      name: 睫毛类型
+    eyepiece/adapter_material:
+      name: 显微镜目镜/转接器的材质
+    eyewear_frame_color:
+      name: 镜框颜色
+    eyewear_frame_design:
+      name: 镜框设计
+    eyewear_frame_material:
+      name: 镜框材质
+    eyewear_frame_pattern:
+      name: 镜框形式
+    eyewear_frame_shape:
+      name: 镜框形状
+    eyewear_lens_color:
+      name: 眼镜镜片颜色
+    eyewear_lens_material:
+      name: 眼镜镜片材质
+    eyewear_lens_pattern:
+      name: 眼镜镜片形式
+    fabric:
+      name: 织物
+    fabric_structure:
+      name: 织物结构
+    face_area:
+      name: 面部区域
+    face_powder_color:
+      name: 扑面粉颜色
+    face_powder_type:
+      name: 扑面粉类型
+    faceplate_design:
+      name: 面板设计
+    facility_sign_design:
+      name: 设施标志设计
+    false_nail_application_method:
+      name: 假指甲贴法
+    fastener_finish:
+      name: 紧固件表面处理
+    fastener_material:
+      name: 紧固件材质
+    fastener_type:
+      name: 紧固件类型
+    fat_content:
+      name: 脂肪含量
+    faucet_thread:
+      name: 水龙头螺纹
+    features:
+      name: 特点
+    feed_system:
+      name: 进给系统
+    feet_type:
+      name: 脚部类型
+    felt_tip_design:
+      name: 毡尖设计
+    feminine_sanitary_supply_features:
+      name: 女性卫生用品特点
+    fencing_components:
+      name: 击剑组件
+    fiber_art_project_type:
+      name: 纤维艺术项目类型
+    field_flatness:
+      name: 场地平整度
+    filament_type:
+      name: 线材类型
+    file_format_type:
+      name: 文件格式类型
+    file_shape:
+      name: 文件形状
+    filler_material:
+      name: 填充材料
+    filler_support:
+      name: 填充物支持
+    filler_type:
+      name: 填充物类型
+    filling/padding_project_type:
+      name: 填充物/填料项目类型
+    film_application_method:
+      name: 贴膜方法
+    film_format:
+      name: 胶片格式
+    film_type:
+      name: 胶片类型
+    filter_material:
+      name: 过滤材料
+    filter_type:
+      name: 过滤器类型
+    filtering_modes:
+      name: 过滤模式
+    filtration_class:
+      name: 过滤等级
+    fin_material:
+      name: 鳍片材质
+    fin_pocket_type:
+      name: 鳍板袋类型
+    fin_profile:
+      name: 鳍板外形
+    fingerboard_color:
+      name: 手指滑板颜色
+    fingerboard_material:
+      name: 指板材质
+    fingerboard_pattern:
+      name: 手指滑板图案
+    fingerprint_capture_method:
+      name: 指纹采集方法
+    finial_shape:
+      name: 最终形状
+    finish:
+      name: 抛光
+    fire_extinguisher_items_included:
+      name: 包含灭火器物品
+    firmness:
+      name: 坚固度
+    first_aid_kit_components:
+      name: 急救套装组件
+    first_aid_kit_usage:
+      name: 急救包使用
+    first_steps/crawlers_style:
+      name: 学步鞋/爬行鞋款式
+    fish_type:
+      name: 鱼类
+    fishing_rod_action:
+      name: 钓鱼竿敏感度
+    fishing_rod_power:
+      name: 钓鱼竿调性
+    fishing_wire_material:
+      name: 鱼线材质
+    fit:
+      name: 修身
+    fit_type:
+      name: 拟合类型
+    fixation_type:
+      name: 固定类型
+    flag_shape:
+      name: 旗帜形状
+    flare_type:
+      name: 闪光装置类型
+    flash_card_theme:
+      name: 闪卡主题
+    flash_modes:
+      name: 闪光模式
+    flash_type:
+      name: 闪光类型
+    flashing_material:
+      name: 防水板材质
+    flat_shoe_style:
+      name: 平底鞋款式
+    flatware_material:
+      name: 扁平餐具材质
+    flatware_pieces_included:
+      name: 包括扁平餐具
+    flavor:
+      name: 风味
+    flavor_profile:
+      name: 口味
+    flexibility_rating:
+      name: 灵活性评级
+    floral_wire_design:
+      name: 花线设计
+    flour/grain_type:
+      name: 面粉/谷物类型
+    flow_rate_type:
+      name: 流速类型
+    flower_color:
+      name: 花色
+    flower_pattern:
+      name: 花卉图案
+    flue_type:
+      name: 烟道类型
+    fluid_type:
+      name: 流体类型
+    flush_plate_color:
+      name: 冲水板颜色
+    flush_plate_pattern:
+      name: 冲水板图案
+    flush_system:
+      name: 冲水系统
+    flute_configuration:
+      name: 排屑槽配置
+    foam_form:
+      name: 泡沫形式
+    focus_adjustment:
+      name: 焦点调节
+    focus_device_type:
+      name: 对焦装置类型
+    focus_type:
+      name: 焦点类型
+    fold_type:
+      name: 折叠类型
+    folder/report_cover_material:
+      name: 文件夹/报告夹材质
+    folding_mechanism:
+      name: 折叠机制
+    font_style:
+      name: 字体样式
+    food_bag_material:
+      name: 食品袋材质
+    food_dispenser_type:
+      name: 食品分配器类型
+    food_product_form:
+      name: 食品产品形态
+    food_storage_material:
+      name: 食品保鲜袋材质
+    food_supplement_form:
+      name: 食品补充剂形态
+    footage_type:
+      name: 录像素材类型
+    footboard_type:
+      name: 踏板类型
+    footwear_color:
+      name: 鞋履颜色
+    footwear_material:
+      name: 鞋履材质
+    footwear_pattern:
+      name: 鞋履图案
+    format_supported:
+      name: 支持的格式
+    formula_level:
+      name: 配方分段
+    fossil_type:
+      name: 化石类型
+    foundation_color:
+      name: 床垫架/排骨架颜色
+    foundation_material:
+      name: 床垫架/排骨架材质
+    foundation_pattern:
+      name: 床垫架/排骨架图案
+    fragrance:
+      name: 香味
+    fragrance_level:
+      name: 香味等级
+    frame_color:
+      name: 框架颜色
+    frame_design:
+      name: 框架设计
+    frame_material:
+      name: 框架材料
+    frame_pattern:
+      name: 框架形式
+    frame_style:
+      name: 框架样式
+    frequency/radio_bands_supported:
+      name: 支持的频段/无线电频段
+    frequency_type:
+      name: 频率类型
+    frequency_weighting:
+      name: 频率计权
+    frog_material:
+      name: 饰扣材质
+    fruit_source:
+      name: 水果来源
+    fuel_additives:
+      name: 燃油添加剂
+    fuel_container_features:
+      name: 燃料罐特点
+    fuel_grade:
+      name: 燃油等级
+    fuel_purity:
+      name: 燃油纯度
+    fuel_source:
+      name: 燃料来源
+    fuel_supply:
+      name: 燃油供应
+    furniture/fixture_color:
+      name: 家具/附属装置颜色
+    furniture/fixture_features:
+      name: 家具/固定装置特征
+    furniture/fixture_material:
+      name: 家具/固定装置材质
+    furniture/fixture_pattern:
+      name: 家具/固定装置图案
+    game_components:
+      name: 游戏组件
+    game_difficulty:
+      name: 游戏难度
+    game_features:
+      name: 游戏特征
+    game_name:
+      name: 游戏名称
+    gameplay_skills:
+      name: 游戏技巧
+    games_included:
+      name: 包含游戏
+    garage_door_material:
+      name: 车库门材质
+    gardening_use:
+      name: 园艺用途
+    garment_steamer_design:
+      name: 挂烫机设计
+    gases_detected:
+      name: 探测到的气体
+    gate_mounting_type:
+      name: 闸门安装类型
+    gauge_type:
+      name: 计量表类型
+    gear_material:
+      name: 装备材质
+    gear_ratio:
+      name: 齿轮比
+    gearing_type:
+      name: 传动装置类型
+    gel_strength:
+      name: 凝胶强度
+    genre:
+      name: 类型
+    geological_era:
+      name: 地质时代
+    gift_bag_handle_design:
+      name: 礼品袋提手设计
+    gift_set_format:
+      name: 礼品套装形态
+    gin_variety:
+      name: 杜松子酒品种
+    glaze_finish:
+      name: 强光泽装饰
+    glazing_type:
+      name: 玻璃类型
+    glitter_shape:
+      name: 闪光片形状
+    glucose_meter_features:
+      name: 血糖仪特征
+    glue_gun_features:
+      name: 喷胶枪特点
+    glue_gun_operation:
+      name: 喷胶枪操作
+    glue_gun_technology:
+      name: 喷胶枪技术
+    glue_strength:
+      name: 胶水强度
+    golf_ball_type:
+      name: 高尔夫球型
+    golf_equipment_included:
+      name: 包含高尔夫装备
+    gps_compatible_device:
+      name: GPS 兼容设备
+    gps_device_features:
+      name: GPS 设备功能
+    gps_map_type:
+      name: GPS 地图类型
+    gps_software_focus:
+      name: GPS 软件关注点
+    grading:
+      name: 等级
+    grain:
+      name: 噪点
+    grape_variety:
+      name: 葡萄品种
+    graphics_card_type:
+      name: 显卡类型
+    graphics_tablet_accessories_included:
+      name: 包含手写板/绘图板配件
+    graphics_tablet_specialized_features:
+      name: 手写板/绘图板的特殊功能
+    gravel/substrate_material:
+      name: 沙砾/铺垫物材质
+    grease_filter_material:
+      name: 油脂过滤材料
+    grip_texture:
+      name: 握把纹理
+    grip_type:
+      name: 握把类型
+    grit_type:
+      name: 砂砾类型
+    grooming_kit_format:
+      name: 梳理套装形态
+    guitar_fitting/part_type:
+      name: 吉他零配件类型
+    guitar_size:
+      name: 吉他尺寸
+    gutter_fitting_type:
+      name: 天沟配件类型
+    gutter_style:
+      name: 檐槽样式
+    habitat_material:
+      name: 生态缸/生态盒材质
+    hair_care_finish:
+      name: 护发整理
+    hair_care_items_included:
+      name: 包含护发用品
+    hair_care_technology:
+      name: 护发技术
+    hair_color/shade:
+      name: 头发颜色/色调
+    hair_loss_type:
+      name: 脱发类型
+    hair_shear_type:
+      name: 理发剪类型
+    hair_styling_items_included:
+      name: 包含美发用品
+    hair_styling_tool_features:
+      name: 美发工具功能
+    hair_type:
+      name: 头发类型
+    hammer_head_material:
+      name: 锤头材质
+    hand_side:
+      name: 哪侧手
+    hand_warmer_type:
+      name: 暖手宝类型
+    handcuff_lock_type:
+      name: 镣锁类型
+    handle_color:
+      name: 手柄颜色
+    handle_design:
+      name: 手柄设计
+    handle_grip_texture:
+      name: 手柄握把质地
+    handle_material:
+      name: 手柄材质
+    handle_pattern:
+      name: 手柄图案
+    handle_type:
+      name: 手柄类型
+    handset_type:
+      name: 电话听筒类型
+    handwear_features:
+      name: 手套特点
+    handwear_material:
+      name: 手套材质
+    handwear_type:
+      name: 手套类型
+    hanging_chair_design:
+      name: 吊椅设计
+    hard_cider_variety:
+      name: 烈性苹果酒品种
+    hard_drive_features:
+      name: 硬盘特点
+    hard_drive_form_factor:
+      name: 硬盘尺寸
+    hard_drive_installation:
+      name: 硬盘安装方式
+    hardhat_class:
+      name: 安全帽等级
+    hardness:
+      name: 硬度
+    hardware_finish:
+      name: 硬件抛光
+    hardware_material:
+      name: 五金/硬件材质
+    hardware_mounting_type:
+      name: 硬件安装方式
+    hardwood_lumber_grade:
+      name: 硬木木材等级
+    harness_closure_type:
+      name: 安全带闭合类型
+    harp_size:
+      name: 竖琴尺寸
+    hatch_suitable_location:
+      name: 孵化合适位置
+    hazmat_suit_design:
+      name: 防护服设计
+    hdr_format:
+      name: HDR 格式
+    headjoint_cut:
+      name: 头管部切割
+    headphone_jack_type:
+      name: 耳机插孔类型
+    headphone_style:
+      name: 耳机款式
+    headwear_features:
+      name: 头饰特点
+    hearing_aid_features:
+      name: 助听器特点
+    hearing_aid_material:
+      name: 助听器材质
+    heat_function:
+      name: 加热功能
+    heat_level:
+      name: 热度
+    heat_settings:
+      name: 加热设置
+    heat_source:
+      name: 热源
+    heating_instructions:
+      name: 加热说明
+    heating_method:
+      name: 加热方法
+    heating_speed:
+      name: 加热速度
+    heel_height_type:
+      name: 鞋跟高度类型
+    heel_shoe_type:
+      name: 高跟鞋类型
+    height_adjustment:
+      name: 高度调节
+    helmet_shade_design:
+      name: 头盔遮罩设计
+    hitch_class:
+      name: 挂接类别
+    hitch_type:
+      name: 钩销类型
+    hockey_equipment_included:
+      name: 包含曲棍球装备
+    hold_level:
+      name: 定型水平
+    hook_design:
+      name: 挂钩设计
+    hook_grip_design:
+      name: 钩握设计
+    hook_size:
+      name: 挂钩尺寸
+    hook_type:
+      name: 挂钩类型
+    hoop_shape:
+      name: 环形
+    horse_category:
+      name: 马匹类别
+    horse_grooming_accessories_included:
+      name: 包含马梳配件
+    hose_material:
+      name: 软管材质
+    host_interface:
+      name: 主机接口
+    housing_color:
+      name: 外壳颜色
+    housing_material:
+      name: 外壳材质
+    housing_pattern:
+      name: 住宅形式
+    hub/switch_storage_options:
+      name: 集线器/切换器收纳类型
+    humidifier_design:
+      name: 加湿器设计
+    humidity_control:
+      name: 湿度控制
+    humidy_control:
+      name: 湿度控制
+    hunting/survival_knife_design:
+      name: 猎刀设计
+    hunting_blind_design:
+      name: 狩猎伪装设计
+    hvac_control_type:
+      name: 暖通空调控制类型
+    ice_pack_type:
+      name: 冰袋类型
+    icon_type:
+      name: 图标类型
+    ignition_system:
+      name: 点火系统
+    illumination_technique:
+      name: 照明技术
+    image_formats_supported:
+      name: 支持的图像格式
+    image_sensor_size:
+      name: 图像传感器尺寸
+    immobilizer_type:
+      name: 防盗器类型
+    incense_fragrance:
+      name: 熏香
+    incense_kit_items_included:
+      name: 包含香熏套件物品
+    incense_type:
+      name: 香类型
+    incontinence_aid_features:
+      name: 失禁辅助用品功能
+    industry_focus:
+      name: 行业聚焦
+    infant_age_group:
+      name: 婴幼儿年龄段
+    inflation_method:
+      name: 充气方法
+    ingredient_category:
+      name: 成分类别
+    ingredient_origin:
+      name: 成份来源
+    ingredients:
+      name: 成分
+    ink_application_technique:
+      name: 油墨应用技术
+    ink_color:
+      name: 墨水颜色
+    ink_form:
+      name: 油墨
+    ink_pattern:
+      name: 墨水形式
+    ink_type:
+      name: 墨水类型
+    inline_skating_style:
+      name: 内行滑冰样式
+    input/output_ports:
+      name: 输入/输出端口
+    input_connection:
+      name: 输入连接
+    instruction_set_architecture:
+      name: 指令集架构
+    instrument/accessory_finish:
+      name: 仪器/配件抛光
+    instrument_accessory_material:
+      name: 乐器附配件材质
+    instrument_bow_material:
+      name: 乐器琴弓材质
+    instrument_color:
+      name: 乐器颜色
+    instrument_controller_type:
+      name: 仪表控制器类型
+    instrument_material:
+      name: 乐器材质
+    instrument_part_material:
+      name: 乐器零件材质
+    instrument_pattern:
+      name: 乐器形式
+    instrument_string_color:
+      name: 乐器琴弦颜色
+    instrument_string_material:
+      name: 乐器琴弦材质
+    instrument_string_pattern:
+      name: 乐器琴弦形式
+    instrument_support_type:
+      name: 乐器支架类型
+    insulation_material:
+      name: 绝缘材料
+    intended_application:
+      name: 预期应用
+    interface_type:
+      name: 接口类型
+    internal_drive_form_factor_supported:
+      name: 支持的内部驱动器形状因子
+    intimate_apparel_features:
+      name: 贴身衣物特点
+    inverter_type:
+      name: 逆变器类型
+    invitation_personalization_design:
+      name: 邀请函个性化设计
+    ironing_features:
+      name: 熨烫特点
+    item_condition:
+      name: 物品状态
+    item_material:
+      name: 物品材质
+    item_style:
+      name: 商品款式
+    j_cup_type:
+      name: J 型钩类型
+    jaw_material:
+      name: 钳口材质
+    jewelry_finding_type:
+      name: 首饰类型
+    jewelry_material:
+      name: 首饰材质
+    jewelry_project_type:
+      name: 珠宝项目类型
+    jewelry_set_type:
+      name: 珠宝首饰套装类型
+    jewelry_type:
+      name: 珠宝类型
+    joint_connection:
+      name: 连接点连接
+    joint_face_type:
+      name: 接合面类型
+    joint_style:
+      name: 接头款式
+    jump_rope_design:
+      name: 跳绳设计
+    jumping_surface_color:
+      name: 跳跃表面颜色
+    jumping_surface_material:
+      name: 跳跃表面材质
+    jumping_surface_pattern:
+      name: 跳跃表面图案
+    karaoke_modes:
+      name: 卡拉 OK 模式
+    kerosene_application:
+      name: 煤油应用
+    key_purpose:
+      name: 钥匙用途
+    keyboard_action:
+      name: 键盘操作方式
+    keyboard_format:
+      name: 键盘格式
+    keyboard_key_type:
+      name: 键盘按键类型
+    keyboard_language:
+      name: 键盘语言
+    keyboard_layout:
+      name: 键盘布局
+    keyboard_port_type:
+      name: 键盘端口类型
+    keyboard_specialized_features:
+      name: 键盘特色功能
+    keyboard_switch_type:
+      name: 键盘开关类型
+    keyboard_type:
+      name: 键盘类型
+    keypad_style:
+      name: 小键盘款式
+    kit_construction_type:
+      name: 搭建套件类型
+    kitchen/dining_furniture_items_included:
+      name: 包含厨房/餐厅家具用品
+    kitchen_utensil_items_included:
+      name: 包括厨房用具
+    kitesurfing_style:
+      name: 风筝冲浪款式
+    kneeboard_features:
+      name: 跪式冲浪板特点
+    knife_type:
+      name: 刀具类型
+    knitting/padding_project_type:
+      name: 针织/填料项目类型
+    knitting_project_type:
+      name: 针织项目类型
+    knob/handle_design:
+      name: 旋钮/手柄设计
+    knob_function:
+      name: 旋钮功能
+    knob_style:
+      name: 旋钮样式
+    labeling_project_type:
+      name: 标记项目类型
+    laboratory_freezer_design:
+      name: 实验室冷冻柜设计
+    lacrosse_equipment_included:
+      name: 包含长曲棍球装备
+    ladder_type:
+      name: 梯子类型
+    lamination_mode:
+      name: 层压方式
+    lamp_type:
+      name: 灯具类型
+    language:
+      name: 语言
+    language_version:
+      name: 语言版本
+    laser_color:
+      name: 激光颜色
+    laser_light_source:
+      name: 激光光源
+    laser_pattern:
+      name: 激光形式
+    lathe_application:
+      name: 车床应用
+    laundry_detergent_features:
+      name: 洗衣粉/液特点
+    lead_grade:
+      name: 铅等级
+    leash_design:
+      name: 牵引绳设计
+    leather/vinyl_texture:
+      name: 皮革/乙烯基纹理
+    lectern_mounting_type:
+      name: 讲台安装方式
+    leg_color:
+      name: 支腿颜色
+    leg_lock_type:
+      name: 腿锁类型
+    leg_material:
+      name: 支腿材质
+    leg_pattern:
+      name: 腿部图案
+    leg_sections:
+      name: 腿部分区
+    lens/slide_material:
+      name: 镜片/载玻片材质
+    lens_cap_compatible_device:
+      name: 镜头盖兼容设备
+    lens_coating:
+      name: 镜片镀膜
+    lens_color:
+      name: 镜片颜色
+    lens_configuration:
+      name: 镜头配置
+    lens_filter_effects:
+      name: 镜头滤镜效果
+    lens_filter_type:
+      name: 镜头滤镜类型
+    lens_pattern:
+      name: 镜片形式
+    lens_polarization:
+      name: 镜片偏光
+    lens_storage_type:
+      name: 镜片收纳类型
+    lens_type:
+      name: 镜片类型
+    license_type:
+      name: 许可类型
+    lid_material:
+      name: 盖子材质
+    lid_type:
+      name: 盖子类型
+    life_jacket_features:
+      name: 救生衣特点
+    light_attachment_type:
+      name: 灯附件类型
+    light_color:
+      name: 灯光颜色
+    light_control:
+      name: 光控
+    light_design:
+      name: 灯光设计
+    light_exposure_modes:
+      name: 曝光模式
+    light_filtering:
+      name: 滤光
+    light_options:
+      name: 灯光选项
+    light_pattern:
+      name: 灯形式
+    light_source:
+      name: 光源
+    light_spectrum:
+      name: 光谱
+    light_temperature:
+      name: 光温
+    light_type:
+      name: 灯光类型
+    lighting_features:
+      name: 照明特点
+    lighting_options:
+      name: 照明选项
+    line/rope_type:
+      name: 线/绳类型
+    line_spacing_options:
+      name: 行距选项
+    liner_features:
+      name: 内衬特点
+    lip_gloss_effect:
+      name: 唇彩效果
+    lip_liner_design:
+      name: 唇线笔设计
+    lip_plate_material:
+      name: 唇板材质
+    lipstick_effect:
+      name: 口红效果
+    liqueur_variety:
+      name: 利口酒品种
+    livestock_food_ingredients:
+      name: 畜牧食品原料
+    lnb_output:
+      name: LNB 输出
+    lnb_technology:
+      name: LNB 技术
+    load_capacity:
+      name: 承载能力
+    loading_ramp_type:
+      name: 装载台类型
+    loading_type:
+      name: 装配类型
+    lock_placement:
+      name: 锁放置
+    lock_type:
+      name: 锁类型
+    locking_mechanism:
+      name: 锁定机制
+    lovibond:
+      name: Lovibond
+    lubricant_application:
+      name: 润滑剂应用
+    lubricant_composition:
+      name: 润滑剂成分
+    lubricant_dispenser_type:
+      name: 润滑油分装器类型
+    lubricant_form:
+      name: 润滑剂形式
+    luggage/bag_closure:
+      name: 行李/包封口
+    lumber/wood_type:
+      name: 木材类型
+    lyre/flip_folder_attachment_type:
+      name: Lyre/Flip 文件夹附件类型
+    magnet_type:
+      name: 磁铁类型
+    magnification:
+      name: 放大率
+    makeup_color/shade:
+      name: 化妆品颜色/色调
+    makeup_features:
+      name: 化妆品特点
+    mallet_material:
+      name: 木槌材质
+    manufacturer_type:
+      name: 制造商类型
+    marine_navigator_features:
+      name: 船舶导航仪特点
+    marker_tip_design:
+      name: 马克笔尖端设计
+    mascara_effect:
+      name: 睫毛膏效果
+    mask_type:
+      name: 面罩类型
+    masonry_material:
+      name: 砖石材质
+    masonry_product_form:
+      name: 砌体产品形态
+    massage_area:
+      name: 按摩区域
+    massage_stone_texture:
+      name: 按摩石纹理
+    massage_technique:
+      name: 按摩手法
+    mat/rug_shape:
+      name: 地垫/地毯形状
+    mat_base_material:
+      name: 地垫基材
+    mat_features:
+      name: 地垫特点
+    material:
+      name: 材质
+    material_firmness:
+      name: 材质坚固度
+    material_hardness:
+      name: 材质硬度
+    maternity_clothing_features:
+      name: 孕妇装特点
+    maternity_sleepwear_style:
+      name: 孕妇睡衣款式
+    mattress_features:
+      name: 床垫特点
+    maximum_magnification:
+      name: 最大放大率
+    measuring_method:
+      name: 测量方法
+    measuring_tool_features:
+      name: 测量工具特点
+    measuring_type:
+      name: 测量类型
+    meat_cut:
+      name: 切肉
+    meat_type:
+      name: 肉类
+    media_access:
+      name: 媒体访问
+    media_content_type:
+      name: 媒体内容类型
+    media_format:
+      name: 媒体格式
+    media_section:
+      name: 媒体领域
+    media_theme:
+      name: 媒体主题
+    medical_alarm_features:
+      name: 医疗报警功能
+    medical_identification_type:
+      name: 医疗识别类型
+    medical_syringe_purpose:
+      name: 医用注射器用途
+    medical_tape_material:
+      name: 医用胶带材质
+    medicine/drug_form:
+      name: 药品形态
+    medicine/supplement_form:
+      name: 药品/补充剂形态
+    medium:
+      name: 媒介
+    melodica_style:
+      name: 口风琴风格
+    memory_channels:
+      name: 存储渠道
+    memory_form_factor:
+      name: 存储器形状因子
+    memory_storage_type:
+      name: 存储器存储类型
+    memory_technology:
+      name: 存储技术
+    menstrual_cup_shape:
+      name: 月经杯形状
+    metal_detector_features:
+      name: 金属探测器功能
+    metal_molding_application:
+      name: 金属成型应用
+    meter_type:
+      name: 仪表类型
+    metrics_supported:
+      name: 支持的指标
+    microphone_thread:
+      name: 麦克风线
+    microphone_type:
+      name: 麦克风类型
+    microscope_features:
+      name: 显微镜特点
+    microscope_slide_material:
+      name: 显微镜载玻片材质
+    midi_connectivity:
+      name: MIDI 连接
+    mineral_class:
+      name: 矿物类
+    minimum_magnification:
+      name: 最小放大率
+    mirror_handle_design:
+      name: 镜把手设计
+    mixer_type:
+      name: 混合器类型
+    mobile_mounting_type:
+      name: 移动安装类型
+    mobile_movement:
+      name: 悬挂饰物运动
+    mobile_phone_case_features:
+      name: 手机壳特点
+    mobility/accessibility_equipment_features:
+      name: 无障碍设备特点
+    mobility_scooter_type:
+      name: 代步车类型
+    model_control_technology:
+      name: 模型控制技术
+    model_train_accessory_type:
+      name: 模型火车配件类型
+    model_train_theme:
+      name: 模型火车主题
+    modulation_method:
+      name: 调制方法
+    moisturizer_type:
+      name: 保湿霜类型
+    mold/cut_shape:
+      name: 铸模/切割形状
+    mold_shape:
+      name: 模具形状
+    molding_application:
+      name: 成型应用
+    molding_shape:
+      name: 成型形状
+    monitor/screen_specialized_features:
+      name: 监视器/屏幕特色功能
+    monitor_mounting_type:
+      name: 监视器安装类型
+    monitor_shape:
+      name: 监视器形状
+    monitor_specialized_features:
+      name: 监视器特色功能
+    monitor_type:
+      name: 显示器类型
+    monocular_design:
+      name: 单目镜设计
+    motherboard_chipset_family:
+      name: 主板芯片组系列
+    motherboard_form_factor:
+      name: 主板形状因子
+    motherboard_memory_features:
+      name: 主板内存特性
+    motion:
+      name: 运动
+    motion_sensor_type:
+      name: 运动传感器类型
+    motor_starting_method:
+      name: 电机启动方法
+    motor_vehicle_placement:
+      name: 机动车辆安置
+    motor_vehicle_type:
+      name: 机动车类型
+    motorcycle/scooter_type:
+      name: 摩托车/小摩托车类型
+    motorcycle_drive_type:
+      name: 摩托车驱动类型
+    motorcycle_glove_purpose:
+      name: 摩托车手套用途
+    motorcycle_tire_type:
+      name: 摩托车轮胎类型
+    mount/stand_features:
+      name: 底座/支架特点
+    mount_material:
+      name: 底座材料
+    mounting_hardware:
+      name: 安装五金件
+    mounting_type:
+      name: 装载的类型
+    mouse/trackball_features:
+      name: 鼠标/轨迹球特点
+    mouse_pad_features:
+      name: 鼠标垫特点
+    mouse_port_type:
+      name: 鼠标端口类型
+    mouse_technology:
+      name: 鼠标技术
+    mouthgard_design:
+      name: 牙套设计
+    mouthpiece:
+      name: 吹口
+    moving/shipping_box_material:
+      name: 搬运箱材质
+    mp3_player_accessories_included:
+      name: 包括 MP3 播放器配件
+    mpaa_rating:
+      name: MPAA 分级
+    multi_gpu_technology:
+      name: 多 GPU 技术
+    muscle_stimulator_design:
+      name: 肌肉刺激器设计
+    music_genre:
+      name: 音乐流派
+    music_stand_design:
+      name: 乐谱架设计
+    musical_key:
+      name: 琴键
+    nail_art_items_included:
+      name: 包含美甲用品
+    nail_care_features:
+      name: 指甲护理特点
+    nail_design:
+      name: 指甲设计
+    nail_polish_drying_form:
+      name: 指甲油干燥方式
+    nail_shape:
+      name: 指甲形状
+    national/regional_rating:
+      name: 国家/地区评级
+    native_aspect_ratio:
+      name: 原生纵横比
+    nebulizer_design:
+      name: 雾化器设计
+    nebulizer_technology:
+      name: 雾化器技术
+    neck_color:
+      name: 琴颈颜色
+    neck_material:
+      name: 琴颈材质
+    neck_pattern:
+      name: 琴颈形式
+    necklace_design:
+      name: 项链设计
+    neckline:
+      name: 领口
+    needle_eye_type:
+      name: 针眼类型
+    needle_gauge:
+      name: 针规
+    needle_housing_material:
+      name: 针座材质
+    needle_material:
+      name: 针材质
+    needle_size:
+      name: 针尺寸
+    needlecraft_kit_type:
+      name: 针线包类型
+    negative/slide_storage_type:
+      name: 负片/幻灯片存储类型
+    net_material:
+      name: 网球网材质
+    net_mounting_type:
+      name: 网球网安装类型
+    network_cable_interface:
+      name: 网线接口
+    network_protocols_supported:
+      name: 支持的网络协议
+    networking_standards:
+      name: 网络标准
+    nightgown_style:
+      name: 睡衣款式
+    nipple_material:
+      name: 奶嘴材质
+    nipple_shape:
+      name: 奶嘴形状
+    nipple_type:
+      name: 奶嘴类型
+    nock_material:
+      name: 箭尾材质
+    noise_intensity:
+      name: 噪音强度
+    notepad_cover_type:
+      name: 记事本封面类型
+    notepad_design:
+      name: 记事本设计
+    nozzle_type:
+      name: 喷嘴类型
+    nursery_theme:
+      name: 托儿所主题
+    nursing_cover_coverage:
+      name: 护理覆盖范围
+    nursing_pad_design:
+      name: 护理垫设计
+    nursing_pillow_shape:
+      name: 哺乳枕形状
+    nut/seed_type:
+      name: 坚果/种籽类型
+    nut_butter_variety:
+      name: 坚果黄油品种
+    nut_form:
+      name: 螺母形式
+    nut_processing_method:
+      name: 螺母加工方法
+    nutrient_content:
+      name: 营养成分含量
+    oboe_key_system:
+      name: 双簧管调键系统
+    ocarina_style:
+      name: 陶笛风格
+    occasion:
+      name: 场合
+    occasion_style:
+      name: 时尚风格
+    office_cart_features:
+      name: 办公室手推车特点
+    office_instrument_material:
+      name: 办公仪器材质
+    office_supply_material:
+      name: 办公用品材质
+    oil_type:
+      name: 油型
+    one_piece_style:
+      name: 连体衣款式
+    open/closed_sign_design:
+      name: 开门/关门标志设计
+    opening_direction:
+      name: 打开方向
+    opening_mechanism:
+      name: 打开机制
+    operating_mode:
+      name: 操作模式
+    operating_system:
+      name: 操作系统
+    operation_method:
+      name: 操作方法
+    optical_drive_type:
+      name: 光驱类型
+    optical_frame_design:
+      name: 光学镜框设计
+    optical_zoom:
+      name: 光学变焦
+    organizer_type:
+      name: 整理盒类型
+    orientation:
+      name: 方向
+    outdoor_equipment_features:
+      name: 户外装备特点
+    outdoor_furniture_items_included:
+      name: 包含户外家具用品
+    outdoor_power_accessories_included:
+      name: 包括户外动力设备配件
+    outdoor_walking_activity:
+      name: 户外散步活动
+    outerwear_clothing_features:
+      name: 外套特点
+    outlet_type:
+      name: 插口类型
+    output_connection:
+      name: 输出连接
+    output_level:
+      name: 输出电平
+    output_waveform:
+      name: 输出波形
+    oven_accessories_included:
+      name: 包括烤箱配件
+    oxygen_tank_valve_type:
+      name: 氧气瓶阀门类型
+    pacifier/teether_design:
+      name: 安抚奶嘴/牙胶设计
+    package_type:
+      name: 包裹类型
+    packing_materials_included:
+      name: 随附包装材料
+    pad_display_profile:
+      name: 平板显示器型材
+    pad_type:
+      name: 垫盘类型
+    paddle/oar_material:
+      name: 桨/橹材质
+    paddle_equipment_included:
+      name: 包含划桨装备
+    paddleboard_features:
+      name: 桨板特点
+    page_layout:
+      name: 页面布局
+    page_size:
+      name: 页面大小
+    paint/dye_form:
+      name: 涂料/染料形式
+    paint_brush_design:
+      name: 画笔设计
+    paint_finish:
+      name: 漆面
+    paint_form:
+      name: 油漆形式
+    paint_medium_type:
+      name: 涂料介质类型
+    paint_type:
+      name: 颜料类型
+    paintball/airsoft_equipment_included:
+      name: 包含彩弹射击/软弹气枪装备
+    paintball_equipment_included:
+      name: 包括彩弹射击装备
+    painting_canvas_material:
+      name: 油画布/油画板材质
+    pairing_method:
+      name: 配对方法
+    palette_design:
+      name: 调色板设计
+    palette_knife_shape:
+      name: 调色刀形状
+    panel_specification:
+      name: 面板规格
+    panel_termination:
+      name: 面板端接
+    pants_length_type:
+      name: 裤长类型
+    pantyhose_style:
+      name: 连体裤袜款式
+    paper_finish:
+      name: 纸张表面
+    paper_format:
+      name: 纸张格式
+    paper_size:
+      name: 纸张尺寸
+    paper_texture:
+      name: 纸张纹理
+    paper_type:
+      name: 纸张类型
+    paperweight_design:
+      name: 镇纸设计
+    papier_mache_shape:
+      name: 纸浆形状
+    parachuting_activity:
+      name: 跳伞活动
+    parallel_processing_technology_support:
+      name: 并行处理技术支持
+    parking_camera_features:
+      name: 停车摄像头功能
+    parking_sign_design:
+      name: 停车标志设计
+    passband:
+      name: 通带
+    pasta_shape_type:
+      name: 面食形状类型
+    pasta_type:
+      name: 意大利面食类型
+    patch_shape:
+      name: 贴片形状
+    pattern:
+      name: 图案
+    pattern_distribution_format:
+      name: 图案分布格式
+    pcb_type:
+      name: 印刷电路板 (PCB) 类型
+    pedal_polarity:
+      name: 踏板极性
+    pegi_rating:
+      name: PEGI 评级
+    pen/felt_tip_design:
+      name: 笔尖/毡尖设计
+    pen/pencil_features:
+      name: 笔/铅笔特点
+    pen_color:
+      name: 笔颜色
+    pen_features:
+      name: 笔特点
+    pen_pattern:
+      name: 笔图案
+    pen_tip_design:
+      name: 笔尖设计
+    pen_type:
+      name: 笔类型
+    pencil_features:
+      name: 铅笔特点
+    pencil_sharpener_design:
+      name: 卷笔刀设计
+    pencil_type:
+      name: 铅笔类型
+    percussion_stand_design:
+      name: 打击架设计
+    percussion_tip_shape:
+      name: 敲击尖端形状
+    performance_metrics:
+      name: 性能指标
+    peroxide_content:
+      name: 过氧化物含量
+    personal_watercraft_type:
+      name: 水上摩托类型
+    personalization_design:
+      name: 个性化设计
+    personalization_options:
+      name: 个性化方案
+    pest_control_method:
+      name: 害虫防治方法
+    pet_apparel/bedding_features:
+      name: 宠物服装/寝具特点
+    pet_apparel_features:
+      name: 宠物服装特点
+    pet_bedding_features:
+      name: 宠物寝具特点
+    pet_control_accessory_features:
+      name: 宠物牵引配件特点
+    pet_dietary_preferences:
+      name: 宠物饮食偏好
+    pet_dietary_requirements:
+      name: 宠物饮食要求
+    pet_food_flavor:
+      name: 宠物食品口味
+    pet_food_form:
+      name: 宠物饲料形态
+    pet_food_supplements:
+      name: 宠物食品补充剂
+    pet_hair_dryer_design:
+      name: 宠物吹风机设计
+    pet_hair_dryer_speed_settings:
+      name: 宠物吹风机速度设置
+    pet_medical_collar_design:
+      name: 宠物伊丽莎白圈设计
+    pet_medical_supply_type:
+      name: 宠物医疗用品类型
+    pet_monitor_items_included:
+      name: 包括宠物监视器项目
+    pet_nail_tool_type:
+      name: 宠物美甲工具类型
+    pet_pad_features:
+      name: 宠物垫特点
+    pet_spray/solution_type:
+      name: 宠物喷雾/溶液类型
+    pet_supply_product_form:
+      name: 宠物用品产品形态
+    pet_thermometer_design:
+      name: 宠物温度计设计
+    pet_trainer_type:
+      name: 宠物训练器类型
+    pet_treat_texture:
+      name: 宠物食品质地
+    pet_treat_type:
+      name: 宠物零食类型
+    phase_type:
+      name: 相位类型
+    photo_effects_type:
+      name: 照片效果类型
+    photographic_chemical_form:
+      name: 摄影用化学品形态
+    photographic_paper_size:
+      name: 相纸尺寸
+    photographic_paper_type:
+      name: 相纸类型
+    piano_additional_features:
+      name: 钢琴附加功能
+    piano_pedals:
+      name: 钢琴踏板
+    piano_size:
+      name: 钢琴尺寸
+    pick_design:
+      name: 拾音设计
+    pickup_design:
+      name: 拾音器设计
+    pickup_mounting_type:
+      name: 拾音器安装方式
+    pickup_position:
+      name: 拾音器位置
+    pickup_type:
+      name: 拾音器类别
+    pig_feed_stage:
+      name: 猪饲料阶段
+    pile_type:
+      name: 桩型
+    pillow_shape:
+      name: 枕头形状
+    pin_size:
+      name: 别针尺寸
+    pinata_design:
+      name: 皮纳塔设计
+    ping_pong_equipment_included:
+      name: 包含乒乓球装备
+    ping_pong_robot_features:
+      name: 乒乓球机器人特点
+    pipe_clamp_design:
+      name: 管夹设计
+    pipe_shape:
+      name: 管材形状
+    placement_supported:
+      name: 支持放置方式
+    plant_characteristics:
+      name: 植物特性
+    plant_class:
+      name: 植物类
+    plant_name:
+      name: 植物名称
+    plant_support_material:
+      name: 植物支撑材料
+    plate_type:
+      name: 盘子类型
+    play_equipment_items_included:
+      name: 包含游乐设备
+    play_slide_design:
+      name: 滑滑梯设计
+    play_vehicle_propulsion:
+      name: 玩具车推进方式
+    play_yard_design_features:
+      name: 游戏床设计特点
+    playback_disc_formats:
+      name: 录像光盘格式
+    player/recorder_specialized_features:
+      name: 播放器/录音机特色功能
+    player_drive_type:
+      name: 播放器驱动类型
+    player_position:
+      name: 球员位置
+    player_specialized_features:
+      name: 播放器特色功能
+    playhouse_design:
+      name: 剧场设计
+    playset_features:
+      name: 玩具套装特点
+    plug_type:
+      name: 插头类型
+    plug_type_input:
+      name: 插头类型（输入）
+    plug_type_output:
+      name: 插头类型（输出）
+    plumbing_primer_application:
+      name: 管道底漆应用
+    plumbing_trap_design:
+      name: 管道存水弯设计
+    plunger_shape:
+      name: 柱塞形状
+    plywood_grade:
+      name: 胶合板等级
+    pneumatic_conveyor_operation:
+      name: 气动输送机操作
+    poe_standard:
+      name: PoE 标准
+    point_design:
+      name: 尖点设计
+    pointing_device:
+      name: 定点设备
+    polar_pattern:
+      name: 极性模式
+    polarization:
+      name: 极化
+    pole/post_material:
+      name: 杆子/柱子材质
+    pole_color:
+      name: 杆子颜色
+    pole_material:
+      name: 杆材质
+    pole_pattern:
+      name: 杆型
+    policy_sign_design:
+      name: 政策标志设计
+    polish_dry_form:
+      name: 抛光剂干燥方式
+    polish_remover_form:
+      name: 洗甲水形态
+    polish_type:
+      name: 抛光类型
+    polyphony:
+      name: 复调音乐
+    portability:
+      name: 可携带性
+    post_material:
+      name: 杆子材质
+    postage_stamp_features:
+      name: 邮票特点
+    potential_extract:
+      name: 潜在提取物
+    pottery/sculpting_project_type:
+      name: 陶艺/雕刻项目类型
+    potty/toilet_seat_design:
+      name: 便盆/马桶座圈设计
+    potty_training_kit_components:
+      name: 便盆训练套装组件
+    power_source:
+      name: 电源
+    pregnancy_test_sensitivity:
+      name: 妊娠试验敏感性
+    presentation_supply_features:
+      name: 黑板/白板特点
+    preservation_type:
+      name: 保存类型
+    pretend_electronics_toy_type:
+      name: 仿真电子产品玩具类型
+    pretend_housekeeping_toy_type:
+      name: 过家家玩具类型
+    primary_region:
+      name: 主要区域
+    primer_use:
+      name: 底漆使用
+    print_technology:
+      name: 印刷技术
+    printer/copier_specialized_features:
+      name: 打印机/复印机特色功能
+    printer_accessories_included:
+      name: 包括打印机配件
+    printer_functions:
+      name: 打印机功能
+    printing_color:
+      name: 印刷颜色
+    printing_method:
+      name: 印刷方法
+    processor_cores:
+      name: 处理器核心
+    processor_family:
+      name: 处理器系列
+    processor_socket:
+      name: 处理器插槽
+    processor_technology:
+      name: 处理器技术
+    product_benefits:
+      name: 产品优势
+    product_certifications_standards:
+      name: 产品认证和标准
+    product_form:
+      name: 产品形态
+    product_formulation:
+      name: 产品配方
+    product_manual_area:
+      name: 产品说明书区域
+    product_sterility:
+      name: 产品无菌性
+    program_format:
+      name: 节目模式
+    projection_design:
+      name: 投影设计
+    projector_light_source:
+      name: 投影仪光源
+    prop_theme:
+      name: 道具主题
+    propane_application:
+      name: 丙烷应用
+    propeller_blade_design:
+      name: 螺旋桨叶片设计
+    prophy_cup_design:
+      name: 洁牙杯设计
+    propulsion_type:
+      name: 推进类型
+    protection_type:
+      name: 保护类型
+    protective_gear_features:
+      name: 防护装备特点
+    protective_mask_design:
+      name: 防护面罩设计
+    protective_mask_features:
+      name: 防护面罩特点
+    pstn_connectivity_options:
+      name: PSTN 连接选项
+    publication_frequency:
+      name: 出版频率
+    publication_type:
+      name: 出版物类型
+    pull_up_bar:
+      name: 引体向上杆
+    pump_accessories:
+      name: 泵配件
+    pump_speed_settings:
+      name: 泵速设置
+    punching/training_bag_material:
+      name: 拳击/训练沙袋材料
+    puppet_theme:
+      name: 木偶主题
+    puppet_type:
+      name: 木偶类型
+    puzzle_theme:
+      name: 益智主题
+    puzzle_type:
+      name: 拼图类型
+    quiver_style:
+      name: 箭套款式
+    rack_design:
+      name: 架子设计
+    rack_type:
+      name: 架子类型
+    racket_gauge:
+      name: 球拍规格
+    racket_material:
+      name: 球拍材质
+    racket_string_design:
+      name: 球拍线设计
+    racket_string_material:
+      name: 球拍线材质
+    radar_bands:
+      name: 雷达波段
+    radar_technology:
+      name: 雷达技术
+    radio_case_design:
+      name: 收音机设计
+    radio_features:
+      name: 广播功能
+    ramp_type:
+      name: 坡道类型
+    range_type:
+      name: 量程类型
+    rarity:
+      name: 稀有度
+    razor_flexibility:
+      name: 剃刀灵活性
+    razor_head_design:
+      name: 剃刀刀头设计
+    razor_type:
+      name: 剃须刀类型
+    read/write_speed:
+      name: 读/写速度
+    reading_toy_type:
+      name: 阅读学习类玩具类型
+    receipt_paper_features:
+      name: 小票/收据纸特点
+    reclining_function:
+      name: 倾斜功能
+    recommended_age_group:
+      name: 推荐年龄段
+    recommended_skill_level:
+      name: 推荐技能水平
+    recommended_use:
+      name: 推荐用途
+    recorder_fingering_system:
+      name: 竖笛指法系统
+    recorder_specialized_features:
+      name: 录音机特色功能
+    recording_accessories_included:
+      name: 包括录音配件
+    recording_quality:
+      name: 录音质量
+    recreational_vehicle_type:
+      name: 休闲车类型
+    reed_strength:
+      name: 簧片强度
+    reel_capacity:
+      name: 卷筒容量
+    reflector_design:
+      name: 反光罩设计
+    regenerative_braking_features:
+      name: 再生制动功能
+    region:
+      name: 地区
+    region_code:
+      name: 区域代码
+    release_schedule:
+      name: 发布计划
+    remote_technology:
+      name: 遥控技术
+    removable_storage_formats_supported:
+      name: 支持的可移动存储格式
+    reptile/amphibian_food_form:
+      name: 爬行/两栖动物饲料形态
+    reptile/amphibian_habitat_supply_type:
+      name: 爬行/两栖动物生态缸/生态盒供应类型
+    research_focus:
+      name: 研究热点
+    research_methodology:
+      name: 研究方法论
+    resistance_level:
+      name: 阻力水平
+    resistance_system:
+      name: 阻力系统
+    result_display:
+      name: 结果显示
+    retail/sale_sign_design:
+      name: 零售/销售标志设计
+    reticle_plane:
+      name: 十字线平面
+    reticle_type:
+      name: 光罩类型
+    rfid_frequency:
+      name: RFID 频率
+    riding_style:
+      name: 滑雪方式
+    riding_toy_propulsion_type:
+      name: 骑乘玩具推进类型
+    rim/wheel_design:
+      name: 轮圈/车轮设计
+    ring_design:
+      name: 戒指设计
+    ring_size:
+      name: 戒指尺寸
+    riser_color:
+      name: 踏步立板颜色
+    riser_material:
+      name: 立管材质
+    riser_pattern:
+      name: 踏步立板形式
+    rivet_form:
+      name: 铆钉形式
+    road_sign_design:
+      name: 道路标志设计
+    rock_composition:
+      name: 岩石成分
+    rock_formation:
+      name: 岩层
+    rocker_type:
+      name: 滑雪板类型
+    rod_color:
+      name: 鱼竿颜色
+    rod_material:
+      name: 杆材质
+    rod_pattern:
+      name: 鱼竿形式
+    rod_shape:
+      name: 杆状
+    roller_head:
+      name: 滚轮头
+    roller_material:
+      name: 滚轮材质
+    roller_type:
+      name: 滚轮类型
+    roof_decor_shape:
+      name: 屋顶装饰造型
+    rosin_form:
+      name: 松香形式
+    rosin_grade:
+      name: 松香等级
+    rotating_direction:
+      name: 旋转方向
+    rotator_control_technology:
+      name: 旋转器控制技术
+    rug/mat_features:
+      name: 地毯/地垫特点
+    rug/mat_material:
+      name: 地毯/地垫材质
+    rug/mat_shape:
+      name: 地毯/地垫形状
+    rug_features:
+      name: 地毯特点
+    rug_material:
+      name: 地毯材质
+    rug_shape:
+      name: 地毯形状
+    rum_grade:
+      name: 朗姆酒等级
+    saddle_base_color:
+      name: 鞍座底座颜色
+    saddle_base_material:
+      name: 鞍座底座材质
+    saddle_base_pattern:
+      name: 鞍座底座图案
+    saddle_material:
+      name: 鞍座材质
+    saddle_seat_color:
+      name: 鞍座颜色
+    saddle_seat_material:
+      name: 鞍座材质
+    saddle_seat_pattern:
+      name: 鞍座图案
+    safety_certifications:
+      name: 安全认证
+    safety_device_installation:
+      name: 安全装置安装
+    safety_equipment_material:
+      name: 安全设备材质
+    safety_rail_installation:
+      name: 安全导轨安装
+    sailboat_type:
+      name: 帆船型
+    sandal_style:
+      name: 凉鞋款式
+    sandblaster_application:
+      name: 喷砂机应用
+    sander_type:
+      name: 打磨机类型
+    sanding_application:
+      name: 打磨应用
+    satellite_coverage_area:
+      name: 卫星覆盖范围
+    satellite_network_type:
+      name: 卫星网络类型
+    sauna_accessories_included:
+      name: 包含桑拿配件
+    scaffolding_mounting_type:
+      name: 脚手架安装方式
+    scale_material:
+      name: 秤材质
+    scale_model_accessory_type:
+      name: 比例模型配件类型
+    scale_model_kit_type:
+      name: 比例模型套件类型
+    scale_model_material:
+      name: 比例模型材质
+    scale_model_theme:
+      name: 比例模型主题
+    scalpel_blade_material:
+      name: 手术刀刀片材质
+    scalpel_blade_number:
+      name: 手术刀刀片编号
+    scalpel_blade_shape:
+      name: 手术刀刀片形状
+    scalpel_handle_number:
+      name: 手术刀手柄编号
+    scan_converter_features:
+      name: 扫描转换器功能
+    scanner_features:
+      name: 扫描仪功能
+    scanner_sensor_type:
+      name: 扫描仪传感器类型
+    scarf/shawl_style:
+      name: 围巾/披肩款式
+    scene_modes:
+      name: 场景模式
+    scent:
+      name: 香气
+    scissor_blade_type:
+      name: 剪刀刀片类型
+    scope/sight_design:
+      name: 范围/视线设计
+    scope/sight_features:
+      name: 瞄准镜功能
+    scope_design:
+      name: 瞄准镜设计
+    scope_lens_type:
+      name: 瞄准镜镜片类型
+    scoreboard_features:
+      name: 记分牌特性
+    scrapbook_paper_type:
+      name: 剪贴簿纸张类型
+    screen/display_design:
+      name: 屏幕/显示屏设计
+    screen_material:
+      name: 屏幕材料
+    screen_specialized_features:
+      name: 屏幕特色功能
+    seafood_type:
+      name: 海鲜类型
+    seal_stamp_design:
+      name: 印章设计
+    season:
+      name: 季节
+    seat_color:
+      name: 座椅颜色
+    seat_cushioning:
+      name: 座椅垫
+    seat_pattern:
+      name: 座椅图案
+    seat_shape:
+      name: 座椅形状
+    seat_structure:
+      name: 座椅结构
+    seat_type:
+      name: 座椅类型
+    seat_upholstery_color:
+      name: 座椅装饰品颜色
+    seat_upholstery_material:
+      name: 座椅装饰材料
+    seat_upholstery_pattern:
+      name: 座椅装饰品图案
+    security_algorithms:
+      name: 安全算法
+    security_level:
+      name: 安全级别
+    sensor/measuring_tool_features:
+      name: 传感器/测量工具特点
+    sensor_features:
+      name: 传感器功能
+    sensor_type:
+      name: 传感器类型
+    sequin/glitter_shape:
+      name: 亮片/闪光片形状
+    sequin_shape:
+      name: 亮片形状
+    serum_target_areas:
+      name: 血清目标区域
+    service_type:
+      name: 服务类型
+    sewing_foot_type:
+      name: 缝纫压脚类型
+    sewing_machine_part_category:
+      name: 缝纫机零件类别
+    sfx_control_technology:
+      name: SFX 控制技术
+    shaft_color:
+      name: 轴颜色
+    shaft_flex:
+      name: 轴柔性
+    shaft_material:
+      name: 轴材质
+    shaft_orientation:
+      name: 轴方向
+    shaft_pattern:
+      name: 轴型
+    shampoo/conditioner_effect:
+      name: 洗发水/护发素效果
+    shampoo/conditioner_items_included:
+      name: 包含洗发水/护发素
+    shampoo_type:
+      name: 洗发水类型
+    shape:
+      name: 形状
+    shapewear_support_level:
+      name: 塑身内衣支撑度
+    shaving_cream_formulation:
+      name: 剃须膏配方
+    shaving_kit_components:
+      name: 剃须套装组件
+    sheen/gloss_level:
+      name: 光亮度/光泽度
+    sheet_color:
+      name: 板材颜色
+    sheet_pattern:
+      name: 板材形式
+    shelf_color:
+      name: 搁架颜色
+    shelf_material:
+      name: 货架材质
+    shelf_pattern:
+      name: 搁架形式
+    shell/frame_color:
+      name: 外壳/框架颜色
+    shell/frame_material:
+      name: 外壳/框架材质
+    shell/frame_pattern:
+      name: 外壳/框架图案
+    shingle/tile_material:
+      name: 木瓦/瓦片材质
+    shoe_binding_type:
+      name: 鞋固定类型
+    shoe_features:
+      name: 鞋子特点
+    shoe_fit:
+      name: 鞋贴合度
+    shoe_size:
+      name: 鞋码
+    shooting_modes:
+      name: 拍摄模式
+    shopping_bag_material:
+      name: 购物袋材质
+    shower_base_design:
+      name: 淋浴室地面设计
+    shower_curtain_mounting_type:
+      name: 浴帘安装类型
+    shower_design:
+      name: 淋浴室设计
+    shower_features:
+      name: 淋浴房特点
+    shower_opening_type:
+      name: 淋浴房门类型
+    shrink_ratio:
+      name: 收缩率
+    shutter_finish:
+      name: 百叶窗饰面
+    siding_material:
+      name: 壁板材质
+    signature_placement:
+      name: 签名位置
+    silencer/blimp_type:
+      name: 消音器/飞艇类型
+    sim_card_capability:
+      name: SIM 卡功能
+    sim_card_type:
+      name: SIM 卡类型
+    sim_card_type_1:
+      name: SIM 卡类型 1
+    sim_card_type_2:
+      name: SIM 卡类型 2
+    sink_mounting_type:
+      name: 水槽安装方式
+    sink_shape:
+      name: 水槽形状
+    sink_type:
+      name: 水槽类型
+    sinker_material:
+      name: 铅坠材质
+    size:
+      name: 尺寸
+    skateboarding_style:
+      name: 滑板样式
+    ski_construction:
+      name: 滑雪板结构
+    skiing_style:
+      name: 滑雪风格
+    skill_level:
+      name: 技能水平
+    skin_care_effect:
+      name: 护肤效果
+    skin_care_features:
+      name: 护肤品特点
+    skin_care_mask_type:
+      name: 护肤面膜类型
+    skin_tone:
+      name: 皮肤色调
+    skin_undertone:
+      name: 皮肤底色
+    skirt/dress_length_type:
+      name: 裙子/连衣裙长度类型
+    skirt_style:
+      name: 半身裙款式
+    slat_color:
+      name: 板条颜色
+    slat_material:
+      name: 板条材质
+    slat_pattern:
+      name: 板条形式
+    sleeve_length_type:
+      name: 袖长类型
+    slip_texture:
+      name: 防滑纹理
+    slipper_style:
+      name: 拖鞋款式
+    slot_machine_type:
+      name: 老虎机类型
+    small_animal_dietary_requirements:
+      name: 小型动物饮食要求
+    small_animal_food_form:
+      name: 小动物饲料形态
+    small_animal_food_ingredients:
+      name: 小动物饲料原料
+    small_animal_habitat/cage_type:
+      name: 小动物生态缸/生态盒/笼子类型
+    smart_tv_platform:
+      name: 智能电视平台
+    smart_watch_features:
+      name: 智能手表功能
+    sneaker_style:
+      name: 运动鞋款式
+    snorkel_shape:
+      name: 换气装置形状
+    snowboard_construction:
+      name: 滑雪板构造
+    snowboard_design:
+      name: 滑雪板设计
+    snowboarding_style:
+      name: 滑雪板样式
+    snowmobile_type:
+      name: 雪地机动车类型
+    socket_driver_tip:
+      name: 套筒扳手尖端
+    socket_type:
+      name: 插座类型
+    soda_maker_accessories_included:
+      name: 包括汽水机配件
+    soda_variety:
+      name: 苏打水品种
+    sofa_features:
+      name: 沙发特点
+    softball_discipline:
+      name: 垒球纪律
+    softbox_mounting_type:
+      name: 柔光箱安装方式
+    softbox_shape:
+      name: 柔光箱形状
+    software_features:
+      name: 软件功能
+    software_tool_type:
+      name: 软件工具类型
+    softwood_lumber_grade:
+      name: 软木木材等级
+    solar_cell_type:
+      name: 太阳能电池类型
+    solar_panel_connections:
+      name: 太阳能电池板连接
+    solar_panel_design:
+      name: 太阳能电池板设计
+    solder/flux_application:
+      name: 焊料/助焊剂应用
+    soleplate_type:
+      name: 底板类型
+    solubility:
+      name: 溶解度
+    solution_type:
+      name: 溶液类型
+    solvent/thinner_application:
+      name: 溶剂/稀释剂应用
+    solvent_application:
+      name: 溶剂应用
+    soothing_sounds:
+      name: 舒缓的声音
+    sound_controls:
+      name: 声控
+    sound_effects:
+      name: 音响效果
+    sound_insulation:
+      name: 隔音
+    sound_options:
+      name: 声音选项
+    speaker_configuration:
+      name: 扬声器配置
+    speaker_design:
+      name: 扬声器设计
+    speaker_features:
+      name: 扬声器功能
+    speaker_technology:
+      name: 扬声器技术
+    speakerphone_type:
+      name: 扬声电话类型
+    speed_settings:
+      name: 速度设置
+    spf_level:
+      name: SPF 指数
+    spike_design:
+      name: 鞋钉设计
+    spinner_type:
+      name: 旋转类型
+    spirit_dilution:
+      name: 酒精稀释
+    splitter/switch_features:
+      name: 分配器/切换器功能
+    splitter_use:
+      name: 分离器用途
+    sponge_shape:
+      name: 海绵形状
+    spool_color:
+      name: 线轴颜色
+    spool_material:
+      name: 线轴材质
+    spool_pattern:
+      name: 线轴形式
+    sport:
+      name: 体育
+    sports_logo:
+      name: 运动 logo
+    sports_theme:
+      name: 运动主题
+    spout_type:
+      name: 喷口类型
+    spreader_type:
+      name: 伸展器类型
+    sprinkler_head_type:
+      name: 洒水装置喷头类型
+    sprinkler_shape:
+      name: 喷洒器形状
+    squeegee_blade_design:
+      name: 刮刀设计
+    stack_configuration:
+      name: 堆栈配置
+    stage:
+      name: 阶段
+    stair_lifts_control_type:
+      name: 楼梯升降机控制类型
+    staircase_features:
+      name: 楼梯特点
+    staircase_type:
+      name: 楼梯类型
+    stamp_theme:
+      name: 邮票主题
+    stamp_type:
+      name: 邮票类型
+    stand/display_type:
+      name: 支架/展示类型
+    staple_wire_gauge:
+      name: 订书钉线规
+    stapler_features:
+      name: 订书机特点
+    star_rating:
+      name: 星级评分
+    start_type:
+      name: 启动类型
+    station_type:
+      name: 充电站类型
+    stationery_binding_type:
+      name: 文具装订类型
+    stem_length:
+      name: 茎秆长度
+    stencil/cut_shape:
+      name: 模板/切割形状
+    step_type:
+      name: 台阶类型
+    sterilization_cycle_time:
+      name: 灭菌周期时间
+    sterilization_instructions:
+      name: 灭菌说明
+    sterilization_method:
+      name: 灭菌方法
+    stethoscope_design:
+      name: 听诊器设计
+    stethoscope_technology:
+      name: 听诊器技术
+    stick_material:
+      name: 棍棒材质
+    stiffness:
+      name: 刚度
+    stimulator_tip_shape:
+      name: 刺激器尖端形状
+    stone_material:
+      name: 石头材质
+    stone_name:
+      name: 石头名称
+    stone_shape:
+      name: 石头形状
+    stone_type:
+      name: 石头类型
+    stopband:
+      name: 阻带
+    stopwatch_features:
+      name: 秒表功能
+    storage_drive_interface_type:
+      name: 存储驱动器接口类型
+    storage_drive_interfaces_supported:
+      name: 支持的存储驱动器接口
+    storage_drive_type_installed:
+      name: 安装的存储驱动器类型
+    storage_media_type:
+      name: 存储媒体文件类型
+    storage_tank_application:
+      name: 储罐应用
+    storage_types_supported:
+      name: 支持的存储类型
+    stove_airflow:
+      name: 炉子气流
+    stove_top_type:
+      name: 炉灶类型
+    strap_design:
+      name: 条带设计
+    straw/stirrer_design:
+      name: 吸管/搅拌器设计
+    stretcher/gurney_intended_use:
+      name: 担架/轮床的预期用途
+    string_color:
+      name: 琴弦颜色
+    string_instrument_size:
+      name: 弦乐器尺寸
+    string_material:
+      name: 弓弦材质
+    string_pattern:
+      name: 琴弦形式
+    stripper_application:
+      name: 脱模剂应用
+    stroller_features:
+      name: 婴儿车特点
+    stroller_wheel_type:
+      name: 婴儿车车轮类型
+    style:
+      name: 款式
+    stylus_type:
+      name: 触笔类型
+    subject_area:
+      name: 学科领域
+    subscription_type:
+      name: 订阅类型
+    substrate_features:
+      name: 铺垫物特性
+    suction_cup_color:
+      name: 吸盘颜色
+    suction_cup_material:
+      name: 吸盘材质
+    suction_cup_pattern:
+      name: 吸盘形式
+    suction_levels:
+      name: 吸力水平
+    suitable_for_angling_type:
+      name: 适用钓鱼类型
+    suitable_for_animal_type:
+      name: 适用动物类型
+    suitable_for_art_technique:
+      name: 适合艺术手法
+    suitable_for_bird_type:
+      name: 适用鸟类
+    suitable_for_boat_type:
+      name: 适用船型
+    suitable_for_body/facial_hair:
+      name: 适用的身体/面部毛发
+    suitable_for_breed_size:
+      name: 适用的品种大小
+    suitable_for_bug_type:
+      name: 适合 Bug 类型
+    suitable_for_camera/optics_device:
+      name: 适用相机/光学器件
+    suitable_for_camera_type:
+      name: 适用相机类型
+    suitable_for_camping_activity:
+      name: 适合露营活动
+    suitable_for_chair_type:
+      name: 适合椅型
+    suitable_for_container_type:
+      name: 适用的容器类型
+    suitable_for_crafting_material:
+      name: 适合工艺材料
+    suitable_for_door_type:
+      name: 适用门类型
+    suitable_for_egg_type:
+      name: 适用的蛋类型
+    suitable_for_fabric_type:
+      name: 适用面料类型
+    suitable_for_fire_class:
+      name: 适用消防等级
+    suitable_for_fish_type:
+      name: 适合鱼类
+    suitable_for_food_processor_type:
+      name: 适用的食品加工机类型
+    suitable_for_furniture_type:
+      name: 适合家具类型
+    suitable_for_gas_type:
+      name: 适用气体类型
+    suitable_for_hair_type:
+      name: 适用发质
+    suitable_for_material_type:
+      name: 适用材料类型
+    suitable_for_pest_type:
+      name: 适用害虫类型
+    suitable_for_pipe_type:
+      name: 适用管材类型
+    suitable_for_pool_type:
+      name: 适合池型
+    suitable_for_power_equipment_type:
+      name: 适用的电力设备类型
+    suitable_for_precious_material:
+      name: 适用的贵重材料
+    suitable_for_printer_type:
+      name: 适合打印机类型
+    suitable_for_skin_tone:
+      name: 适用肤色
+    suitable_for_skin_type:
+      name: 适用肤质
+    suitable_for_snowshoeing_activity:
+      name: 适合雪鞋健行活动
+    suitable_for_storage_type:
+      name: 适合存储类型
+    suitable_for_toothbrush:
+      name: 适用牙刷
+    suitable_for_vehicle_type:
+      name: 适用车辆类型
+    suitable_for_water_feature_type:
+      name: 适用水功能类型
+    suitable_for_water_type:
+      name: 适用水类型
+    suitable_for_weapon_type:
+      name: 适用武器类型
+    suitable_installation:
+      name: 适用的安装方式
+    suitable_location:
+      name: 适用地点
+    suitable_space:
+      name: 适用空间
+    suitcase_handle_type:
+      name: 行李箱手柄类型
+    sulfur_content:
+      name: 硫含量
+    sunlight:
+      name: 阳光
+    support/brace_material:
+      name: 支撑/支架材质
+    supported_language:
+      name: 支持语言
+    surface_texture:
+      name: 表面纹理
+    surfboard_features:
+      name: 冲浪板特点
+    surveillance_camera_design:
+      name: 监控摄像头设计
+    surveillance_camera_mounting_type:
+      name: 监控摄像头安装方式
+    surverying_accessories_included:
+      name: 包含勘测配件
+    suspender_style:
+      name: 吊带款式
+    sustainability:
+      name: 可持续性
+    swab_material:
+      name: 拭子材质
+    swimwear_features:
+      name: 泳装特点
+    swing_style:
+      name: 挥杆款式
+    swing_weighting:
+      name: 挥杆重量
+    switch_control_type:
+      name: 开关控制类型
+    switching_method:
+      name: 开关方法
+    synthesis_method:
+      name: 合成方法
+    system_of_measurement:
+      name: 计量制
+    system_range:
+      name: 系统范围
+    systems_supported:
+      name: 支持的系统
+    tab_style:
+      name: 标签款式
+    tabletop_color:
+      name: 桌面颜色
+    tabletop_material:
+      name: 桌面材质
+    tabletop_pattern:
+      name: 桌面样式
+    tabletop_shape:
+      name: 桌面形状
+    tableware_material:
+      name: 餐具材质
+    tack/pushpin_head_design:
+      name: 大头钉/图钉头设计
+    tag_fastening:
+      name: 标签紧固
+    tampon_absorbency_level:
+      name: 卫生棉条吸水性等级
+    tampon_features:
+      name: 卫生棉条特点
+    tan_type:
+      name: 美黑类型
+    tank_color:
+      name: 水箱颜色
+    tank_material:
+      name: 罐体材料
+    tank_pattern:
+      name: 鱼缸形式
+    tape_material:
+      name: 胶带材质
+    target_audience:
+      name: 目标受众
+    target_gender:
+      name: 目标性别
+    targeted_pests:
+      name: 目标害虫
+    targeted_stains:
+      name: 定向染色
+    tea_input_type:
+      name: 茶叶输入类型
+    technology_level:
+      name: 技术等级
+    teeth_material:
+      name: 牙填料
+    telephone_cable_interface:
+      name: 电话线接口
+    telephone_style:
+      name: 电话款式
+    telescope_level:
+      name: 望远镜水准器
+    telescope_tracking_system:
+      name: 望远镜跟踪系统
+    television_shape:
+      name: 电视机形状
+    television_specialized_features:
+      name: 电视特色功能
+    temperature:
+      name: 温度
+    temperature_control:
+      name: 温度控制
+    temperature_measurement:
+      name: 温度测量
+    template_type:
+      name: 模板类型
+    temple_color:
+      name: Temple 颜色
+    temple_pattern:
+      name: 镜腿形式
+    tension:
+      name: 张力
+    tequila_variety:
+      name: 龙舌兰酒品种
+    terminal_operation:
+      name: 终点站作业
+    terrain:
+      name: 地形
+    test_format:
+      name: 测试形式
+    test_method:
+      name: 测试方法
+    test_sample:
+      name: 测试样品
+    tetherball_equipment_included:
+      name: 包含绳球装备
+    text_plate_material:
+      name: 文字板材质
+    textile_craft_machine_features:
+      name: 纺织机特点
+    textile_craft_project_type:
+      name: 纺织工艺项目类型
+    texture:
+      name: 质地
+    texture_level:
+      name: 质地等级
+    theme:
+      name: 主题
+    thermal_detector_type:
+      name: 热探测器类型
+    thermocouple_type:
+      name: 热电偶类型
+    thickness_type:
+      name: 厚度类型
+    thinner_application:
+      name: 稀释剂应用
+    thread_direction:
+      name: 螺纹方向
+    threaded_rod_size:
+      name: 螺杆尺寸
+    throw_pillow_shape:
+      name: 抱枕形状
+    ticket_additional_features:
+      name: 门票附加特点
+    ticket_type:
+      name: 票种
+    tile_design:
+      name: 瓷砖设计
+    tile_game_type:
+      name: 骨牌游戏类型
+    tile_installation_method:
+      name: 瓷砖安装方法
+    tile_look:
+      name: 瓷砖外观
+    tile_material:
+      name: 瓷砖材质
+    tile_texture:
+      name: 瓷砖纹理
+    time_period:
+      name: 时间段
+    time_signatures:
+      name: 拍号
+    time_weighting:
+      name: 时间计权
+    timepiece_features:
+      name: 钟表特点
+    timer_design:
+      name: 定时器设计
+    timer_features:
+      name: 定时器功能
+    timer_type:
+      name: 定时器类型
+    tip_design:
+      name: 尖端设计
+    tip_material:
+      name: 针尖材质
+    tip_opening:
+      name: 尖端开口
+    tip_style:
+      name: 尖端款式
+    tip_type:
+      name: 尖端类型
+    tire_bead_type:
+      name: 轮胎胎圈类型
+    tobacco_type:
+      name: 烟草类型
+    toddler_bed_features:
+      name: 儿童床特点
+    toe_spacer_design:
+      name: 脚趾垫片设计
+    toe_strap_type:
+      name: 套趾雪板类型
+    toe_style:
+      name: 脚趾款式
+    toilet/bidet_mounting_type:
+      name: 马桶/坐浴盆安装类型
+    toilet_cover_design:
+      name: 马桶盖设计
+    toilet_cover_features:
+      name: 马桶盖特点
+    toilet_mounting_type:
+      name: 马桶安装方式
+    toilet_shape:
+      name: 马桶形状
+    tom_tom_design:
+      name: 手鼓设计
+    tool/utensil_material:
+      name: 工具/用具材质
+    tool_key_tip:
+      name: 刀尖
+    tool_mobility:
+      name: 工具移动性
+    tool_operation:
+      name: 工具操作
+    toothpaste_type:
+      name: 牙膏类型
+    toothpick_design:
+      name: 牙签设计
+    top_color:
+      name: 屋顶颜色
+    top_length_type:
+      name: 顶部长度类型
+    top_material:
+      name: 屋顶材质
+    top_pattern:
+      name: 桌面图案
+    top_surface_material:
+      name: 顶面材质
+    tote_handle_type:
+      name: 装运箱手柄类型
+    totem_design:
+      name: 图腾设计
+    touch_capabilities:
+      name: 触摸功能
+    touchscreen_technology:
+      name: 触摸屏技术
+    toy/game_material:
+      name: 玩具/游戏材料
+    toy_figure_features:
+      name: 玩具人物特点
+    toy_figure_theme:
+      name: 玩具人物主题
+    toy_tool_type:
+      name: 玩具工具类型
+    tracking_metrics:
+      name: 跟踪指标
+    tracking_purpose:
+      name: 跟踪目的
+    tractor_accessories_included:
+      name: 包含拖拉机配件
+    trade_show_display_features:
+      name: 展会展览板特点
+    trading_card_packaging:
+      name: 交易卡包装
+    traffic_control_device_features:
+      name: 交通管制设备特点
+    trail_camera_design:
+      name: 追踪相机设计
+    trailer_type:
+      name: 拖车类型
+    training_data_requirements:
+      name: 训练数据要求
+    trampoline_design:
+      name: 蹦床设计
+    transcriber/dictation_system_features:
+      name: 转录/听写系统功能
+    transfer_boards_surface_type:
+      name: 转移板表面类型
+    transfer_paper_technique:
+      name: 转印纸技术
+    transmission_type:
+      name: 传输类型
+    trash_can_features:
+      name: 垃圾桶特点
+    travel_pillow_shape:
+      name: 旅行枕形状
+    treatment_area:
+      name: 治疗部位
+    treatment_objective:
+      name: 治疗目标
+    treatment_texture:
+      name: 处理质地
+    treatment_type:
+      name: 治疗类型
+    tree_stand_material:
+      name: 树架材质
+    trellis_design:
+      name: 格子设计
+    tricycle_design:
+      name: 三轮车设计
+    tricycle_propulsion_type:
+      name: 三轮车推进类型
+    trip_type:
+      name: 开关类型
+    tripod/monopod_attachment_type:
+      name: 三脚架/独脚架附件类型
+    tripod/monopod_head_type:
+      name: 三脚架/独脚架云台类型
+    tripod_handle_type:
+      name: 三脚架手柄类型
+    trophy_design:
+      name: 奖杯设计
+    truck_type:
+      name: 卡车类型
+    tube_component:
+      name: 管件
+    tube_configuration:
+      name: 管配置
+    tuner_design:
+      name: 调谐器设计
+    tuner_type:
+      name: 调音器类型
+    tuning_fork_design:
+      name: 音叉设计
+    tuning_fork_frequency:
+      name: 音叉频率
+    tuning_modes:
+      name: 调音模式
+    tuning_pitch:
+      name: 调音
+    tuning_range:
+      name: 调音范围
+    undershirt_style:
+      name: 汗衫款式
+    underwear_style:
+      name: 内衣款式
+    units_of_measurement:
+      name: 计量单位制
+    update_frequency:
+      name: 更新频率
+    upholstery_color:
+      name: 家具装饰品颜色
+    upholstery_material:
+      name: 装饰品材质
+    upholstery_pattern:
+      name: 装饰品图案
+    urinal_mounting_type:
+      name: 小便池安装方式
+    usage_conditions:
+      name: 使用条件
+    usage_frequency:
+      name: 使用频率
+    usage_type:
+      name: 使用类型
+    usb_standard:
+      name: USB 标准
+    user_type:
+      name: 用户类型
+    utility/maintenance_task_type:
+      name: 实用/维护任务类型
+    uv_protection:
+      name: 防紫外线
+    vacuum_air_filtering_technology:
+      name: 真空空气过滤技术
+    valve_type:
+      name: 阀门类型
+    van_type:
+      name: 厢式车类型
+    vaping_style:
+      name: 电子烟款式
+    varnish/finish_application:
+      name: 清漆/面漆应用
+    vase_shape:
+      name: 花瓶形状
+    vdi_protocol_support:
+      name: VDI 协议支持
+    vehicle_alarm/lock_features:
+      name: 车辆警报/锁定功能
+    vehicle_application_area:
+      name: 车辆应用领域
+    vehicle_audio_system_features:
+      name: 车载音响系统功能
+    vehicle_braking_features:
+      name: 车辆制动功能
+    vehicle_cleaning_item_features:
+      name: 车辆清洁物品特点
+    vehicle_decor_features:
+      name: 车饰特点
+    vehicle_drive/handling_features:
+      name: 车辆驾驶/操控特性
+    vehicle_engine/part_features:
+      name: 车辆发动机/部件特点
+    vehicle_engine_features:
+      name: 车辆发动机特点
+    vehicle_engine_part_features:
+      name: 车辆发动机部件特点
+    vehicle_exhaust_type:
+      name: 车辆尾气类型
+    vehicle_features:
+      name: 车辆特点
+    vehicle_fluid_features:
+      name: 车辆流体特性
+    vehicle_fluid_type:
+      name: 车辆流体类型
+    vehicle_frame/body_features:
+      name: 车架/车身特点
+    vehicle_mirror_design:
+      name: 车镜设计
+    vehicle_mirror_features:
+      name: 车镜功能
+    vehicle_mirror_type:
+      name: 车镜类型
+    vehicle_oil_features:
+      name: 车辆用油特性
+    vehicle_paint_type:
+      name: 车辆油漆类型
+    vehicle_placement:
+      name: 车辆放置位置
+    vehicle_seating_features:
+      name: 车辆座椅功能
+    vehicle_suspension_features:
+      name: 车辆悬架特点
+    vehicle_tire_type:
+      name: 车辆轮胎类型
+    vehicle_type:
+      name: 车辆类型
+    verification_technology:
+      name: 验证技术
+    vg/pg_ratio:
+      name: VG/PG 比
+    video_codecs/formats_supported:
+      name: 支持的视频编解码器/格式
+    video_game_content_features:
+      name: 视频游戏内容特色
+    video_game_genre:
+      name: 视频游戏类型
+    video_game_platform:
+      name: 视频游戏平台
+    video_game_sub_genre:
+      name: 视频游戏子类型
+    video_port_type:
+      name: 视频端口类型
+    video_region_code:
+      name: 视频区域码
+    video_resolution_supported:
+      name: 支持的视频分辨率
+    viewing_area_height:
+      name: 可视区域高度
+    viewing_area_width:
+      name: 可视区域宽度
+    vinegar_drink_variety:
+      name: 醋饮料品种
+    vinegar_variety:
+      name: 醋品种
+    viscosity:
+      name: 粘度
+    visual_effect:
+      name: 视觉效果
+    voip_protocol_support:
+      name: VoIP 协议支持
+    wader_type:
+      name: 涉禽类型
+    waist_rise:
+      name: 腰升
+    wall_material:
+      name: 墙体材料
+    wall_patching_application:
+      name: 墙面修补应用
+    wall_plate_style:
+      name: 墙面板款式
+    wallet_features:
+      name: 钱包特点
+    wallpaper_application_method:
+      name: 壁纸应用方法
+    wallpaper_theme:
+      name: 壁纸主题
+    warning_category:
+      name: 警告类别
+    washer/dryer_features:
+      name: 洗烘一体机功能
+    washer_form:
+      name: 垫圈形式
+    washing_machine_features:
+      name: 洗衣机功能
+    washing_method:
+      name: 洗涤方法
+    washing_programs:
+      name: 洗涤程序
+    waste_bag_features:
+      name: 垃圾袋特点
+    waste_bag_material:
+      name: 垃圾袋材质
+    watch/band_material:
+      name: 手表/表带材质
+    watch_accessory_style:
+      name: 手表配件款式
+    watch_display:
+      name: 手表展示
+    watch_features:
+      name: 手表特点
+    watch_material:
+      name: 手表材质
+    water_filter_application:
+      name: 水过滤器应用
+    water_sport:
+      name: 水上运动
+    watercraft_engine_control_type:
+      name: 船舶发动机控制类型
+    watercraft_features:
+      name: 船舶特点
+    watercraft_motor_mounting_type:
+      name: 船舶电机安装方式
+    watercraft_propulsion_type:
+      name: 船舶推进类型
+    watercraft_steering_wheel_type:
+      name: 船舶方向盘类型
+    watercraft_type:
+      name: 船舶类型
+    waveski_features:
+      name: 冲浪板特点
+    wax_application_method:
+      name: 上蜡方法
+    wax_type:
+      name: 蜡类型
+    weather_strip_design:
+      name: 挡风雨条设计
+    weather_supply_application_method:
+      name: 天气防护用品使用方法
+    weatherization_application:
+      name: 耐候应用
+    webcam_design:
+      name: 网络摄像头设计
+    weight_bar_activity:
+      name: 举重杆活动
+    weight_bar_type:
+      name: 举重杆类型
+    weight_type:
+      name: 重量型
+    weight_unit_supported:
+      name: 支持的重量单位
+    welding_helmet_features:
+      name: 焊接头盔特点
+    wet_bag_features:
+      name: 尿布袋特点
+    wheel_hardness:
+      name: 轮胎硬度
+    wheel_hub_placement:
+      name: 轮毂放置位置
+    wheel_part_type:
+      name: 车轮零件类型
+    wheel_type:
+      name: 车轮类型
+    wheelchair_type:
+      name: 轮椅类型
+    whiskey_style:
+      name: 威士忌款式
+    whiskey_variety:
+      name: 威士忌品种
+    wi_fi_band:
+      name: 无线网络频段
+    wi_fi_standard:
+      name: 无线网络标准
+    winder_features:
+      name: 绕线器特点
+    windlass_design:
+      name: 卷扬机设计
+    window_treatment_material:
+      name: 窗帘材质
+    windsurfing_board_style:
+      name: 帆板款式
+    wine_rack_design:
+      name: 酒架设计
+    wine_sweetness:
+      name: 葡萄酒甜度
+    wine_variety:
+      name: 葡萄酒品种
+    wipe_dispenser/warmer_features:
+      name: 湿巾分配器/加热器功能
+    wipe_dispenser_features:
+      name: 湿巾分配器功能
+    wipe_fragrance:
+      name: 擦拭香氛
+    wipe_packaging:
+      name: 擦拭包装
+    wipe_warmer_features:
+      name: 湿巾加热器功能
+    wire/rope_material:
+      name: 钢丝/绳索材质
+    wire_thickness:
+      name: 线材粗细
+    woodwind_care_items_included:
+      name: 内附木管乐器护理用品
+    work_capacity:
+      name: 工作容量
+    wreath_design:
+      name: 花环设计
+    yacht_type:
+      name: 游艇类型
+    yarn_weight_category:
+      name: 纱线克重类别
+    zipper_pull_style:
+      name: 拉链头款式
+    zoom_type:
+      name: 变焦类型

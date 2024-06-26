@@ -1,0 +1,7 @@
+---
+- name: google
+  available_versions:
+    - google/2021-09-21
+- name: shopify
+  available_versions:
+    - shopify/2022-02

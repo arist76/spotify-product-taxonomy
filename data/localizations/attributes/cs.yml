@@ -1,0 +1,4531 @@
+---
+cs:
+  attributes:
+    3d_glasses_material:
+      name: Materiál 3D brýlí
+    abrasive_material:
+      name: Brusný materiál
+    absinthe_style:
+      name: Druh absintu
+    absinthe_variety:
+      name: Příchuť absintu
+    absorbency_level:
+      name: Úroveň savosti
+    absorbent_hygiene_product_features:
+      name: Vlastnosti absorpčního hygienického produktu
+    academic_level:
+      name: Akademická úroveň
+    accessory_material:
+      name: Materiál doplňku
+    accessory_size:
+      name: Velikost doplňku/příslušenství
+    accordion_tuning:
+      name: Ladění akordeonu
+    active_ingredient:
+      name: Účinná látka
+    activewear_clothing_features:
+      name: Vlastnosti aktivního oblečení
+    activity:
+      name: Činnost
+    activity_tracker_design:
+      name: Design sledovače aktivity
+    acupuncture_model_format:
+      name: Formát modelu znázorňujícího akupunkturní body
+    acupuncture_model_type:
+      name: Typ modelu znázorňujícího akupunkturní body
+    additional_animation_software_features:
+      name: Další vlastnosti animačního softwaru
+    additional_design_software_type:
+      name: Další typ designérského softwaru
+    additional_financial_software_features:
+      name: Další vlastnosti finančního softwaru
+    additional_graphic_software_features:
+      name: Další vlastnosti grafického softwaru
+    additional_publishing_software_features:
+      name: Další vlastnosti publikačního softwaru
+    additional_security_software_features:
+      name: Jiné vlastnosti grafického softwaru
+    adhesive_type:
+      name: Typ přilnavosti
+    aftershave_product_form:
+      name: Forma přípravku po holení
+    age_group:
+      name: Věková skupina
+    age_restrictions:
+      name: Věková omezení
+    ai_application:
+      name: Aplikace AI
+    air_freshener_form:
+      name: Forma osvěžovače vzduchu
+    air_mattress_features:
+      name: Vlastnosti nafukovací matrace
+    airbrush_feed_type:
+      name: Typ plnění spreje
+    airbrush_operation_method:
+      name: Způsob fungování spreje
+    airsoft_equipment_included:
+      name: Obsažené airsoftové vybavení
+    album_type:
+      name: Typ alba
+    alert_type:
+      name: Typ upozornění
+    allergen_information:
+      name: Informace o alergenech
+    allergen_test_type:
+      name: Typ testu na alergeny
+    allergens:
+      name: Alergeny
+    allergy_friendly_features:
+      name: Vlastnosti vhodné pro alergiky
+    amplifier/booster_suitable_location:
+      name: Vhodné umístění zesilovače
+    amplifier_class:
+      name: Třída zesilovače
+    amplifier_configuration:
+      name: Konfigurace zesilovače
+    anchor_type:
+      name: Typ kotvy
+    anemometer_application:
+      name: Aplikace anemometru
+    angles_supported:
+      name: Podporované úhly
+    angling_style:
+      name: Rybolovná technika
+    animal_feed_form:
+      name: Forma krmiva pro zvířata
+    animal_type:
+      name: Typ zvířete
+    antenna_type:
+      name: Typ antény
+    anti_agin_skin_care_type:
+      name: Typ pleťového produktu proti stárnutí
+    antifreeze_type:
+      name: Typ nemrznoucí směsi
+    application_area:
+      name: Oblast aplikace
+    application_method:
+      name: Způsob aplikace
+    applicator_material:
+      name: Materiál aplikátoru
+    applicator_type:
+      name: Typ aplikátoru
+    applique/patch_shape:
+      name: Tvar nášivky/záplaty
+    applique_shape:
+      name: Tvar nášivky
+    aquarium_filter_features:
+      name: Vlastnosti akvarijního filtru
+    aquarium_light_spectrum:
+      name: Světelné spektrum akvarijního osvětlení
+    aquarium_overflow_box_design:
+      name: Design nádoby proti přetečení akvária
+    archery_activity:
+      name: Druh lukostřelby
+    archery_equipment_included:
+      name: Obsažené lukostřelecké vybavení
+    archery_style:
+      name: Styl lukostřelby
+    aromatherapy:
+      name: Aromaterapie
+    arrangement:
+      name: Aranžmá
+    arrow/bolt_material:
+      name: Materiál šípu/šroubu
+    arrow_fletching_material:
+      name: Materiál toulce
+    arrow_material:
+      name: Materiál šípu
+    art/crafting_tool_material:
+      name: Materiál pro umění a řemesla
+    art_fixative_application_method:
+      name: Způsob nanášení uměleckého ustalovače
+    art_style:
+      name: Umělecký styl
+    artwork_frame_material:
+      name: Materiál rámu
+    artwork_type:
+      name: Typ umění
+    assisted_braking_technology:
+      name: Technologie asistovaného brzdění
+    attachment_method:
+      name: Způsob upevnění
+    attachment_options:
+      name: Možnosti upevnění
+    attachment_type:
+      name: Typ upevnění
+    atv/off_road_tire_type:
+      name: Typ pneumatiky pro terénní vozidla
+    audio/scan_converter_features:
+      name: Vlastnosti převodníku zvuku/skenování
+    audio_codecs/formats_supported:
+      name: Podporované audiokodeky/audioformáty
+    audio_connectivity:
+      name: Připojení zvuku
+    audio_converter_features:
+      name: Vlastnosti převodníku zvuku
+    audio_d/a_converter_dac:
+      name: DAC převodník audio signálu
+    audio_mixer_type:
+      name: Typ mixážního pultu
+    audio_output_channel:
+      name: Kanál audiovýstupu
+    audio_output_format:
+      name: Formát audiovýstupu
+    audio_player/recorder_features:
+      name: Vlastnosti audio přehrávače/rekordéru
+    audio_purpose:
+      name: Účel audiovýstupu
+    audio_technology:
+      name: Audiotechnologie
+    authentication_technology:
+      name: Technologie ověření
+    authenticity:
+      name: Pravost
+    auto_focusing_modes:
+      name: Režimy automatického ostření
+    autoclave_sterilization_method:
+      name: Metoda sterilizace v autoklávu
+    autograph_type:
+      name: Typ autogramu
+    automation:
+      name: Automatizace
+    award_design:
+      name: Design ceny
+    award_occasion:
+      name: Příležitost k ocenění
+    awning_construction_type:
+      name: Typ konstrukce markýzy
+    awning_design:
+      name: Design markýzy
+    baby/toddler_car_seat_features:
+      name: Vlastnosti dětské/ batolecí autosedačky
+    baby/toddler_clothing_features:
+      name: Vlastnosti dětského a batolecího oblečení
+    baby/toddler_equipment_safety_features:
+      name: Bezpečnostní prvky dětského a batolecího vybavení
+    baby/toddler_furniture_features:
+      name: Vlastnosti nábytku pro miminka a batolata
+    baby/toddler_furniture_items_included:
+      name: Obsažené součásti nábytku pro miminka a batolata
+    baby/toddler_hat_style:
+      name: Styl dětských a batolecích kloboučků
+    baby/toddler_hosiery_style:
+      name: Styl punčochového zboží pro miminko/batole
+    baby/toddler_seat_features:
+      name: Vlastnosti dětské/ batolecí autosedačky
+    baby/toddler_sleepwear_style:
+      name: Styl dětských a batolecích pyžam
+    baby_drink_packaging:
+      name: Balení dětských nápojů
+    baby_equipment_safety_features:
+      name: Bezpečnostní prvky vybavení pro novorozence
+    baby_food_flavor:
+      name: Příchuť dětské výživy
+    baby_formula_format:
+      name: Forma kojeneckého mléka
+    baby_gift_items_included:
+      name: Obsažené položky dárkové sady pro děti
+    baby_health_items_included:
+      name: Obsažené položky sady pro péči o děti a kojence
+    baby_monitor_features:
+      name: Vlastnosti chůvičky
+    baby_snack_flavor:
+      name: Příchuť svačinky pro děti
+    baby_snack_texture:
+      name: Textura svačinky pro děti
+    back_type:
+      name: Typ opěry
+    background_design:
+      name: Návrh pozadí
+    backing_color:
+      name: Barva krytu
+    backing_material:
+      name: Podkladový materiál
+    backing_pattern:
+      name: Vzor krytu
+    backrest_type:
+      name: Typ opěradla
+    backrest_upholstery_color:
+      name: Materiál čalounění opěradla
+    backrest_upholstery_material:
+      name: Materiál čalounění opěradla
+    backrest_upholstery_pattern:
+      name: Vzor čalounění opěradla
+    bag/case_closure:
+      name: Uzavírání tašky/kufříku
+    bag/case_features:
+      name: Vlastnosti tašky/pouzdra
+    bag/case_material:
+      name: Materiál tašky/pouzdra
+    bag/case_storage_features:
+      name: Vlastnosti ukládání tašky/pouzdra
+    bag_closure:
+      name: Zapínání tašky
+    bag_strap_type:
+      name: Typ popruhu brašny
+    bag_style:
+      name: Styl tašky
+    bag_type:
+      name: Typ brašny
+    bakery_items_included:
+      name: Obsažené pečicí předměty
+    bakeware_features:
+      name: Vlastnosti pečicího nádobí
+    bakeware_items_included:
+      name: Obsažené pečicí nádobí
+    bakeware_pieces_included:
+      name: Složení sady nádobí na pečení
+    bakeware_shape:
+      name: Tvar pečicího nádobí
+    baking_purpose:
+      name: Účel pečení
+    baking_sheet_material:
+      name: Materiál plechu na pečení
+    ball_material:
+      name: Materiál kuličky
+    ball_size:
+      name: Velikost míče
+    balloon_kit_items_included:
+      name: Včetně balónkové sady
+    balloon_shape:
+      name: Tvar balónku
+    band_color:
+      name: Barva pásku
+    band_material:
+      name: Materiál pásku
+    band_pattern:
+      name: Vzor pásku
+    band_strength:
+      name: Síla pásma
+    banner_design:
+      name: Design banneru
+    bar_mounting_type:
+      name: Typ montáže tyče
+    barcode_scanner_interface:
+      name: Rozhraní čtečky čárových kódů
+    barcode_supported:
+      name: Podporovaný čárový kód
+    barrel_material:
+      name: Materiál nástavce
+    barware_items_included:
+      name: Obsažené barové nádobí
+    barware_material:
+      name: Materiál barového nádobí
+    base_oil:
+      name: Základní olej
+    base_spirit:
+      name: Základní alkohol
+    base_type:
+      name: Typ základu
+    baseball/softball_ball_type:
+      name: Typ míče na baseball/softball
+    basket_material:
+      name: Materiál koše
+    basketball_equipment_included:
+      name: Obsažené basketbalové vybavení
+    bass_button_configuration:
+      name: Konfigurace basového tlačítka
+    bat_material:
+      name: Materiál pálky
+    bat_standard:
+      name: Standard pálky
+    bathroom_furniture_items_included:
+      name: Obsažené součásti koupelnového nábytku
+    bathtub_base_design:
+      name: Konstrukce základny vany
+    bathtub_features:
+      name: Vlastnosti vany
+    bathtub_skirt_shape:
+      name: Tvar vanové lišty
+    baton_grip_design:
+      name: Design rukojeti obušku
+    battery_cell_type:
+      name: Typ článku baterie
+    battery_features:
+      name: Vlastnosti baterie
+    battery_management_features:
+      name: Vlastnosti správy baterie
+    battery_size:
+      name: Velikost baterie
+    battery_technology:
+      name: Technologie baterie
+    battery_type:
+      name: Typ baterie
+    bead_shape:
+      name: Tvar korálků
+    beat_subdivisions:
+      name: Další dělení doby
+    beater_head_size:
+      name: Velikost hlavy beateru
+    bed/frame_features:
+      name: Vlastnosti postele/rámu
+    bed_pan_type:
+      name: Typ podložní mísy
+    bedding_pieces_included:
+      name: Složení sady ložního prádla
+    bedding_size:
+      name: Velikost povlečení
+    beer_style:
+      name: Pivní styl
+    beer_variety:
+      name: Druh piva
+    bell_design:
+      name: Design zvonku
+    bell_size:
+      name: Velikost zvonu
+    bell_sound:
+      name: Zvuk zvonku
+    belt_type:
+      name: Typ pásu
+    best_uses:
+      name: Nejvhodnější použití
+    bevel_type:
+      name: Typ výbrusu
+    beverage_product_form:
+      name: Forma nápoje
+    bib_design:
+      name: Tvar dětského bryndáku
+    bicycle_brake_type:
+      name: Typ brzd jízdních kol
+    bicycle_features:
+      name: Vlastnosti jízdního kola
+    bidet_mounting_type:
+      name: Typ montáže bidetu
+    binder_ring_shape:
+      name: Tvar kroužku pořadače
+    binding_mount:
+      name: Vázání
+    binding_style:
+      name: Styl vazby
+    binocular/monocular_design:
+      name: Design biokuláru/monokuláru
+    binocular_design:
+      name: Konstrukce binokulárního dalekohledu
+    biometric_monitor_accessory_features:
+      name: Vlastnosti měřiče tělesných funkcí
+    bios_type:
+      name: Typ BIOSu
+    bird_cage/stand_design:
+      name: Design klece / stojanu pro ptáky
+    bird_food_form:
+      name: Forma krmiva pro ptáky
+    bird_food_ingredients:
+      name: Složky krmiva pro ptáky
+    bird_treat_type:
+      name: Typ ptačího pamlsku
+    birthday_candle_design:
+      name: Design narozeninové svíčky
+    birthday_candle_type:
+      name: Typ narozeninové svíčky
+    bitter_variety:
+      name: Druh bitteru
+    blade_curve:
+      name: Zakřivení čepele
+    blade_design:
+      name: Konstrukce čepele
+    blade_material:
+      name: Materiál čepele
+    blade_type:
+      name: Typ čepele
+    blanket_color:
+      name: Barva přikrývky
+    blanket_pattern:
+      name: Vzor přikrývky
+    blending_type:
+      name: Typ míchání
+    blind/shade_style:
+      name: Styl rolety
+    blood_test_kit_components:
+      name: Součásti sady pro krevní test
+    board_concave_shape:
+      name: Konkávní tvar prkna
+    board_game_features:
+      name: Vlastnosti deskové hry
+    board_game_mechanics:
+      name: Mechanismy deskových her
+    board_material:
+      name: Materiál desky
+    board_mounting_type:
+      name: Typ upevnění na desku
+    board_profile:
+      name: Profil prkna
+    board_surface:
+      name: Povrch tabule
+    board_type:
+      name: Typ prkna
+    boat_type:
+      name: Typ člunu
+    body/facial_hair_type:
+      name: Typ chloupků na těle a obličeji
+    body_area:
+      name: Část těla
+    body_color:
+      name: Barva trupu
+    body_jewelry_type:
+      name: Typ tělového šperku
+    body_material:
+      name: Materiál těla
+    body_paint/foundation_type:
+      name: Typ tělové barvy/podkladu
+    body_pattern:
+      name: Vzor těla
+    bodyboard_features:
+      name: Vlastnosti bodyboardu
+    boiler_system:
+      name: Bojlerový systém
+    bolt_form:
+      name: Forma šroubu
+    bolt_material:
+      name: Materiál šroubu
+    book/file_cover_material:
+      name: Materiál obalu knihy/složky
+    book_cover_material:
+      name: Materiál obalu knihy
+    book_cover_type:
+      name: Typ knižní vazby
+    bookmark_design:
+      name: Design záložky
+    bookmark_shape:
+      name: Tvar záložky
+    boot_style:
+      name: Styl kotníkové obuvi
+    boot_type:
+      name: Typ boty
+    borescope_design:
+      name: Konstrukce boroskopu
+    bottle/container_closure:
+      name: Uzávěr láhve/nádoby
+    bottle_closure_type:
+      name: Typ uzávěru lahve
+    bottle_design:
+      name: Design láhve
+    bottle_material:
+      name: Materiál láhve
+    bottle_sterilizer_features:
+      name: Vlastnosti sterilizátoru lahví
+    bottle_type:
+      name: Typ láhve
+    bottle_warmer/sterilizer_features:
+      name: Vlastnosti ohřívače/sterilizátoru lahví
+    bottle_warmer_features:
+      name: Funkce zahřívání lahví
+    bottom_surface_material:
+      name: Materiál spodní plochy
+    bow/crossbow_features:
+      name: Vlastnosti ohřívače lahví
+    bow_features:
+      name: Vlastnosti luku
+    bow_hair_material:
+      name: Materiál tětivy
+    bow_material:
+      name: Materiál luku
+    box_type:
+      name: Typ boxu
+    bra_closure_type:
+      name: Typ zapínání podprsenky
+    bra_coverage:
+      name: Střih podprsenky
+    bra_features:
+      name: Vlastnosti podprsenky
+    bra_strap_type:
+      name: Typ ramínek podprsenky
+    bra_style:
+      name: Styl podprsenky
+    bra_support_level:
+      name: Úroveň opory podprsenky
+    bracelet_design:
+      name: Design náramku
+    bracket/brace_design:
+      name: Konstrukce držáku/výztuhy
+    brandy_variety:
+      name: Druh brandy
+    breath_sprays_certifications:
+      name: Certifikace ústních sprejů
+    bridge/router_advanced_features:
+      name: Pokročilé funkce Bridge/Routeru
+    brightness_levels:
+      name: Úrovně jasu
+    bristle_material:
+      name: Materiál štětin
+    bristle_shape:
+      name: Tvar štětin
+    broadhead/field_point_material:
+      name: Materiál špičky
+    brush_application:
+      name: Kartáčový aplikátor
+    brush_head_usage:
+      name: Použití hlavice na kartáčky na čištění pleti
+    brush_material:
+      name: Materiál kartáče
+    brush_size:
+      name: Velikost štětce
+    brush_type:
+      name: Typ štětce
+    bug_type:
+      name: Typ hmyzu
+    building_board_material:
+      name: Materiál stavěcí desky
+    building_consumable_form:
+      name: Forma stavebního spotřebního materiálu
+    building_toy_type:
+      name: Typ stavební hračky
+    bulb_cap_type:
+      name: Typ patice žárovky
+    bulb_shape:
+      name: Tvar žárovky
+    bulb_size:
+      name: Velikost žárovky
+    bulb_type:
+      name: Typ žárovky
+    bulldozer_blade_type:
+      name: Typ radlice buldozeru
+    bullet_protection_level:
+      name: Stupeň balistické odolnosti
+    bullhorn_features:
+      name: Vlastnosti rohu
+    bullion_form:
+      name: Forma investičních drahých kovů
+    burner_material:
+      name: Materiál hořáku
+    butt_cap_color:
+      name: Barva zadního uzávěru
+    butt_cap_material:
+      name: Materiál koncovky na prut
+    butt_cap_pattern:
+      name: Vzor zadního uzávěru
+    button/snap_closure_type:
+      name: Typ zapínání na knoflíky/patentky
+    cabinet_type:
+      name: Typ skříně
+    cable_housing_material:
+      name: Materiál kabelového pouzdra
+    cable_shielding:
+      name: Izolace kabelu
+    cable_type:
+      name: Typ kabelu
+    cage_type:
+      name: Typ klece
+    calculator_accessory_type:
+      name: Typ příslušenství ke kalkulačkám
+    calculator_features:
+      name: Vlastnosti kalkulačky
+    calendar/organizer_features:
+      name: Vlastnosti kalendáře/organizátoru
+    calendar_format:
+      name: Formát kalendáře
+    cam_system:
+      name: Kamerový systém
+    camera_attachment:
+      name: Upevnění fotoaparátu
+    camera_button/knob_type:
+      name: Typ tlačítka/knoflíku fotoaparátu
+    camera_control_type:
+      name: Typ ovládání kamery
+    camera_display_technology:
+      name: Zobrazovací technologie kamery
+    camera_features:
+      name: Vlastnosti kamery
+    camera_gear_type:
+      name: Typ zařízení fotoaparátu
+    camera_hd_type:
+      name: Typ HD kamery
+    camera_lens_material:
+      name: Materiál čoček kamery
+    camera_lens_type:
+      name: Typ objektivu fotoaparátu
+    camera_mounting_type:
+      name: Typ uchycení kamery
+    camera_sensor_type:
+      name: Typ snímače fotoaparátu
+    camera_shape:
+      name: Tvar kamery
+    candle_kit_items_included:
+      name: Včetně sady svíček
+    candle_material:
+      name: Materiál svíčky
+    candle_shape:
+      name: Tvar savičky
+    candle_type:
+      name: Typ svíčky
+    canned_meat_variety:
+      name: Druh konzervovaného masa
+    canopy_color:
+      name: Barva vrchlíku
+    canopy_material:
+      name: Materiál střechy
+    canopy_pattern:
+      name: Vzor vrchlíku
+    canvas_finish:
+      name: Povrchová úprava plátna
+    canvas_material:
+      name: Materiál plátna
+    canvas_texture:
+      name: Textura plátna
+    car_freshener_fragrance:
+      name: Vůně osvěžovače do auta
+    car_seat_installation:
+      name: Instalace autosedačky
+    car_seat_orientation:
+      name: Orientace autosedačky
+    car_type:
+      name: Typ vozidla
+    carabiner_gate_type:
+      name: Typ zámku karabiny
+    carabiner_shape:
+      name: Tvar karabiny
+    card/adapter_installation:
+      name: Instalace karty/adaptéru
+    card_attributes:
+      name: Atributy karty
+    card_design:
+      name: Design karty
+    card_format:
+      name: Formát karty
+    card_holder_design:
+      name: Design držáku karet
+    card_size:
+      name: Velikost karty
+    care_instructions:
+      name: Pokyny pro péči
+    carry_options:
+      name: Možnosti nošení
+    carrying_positions:
+      name: Polohy nošení
+    carrying_type:
+      name: Typ nošení
+    cart_design:
+      name: Design vozíku
+    cart_type:
+      name: Typ vozíku
+    cartridge_type:
+      name: Typ gramofonové přenosky
+    case_color:
+      name: Barva pouzdra
+    case_pattern:
+      name: Vzor krytu
+    case_type:
+      name: Typ obalu/krytu/pouzdra
+    cassette_adapter_type:
+      name: Typ kazetového adaptéru
+    cat_age_group:
+      name: Věková skupina koček
+    cat_litter_formula:
+      name: Složení steliva pro kočky
+    cbd_ingredients:
+      name: Ingredience CBD
+    celebration_type:
+      name: Typ oslavy
+    chain_link_type:
+      name: Typ řetízku
+    chain_type:
+      name: Typ řetězu
+    chair/sofa_features:
+      name: Vlastnosti křesla/pohovky
+    chair_features:
+      name: Vlastnosti křesla
+    chalkboard_surface:
+      name: Povrch křídové tabule
+    changing_mat/tray_features:
+      name: Vlastnosti přebalovací podložky/desky
+    changing_mat_features:
+      name: Vlastnosti přebalovací podložky
+    changing_tray_features:
+      name: Vlastnosti přebalovací desky
+    charger_type:
+      name: Typ nabíječky
+    charging_cable_type:
+      name: Typ nabíjecího kabelu
+    charging_level:
+      name: Úroveň nabíjení
+    charging_method:
+      name: Způsob nabíjení
+    chassis_type:
+      name: Typ počítačové skříně
+    chemical_application:
+      name: Chemická aplikace
+    chemical_container_type:
+      name: Typ nádoby na chemikálie
+    chemical_grade:
+      name: Jakostní třída chemikálie
+    chemical_product_form:
+      name: Forma chemického produktu
+    chemical_purity:
+      name: Čistota chemikálie
+    chemical_safety_features:
+      name: Chemické bezpečnostní prvky
+    chicken_feed_stage:
+      name: Fáze krmení kuřat
+    child_seat_placement:
+      name: Umístění dětské sedačky
+    chipper_technology:
+      name: Technologie drcení/štěpkování
+    chiropractic_table_design:
+      name: Konstrukce chiropraktického stolu
+    chuck_type:
+      name: Typ sklíčidla/adaptéru
+    cigar_body:
+      name: Síla doutníku
+    circuit_board_features:
+      name: Vlastnosti obvodové desky
+    circuit_breaker_design:
+      name: Konstrukce jističů
+    circuit_breaker_panel_form:
+      name: Forma jističového panelu
+    circuit_breaker_type:
+      name: Typ přístroje do rozvaděče
+    clarinet_key_system:
+      name: Systém klarinetových klapek
+    clasp_type:
+      name: Typ spony
+    claw_design:
+      name: Tvar čelisti
+    clay/slip_texture:
+      name: Textura skluzu
+    clay_texture:
+      name: Textura hlíny
+    cleaner_purpose:
+      name: Účel čističe
+    cleaning_instructions:
+      name: Pokyny k čištění
+    cleaning_purpose:
+      name: Účel použití
+    cleaning_surfaces:
+      name: Povrchy k čištění
+    cleat_type:
+      name: Typ vazáku
+    climbing_activity:
+      name: Druh lezení
+    clip_type:
+      name: Typ svorky
+    clipper/trimmer_type:
+      name: Typ zastřihovače
+    closure_style:
+      name: Styl zapínání
+    closure_type:
+      name: Typ zapínání
+    clothing_accessory_material:
+      name: Materiál oděvního doplňku
+    clothing_features:
+      name: Vlastnosti oděvu
+    club_subset:
+      name: Podskupina golfových holí
+    club_type:
+      name: Typ golfové hole
+    coating/sealant_application:
+      name: Aplikace nátěru/těsnicí hmoty
+    cocktail_decoration_design:
+      name: Design koktejlových dekorací
+    cocktail_decoration_material:
+      name: Design koktejlových dekorací
+    coffee/tea_set_pieces_included:
+      name: Složení kávového/čajového setu
+    coffee_creamer_variety:
+      name: Druh smetany do kávy
+    coffee_input_type:
+      name: Typ kávy na vstupu
+    coffee_product_form:
+      name: Forma kávy
+    coffee_roast:
+      name: Typ pražení kávy
+    coil_connection:
+      name: Typ žhavicí hlavy
+    coin_material:
+      name: Materiál mince
+    collar/mount_compatible_device:
+      name: Zařízení kompatibilní s límcem/upevněním
+    collar/mount_design:
+      name: Konstrukce límce/upevnění
+    collar_lock_type:
+      name: Typ límcového zámku
+    color:
+      name: Barva
+    color_accuracy_standards:
+      name: Standardy přesnosti barev
+    color_saturation:
+      name: Saturace barev
+    communication_device_features:
+      name: Vlastnosti komunikačního zařízení
+    communication_protocols:
+      name: Komunikační protokoly
+    compass_style:
+      name: Styl kompasu
+    compatible_aircraft_type:
+      name: Kompatibilní typ letadla
+    compatible_amplifier:
+      name: Kompatibilní zesilovač
+    compatible_aquarium:
+      name: Kompatibilní akvárium
+    compatible_baby_bottle_design:
+      name: Vhodný tvar kojenecké láhve
+    compatible_baby_carrier_type:
+      name: Vhodný typ nosítka pro děti
+    compatible_baby_chair_type:
+      name: Vhodný typ dětské židličky
+    compatible_baby_transport_type:
+      name: Vhodný typ přepravy dětí
+    compatible_ball_type:
+      name: Kompatibilní typ míčku
+    compatible_battery_size:
+      name: Vhodná velikost baterie
+    compatible_battery_technology:
+      name: Kompatibilní technologie baterie
+    compatible_bench_positions:
+      name: Vhodné pozice lavice
+    compatible_bike_type:
+      name: Kompatibilní typ kola
+    compatible_brass_instrument:
+      name: Kompatibilní žesťový nástroj
+    compatible_clarinet_type:
+      name: Kompatibilní typ klarinetu
+    compatible_cosmetic_tools:
+      name: Vhodné kosmetické pomůcky
+    compatible_device:
+      name: Kompatibilní zařízení
+    compatible_drum_configuration:
+      name: Kompatibilní konfigurace bicích
+    compatible_electric/acoustic_instrument:
+      name: Kompatibilní elektrický/akustický nástroj
+    compatible_electronic_card_type:
+      name: Kompatibilní typ elektronické karty
+    compatible_exercises:
+      name: Kompatibilní cviky
+    compatible_filament:
+      name: Kompatibilní tisková struna
+    compatible_film_type:
+      name: Kompatibilní typ filmu
+    compatible_flute_type:
+      name: Kompatibilní typ flétny
+    compatible_game_format:
+      name: Kompatibilní herní formát
+    compatible_gardening_tool:
+      name: Vhodné zahradnické nářadí
+    compatible_hair_color:
+      name: Kompatibilní barva vlasů
+    compatible_hammock_design:
+      name: Vhodná konstrukce houpací sítě
+    compatible_harmonica_type:
+      name: Kompatibilní typ harmoniky
+    compatible_hdcp:
+      name: Kompatibilita s HDCP
+    compatible_instrument:
+      name: Kompatibilní nástroj
+    compatible_keyboard_configuration:
+      name: Kompatibilní konfigurace klávesnice
+    compatible_lock_type:
+      name: Kompatibilní typ zámku
+    compatible_makeup:
+      name: Vhodný make-up
+    compatible_mattress_size:
+      name: Vhodná velikost matrace
+    compatible_memory_cards:
+      name: Kompatibilní paměťové karty
+    compatible_microphone_thread:
+      name: Kompatibilní závit mikrofonu
+    compatible_motherboard_form_factor:
+      name: Kompatibilní form factor základní desky
+    compatible_oboe_type:
+      name: Kompatibilní typ hoboje
+    compatible_operating_system:
+      name: Kompatibilní operační systém
+    compatible_orchestral_string_instrument:
+      name: Kompatibilní koncertní smyčcový nástroj
+    compatible_paper_size:
+      name: Vhodná velikost papíru
+    compatible_patient_profile:
+      name: Kompatibilní profil pacienta
+    compatible_percussion_instrument:
+      name: Kompatibilní bicí nástroj
+    compatible_play_vehicle_type:
+      name: Kompatibilní typ vozidla na hraní
+    compatible_player:
+      name: Kompatibilní přehrávač
+    compatible_printer:
+      name: Kompatibilní tiskárna
+    compatible_processor_series:
+      name: Kompatibilní řada procesorů
+    compatible_programming_languages:
+      name: Kompatibilní programovací jazyky
+    compatible_recipes:
+      name: Vhodné recepty
+    compatible_resolution:
+      name: Kompatibilní rozlišení
+    compatible_seat_type:
+      name: Vhodný typ autosedačky
+    compatible_shoe_size:
+      name: Vhodná velikost obuvi
+    compatible_software_platform:
+      name: Kompatibilní softwarová platforma
+    compatible_special_effects_device:
+      name: Kompatibilní zařízení pro speciálními efekty
+    compatible_stove_top_type:
+      name: Kompatibilní typ sporáku
+    compatible_string_instrument:
+      name: Kompatibilní strunný nástroj
+    compatible_stroller_type:
+      name: Vhodný typ kočárku
+    compatible_vacuum_type:
+      name: Kompatibilní typ vysavače
+    compatible_vehicle:
+      name: Kompatibilní vozidlo
+    compatible_walking_aid_equipment:
+      name: Vhodné pomůcky pro chůzi
+    compatible_weight_lifting_accessory:
+      name: Vhodné příslušenství pro vzpírání
+    compliance_certifications:
+      name: Osvědčení o shodě
+    component_output_type:
+      name: Typ komponentního výstupu
+    component_package_type:
+      name: Typ balíčku komponent
+    compression_format:
+      name: Kompresní formát
+    compression_level:
+      name: Kompresní třída
+    computer_accessories_included:
+      name: Obsažené příslušenství k počítači
+    computer_form:
+      name: Druh počítače
+    computer_server_features:
+      name: Vlastnosti počítačového serveru
+    computer_specialized_features:
+      name: Specializované funkce počítače
+    concertina_button_configuration:
+      name: Konfigurace tlačítka koncertiny
+    condition:
+      name: Stav
+    conditioner_effect:
+      name: Účinek kondicionéru
+    condom_type:
+      name: Typ kondomu
+    connecting_thread:
+      name: Připojovací redukce
+    connection_method:
+      name: Způsob připojení
+    connection_type:
+      name: Typ připojení
+    connectivity_technology:
+      name: Technologie připojení
+    connector_design:
+      name: Konstrukce konektoru
+    connector_gender:
+      name: Provedení konektoru (samec, samice)
+    console_system:
+      name: Systém konzole
+    constitutive_ingredients:
+      name: Základní ingredience
+    construction_set_theme:
+      name: Téma stavebnice
+    contrast:
+      name: Kontrast
+    contrast_ratio_typical:
+      name: Kontrastní poměr (typický)
+    control_functions:
+      name: Ovládací funkce
+    control_method:
+      name: Způsob řízení
+    control_technology:
+      name: Technologie ovládání
+    control_type:
+      name: Typ ovládání
+    controller_design:
+      name: Design ovladače
+    controller_drive_type:
+      name: Typ pohonu řízení
+    converter_functionality:
+      name: Funkce převodníku
+    conveyor_operation:
+      name: Provoz dopravníku
+    cooking_method:
+      name: Způsob přípravy
+    cooking_wine_variety:
+      name: Druh vína na vaření
+    cookware/bakeware_features:
+      name: Vlastnosti nádobí k vaření/pečení
+    cookware/bakeware_material:
+      name: Materiál nádobí k vaření/pečení
+    cookware_features:
+      name: Vlastnosti nádobí k vaření
+    cookware_items_included:
+      name: Obsažené nádobí k vaření
+    cooling_technology:
+      name: Technologie chlazení
+    cord_fastening_system:
+      name: Systém upevnění lanka
+    core_color:
+      name: Barva jádra
+    core_material:
+      name: Materiál jádra
+    core_pattern:
+      name: Vzor jádra
+    corrector_features:
+      name: Vlastnosti korektoru
+    corsage/boutonniere_design:
+      name: Design korsáží a boutonniér
+    cosmetic_condition:
+      name: Stav použití
+    cosmetic_finish:
+      name: Výsledný efekt pro pleť
+    cosmetic_function:
+      name: Účinek na pleť
+    costume_theme:
+      name: Téma kostýmu
+    counter_shape:
+      name: Tvar pultu
+    country:
+      name: Země
+    cover_closure_design:
+      name: Design zapínání peleríny
+    cover_color:
+      name: Barva potahu
+    cover_features:
+      name: Vlastnosti krytu
+    cover_material:
+      name: Materiál potahu/obalu
+    cover_pattern:
+      name: Vzor potahu
+    cover_type:
+      name: Typ plachty/potahu
+    coverage_area:
+      name: Oblast pokrytí
+    coverage_region:
+      name: Oblast pokrytí
+    craft/sculpting_project_type:
+      name: Typ řemeslného/sochařského projektu
+    craft_cutter/embosser_type:
+      name: Typ řezačky/emboseru
+    craft_decoration_maker_type:
+      name: Typ nástroje na dekorace
+    craft_knife_design:
+      name: Design řemeslného nože
+    craft_pipe_cleaner_design:
+      name: Design čističe dýmek
+    craft_project_type:
+      name: Typ řemeslného projektu
+    crafting_frame/stretcher_features:
+      name: Funkce rámu/napínače
+    crafting_frame_features:
+      name: Vlastnosti rámu
+    crafting_hoop_features:
+      name: Funkce obruče
+    crafting_mat/pad_features:
+      name: Vlastnosti podložky
+    crafting_stretcher_features:
+      name: Vlastnosti napínáku
+    crampon_attachment_type:
+      name: Typ upevnění mačky
+    creative_art_project_type:
+      name: Typ kreativního uměleckého projektu
+    crib/toddler_bed_features:
+      name: Vlastnosti dětské postýlky
+    crib_features:
+      name: Vlastnosti postýlky
+    cricket_equipment_included:
+      name: Obsažené kriketové vybavení
+    crutch_type:
+      name: Typ berlí
+    crystal_system:
+      name: Krystalografická soustava
+    cue_style:
+      name: Styl tága
+    cue_type:
+      name: Typ tága
+    cue_wrap:
+      name: Omotávka tága
+    cuisine:
+      name: Kuchyně (styl vaření)
+    culinary_botanical_name:
+      name: Botanický název kulinářsky využívaných rostlin
+    cup_size:
+      name: Velikost košíčku
+    curler_type:
+      name: Typ natáček
+    currencies_supported:
+      name: Podporované měny
+    currency:
+      name: Měna
+    currency_type:
+      name: Typ měny
+    customer_support_channels:
+      name: Kanály zákaznické podpory
+    customization:
+      name: Přizpůsobení
+    cutter_options:
+      name: Možnosti řezačky
+    cutting_method:
+      name: Způsob stříhání
+    cycling_style:
+      name: Druh cyklistiky
+    data_network:
+      name: Datová síť
+    decoration_material:
+      name: Materiál dekorace
+    decorative_stamp_design:
+      name: Design dekorativního razítka
+    denomination:
+      name: Nominální hodnota
+    dental_floss_shape:
+      name: Tvar zubní nitě
+    dental_floss_thickness_level:
+      name: Tloušťka dentální nitě
+    dental_floss_type:
+      name: Typ zubní nitě
+    dental_mouthgard_recommended_use:
+      name: Doporučené použití zubního chrániče
+    dental_mouthguard_certifications:
+      name: Certifikace chráničů zubů
+    dental_paste_flavor:
+      name: Příchuť zubní pasty
+    dental_repair_kit_certifications:
+      name: Certifikace sady pro opravu zubů
+    dental_water_jet_operation:
+      name: Ovládání zubní trysky
+    dentistry_items_included:
+      name: Včetně stomatologických předmětů
+    denture_base_color:
+      name: Základní barva zubní protézy
+    denture_coverage:
+      name: Krytí zubní protézy
+    denture_design:
+      name: Design zubní protézy
+    denture_teeth_color:
+      name: Barva zubů zubní protézy
+    deployment_type:
+      name: Typ nasazení
+    desk_organizer_features:
+      name: Vlastnosti organizátoru
+    desk_size:
+      name: Velikost stolu
+    detailed_ingredients:
+      name: Podrobný seznam ingrediencí
+    detectable_drugs:
+      name: Zjistitelné drogy
+    detector_operation_mode:
+      name: Provozní režim detektoru
+    detector_sensitivity:
+      name: Citlivost detektoru
+    detector_type:
+      name: Typ detektoru
+    developmental_features:
+      name: Vývojové vlastnosti
+    device_interface:
+      name: Rozhraní zařízení
+    device_technology:
+      name: Technologie zařízení
+    dexterity_skills:
+      name: Obratnostní dovednosti
+    dial_color:
+      name: Barva číselníku
+    dial_pattern:
+      name: Vzor číselníku
+    diaper_bag_additional_features:
+      name: Další vlastnosti tašky na plenky
+    diaper_bag_material:
+      name: Materiál tašky na pleny
+    diaper_bag_style:
+      name: Styl tašky na pleny
+    diaper_features:
+      name: Vlastnosti plenky
+    diaper_kit_components:
+      name: Součásti sady na přebalování
+    diaper_organizer_features:
+      name: Vlastnosti organizéry plenek
+    diaper_size:
+      name: Velikost plenek
+    diaper_type:
+      name: Typ plenek
+    dice_shape:
+      name: Tvar kostek
+    dielectric_type:
+      name: Typ dielektrika
+    dietary_preferences:
+      name: Informace o vhodnosti z hlediska dietních omezení
+    dietary_supplements:
+      name: Doplňky stravy
+    dietary_use:
+      name: Účel diety
+    difficulty_level:
+      name: Stupeň obtížnosti
+    diffuser_design:
+      name: Konstrukce difuzoru
+    digital_sound_processing:
+      name: Zpracování digitálního zvuku
+    dinnerware_pieces_included:
+      name: Složení sady nádobí
+    dirt_separating_method:
+      name: Způsob odstraňování nečistot
+    discharge_type:
+      name: Typ vykládky
+    disk_format_type:
+      name: Typ formátu disku
+    dispenser_type:
+      name: Typ dávkovače
+    display_board_features:
+      name: Vlastnosti zobrazovací desky
+    display_color_mode:
+      name: Barevný režim displeje
+    display_features:
+      name: Vlastnosti displeje
+    display_mode:
+      name: Zobrazovací režim
+    display_recommended_use:
+      name: Zobrazení doporučeného použití
+    display_resolution:
+      name: Rozlišení displeje
+    display_sign_design:
+      name: Design cedule
+    display_technology:
+      name: Technologie displeje
+    disposable/reusable_bag_features:
+      name: Vlastnosti jednorázové/opakovaně použitelné tašky
+    disposable/reusable_item_material:
+      name: Materiál jednorázově/opakovaně použitelného předmětu
+    disposable_bag_features:
+      name: Vlastnosti jednorázové tašky
+    disposable_bag_material:
+      name: Materiál jednorázové tašky
+    disposable_glove_features:
+      name: Vlastnosti jednorázových rukavic
+    disposable_tableware_material:
+      name: Materiál jednorázového nádobí
+    dive_computer_items_included:
+      name: Obsažené položky potápěčského počítače
+    diving/snorkeling_equipment_included:
+      name: Obsažené položky pro potápění/šnorchlování
+    diving_regulator_style:
+      name: Styl potápěčského regulátoru
+    dj_equipment_features:
+      name: Vlastnosti DJ vybavení
+    dj_software_compatibility:
+      name: Kompatibilita DJ softwaru
+    dog_age_group:
+      name: Věková skupina psů
+    dog_diaper_size:
+      name: Velikost psích plenek
+    dog_diaper_type:
+      name: Typ psích plenek
+    dog_house_features:
+      name: Vlastnosti boudy pro psy
+    dog_kennel/run_features:
+      name: Vlastnosti boudy/výběhu pro psy
+    dog_kennel_features:
+      name: Vlastnosti boudy pro psy
+    dog_pen_features:
+      name: Vlastnosti kotce pro psy
+    dog_toy_type:
+      name: Typ hračky pro psa
+    doll/playset_features:
+      name: Vlastnosti panenky/hrací sady
+    doll_features:
+      name: Vlastnosti panenky
+    doll_type:
+      name: Typ panenky
+    door/frame_application:
+      name: Použití dveří/rámu
+    door_application:
+      name: Použití dveří
+    door_closer_application:
+      name: Aplikace zavírače dveří
+    door_closer_design:
+      name: Design zavírače dveří
+    door_color:
+      name: Barva dvířek
+    door_frame_application:
+      name: Použití rámu dveří
+    door_frame_finish:
+      name: Povrchová úprava rámu dveří
+    door_glass_finish:
+      name: Povrchová úprava skla dveří
+    door_insulation:
+      name: Izolace dveří
+    door_knob_function:
+      name: Funkce dveřní kliky
+    door_mat_base_color:
+      name: Základní barva rohožky
+    door_mat_base_material:
+      name: Základní materiál rohožky
+    door_mat_base_pattern:
+      name: Základní vzor rohožky
+    door_mat_surface_material:
+      name: Materiál povrchu rohožky
+    door_material:
+      name: Materiál dvířek
+    door_pattern:
+      name: Vzor dveří
+    door_stop_placement:
+      name: Umístění dveřní zarážky
+    door_stopper_design:
+      name: Design dveřní zarážky
+    door_suitable_location:
+      name: Vhodné umístění dveří
+    door_surface_finish:
+      name: Povrchová úprava dveří
+    door_type:
+      name: Typ dveří
+    double_stroller_configuration:
+      name: Sestavení sourozeneckého kočárku
+    download_format:
+      name: Formát ke stažení
+    drain_location:
+      name: Umístění odtoku
+    drawing/painting_kit_items_included:
+      name: Včetně položek sady pro kreslení/malování
+    dress_form_features:
+      name: Funkce krejčovské panny
+    dress_occasion:
+      name: Příležitost použití šatů
+    dress_style:
+      name: Styl šatů
+    drill_features:
+      name: Vlastnosti vrtačky
+    drilling_method:
+      name: Způsob vrtání
+    drilling_rig_orientation:
+      name: Orientace vrtné soupravy
+    drinkware_material:
+      name: Materiál nápojového nádobí
+    drinkware_pieces_included:
+      name: Složení sady nápojového skla
+    drive_size:
+      name: Velikost jednotky
+    drive_type:
+      name: Typ náhonu
+    drum_configuration:
+      name: Konfigurace bicích
+    drum_hardware_adjustability:
+      name: Nastavitelnost hardwaru bubnu
+    drum_hardware_material:
+      name: Materiál hardwaru bubnu
+    dry/wet_cleaning:
+      name: Mokrý/suchý úklid
+    dry_bean_variety:
+      name: Druh suchých fazolí
+    dryer_features:
+      name: Vlastnosti sušičky
+    dryer_technology:
+      name: Technologie sušení
+    drying_speed:
+      name: Rychlost schnutí
+    duct_design:
+      name: Design potrubí
+    duct_shape:
+      name: Tvar potrubí
+    duplexing_technology:
+      name: Technologie oboustranného tisku
+    durability_features:
+      name: Vlastnosti odolnosti
+    dust_container_type:
+      name: Typ prachového kontejneru
+    dust_mask_type:
+      name: Typ protiprachové masky
+    dye_form:
+      name: Forma barviva
+    dynamic_level:
+      name: Stupeň odrazu
+    e_book_formats_supported:
+      name: Podporované formáty e-knih
+    e_cigarette/vaporizer_style:
+      name: Druh elektronické cigarety/vaporizéru
+    e_liquid_flavor:
+      name: Příchuť náplně elektronické cigarety (e-liquid)
+    e_liquid_variety:
+      name: Druh náplně elektronické cigarety (e-liquidu)
+    e_reader_display_technology:
+      name: Zobrazovací technologie e-čtečky
+    ear_care_application_method:
+      name: Způsob aplikace péče o uši
+    earphone_features:
+      name: Vlastnosti sluchátek
+    earplug_use:
+      name: Použití špuntů do uší
+    earring_design:
+      name: Design náušnice
+    edge_style:
+      name: Styl zakončení pracovní desky
+    edge_type:
+      name: Typ okraje
+    education_level:
+      name: Stupeň vzdělání
+    egg_decorating_items_included:
+      name: Obsažené potřeby na zdobení vajíček
+    egg_turning:
+      name: Obracení vajec
+    electronic_drum_components:
+      name: Komponenty elektronického bubnu
+    electronic_game_genre:
+      name: Žánr elektronických her
+    embellishment/trim_material:
+      name: Materiál zdobení/lemu
+    embellishments:
+      name: Ozdoby
+    embossing_project_type:
+      name: Typ projektu ražení
+    embouchure_hole_shape:
+      name: Tvar otvoru pro nátrubek
+    emergency/safety_sign_design:
+      name: Návrh nouzových/bezpečnostních značek
+    emergency_items_included:
+      name: Složení nouzového vybavení
+    enclosure_type:
+      name: Typ schránky/boxu
+    energy_efficiency_class:
+      name: Třída energetické účinnosti
+    energy_efficiency_class_hdr:
+      name: Třída energetické účinnosti (HDR)
+    energy_efficiency_class_sdr:
+      name: Třída energetické účinnosti (SDR)
+    engine_design:
+      name: Konstrukce motoru
+    engine_purpose:
+      name: Účel motoru
+    engine_type:
+      name: Typ motoru
+    engraving:
+      name: Rytí/gravírování
+    envelope_features:
+      name: Vlastnosti obálky
+    envelope_seal_design:
+      name: Design obálkové pečeti
+    equipment_operation:
+      name: Provoz zařízení
+    era:
+      name: Historické období
+    esrb_rating:
+      name: Hodnocení ESRB
+    ethernet_lan_interface_type:
+      name: Typ rozhraní ethernetu (LAN)
+    ev_battery_features:
+      name: Vlastnosti EV baterie
+    ev_battery_type:
+      name: Typ baterie EV
+    ev_connector/adapter_type:
+      name: Typ konektoru/adaptéru EV
+    ev_conversion_kit_components:
+      name: Součásti sady pro přestavbu EV
+    evaporation_technology:
+      name: Technologie odpařování
+    event_type:
+      name: Typ akce
+    exercise_equipment_included:
+      name: Obsažené posilovací vybavení
+    exercise_equipment_material:
+      name: Materiál posilovacího vybavení
+    exercise_machine_features:
+      name: Vlastnosti posilovacího vybavení
+    exercise_mat_material:
+      name: Materiál podložky na cvičení
+    expansion_slots:
+      name: Sloty pro rozšíření
+    exposure_control:
+      name: Expoziční režim
+    extended_saxophone_range:
+      name: Rozšířený rozsah saxofonu
+    external_defibrillator_features:
+      name: Vlastnosti externího defibrilátoru
+    extinguisher_rating:
+      name: Třída hasicího přístroje
+    extinguishing_agent_type:
+      name: Typ hasicí látky
+    extraction_type:
+      name: Typ vývodu
+    extractor_tip_style:
+      name: Styl koncovky nástroje na odstranění komedonů
+    eye_pillow_shape:
+      name: Tvar polštářku na oči
+    eye_shadow_effect:
+      name: Efekt očních stínů
+    eyebrow_enhancer_color:
+      name: Barva tužky na obočí
+    eyelash_applicator_design:
+      name: Design aplikátoru na řasy
+    eyelash_material:
+      name: Materiál umělých řas
+    eyelash_type:
+      name: Typ umělých řas
+    eyepiece/adapter_material:
+      name: Materiál okuláru/adaptéru
+    eyewear_frame_color:
+      name: Barva rámečku brýlí
+    eyewear_frame_design:
+      name: Design rámečku brýlí
+    eyewear_frame_material:
+      name: Materiál rámečku brýlí
+    eyewear_frame_pattern:
+      name: Vzor rámečku brýlí
+    eyewear_frame_shape:
+      name: Tvar rámečku brýlí
+    eyewear_lens_color:
+      name: Barva čočky brýlí
+    eyewear_lens_material:
+      name: Materiál čočky brýlí
+    eyewear_lens_pattern:
+      name: Vzor čočky brýlí
+    fabric:
+      name: Tkanina
+    fabric_structure:
+      name: Struktura tkaniny
+    face_area:
+      name: Oblast obličeje
+    face_powder_color:
+      name: Barva pudru na obličej
+    face_powder_type:
+      name: Typ pudru na obličej
+    faceplate_design:
+      name: Design čelní desky
+    facility_sign_design:
+      name: Design označení objektu
+    false_nail_application_method:
+      name: Způsob aplikace umělých nehtů
+    fastener_finish:
+      name: Povrchová úprava spojovacího materiálu
+    fastener_material:
+      name: Materiál utahováku
+    fastener_type:
+      name: Typ připevnění
+    fat_content:
+      name: Obsah tuku
+    faucet_thread:
+      name: Závit kohoutku
+    features:
+      name: Vlastnosti
+    feed_system:
+      name: Systém podávání
+    feet_type:
+      name: Typ nohy
+    felt_tip_design:
+      name: Design plstěného hrotu
+    feminine_sanitary_supply_features:
+      name: Vlastnosti dámských toaletních potřeb
+    fencing_components:
+      name: Součásti oplocení
+    fiber_art_project_type:
+      name: Typ uměleckého projektu z vláken
+    field_flatness:
+      name: Rovnost pole
+    filament_type:
+      name: Typ vlákna
+    file_format_type:
+      name: Typ formátu souborů
+    file_shape:
+      name: Tvar pilníku
+    filler_material:
+      name: Materiál výplně
+    filler_support:
+      name: Podpora výplně
+    filler_type:
+      name: Typ tmelu
+    filling/padding_project_type:
+      name: Typ projektu vyplnění/podložení
+    film_application_method:
+      name: Způsob aplikace fólie
+    film_format:
+      name: Formát filmu
+    film_type:
+      name: Typ filmu
+    filter_material:
+      name: Materiál filtru
+    filter_type:
+      name: Typ filtru
+    filtering_modes:
+      name: Režimy filtrování
+    filtration_class:
+      name: Třída filtru/filtrace
+    fin_material:
+      name: Materiál ploutve
+    fin_pocket_type:
+      name: Typ provedení paty ploutve
+    fin_profile:
+      name: Profil ploutve
+    fingerboard_color:
+      name: Barva hmatníku
+    fingerboard_material:
+      name: Materiál hmatníku
+    fingerboard_pattern:
+      name: Vzor hmatníku
+    fingerprint_capture_method:
+      name: Metoda snímání otisků prstů
+    finial_shape:
+      name: Tvar ozdobné hlavice
+    finish:
+      name: Povrchová úprava
+    fire_extinguisher_items_included:
+      name: Obsažené položky hasicího přístroje
+    firmness:
+      name: Tuhost
+    first_aid_kit_components:
+      name: Součásti lékárničky
+    first_aid_kit_usage:
+      name: Účel lékárničky
+    first_steps/crawlers_style:
+      name: Styl chodítka
+    fish_type:
+      name: Typ ryb
+    fishing_rod_action:
+      name: Akce rybářského prutu
+    fishing_rod_power:
+      name: Zátěž rybářského prutu
+    fishing_wire_material:
+      name: Materiál rybářského vlasce
+    fit:
+      name: Střih/provedení
+    fit_type:
+      name: Typ provedení
+    fixation_type:
+      name: Typ připevnění
+    flag_shape:
+      name: Tvar vlajky
+    flare_type:
+      name: Typ signalizačního světla
+    flash_card_theme:
+      name: Motiv flash karty
+    flash_modes:
+      name: Režimy blesku
+    flash_type:
+      name: Typ blesku
+    flashing_material:
+      name: Blýskavý materiál
+    flat_shoe_style:
+      name: Styl ploché boty
+    flatware_material:
+      name: Materiál příborů
+    flatware_pieces_included:
+      name: Složení příborové sady
+    flavor:
+      name: Příchuť
+    flavor_profile:
+      name: Chuťový profil
+    flexibility_rating:
+      name: Hodnocení flexibility
+    floral_wire_design:
+      name: Design květinářského drátu
+    flour/grain_type:
+      name: Typ mouky/obilí
+    flow_rate_type:
+      name: Rychlost průtoku
+    flower_color:
+      name: Barva květu
+    flower_pattern:
+      name: Vzor květiny
+    flue_type:
+      name: Typ kouřovodu
+    fluid_type:
+      name: Typ tekutiny
+    flush_plate_color:
+      name: Barva splachovací desky
+    flush_plate_pattern:
+      name: Vzor splachovadla
+    flush_system:
+      name: Systém splachování
+    flute_configuration:
+      name: Konfigurace flétny
+    foam_form:
+      name: Forma pěny
+    focus_adjustment:
+      name: Nastavení zaostření
+    focus_device_type:
+      name: Typ zaostřovacího zařízení
+    focus_type:
+      name: Typ zaostření
+    fold_type:
+      name: Způsob skládání
+    folder/report_cover_material:
+      name: Materiál obalu složky/přehledu
+    folding_mechanism:
+      name: Mechanizmus skládání
+    font_style:
+      name: Styl písma
+    food_bag_material:
+      name: Materiál tašky na potraviny
+    food_dispenser_type:
+      name: Typ dávkovače potravin
+    food_product_form:
+      name: Forma potraviny
+    food_storage_material:
+      name: Materiál dózy na potraviny
+    food_supplement_form:
+      name: Forma doplňku stravy
+    footage_type:
+      name: Typ záznamu
+    footboard_type:
+      name: Typ plochy pedálu
+    footwear_color:
+      name: Barva obuvi
+    footwear_material:
+      name: Materiál obuvi
+    footwear_pattern:
+      name: Vzor obuvi
+    format_supported:
+      name: Podporovaný formát
+    formula_level:
+      name: Věková skupina kojeneckého mléka
+    fossil_type:
+      name: Typ fosilie
+    foundation_color:
+      name: Barva základny
+    foundation_material:
+      name: Materiál základny
+    foundation_pattern:
+      name: Vzor základny
+    fragrance:
+      name: Vůně
+    fragrance_level:
+      name: Intenzita vůně
+    frame_color:
+      name: Barva rámu
+    frame_design:
+      name: Design rámu/obrouček
+    frame_material:
+      name: Materiál rámu
+    frame_pattern:
+      name: Vzor rámu
+    frame_style:
+      name: Styl rámu
+    frequency/radio_bands_supported:
+      name: Podporované frekvence / pásma rádiového vysílání
+    frequency_type:
+      name: Typ frekvence
+    frequency_weighting:
+      name: Frekvenční vážení
+    frog_material:
+      name: Žabí materiál
+    fruit_source:
+      name: Zdroj ovoce
+    fuel_additives:
+      name: Palivová aditiva
+    fuel_container_features:
+      name: Vlastnosti palivové nádrže
+    fuel_grade:
+      name: Třída paliva
+    fuel_purity:
+      name: Čistota paliva
+    fuel_source:
+      name: Zdroj paliva
+    fuel_supply:
+      name: Zásobování palivem
+    furniture/fixture_color:
+      name: Barva nábytku/zařízení
+    furniture/fixture_features:
+      name: Vlastnosti nábytku/zařízení
+    furniture/fixture_material:
+      name: Materiál nábytku/zařízení
+    furniture/fixture_pattern:
+      name: Vzor nábytku/zařízení
+    game_components:
+      name: Herní součásti
+    game_difficulty:
+      name: Obtížnost hry
+    game_features:
+      name: Vlastnosti hry
+    game_name:
+      name: Název hry
+    gameplay_skills:
+      name: Herní dovednosti
+    games_included:
+      name: Zahrnuté hry
+    garage_door_material:
+      name: Materiál garážových vrat
+    gardening_use:
+      name: Použití při zahradničení
+    garment_steamer_design:
+      name: Konstrukce napařovače oděvů
+    gases_detected:
+      name: Detekované plyny
+    gate_mounting_type:
+      name: Typ montáže zábrany
+    gauge_type:
+      name: Typ měřidla
+    gear_material:
+      name: Materiál převodů
+    gear_ratio:
+      name: Převodový poměr
+    gearing_type:
+      name: Typ pohonu
+    gel_strength:
+      name: Želírující síla
+    genre:
+      name: Žánr
+    geological_era:
+      name: Geologické období
+    gift_bag_handle_design:
+      name: Design rukojeti dárkové tašky
+    gift_set_format:
+      name: Forma dárkové sady
+    gin_variety:
+      name: Druh ginu
+    glaze_finish:
+      name: Povrchová úprava glazováním
+    glazing_type:
+      name: Typ zasklení
+    glitter_shape:
+      name: Tvar třpytek
+    glucose_meter_features:
+      name: Vlastnosti glukometru
+    glue_gun_features:
+      name: Vlastnosti tavicí pistole
+    glue_gun_operation:
+      name: Ovládání tavicí pistole
+    glue_gun_technology:
+      name: Technologie tavicí pistole
+    glue_strength:
+      name: Pevnost lepidla
+    golf_ball_type:
+      name: Typ golfového míčku
+    golf_equipment_included:
+      name: Obsažené golfové vybavení
+    gps_compatible_device:
+      name: Zařízení kompatibilní s GPS
+    gps_device_features:
+      name: Vlastnosti zařízení GPS
+    gps_map_type:
+      name: Typ GPS mapy
+    gps_software_focus:
+      name: Softwarové zaměření GPS
+    grading:
+      name: Klasifikace
+    grain:
+      name: Zrnitost
+    grape_variety:
+      name: Odrůda vinné révy
+    graphics_card_type:
+      name: Typ grafické karty
+    graphics_tablet_accessories_included:
+      name: Obsažené příslušenství grafického tabletu
+    graphics_tablet_specialized_features:
+      name: Specializované funkce grafického tabletu
+    gravel/substrate_material:
+      name: Materiál štěrku/substrátu
+    grease_filter_material:
+      name: Materiál tukového filtru
+    grip_texture:
+      name: Textura rukojeti
+    grip_type:
+      name: Typ rukojeti
+    grit_type:
+      name: Typ zrnitosti
+    grooming_kit_format:
+      name: Forma sady pro péči
+    guitar_fitting/part_type:
+      name: Typ osazení/dílu kytary
+    guitar_size:
+      name: Velikost kytary
+    gutter_fitting_type:
+      name: Typ okapové roury/svodu
+    gutter_style:
+      name: Styl žlabu
+    habitat_material:
+      name: Materiál stanoviště
+    hair_care_finish:
+      name: Konečná úprava vlasů
+    hair_care_items_included:
+      name: Obsažené položky pro péči o vlasy
+    hair_care_technology:
+      name: Technologie vlasové péče
+    hair_color/shade:
+      name: Barva/odstín vlasů
+    hair_loss_type:
+      name: Důvod vypadávání vlasů
+    hair_shear_type:
+      name: Typ stříhání vlasů
+    hair_styling_items_included:
+      name: Obsažené položky pro vlasový styling
+    hair_styling_tool_features:
+      name: Vlastnosti nástroje pro vlasový styling
+    hair_type:
+      name: Typ vlasů
+    hammer_head_material:
+      name: Materiál hlavy kladiva
+    hand_side:
+      name: Strana
+    hand_warmer_type:
+      name: Typ ohřívače rukou
+    handcuff_lock_type:
+      name: Typ zámku pout
+    handle_color:
+      name: Barva rukojeti
+    handle_design:
+      name: Tvar rukojeti
+    handle_grip_texture:
+      name: Textura rukojeti
+    handle_material:
+      name: Materiál rukojeti
+    handle_pattern:
+      name: Vzor rukojeti
+    handle_type:
+      name: Typ rukojeti
+    handset_type:
+      name: Typ náhlavní soupravy
+    handwear_features:
+      name: Vlastnosti rukavic
+    handwear_material:
+      name: Materiál rukavic
+    handwear_type:
+      name: Typ rukavic
+    hanging_chair_design:
+      name: Konstrukce závěsného křesla
+    hard_cider_variety:
+      name: Druh hard cideru
+    hard_drive_features:
+      name: Vlastnosti pevného disku
+    hard_drive_form_factor:
+      name: Formát pevného disku
+    hard_drive_installation:
+      name: Instalace pevného disku
+    hardhat_class:
+      name: Třída přilby
+    hardness:
+      name: Tvrdost
+    hardware_finish:
+      name: Povrchová úprava železářského zboží
+    hardware_material:
+      name: Materiál hardwaru
+    hardware_mounting_type:
+      name: Typ montáže hardwaru
+    hardwood_lumber_grade:
+      name: Třída řeziva z tvrdého dřeva
+    harness_closure_type:
+      name: Typ zapínání postroje
+    harp_size:
+      name: Velikost harfy
+    hatch_suitable_location:
+      name: Vhodné umístění dvířek
+    hazmat_suit_design:
+      name: Design ochranného obleku
+    hdr_format:
+      name: Formát HDR
+    headjoint_cut:
+      name: Tvar náustku
+    headphone_jack_type:
+      name: Typ konektoru sluchátek
+    headphone_style:
+      name: Styl sluchátek
+    headwear_features:
+      name: Vlastnosti pokrývky hlavy
+    hearing_aid_features:
+      name: Vlastnosti naslouchátka
+    hearing_aid_material:
+      name: materiál naslouchátka
+    heat_function:
+      name: Funkce tepla
+    heat_level:
+      name: Stupeň pálivosti
+    heat_settings:
+      name: Nastavení tepla
+    heat_source:
+      name: Zdroj tepla
+    heating_instructions:
+      name: Pokyny k ohřívání
+    heating_method:
+      name: Způsob ohřevu
+    heating_speed:
+      name: Rychlost ohřevu
+    heel_height_type:
+      name: Typ výšky podpatku
+    heel_shoe_type:
+      name: Typ boty na podpatku
+    height_adjustment:
+      name: Nastavení výšky
+    helmet_shade_design:
+      name: Design štítu přilby
+    hitch_class:
+      name: Třída závěsu
+    hitch_type:
+      name: Typ tažného zařízení
+    hockey_equipment_included:
+      name: Obsažené hokejové vybavení
+    hold_level:
+      name: Stupeň natužení
+    hook_design:
+      name: Design háčku
+    hook_grip_design:
+      name: Design hákové rukojeti
+    hook_size:
+      name: Velikost háčkovací jehlice
+    hook_type:
+      name: Typ háku
+    hoop_shape:
+      name: Tvar ok
+    horse_category:
+      name: Kategorie koně
+    horse_grooming_accessories_included:
+      name: Obsažené příslušenství pro péči o koně
+    hose_material:
+      name: Materiál hadice
+    host_interface:
+      name: Hostitelské rozhraní
+    housing_color:
+      name: Barva krytu
+    housing_material:
+      name: Materiál konstrukce
+    housing_pattern:
+      name: Vzor krytu
+    hub/switch_storage_options:
+      name: Možnosti úložiště Hub/Switch
+    humidifier_design:
+      name: Design zvlhčovače
+    humidity_control:
+      name: Regulace vlhkosti
+    humidy_control:
+      name: Ovládání vlhkosti
+    hunting/survival_knife_design:
+      name: Design loveckého nože
+    hunting_blind_design:
+      name: Design loveckého přístřešku
+    hvac_control_type:
+      name: Typ ovládání topení, větrání a klimatizace
+    ice_pack_type:
+      name: Typ chladicího sáčku/polštářku
+    icon_type:
+      name: Typ ikony
+    ignition_system:
+      name: Systém uvedení do provozu
+    illumination_technique:
+      name: Technika osvětlení
+    image_formats_supported:
+      name: Podporované formáty obrázků
+    image_sensor_size:
+      name: Velikost obrazového snímače
+    immobilizer_type:
+      name: Typ imobilizéru
+    incense_fragrance:
+      name: Vůně kadidla
+    incense_kit_items_included:
+      name: zahrnuté položky sady vonných tyčinek
+    incense_type:
+      name: Typ kadidla
+    incontinence_aid_features:
+      name: Vlastnosti inkontinenční pomůcky
+    industry_focus:
+      name: Zaměření na průmysl
+    infant_age_group:
+      name: Věková skupina kojenců
+    inflation_method:
+      name: Způsob nafukování
+    ingredient_category:
+      name: Kategorie ingrediencí
+    ingredient_origin:
+      name: Původ přísady
+    ingredients:
+      name: Ingredience
+    ink_application_technique:
+      name: Technika nanášení inkoustu
+    ink_color:
+      name: Barva inkoustu
+    ink_form:
+      name: Forma inkoustu
+    ink_pattern:
+      name: Vzor inkoustu
+    ink_type:
+      name: Typ inkoustu
+    inline_skating_style:
+      name: Druh inline bruslení
+    input/output_ports:
+      name: Vstupní/výstupní porty
+    input_connection:
+      name: Vstupní připojení
+    instruction_set_architecture:
+      name: Architektura instrukční sady
+    instrument/accessory_finish:
+      name: Povrchová úprava nástroje/příslušenství
+    instrument_accessory_material:
+      name: Materiál příslušenství nástroje
+    instrument_bow_material:
+      name: Materiál smyčce
+    instrument_color:
+      name: Barva nástroje
+    instrument_controller_type:
+      name: Typ ovladače nástroje
+    instrument_material:
+      name: Materiál nástroje
+    instrument_part_material:
+      name: Materiál části nástroje
+    instrument_pattern:
+      name: Vzor nástroje
+    instrument_string_color:
+      name: Barva struny nástroje
+    instrument_string_material:
+      name: Materiál struny nástroje
+    instrument_string_pattern:
+      name: Vzor struny nástroje
+    instrument_support_type:
+      name: Typ podpory nástroje
+    insulation_material:
+      name: Materiál izolace
+    intended_application:
+      name: Zamýšlené použití
+    interface_type:
+      name: Typ rozhraní
+    internal_drive_form_factor_supported:
+      name: Podporovaný form factor interního disku
+    intimate_apparel_features:
+      name: Vlastnosti intimního oblečení
+    inverter_type:
+      name: Typ měniče napětí
+    invitation_personalization_design:
+      name: Design personalizace pozvánky
+    ironing_features:
+      name: Vlastnosti žehlení
+    item_condition:
+      name: Stav položky
+    item_material:
+      name: Materiál položky
+    item_style:
+      name: Styl položky
+    j_cup_type:
+      name: Typ držáku J-Cup
+    jaw_material:
+      name: Materiál čelistí
+    jewelry_finding_type:
+      name: Typ nálezu šperku
+    jewelry_material:
+      name: Materiál šperku
+    jewelry_project_type:
+      name: Typ projektu šperků
+    jewelry_set_type:
+      name: Typ sady šperků
+    jewelry_type:
+      name: Typ šperku
+    joint_connection:
+      name: Spoj
+    joint_face_type:
+      name: Typ čela spoje
+    joint_style:
+      name: Styl chrániče závitů
+    jump_rope_design:
+      name: Design švihadla
+    jumping_surface_color:
+      name: Materiál skákacího povrchu
+    jumping_surface_material:
+      name: Materiál skákacího povrchu
+    jumping_surface_pattern:
+      name: Vzor skákacího povrchu
+    karaoke_modes:
+      name: Režimy karaoke
+    kerosene_application:
+      name: Aplikace petroleje
+    key_purpose:
+      name: Hlavní účel
+    keyboard_action:
+      name: Typ klaviatury
+    keyboard_format:
+      name: Formát klávesnice
+    keyboard_key_type:
+      name: Typ klávesy klávesnice
+    keyboard_language:
+      name: Jazyk klávesnice
+    keyboard_layout:
+      name: Rozložení klávesnice
+    keyboard_port_type:
+      name: Typ portu klávesnice
+    keyboard_specialized_features:
+      name: Speciální vlastnosti klávesnice
+    keyboard_switch_type:
+      name: Typ spínače klávesnice
+    keyboard_type:
+      name: Typ klávesnice
+    keypad_style:
+      name: Styl numerické klávesnice
+    kit_construction_type:
+      name: Typ konstrukce sady
+    kitchen/dining_furniture_items_included:
+      name: Obsažené položky nábytku do kuchyně a jídelny
+    kitchen_utensil_items_included:
+      name: Obsažené kuchyňské náčiní
+    kitesurfing_style:
+      name: Styl kitesurfingu
+    kneeboard_features:
+      name: Vlastnosti kneeboardu
+    knife_type:
+      name: Typ nože
+    knitting/padding_project_type:
+      name: Typ projektu pletení/vycpávky
+    knitting_project_type:
+      name: Typ projektu pletení
+    knob/handle_design:
+      name: Design knoflíku/rukojeti
+    knob_function:
+      name: Funkce ovladače
+    knob_style:
+      name: Styl knoflíků
+    labeling_project_type:
+      name: Typ projektu štítkování
+    laboratory_freezer_design:
+      name: Konstrukce laboratorního mrazáku
+    lacrosse_equipment_included:
+      name: Obsažené vybavení k lakrosu
+    ladder_type:
+      name: Typ žebříku
+    lamination_mode:
+      name: Režim laminace
+    lamp_type:
+      name: Typ lampy
+    language:
+      name: Jazyk
+    language_version:
+      name: Jazyková verze
+    laser_color:
+      name: Laserová barva
+    laser_light_source:
+      name: Laserový zdroj světla
+    laser_pattern:
+      name: Vzor laseru
+    lathe_application:
+      name: Aplikace soustruhu
+    laundry_detergent_features:
+      name: Vlastnosti pracího prostředku
+    lead_grade:
+      name: Stupnice tvrdosti tuhy
+    leash_design:
+      name: Design vodítka
+    leather/vinyl_texture:
+      name: Textura kůže/vinylu
+    lectern_mounting_type:
+      name: Typ upevnění na přednáškový pult
+    leg_color:
+      name: Barva nožek
+    leg_lock_type:
+      name: Typ zámku nohou
+    leg_material:
+      name: Materiál nožek
+    leg_pattern:
+      name: Vzor nohy
+    leg_sections:
+      name: Části nohy
+    lens/slide_material:
+      name: Materiál čočky/sklíčka
+    lens_cap_compatible_device:
+      name: Zařízení kompatibilní s krytkou objektivu
+    lens_coating:
+      name: Úprava čočky
+    lens_color:
+      name: Barva čočky
+    lens_configuration:
+      name: Konfigurace objektivu
+    lens_filter_effects:
+      name: Efekty filtru objektivu
+    lens_filter_type:
+      name: Typ filtru objektivu
+    lens_pattern:
+      name: Vzor čočky
+    lens_polarization:
+      name: Polarizace čočky
+    lens_storage_type:
+      name: Typ uložení čočky
+    lens_type:
+      name: Typ čočky
+    license_type:
+      name: Typ licence
+    lid_material:
+      name: Materiál víka
+    lid_type:
+      name: Typ víka
+    life_jacket_features:
+      name: Vlastnosti záchranné vesty
+    light_attachment_type:
+      name: Typ upevnění světla
+    light_color:
+      name: Barva světla
+    light_control:
+      name: Regulace propustnosti světla
+    light_design:
+      name: Světelný design
+    light_exposure_modes:
+      name: Expoziční režimy
+    light_filtering:
+      name: Filtrování světla
+    light_options:
+      name: Možnosti osvětlení
+    light_pattern:
+      name: Vzor světla
+    light_source:
+      name: Zdroj osvětlení
+    light_spectrum:
+      name: Světelné spektrum
+    light_temperature:
+      name: Teplota světla
+    light_type:
+      name: Typ světla
+    lighting_features:
+      name: Vlastnosti osvětlení
+    lighting_options:
+      name: Možnosti osvětlení
+    line/rope_type:
+      name: Typ provazu/lana
+    line_spacing_options:
+      name: Možnosti řádkování
+    liner_features:
+      name: Vlastnosti vložky
+    lip_gloss_effect:
+      name: Efekt lesku na rty
+    lip_liner_design:
+      name: Design tužky na rty
+    lip_plate_material:
+      name: Materiál zobce
+    lipstick_effect:
+      name: Efekt rtěnky
+    liqueur_variety:
+      name: Druh likéru
+    livestock_food_ingredients:
+      name: Složky krmiva pro hospodářská zvířata
+    lnb_output:
+      name: Výstup satelitního konvertoru (LNB)
+    lnb_technology:
+      name: Technologie satelitního konvertoru (LNB)
+    load_capacity:
+      name: Nosnost
+    loading_ramp_type:
+      name: Typ nakládací rampy
+    loading_type:
+      name: Typ plnění
+    lock_placement:
+      name: Umístění zámku
+    lock_type:
+      name: Typ zámku
+    locking_mechanism:
+      name: Mechanizmus zámku
+    lovibond:
+      name: Barva sladu
+    lubricant_application:
+      name: Aplikace lubrikantu
+    lubricant_composition:
+      name: Složení lubrikantu
+    lubricant_dispenser_type:
+      name: Typ dávkovače maziva
+    lubricant_form:
+      name: Forma maziva
+    luggage/bag_closure:
+      name: Uzávěr zavazadla/tašky
+    lumber/wood_type:
+      name: Typ řeziva/dřeva
+    lyre/flip_folder_attachment_type:
+      name: Typ upevnění držáku na noty
+    magnet_type:
+      name: Typ magentu
+    magnification:
+      name: Zvětšení
+    makeup_color/shade:
+      name: Barva/odstín make-upu
+    makeup_features:
+      name: Vlastnosti make-upu
+    mallet_material:
+      name: Materiál paličky
+    manufacturer_type:
+      name: Typ výrobce
+    marine_navigator_features:
+      name: Vlastnosti námořní navigace
+    marker_tip_design:
+      name: Design hrotu popisovače
+    mascara_effect:
+      name: Efekt řasenky
+    mask_type:
+      name: Typ masky
+    masonry_material:
+      name: Materiál zdiva
+    masonry_product_form:
+      name: Forma zednického výrobku
+    massage_area:
+      name: Oblast masáže
+    massage_stone_texture:
+      name: Textura masážního kamene
+    massage_technique:
+      name: Masážní technika
+    mat/rug_shape:
+      name: Tvar rohože/koberce
+    mat_base_material:
+      name: Materiál základu rohože
+    mat_features:
+      name: Vlastnosti rohože
+    material:
+      name: Materiál
+    material_firmness:
+      name: Pevnost materiálu
+    material_hardness:
+      name: Tvrdost materiálu
+    maternity_clothing_features:
+      name: Vlastnosti těhotenského oblečení
+    maternity_sleepwear_style:
+      name: Styl těhotenského nočního oblečení
+    mattress_features:
+      name: Vlastnosti matrace
+    maximum_magnification:
+      name: Maximální zvětšení
+    measuring_method:
+      name: Způsob měření
+    measuring_tool_features:
+      name: Vlastnosti měřicího nástroje
+    measuring_type:
+      name: Typ měření
+    meat_cut:
+      name: Část masa
+    meat_type:
+      name: Druh masa
+    media_access:
+      name: Přístup k médiím
+    media_content_type:
+      name: Typ mediálního obsahu
+    media_format:
+      name: Formát média
+    media_section:
+      name: Mediální téma
+    media_theme:
+      name: Mediální motiv
+    medical_alarm_features:
+      name: Vlastnosti lékařského alarmu
+    medical_identification_type:
+      name: Typ lékařské identifikace
+    medical_syringe_purpose:
+      name: Účel stříkačky
+    medical_tape_material:
+      name: Materiál lékařské pásky
+    medicine/drug_form:
+      name: Forma léku
+    medicine/supplement_form:
+      name: Forma léku/doplňku stravy
+    medium:
+      name: Médium
+    melodica_style:
+      name: Styl melodiky
+    memory_channels:
+      name: Paměťové kanály
+    memory_form_factor:
+      name: Form factor paměti
+    memory_storage_type:
+      name: Typ úložiště paměti
+    memory_technology:
+      name: Technologie paměti
+    menstrual_cup_shape:
+      name: Tvar menstruačního kalíšku
+    metal_detector_features:
+      name: Vlastnosti detektoru kovů
+    metal_molding_application:
+      name: Aplikace tvarování kovů
+    meter_type:
+      name: Typ měřicího přístroje
+    metrics_supported:
+      name: Podporovaná metrika
+    microphone_thread:
+      name: Závit mikrofonu
+    microphone_type:
+      name: Typ mikrofonu
+    microscope_features:
+      name: Vlastnosti mikroskopu
+    microscope_slide_material:
+      name: Materiál sklíčka mikroskopu
+    midi_connectivity:
+      name: MIDI připojení
+    mineral_class:
+      name: Třída nerostů
+    minimum_magnification:
+      name: Minimální zvětšení
+    mirror_handle_design:
+      name: Design zrcadlové rukojeti
+    mixer_type:
+      name: Typ mixážního pultu
+    mobile_mounting_type:
+      name: Mobilní typ montáže
+    mobile_movement:
+      name: Pohon strojku
+    mobile_phone_case_features:
+      name: Vlastnosti pouzdra na mobil
+    mobility/accessibility_equipment_features:
+      name: Vlastnosti zařízení pro mobilitu/přístupnost
+    mobility_scooter_type:
+      name: Typ skútru
+    model_control_technology:
+      name: Technologie ovládání modelů
+    model_train_accessory_type:
+      name: Typ příslušenství pro železniční modelářství
+    model_train_theme:
+      name: Motiv železničního vlaku
+    modulation_method:
+      name: Metoda modulace
+    moisturizer_type:
+      name: Typ zvlhčovače
+    mold/cut_shape:
+      name: Tvar formy/řezu
+    mold_shape:
+      name: Tvar formy
+    molding_application:
+      name: Aplikace tvarování
+    molding_shape:
+      name: Tvar výlisku
+    monitor/screen_specialized_features:
+      name: Speciální vlastnosti monitoru/obrazovky
+    monitor_mounting_type:
+      name: Typ montáže monitoru
+    monitor_shape:
+      name: Tvar monitoru
+    monitor_specialized_features:
+      name: Speciální vlastnosti monitoru
+    monitor_type:
+      name: Typ monitoru
+    monocular_design:
+      name: Konstrukce monokulárního dalekohledu
+    motherboard_chipset_family:
+      name: Rodina čipové sady základní desky
+    motherboard_form_factor:
+      name: Form factor základní desky
+    motherboard_memory_features:
+      name: Vlastnosti paměti základní desky
+    motion:
+      name: Pohyb
+    motion_sensor_type:
+      name: Typ čidla pohybu
+    motor_starting_method:
+      name: Způsob startování motoru
+    motor_vehicle_placement:
+      name: Umístění motorového vozidla
+    motor_vehicle_type:
+      name: Typ motorového vozidla
+    motorcycle/scooter_type:
+      name: Typ motocyklu/skútru
+    motorcycle_drive_type:
+      name: Typ pohonu motocyklu
+    motorcycle_glove_purpose:
+      name: Účel motocyklových rukavic
+    motorcycle_tire_type:
+      name: Typ pneumatiky motocyklu
+    mount/stand_features:
+      name: Vlastnosti držáku/stojanu
+    mount_material:
+      name: Materiál držáku
+    mounting_hardware:
+      name: Montážní hardware
+    mounting_type:
+      name: Typ montáže
+    mouse/trackball_features:
+      name: Vlastnosti myši/trackballu
+    mouse_pad_features:
+      name: Vlastnosti podložky pod myš
+    mouse_port_type:
+      name: Typ portu pro myš
+    mouse_technology:
+      name: Technologie myši
+    mouthgard_design:
+      name: Design chrániče na ústa
+    mouthpiece:
+      name: Hubička
+    moving/shipping_box_material:
+      name: Materiál stěhovací/přepravní krabice
+    mp3_player_accessories_included:
+      name: Obsažené příslušenství k přehrávači MP3
+    mpaa_rating:
+      name: Filmový rating MPAA
+    multi_gpu_technology:
+      name: Technologie Multi-GPU
+    muscle_stimulator_design:
+      name: Design stimulátoru svalů
+    music_genre:
+      name: Hudební žánr
+    music_stand_design:
+      name: Design hudebního stojanu
+    musical_key:
+      name: Hudební tónina
+    nail_art_items_included:
+      name: Obsažené položky na zdobení nehtů
+    nail_care_features:
+      name: Vlastnosti péče o nehty
+    nail_design:
+      name: Vzory pro zdobení nehtů
+    nail_polish_drying_form:
+      name: Forma urychlovače schnutí laku na nehty
+    nail_shape:
+      name: Tvar nehtu
+    national/regional_rating:
+      name: Národní/regionální hodnocení
+    native_aspect_ratio:
+      name: Nativní poměr stran
+    nebulizer_design:
+      name: Design nebulizéru
+    nebulizer_technology:
+      name: Technologie nebulizátoru
+    neck_color:
+      name: Barva krku
+    neck_material:
+      name: Materiál krku
+    neck_pattern:
+      name: Vzor krku
+    necklace_design:
+      name: Design náhrdelníku
+    neckline:
+      name: Výstřih
+    needle_eye_type:
+      name: Typ oka jehly
+    needle_gauge:
+      name: Jehlové měřidlo
+    needle_housing_material:
+      name: Materiál pouzdra jehly
+    needle_material:
+      name: Materiál jehly
+    needle_size:
+      name: Velikost jehly
+    needlecraft_kit_type:
+      name: Typ vyšívací sady
+    negative/slide_storage_type:
+      name: Typ ukládání negativů a snímků
+    net_material:
+      name: Materiál sítě
+    net_mounting_type:
+      name: Typ montáže sítě
+    network_cable_interface:
+      name: Rozhraní síťového kabelu
+    network_protocols_supported:
+      name: Podporované síťové protokoly
+    networking_standards:
+      name: Síťové standardy
+    nightgown_style:
+      name: Styl noční košile
+    nipple_material:
+      name: Materiál savičky
+    nipple_shape:
+      name: Tvar savičky
+    nipple_type:
+      name: Typ savičky
+    nock_material:
+      name: Materiál končíku
+    noise_intensity:
+      name: Intenzita hluku
+    notepad_cover_type:
+      name: Typ krytu poznámkového bloku
+    notepad_design:
+      name: Design poznámkového bloku
+    nozzle_type:
+      name: Typ trysky
+    nursery_theme:
+      name: Dětský motiv
+    nursing_cover_coverage:
+      name: Míra zakrytí kojící peleríny
+    nursing_pad_design:
+      name: Tvar vložky do podprsenky
+    nursing_pillow_shape:
+      name: Tvar kojícího polštáře
+    nut/seed_type:
+      name: Typ ořechu/semena
+    nut_butter_variety:
+      name: Druh ořechového másla
+    nut_form:
+      name: Forma matice
+    nut_processing_method:
+      name: Způsob zpracování ořechů
+    nutrient_content:
+      name: Obsah živin
+    oboe_key_system:
+      name: Systém klapek hoboje
+    ocarina_style:
+      name: Styl Ocarina
+    occasion:
+      name: Příležitost
+    occasion_style:
+      name: Typ příležitosti
+    office_cart_features:
+      name: Vlastnosti kancelářského vozíku
+    office_instrument_material:
+      name: Materiál kancelářského nástroje
+    office_supply_material:
+      name: Materiál kancelářské potřeby
+    oil_type:
+      name: Typ oleje
+    one_piece_style:
+      name: Styl jednodílného kusu
+    open/closed_sign_design:
+      name: Desing značek otevřeno/zavřeno
+    opening_direction:
+      name: Směr otevírání
+    opening_mechanism:
+      name: Mechanizmus otevírání
+    operating_mode:
+      name: Provozní režim
+    operating_system:
+      name: Operační systém
+    operation_method:
+      name: Způsob fungování
+    optical_drive_type:
+      name: Typ optické jednotky
+    optical_frame_design:
+      name: Design obrouček brýlí
+    optical_zoom:
+      name: Optický zoom
+    organizer_type:
+      name: Typ odkládací přihrádky
+    orientation:
+      name: Orientace
+    outdoor_equipment_features:
+      name: Vlastnosti venkovního vybavení
+    outdoor_furniture_items_included:
+      name: Obsažené součásti venkovního nábytku
+    outdoor_power_accessories_included:
+      name: Složení sady multifunkčního zahradního nářadí
+    outdoor_walking_activity:
+      name: Druh chůze
+    outerwear_clothing_features:
+      name: Vlastnosti svrchního oblečení
+    outlet_type:
+      name: Typ zásuvky
+    output_connection:
+      name: Výstupní připojení
+    output_level:
+      name: Výstupní úroveň
+    output_waveform:
+      name: Průběh výstupního napětí
+    oven_accessories_included:
+      name: Obsažené příslušenství do trouby
+    oxygen_tank_valve_type:
+      name: Typ ventilu kyslíkové láhve
+    pacifier/teether_design:
+      name: Design dudlíku/kousátka
+    package_type:
+      name: Typ obalu
+    packing_materials_included:
+      name: Včetně balicích materiálů
+    pad_display_profile:
+      name: Profil zobrazení
+    pad_type:
+      name: Typ aplikátoru
+    paddle/oar_material:
+      name: Materiál pádla/vesla
+    paddle_equipment_included:
+      name: Obsažené pádlovací vybavení
+    paddleboard_features:
+      name: Vlastnosti paddleboardu
+    page_layout:
+      name: Rozložení stránky
+    page_size:
+      name: Velikost stránky
+    paint/dye_form:
+      name: Forma barvy/barviva
+    paint_brush_design:
+      name: Design štětce
+    paint_finish:
+      name: Povrchová úprava lakem
+    paint_form:
+      name: Forma barvy
+    paint_medium_type:
+      name: Typ nátěrového média
+    paint_type:
+      name: Typ barvy
+    paintball/airsoft_equipment_included:
+      name: Obsažené paintballové/airsoftové vybavení
+    paintball_equipment_included:
+      name: Obsažené paintballové vybavení
+    painting_canvas_material:
+      name: Materiál malířského plátna
+    pairing_method:
+      name: Způsob párování
+    palette_design:
+      name: Design palety
+    palette_knife_shape:
+      name: Tvar paletového nože
+    panel_specification:
+      name: Specifikace panelu
+    panel_termination:
+      name: Zakončení panelu
+    pants_length_type:
+      name: Typ délky kalhot
+    pantyhose_style:
+      name: Styl punčoch
+    paper_finish:
+      name: Povrchová úprava papíru
+    paper_format:
+      name: Formát papíru
+    paper_size:
+      name: Formát papíru
+    paper_texture:
+      name: Textura papíru
+    paper_type:
+      name: Typ papíru
+    paperweight_design:
+      name: Design těžítka
+    papier_mache_shape:
+      name: Tvar z papírmaše
+    parachuting_activity:
+      name: Parašutistická disciplína
+    parallel_processing_technology_support:
+      name: Podpora technologie paralelního zpracování
+    parking_camera_features:
+      name: Vlastnosti parkovací kamery
+    parking_sign_design:
+      name: Design parkovacích značek
+    passband:
+      name: Pásmová propust
+    pasta_shape_type:
+      name: Typ tvaru těstovin
+    pasta_type:
+      name: Typ těstovin
+    patch_shape:
+      name: Tvar záplaty
+    pattern:
+      name: Vzor
+    pattern_distribution_format:
+      name: Formát distribuce vzorů
+    pcb_type:
+      name: Typ PCB
+    pedal_polarity:
+      name: Polarita pedálu
+    pegi_rating:
+      name: Hodnocení PEGI
+    pen/felt_tip_design:
+      name: Design plstěného hrotu
+    pen/pencil_features:
+      name: Vlastnosti pera/tužky
+    pen_color:
+      name: Barva pera
+    pen_features:
+      name: Vlastnosti pera
+    pen_pattern:
+      name: Vzor pera
+    pen_tip_design:
+      name: Design hrotu pera
+    pen_type:
+      name: Typ pera
+    pencil_features:
+      name: Vlastnosti tužky
+    pencil_sharpener_design:
+      name: Design ořezávátka
+    pencil_type:
+      name: Typ tužky
+    percussion_stand_design:
+      name: Konstrukce stojanu pro perkuse
+    percussion_tip_shape:
+      name: Tvar perkusní špičky
+    performance_metrics:
+      name: Metriky výkonu
+    peroxide_content:
+      name: Obsah peroxidu
+    personal_watercraft_type:
+      name: Typ vodního skútru
+    personalization_design:
+      name: Design personalizace
+    personalization_options:
+      name: Možnosti personalizace
+    pest_control_method:
+      name: Způsob hubení škůdců
+    pet_apparel/bedding_features:
+      name: Vlastnosti oblečení/lůžkoviny pro domácí mazlíčky
+    pet_apparel_features:
+      name: Vlastnosti oblečení pro domácí mazlíčky
+    pet_bedding_features:
+      name: Vlastnosti lůžkoviny pro domácí mazlíčky
+    pet_control_accessory_features:
+      name: Vlastnosti příslušenství pro ovládání domácích mazlíčků
+    pet_dietary_preferences:
+      name: Dietní preference pro domácí mazlíčky
+    pet_dietary_requirements:
+      name: Požadavky z hlediska dietních omezení zvířat
+    pet_food_flavor:
+      name: Příchuť krmiva pro domácí mazlíčky
+    pet_food_form:
+      name: Forma krmiva pro domácí mazlíčky
+    pet_food_supplements:
+      name: Doplňky stravy pro domácí mazlíčky
+    pet_hair_dryer_design:
+      name: Design fénu pro domácí mazlíčky
+    pet_hair_dryer_speed_settings:
+      name: Nastavení rychlosti fénu pro domácí mazlíčky
+    pet_medical_collar_design:
+      name: Design zdravotního obojku pro domácí mazlíčky
+    pet_medical_supply_type:
+      name: Typ zdravotnického materiálu pro domácí mazlíčky
+    pet_monitor_items_included:
+      name: Obsažené součásti zvířecí chůvičky
+    pet_nail_tool_type:
+      name: Typ nástroje na drápky pro domácí mazlíčky
+    pet_pad_features:
+      name: Vlastnosti podložky pro domácí mazlíčky
+    pet_spray/solution_type:
+      name: Typ spreje/roztoku pro domácí mazlíčky
+    pet_supply_product_form:
+      name: Forma produktu chovatelských potřeb
+    pet_thermometer_design:
+      name: Design teploměru pro domácí mazlíčky
+    pet_trainer_type:
+      name: Typ trenažéru pro domácí mazlíčky
+    pet_treat_texture:
+      name: Textura pamlsků
+    pet_treat_type:
+      name: Typ pamlsku pro domácí mazlíčky
+    phase_type:
+      name: Typ fáze
+    photo_effects_type:
+      name: Typ fotografických efektů
+    photographic_chemical_form:
+      name: Fotografická chemická forma
+    photographic_paper_size:
+      name: Velikost fotografického papíru
+    photographic_paper_type:
+      name: Typ fotografického papíru
+    piano_additional_features:
+      name: Další vlastnosti piana
+    piano_pedals:
+      name: Pedály klavíru
+    piano_size:
+      name: Velikost klavíru
+    pick_design:
+      name: Design trsátka
+    pickup_design:
+      name: Design pickupu
+    pickup_mounting_type:
+      name: Typ upevnění snímače
+    pickup_position:
+      name: Pozice snímače
+    pickup_type:
+      name: Typ snímače
+    pig_feed_stage:
+      name: Fáze krmení prasat
+    pile_type:
+      name: Typ vlasu
+    pillow_shape:
+      name: Tvar polštáře
+    pin_size:
+      name: Velikost špendlíku
+    pinata_design:
+      name: Design piňaty
+    ping_pong_equipment_included:
+      name: Obsažené pingpongové vybavení
+    ping_pong_robot_features:
+      name: Funkce pingpongového robota
+    pipe_clamp_design:
+      name: Konstrukce trubkové svorky
+    pipe_shape:
+      name: Tvar dýmky
+    placement_supported:
+      name: Vhodné umístění
+    plant_characteristics:
+      name: Charakteristika rostliny
+    plant_class:
+      name: Třída rostliny
+    plant_name:
+      name: Název rostliny
+    plant_support_material:
+      name: Materiál podpěry pro rostliny
+    plate_type:
+      name: Typ desky
+    play_equipment_items_included:
+      name: Obsažené položky herního vybavení
+    play_slide_design:
+      name: Design skluzavky
+    play_vehicle_propulsion:
+      name: Pohon autíčka
+    play_yard_design_features:
+      name: Designové vlastnosti hřiště
+    playback_disc_formats:
+      name: Formáty disků pro přehrávání
+    player/recorder_specialized_features:
+      name: Speciální vlastnosti přehrávače/rekordéru
+    player_drive_type:
+      name: Typ jednotky přehrávače
+    player_position:
+      name: Pozice hráče
+    player_specialized_features:
+      name: Speciální vlastnosti počítače
+    playhouse_design:
+      name: Konstrukce herny
+    playset_features:
+      name: Vlastnosti hrací sady
+    plug_type:
+      name: Typ zástrčky
+    plug_type_input:
+      name: Typ zástrčky (vstup)
+    plug_type_output:
+      name: Typ zástrčky (výstup)
+    plumbing_primer_application:
+      name: Aplikace sanitárního základního nátěru
+    plumbing_trap_design:
+      name: Konstrukce vodovodního sifonu
+    plunger_shape:
+      name: Tvar pístu
+    plywood_grade:
+      name: Třída překližky
+    pneumatic_conveyor_operation:
+      name: Provoz pneumatického dopravníku
+    poe_standard:
+      name: Standard POE
+    point_design:
+      name: Tvar hrotu
+    pointing_device:
+      name: Ukazovátko
+    polar_pattern:
+      name: Směrovost
+    polarization:
+      name: Polarizace
+    pole/post_material:
+      name: Materiál tyče/sloupku
+    pole_color:
+      name: Barva tyče
+    pole_material:
+      name: Materiál hole/tyče
+    pole_pattern:
+      name: Vzor tyče
+    policy_sign_design:
+      name: Design značek zásad
+    polish_dry_form:
+      name: Forma vysoušeče laku
+    polish_remover_form:
+      name: Forma odlakovače
+    polish_type:
+      name: Typ leštidla
+    polyphony:
+      name: Polyfonie
+    portability:
+      name: Přenosnost
+    post_material:
+      name: Materiál sloupku
+    postage_stamp_features:
+      name: Vlastnosti poštovní známky
+    potential_extract:
+      name: Sladový výtažek
+    pottery/sculpting_project_type:
+      name: Typ keramického/sochařského projektu
+    potty/toilet_seat_design:
+      name: Tvar nočníku/záchodového sedátka
+    potty_training_kit_components:
+      name: Součásti sady k učení na nočník
+    power_source:
+      name: Zdroj napájení
+    pregnancy_test_sensitivity:
+      name: Citlivost těhotenského testu
+    presentation_supply_features:
+      name: Vlastnosti prezentačního materiálu
+    preservation_type:
+      name: Typ konzervace
+    pretend_electronics_toy_type:
+      name: Typ napodobeniny elektroniky
+    pretend_housekeeping_toy_type:
+      name: Typ napodobeniny uklízecích potřeb
+    primary_region:
+      name: Primární oblast
+    primer_use:
+      name: Použití základního nátěru
+    print_technology:
+      name: Technologie tisku
+    printer/copier_specialized_features:
+      name: Speciální vlastnosti tiskárny/kopírky
+    printer_accessories_included:
+      name: Obsažené příslušenství k tiskárně
+    printer_functions:
+      name: Funkce tiskárny
+    printing_color:
+      name: Barva tisku
+    printing_method:
+      name: Způsob tisku
+    processor_cores:
+      name: Jádra procesoru
+    processor_family:
+      name: Rodina procesorů
+    processor_socket:
+      name: Patice (socket) procesoru
+    processor_technology:
+      name: Technologie procesoru
+    product_benefits:
+      name: Výhody produktu
+    product_certifications_standards:
+      name: Certifikace a standardy produktu
+    product_form:
+      name: Forma produktu
+    product_formulation:
+      name: Složení produktu
+    product_manual_area:
+      name: Oblast příručky produktu
+    product_sterility:
+      name: Sterilita produktu
+    program_format:
+      name: Formát programu
+    projection_design:
+      name: Konstrukce projekce
+    projector_light_source:
+      name: Zdroj světla projektoru
+    prop_theme:
+      name: Téma rekvizity
+    propane_application:
+      name: Aplikace propanu
+    propeller_blade_design:
+      name: Konstrukce lopatek vrtule
+    prophy_cup_design:
+      name: Design profylaktického kalíšku
+    propulsion_type:
+      name: Typ pohonu
+    protection_type:
+      name: Typ ochrany
+    protective_gear_features:
+      name: Vlastnosti ochranných pomůcek
+    protective_mask_design:
+      name: Design ochranné masky
+    protective_mask_features:
+      name: Vlastnosti ochranné masky
+    pstn_connectivity_options:
+      name: Možnosti připojení do veřejné telefonní sítě (PSTN)
+    publication_frequency:
+      name: Frekvence publikování
+    publication_type:
+      name: Typ publikace
+    pull_up_bar:
+      name: Hrazda
+    pump_accessories:
+      name: Odsávačky na mléko – příslušenství
+    pump_speed_settings:
+      name: Nastavení rychlosti odsávačky na mléko
+    punching/training_bag_material:
+      name: Materiál boxovacího pytle
+    puppet_theme:
+      name: Téma loutky
+    puppet_type:
+      name: Typ loutky
+    puzzle_theme:
+      name: Téma puzzle
+    puzzle_type:
+      name: Typ hlavolamu
+    quiver_style:
+      name: Typ toulce
+    rack_design:
+      name: Design police
+    rack_type:
+      name: Typ nosiče
+    racket_gauge:
+      name: Výplet rakety
+    racket_material:
+      name: Materiál rakety
+    racket_string_design:
+      name: Design výpletu rakety
+    racket_string_material:
+      name: Materiál výpletu rakety
+    radar_bands:
+      name: Pásmo radaru
+    radar_technology:
+      name: Technologie radaru
+    radio_case_design:
+      name: Design pouzdra na vysílačku
+    radio_features:
+      name: Vlastnosti rádia
+    ramp_type:
+      name: Typ rampy
+    range_type:
+      name: Typ dosahu
+    rarity:
+      name: Vzácnost
+    razor_flexibility:
+      name: Pohyblivost hlavy strojku
+    razor_head_design:
+      name: Design hlavy strojku
+    razor_type:
+      name: Typ břitvy
+    read/write_speed:
+      name: Rychlost čtení/zápisu
+    reading_toy_type:
+      name: Typ čtecí hračky
+    receipt_paper_features:
+      name: Vlastnosti papíru na účtenky
+    reclining_function:
+      name: Funkce polohování
+    recommended_age_group:
+      name: Doporučená věková skupina
+    recommended_skill_level:
+      name: Doporučená úroveň dovedností
+    recommended_use:
+      name: Doporučené použití
+    recorder_fingering_system:
+      name: Prstokladový systém zobcové flétny
+    recorder_specialized_features:
+      name: Speciální vlastnosti rekordéru
+    recording_accessories_included:
+      name: Obsažené příslušenství k nahrávání
+    recording_quality:
+      name: Kvalita záznamu
+    recreational_vehicle_type:
+      name: Typ rekreačního vozidla
+    reed_strength:
+      name: Síla rákosu
+    reel_capacity:
+      name: Kapacita navijáku
+    reflector_design:
+      name: Konstrukce reflektoru
+    regenerative_braking_features:
+      name: Vlastnosti rekuperačního brzdění
+    region:
+      name: Oblast
+    region_code:
+      name: Kód oblasti
+    release_schedule:
+      name: Harmonogram zveřejnění
+    remote_technology:
+      name: Technologie ovládání na dálku
+    removable_storage_formats_supported:
+      name: Podporované formáty vyměnitelného úložiště
+    reptile/amphibian_food_form:
+      name: Forma krmiva pro plazy a obojživelníky
+    reptile/amphibian_habitat_supply_type:
+      name: Typ podestýlky pro plazy/obojživelníky
+    research_focus:
+      name: Zaměření výzkumu
+    research_methodology:
+      name: Metodologie výzkumu
+    resistance_level:
+      name: Úroveň odporu
+    resistance_system:
+      name: Systém odporu
+    result_display:
+      name: Zobrazení výsledku
+    retail/sale_sign_design:
+      name: Design značek pro maloobchod/výprodej
+    reticle_plane:
+      name: Rovina záměrného kříže
+    reticle_type:
+      name: Typ zaměřovacího kříže
+    rfid_frequency:
+      name: Frekvence RFID
+    riding_style:
+      name: Styl jízdy
+    riding_toy_propulsion_type:
+      name: Typ pohonu jízdní hračky
+    rim/wheel_design:
+      name: Konstrukce ráfku/kola
+    ring_design:
+      name: Design prstenu
+    ring_size:
+      name: Velikost prstenu
+    riser_color:
+      name: Barva stoupačky
+    riser_material:
+      name: Materiál středu
+    riser_pattern:
+      name: Vzor stoupačky
+    rivet_form:
+      name: Forma nýtu
+    road_sign_design:
+      name: Design dopravních značek
+    rock_composition:
+      name: Složení horniny
+    rock_formation:
+      name: Vznik horniny
+    rocker_type:
+      name: Typ konstrukce Rocker lyží
+    rod_color:
+      name: Barva prutu
+    rod_material:
+      name: Materiál prutu
+    rod_pattern:
+      name: Vzor prutu
+    rod_shape:
+      name: Tvar sprchové tyče
+    roller_head:
+      name: Typ hlavy
+    roller_material:
+      name: Materiál roleru
+    roller_type:
+      name: Typ válečku
+    roof_decor_shape:
+      name: Tvar střešní dekorace
+    rosin_form:
+      name: Forma kalafuny
+    rosin_grade:
+      name: Typ kalafuny
+    rotating_direction:
+      name: Směr otáčení
+    rotator_control_technology:
+      name: Technologie ovládání rotátoru
+    rug/mat_features:
+      name: Vlastnosti rohože
+    rug/mat_material:
+      name: Materiál rohože
+    rug/mat_shape:
+      name: Tvar rohože
+    rug_features:
+      name: Vlastnosti rohože
+    rug_material:
+      name: Materiál rohože
+    rug_shape:
+      name: Tvar rohože
+    rum_grade:
+      name: Druh rumu
+    saddle_base_color:
+      name: Barva základny sedla
+    saddle_base_material:
+      name: Materiál základny sedla
+    saddle_base_pattern:
+      name: Vzor základny sedla
+    saddle_material:
+      name: Materiál sedla
+    saddle_seat_color:
+      name: Barva sedáku
+    saddle_seat_material:
+      name: Materiál sedáku
+    saddle_seat_pattern:
+      name: Vzor sedáku
+    safety_certifications:
+      name: Certifikace bezpečnosti
+    safety_device_installation:
+      name: Instalace bezpečnostního zařízení
+    safety_equipment_material:
+      name: Materiál bezpečnostního vybavení
+    safety_rail_installation:
+      name: Instalace zábran/zábradlí
+    sailboat_type:
+      name: Typ plachetnice
+    sandal_style:
+      name: Styl sandálu
+    sandblaster_application:
+      name: Aplikace pískovače
+    sander_type:
+      name: Typ brusky
+    sanding_application:
+      name: Aplikace pískování
+    satellite_coverage_area:
+      name: Oblast satelitního pokrytí
+    satellite_network_type:
+      name: Typ satelitní sítě
+    sauna_accessories_included:
+      name: Obsažené saunové příslušenství
+    scaffolding_mounting_type:
+      name: Typ montáže lešení
+    scale_material:
+      name: Materiál stupnice
+    scale_model_accessory_type:
+      name: Typ příslušenství pro zmenšený model
+    scale_model_kit_type:
+      name: Typ modelové stavebnice
+    scale_model_material:
+      name: Materiál modelové stavebnice
+    scale_model_theme:
+      name: Motiv zmenšeného modelu
+    scalpel_blade_material:
+      name: Materiál čepele skalpelu
+    scalpel_blade_number:
+      name: Číslo čepele skalpelu
+    scalpel_blade_shape:
+      name: Tvar čepele skalpelu
+    scalpel_handle_number:
+      name: Číslo rukojeti skalpelu
+    scan_converter_features:
+      name: Vlastnosti skenovacího převodníku
+    scanner_features:
+      name: Vlastnosti skeneru
+    scanner_sensor_type:
+      name: Typ snímače skeneru
+    scarf/shawl_style:
+      name: Styl šátku/šály
+    scene_modes:
+      name: Scénické režimy
+    scent:
+      name: Vůně
+    scissor_blade_type:
+      name: Typ nůžkové čepele
+    scope/sight_design:
+      name: Konstrukce zaměřovače
+    scope/sight_features:
+      name: Vlastnosti okuláru/zaměřovače
+    scope_design:
+      name: Design zaměřovače
+    scope_lens_type:
+      name: Typ objektivu zaměřovače
+    scoreboard_features:
+      name: Funkce výsledkové tabule
+    scrapbook_paper_type:
+      name: Typ papíru pro scrapbook
+    screen/display_design:
+      name: Design obrazovky/displeje
+    screen_material:
+      name: Materiál panelů
+    screen_specialized_features:
+      name: Speciální vlastnosti obrazovky
+    seafood_type:
+      name: Druh mořských ryb a plodů
+    seal_stamp_design:
+      name: Design pečetního razítka
+    season:
+      name: Roční období
+    seat_color:
+      name: Barva sedáku
+    seat_cushioning:
+      name: Polstrování sedáků
+    seat_pattern:
+      name: Vzor sedáku
+    seat_shape:
+      name: Tvar sedáku
+    seat_structure:
+      name: Struktura sedáku
+    seat_type:
+      name: Typ sedáku
+    seat_upholstery_color:
+      name: Barva čalounění sedadla
+    seat_upholstery_material:
+      name: Materiál čalounění sedáku
+    seat_upholstery_pattern:
+      name: Vzor čalounění sedadla
+    security_algorithms:
+      name: Bezpečnostní algoritmy
+    security_level:
+      name: Úroveň zabezpečení
+    sensor/measuring_tool_features:
+      name: Vlastnosti senzoru/měřicího nástroje
+    sensor_features:
+      name: Vlastnosti senzoru
+    sensor_type:
+      name: Typ senzoru
+    sequin/glitter_shape:
+      name: Tvar flitrů/třpytek
+    sequin_shape:
+      name: Tvar flitrů
+    serum_target_areas:
+      name: Cílové oblasti séra
+    service_type:
+      name: Typ služby
+    sewing_foot_type:
+      name: Typ patky pro šicí stroj
+    sewing_machine_part_category:
+      name: Kategorie dílů pro šicí stroje
+    sfx_control_technology:
+      name: Technologie ovládání SFX
+    shaft_color:
+      name: Barva hřídele
+    shaft_flex:
+      name: Pružnost násady (shaftu)
+    shaft_material:
+      name: Materiál hřídele
+    shaft_orientation:
+      name: Orientace hřídele
+    shaft_pattern:
+      name: Vzor hřídele
+    shampoo/conditioner_effect:
+      name: Účinek šamponu/kondicionéru
+    shampoo/conditioner_items_included:
+      name: Obsažený šampon/kondicionér
+    shampoo_type:
+      name: Typ šamponu
+    shape:
+      name: Tvar
+    shapewear_support_level:
+      name: Úroveň opory tvarovacího prádla
+    shaving_cream_formulation:
+      name: Skupenství krému na holení
+    shaving_kit_components:
+      name: Součásti sady na holení
+    sheen/gloss_level:
+      name: Úroveň lesku
+    sheet_color:
+      name: Barva listu
+    sheet_pattern:
+      name: Vzor listu
+    shelf_color:
+      name: Barva police
+    shelf_material:
+      name: Materiál police
+    shelf_pattern:
+      name: Vzor police
+    shell/frame_color:
+      name: Barva pláště/rámu
+    shell/frame_material:
+      name: Materiál pláště/rámu
+    shell/frame_pattern:
+      name: Vzor pláště/rámu
+    shingle/tile_material:
+      name: Materiál šindel/dlaždice
+    shoe_binding_type:
+      name: Typ zapínání boty
+    shoe_features:
+      name: Vlastnosti boty
+    shoe_fit:
+      name: Provedení obuvi
+    shoe_size:
+      name: Velikost obuvi
+    shooting_modes:
+      name: Fotografické režimy
+    shopping_bag_material:
+      name: Materiál nákupní tašky
+    shower_base_design:
+      name: Konstrukce základny sprchy
+    shower_curtain_mounting_type:
+      name: Typ montáže na sprchový závěs
+    shower_design:
+      name: Design sprchy
+    shower_features:
+      name: Vlastnosti sprchy
+    shower_opening_type:
+      name: Typ otevírání sprchy
+    shrink_ratio:
+      name: Poměr smrštění
+    shutter_finish:
+      name: Povrchová úprava žaluzií
+    siding_material:
+      name: Materiál obkladu
+    signature_placement:
+      name: Umístění podpisu
+    silencer/blimp_type:
+      name: Typ tlumiče hluku
+    sim_card_capability:
+      name: Funkce SIM karty
+    sim_card_type:
+      name: Typ SIM karty
+    sim_card_type_1:
+      name: Typ SIM karty 1
+    sim_card_type_2:
+      name: Typ SIM karty 2
+    sink_mounting_type:
+      name: Typ montáže dřezu
+    sink_shape:
+      name: Tvar dřezu
+    sink_type:
+      name: Typ dřezu
+    sinker_material:
+      name: Materiál závaží
+    size:
+      name: Velikost
+    skateboarding_style:
+      name: Druh skateboardingu
+    ski_construction:
+      name: Konstrukce lyží
+    skiing_style:
+      name: Druh lyžování
+    skill_level:
+      name: Úroveň dovedností
+    skin_care_effect:
+      name: Účinek péče o pleť
+    skin_care_features:
+      name: Vlastnosti produktu péče o nehty
+    skin_care_mask_type:
+      name: Vlastnosti pleťové masky
+    skin_tone:
+      name: Tón pleti
+    skin_undertone:
+      name: Podtón pleti
+    skirt/dress_length_type:
+      name: Typ délky sukně/šatů
+    skirt_style:
+      name: Styl sukně
+    slat_color:
+      name: Barva lamely
+    slat_material:
+      name: Materiál roštu
+    slat_pattern:
+      name: Vzor lamely
+    sleeve_length_type:
+      name: Typ rukávu
+    slip_texture:
+      name: Textura skluzu
+    slipper_style:
+      name: Styl pantofle
+    slot_machine_type:
+      name: Typ hracího automatu
+    small_animal_dietary_requirements:
+      name: Výživové požadavky drobných zvířat
+    small_animal_food_form:
+      name: Forma krmiva pro drobná zvířata
+    small_animal_food_ingredients:
+      name: Složky krmiva pro drobná zvířata
+    small_animal_habitat/cage_type:
+      name: Typ stanoviště/klece pro drobná zvířata
+    smart_tv_platform:
+      name: Platforma Smart TV
+    smart_watch_features:
+      name: Vlastnosti chytrých hodinek
+    sneaker_style:
+      name: Styl tenisek
+    snorkel_shape:
+      name: Tvar šnorchlu
+    snowboard_construction:
+      name: Konstrukce snowboardu
+    snowboard_design:
+      name: Tvar snowboardu
+    snowboarding_style:
+      name: Druh snowboardingu
+    snowmobile_type:
+      name: Typ sněžného skútru
+    socket_driver_tip:
+      name: Hrot zásuvkového šroubováku
+    socket_type:
+      name: Typ zásuvky
+    soda_maker_accessories_included:
+      name: Obsažené příslušenství k výrobníkům perlivých nápojů
+    soda_variety:
+      name: Druh syceného nápoje
+    sofa_features:
+      name: Vlastnosti pohovky
+    softball_discipline:
+      name: Softbalová disciplína
+    softbox_mounting_type:
+      name: Typ montáže softboxu
+    softbox_shape:
+      name: Tvar softboxu
+    software_features:
+      name: Vlastnosti softwaru
+    software_tool_type:
+      name: Typ softwarového nástroje
+    softwood_lumber_grade:
+      name: Třída řeziva z měkkého dřeva
+    solar_cell_type:
+      name: Typ fotovoltaického článku
+    solar_panel_connections:
+      name: Připojení solárních panelů
+    solar_panel_design:
+      name: Design solárního panelu
+    solder/flux_application:
+      name: Aplikace pájky/tavidla
+    soleplate_type:
+      name: Typ žehlicího povrchu
+    solubility:
+      name: Rozpustnost
+    solution_type:
+      name: Typ roztoku
+    solvent/thinner_application:
+      name: Aplikace rozpouštědla/ředidla
+    solvent_application:
+      name: Aplikace rozpouštědla
+    soothing_sounds:
+      name: Uklidňující zvuky
+    sound_controls:
+      name: Ovládání zvuku
+    sound_effects:
+      name: Zvukové efekty
+    sound_insulation:
+      name: Zvuková izolace
+    sound_options:
+      name: Možnosti zvuku
+    speaker_configuration:
+      name: Konfigurace reproduktoru
+    speaker_design:
+      name: Typ reproduktoru
+    speaker_features:
+      name: Vlastnosti reproduktoru
+    speaker_technology:
+      name: Technologie reproduktoru
+    speakerphone_type:
+      name: Typ konferenčního mikrofonu
+    speed_settings:
+      name: Nastavení rychlosti
+    spf_level:
+      name: Ochranný UV faktor (SPF)
+    spike_design:
+      name: Design hrotu
+    spinner_type:
+      name: Typ kufru spinner
+    spirit_dilution:
+      name: Ředění lihu
+    splitter/switch_features:
+      name: Vlastnosti splitteru/switche
+    splitter_use:
+      name: Použití splitteru
+    sponge_shape:
+      name: Tvar houbičky
+    spool_color:
+      name: Barva cívky
+    spool_material:
+      name: Materiál cívky
+    spool_pattern:
+      name: Vzor cívky
+    sport:
+      name: Sport
+    sports_logo:
+      name: Logo sportu
+    sports_theme:
+      name: Sportovní motiv
+    spout_type:
+      name: Typ uzávěru
+    spreader_type:
+      name: Typ stativové základny
+    sprinkler_head_type:
+      name: Typ zavlažovacích trysek
+    sprinkler_shape:
+      name: Tvar postřikovače
+    squeegee_blade_design:
+      name: Konstrukce stěrky
+    stack_configuration:
+      name: Konfigurace stohování
+    stage:
+      name: Fáze
+    stair_lifts_control_type:
+      name: Typ ovládání schodišťových výtahů
+    staircase_features:
+      name: Vlastnosti schodiště
+    staircase_type:
+      name: Typ schodiště
+    stamp_theme:
+      name: Motiv pro razítka
+    stamp_type:
+      name: Typ razítka
+    stand/display_type:
+      name: Typ stojanu/displeje
+    staple_wire_gauge:
+      name: Rozměr sponkovacího drátu
+    stapler_features:
+      name: Vlastnosti sešívačky
+    star_rating:
+      name: Hvězdičkové hodnocení
+    start_type:
+      name: Typ startéru
+    station_type:
+      name: Typ stanice
+    stationery_binding_type:
+      name: Typ vazby
+    stem_length:
+      name: Délka stonku
+    stencil/cut_shape:
+      name: Tvar šablony/výřezu
+    step_type:
+      name: Typ schůdků
+    sterilization_cycle_time:
+      name: Doba sterilizačního cyklu
+    sterilization_instructions:
+      name: Pokyny pro sterilizaci
+    sterilization_method:
+      name: Metoda sterilizace
+    stethoscope_design:
+      name: Typ stetoskopu
+    stethoscope_technology:
+      name: Technologie stetoskopu
+    stick_material:
+      name: Materiál hůlky
+    stiffness:
+      name: Tuhost
+    stimulator_tip_shape:
+      name: Tvar špičky stimulátoru
+    stone_material:
+      name: Materiál kamene
+    stone_name:
+      name: Název minerálu
+    stone_shape:
+      name: Tvar kamene
+    stone_type:
+      name: Typ kamene
+    stopband:
+      name: Pásmová zádrž
+    stopwatch_features:
+      name: Vlastnosti stopek
+    storage_drive_interface_type:
+      name: Typ rozhraní jednotky úložiště
+    storage_drive_interfaces_supported:
+      name: Podporovaná rozhraní jednotky úložiště
+    storage_drive_type_installed:
+      name: Nainstalovaný typ jednotky úložiště
+    storage_media_type:
+      name: Typ paměťového média
+    storage_tank_application:
+      name: Aplikace skladovací nádrže
+    storage_types_supported:
+      name: Podporované typy úložišť
+    stove_airflow:
+      name: Vzduch v kamnech
+    stove_top_type:
+      name: Typ sporákové desky
+    strap_design:
+      name: Design popruhu
+    straw/stirrer_design:
+      name: Design slámky/míchadla
+    stretcher/gurney_intended_use:
+      name: Účel použití nosítek
+    string_color:
+      name: Barva provázku
+    string_instrument_size:
+      name: Velikost strunného nástroje
+    string_material:
+      name: Materiál vlasce
+    string_pattern:
+      name: Vzor provázku
+    stripper_application:
+      name: Aplikace odstraňovače
+    stroller_features:
+      name: Vlastnosti kočárku
+    stroller_wheel_type:
+      name: Typ koleček kočárku
+    style:
+      name: Styl
+    stylus_type:
+      name: Typ hrotu
+    subject_area:
+      name: Oblast předmětu
+    subscription_type:
+      name: Typ předplatného
+    substrate_features:
+      name: Vlastnosti substrátu
+    suction_cup_color:
+      name: Barva přísavky
+    suction_cup_material:
+      name: Materiál přísavky
+    suction_cup_pattern:
+      name: Vzor přísavky
+    suction_levels:
+      name: Úrovně sání
+    suitable_for_angling_type:
+      name: Vhodný typ rybolovu
+    suitable_for_animal_type:
+      name: Vhodný typ zvířete
+    suitable_for_art_technique:
+      name: Vhodné pro výtvarnou techniku
+    suitable_for_bird_type:
+      name: Vhodný typ ptáka
+    suitable_for_boat_type:
+      name: Vhodné pro typ lodi
+    suitable_for_body/facial_hair:
+      name: Vhodné pro chloupky na těle/obličeji
+    suitable_for_breed_size:
+      name: Vhodné pro velikost plemene
+    suitable_for_bug_type:
+      name: Vhodný typ hmyzu
+    suitable_for_camera/optics_device:
+      name: Vhodné pro fotoaparát/optické zařízení
+    suitable_for_camera_type:
+      name: Vhodný typ fofoaparátu/kamery
+    suitable_for_camping_activity:
+      name: Vhodná aktivita kempování
+    suitable_for_chair_type:
+      name: Vhodný typ sedacího nábytku
+    suitable_for_container_type:
+      name: Vhodné pro typ kontejneru
+    suitable_for_crafting_material:
+      name: Vhodné pro řemeslné materiály
+    suitable_for_door_type:
+      name: Vhodný typ dveří
+    suitable_for_egg_type:
+      name: Vhodné pro typ vejce
+    suitable_for_fabric_type:
+      name: Vhodný typ tkaniny
+    suitable_for_fire_class:
+      name: Vhodnost pro třídu požárů
+    suitable_for_fish_type:
+      name: Vhodný typ ryb
+    suitable_for_food_processor_type:
+      name: Vhodný typ kuchyňského robota
+    suitable_for_furniture_type:
+      name: Vhodný typ nábytku
+    suitable_for_gas_type:
+      name: Vhodné pro typ plynu
+    suitable_for_hair_type:
+      name: Vhodný typ vlasů
+    suitable_for_material_type:
+      name: Vhodný typ materiálu
+    suitable_for_pest_type:
+      name: Vhodný typ škůdce
+    suitable_for_pipe_type:
+      name: Vhodný typ trubky
+    suitable_for_pool_type:
+      name: Vhodný typ bazénu
+    suitable_for_power_equipment_type:
+      name: Vhodné pro typ energetického zařízení
+    suitable_for_precious_material:
+      name: Vhodné pro drahý materiál
+    suitable_for_printer_type:
+      name: Vhodný typ tiskárny
+    suitable_for_skin_tone:
+      name: Vhodný tón pleti
+    suitable_for_skin_type:
+      name: Vhodný typ pleti
+    suitable_for_snowshoeing_activity:
+      name: Vhodná aktivita chůze se sněžnicemi
+    suitable_for_storage_type:
+      name: Vhodný objekt k ukládání
+    suitable_for_toothbrush:
+      name: Vhodný typ kartáčku na zuby
+    suitable_for_vehicle_type:
+      name: Vhodný typ vozidla
+    suitable_for_water_feature_type:
+      name: Vhodný typ vodního prvku
+    suitable_for_water_type:
+      name: Vhodný typ vody
+    suitable_for_weapon_type:
+      name: Vhodné pro typ zbraně
+    suitable_installation:
+      name: Vhodná instalace
+    suitable_location:
+      name: Vhodné umístění
+    suitable_space:
+      name: Vhodné místo
+    suitcase_handle_type:
+      name: Typ rukojeti kufru
+    sulfur_content:
+      name: Obsah síry
+    sunlight:
+      name: Sluneční světlo
+    support/brace_material:
+      name: Materiál podpěry/vzpěry
+    supported_language:
+      name: Podporovaný jazyk
+    surface_texture:
+      name: Struktura povrchu
+    surfboard_features:
+      name: Vlastnosti surfového prkna
+    surveillance_camera_design:
+      name: Konstrukce bezpečnostní kamery
+    surveillance_camera_mounting_type:
+      name: Typ uchycení bezpečnostní kamery
+    surverying_accessories_included:
+      name: Obsažené geodetické příslušenství
+    suspender_style:
+      name: Styl šlí
+    sustainability:
+      name: Udržitelnost
+    swab_material:
+      name: Materiál stěrky
+    swimwear_features:
+      name: Vlastnosti plavek
+    swing_style:
+      name: Styl švihu
+    swing_weighting:
+      name: Švihová hmotnost
+    switch_control_type:
+      name: Typ ovládání přepínače
+    switching_method:
+      name: Způsob přepínání
+    synthesis_method:
+      name: Způsob syntézy
+    system_of_measurement:
+      name: Systém měření
+    system_range:
+      name: Rozsah systému
+    systems_supported:
+      name: Podporované systémy
+    tab_style:
+      name: Styl karty
+    tabletop_color:
+      name: Barva desky
+    tabletop_material:
+      name: Materiál desky
+    tabletop_pattern:
+      name: Vzor desky
+    tabletop_shape:
+      name: Tvar desky
+    tableware_material:
+      name: Materiál nádobí
+    tack/pushpin_head_design:
+      name: Design hlavičky příchytky/špendlíku
+    tag_fastening:
+      name: Upevnění štítku
+    tampon_absorbency_level:
+      name: Úroveň savosti tamponu
+    tampon_features:
+      name: Vlastnosti tamponu
+    tan_type:
+      name: Typ opálení
+    tank_color:
+      name: Barva nádržky
+    tank_material:
+      name: Materiál nádoby
+    tank_pattern:
+      name: Vzor tanku
+    tape_material:
+      name: Materiál pásky
+    target_audience:
+      name: Cílová skupina
+    target_gender:
+      name: Cílové pohlaví
+    targeted_pests:
+      name: Likvidovaní škůdci
+    targeted_stains:
+      name: Odstraňované skvrny
+    tea_input_type:
+      name: Typ čaje na vstupu
+    technology_level:
+      name: Úroveň technologie
+    teeth_material:
+      name: Materiál hrotů
+    telephone_cable_interface:
+      name: Rozraní telefonního kabelu
+    telephone_style:
+      name: Styl telefonu
+    telescope_level:
+      name: Úroveň teleskopu
+    telescope_tracking_system:
+      name: Sledovací systém teleskopu
+    television_shape:
+      name: Tvar televizoru
+    television_specialized_features:
+      name: Speciální vlastnosti televizoru
+    temperature:
+      name: Teplota
+    temperature_control:
+      name: Ovládání teploty
+    temperature_measurement:
+      name: Měření teploty
+    template_type:
+      name: Typ šablony
+    temple_color:
+      name: Barva nožiček
+    temple_pattern:
+      name: Vzor spánku
+    tension:
+      name: Napětí
+    tequila_variety:
+      name: Druh tequily
+    terminal_operation:
+      name: Provoz terminálu
+    terrain:
+      name: Terén
+    test_format:
+      name: Forma testu
+    test_method:
+      name: Testovací metoda
+    test_sample:
+      name: Testovací vzorek
+    tetherball_equipment_included:
+      name: Obsažené tetherbalové vybavení
+    text_plate_material:
+      name: Materiál štočku (matrice)
+    textile_craft_machine_features:
+      name: Vlastnosti textilního stroje
+    textile_craft_project_type:
+      name: Typ textilního řemeslného projektu
+    texture:
+      name: Textura
+    texture_level:
+      name: Stupeň rozmělnění
+    theme:
+      name: Téma/motiv
+    thermal_detector_type:
+      name: Typ tepelného detektoru
+    thermocouple_type:
+      name: Typ termočlánku
+    thickness_type:
+      name: Typ tloušťky
+    thinner_application:
+      name: Aplikace ředidla
+    thread_direction:
+      name: Směr závitu
+    threaded_rod_size:
+      name: Velikost závitové tyče
+    throw_pillow_shape:
+      name: Tvar polštářku
+    ticket_additional_features:
+      name: Další vlastnosti vstupenky
+    ticket_type:
+      name: Typ lístku
+    tile_design:
+      name: Design dlaždic
+    tile_game_type:
+      name: Typ dlaždicové hry
+    tile_installation_method:
+      name: Způsob instalace dlaždice
+    tile_look:
+      name: Vzhled dlaždic
+    tile_material:
+      name: Materiál dlaždice
+    tile_texture:
+      name: Textura dlaždic
+    time_period:
+      name: Časový úsek
+    time_signatures:
+      name: Taktové předznamenání
+    time_weighting:
+      name: Časová konstanta
+    timepiece_features:
+      name: Vlastnosti hodinek
+    timer_design:
+      name: Konstrukce časovače
+    timer_features:
+      name: Vlastnosti časovače
+    timer_type:
+      name: Typ časovače
+    tip_design:
+      name: Design koncovky/jehly/špičky
+    tip_material:
+      name: Materiál koncovky
+    tip_opening:
+      name: Odklon
+    tip_style:
+      name: Styl koncovky
+    tip_type:
+      name: Typ koncovky
+    tire_bead_type:
+      name: Typ patky pneumatiky
+    tobacco_type:
+      name: Typ tabáku
+    toddler_bed_features:
+      name: Vlastnosti dětské postýlky
+    toe_spacer_design:
+      name: Design separátoru prstů
+    toe_strap_type:
+      name: Typ strapu na snowboardové vázání
+    toe_style:
+      name: Styl špičky
+    toilet/bidet_mounting_type:
+      name: Typ montáže záchodu/bidetu
+    toilet_cover_design:
+      name: Design krytu toalety
+    toilet_cover_features:
+      name: Vlastnosti krytu záchodu
+    toilet_mounting_type:
+      name: Typ montáže toalety
+    toilet_shape:
+      name: Tvar toalety
+    tom_tom_design:
+      name: Konstrukce tom-tom
+    tool/utensil_material:
+      name: Materiál nářadí/náčiní
+    tool_key_tip:
+      name: Špička klíče nástroje
+    tool_mobility:
+      name: Mobilita nástroje
+    tool_operation:
+      name: Obsluha nástroje
+    toothpaste_type:
+      name: Typ zubní pasty
+    toothpick_design:
+      name: Tvar párátka
+    top_color:
+      name: Barva horní části
+    top_length_type:
+      name: Typ délky topu
+    top_material:
+      name: Materiál horní části
+    top_pattern:
+      name: Vzor povrchu
+    top_surface_material:
+      name: Materiál povrchu vařiče
+    tote_handle_type:
+      name: Typ rukojeti tašky
+    totem_design:
+      name: Design totemu
+    touch_capabilities:
+      name: Dotykové funkce
+    touchscreen_technology:
+      name: Technologie dotykové obrazovky
+    toy/game_material:
+      name: Materiál hračky/hry
+    toy_figure_features:
+      name: Vlastnosti figurky na hraní
+    toy_figure_theme:
+      name: Motiv figurky na hraní
+    toy_tool_type:
+      name: Typ nástroje na hraní
+    tracking_metrics:
+      name: Metrika sledování
+    tracking_purpose:
+      name: Účel sledování
+    tractor_accessories_included:
+      name: Obsažené příslušenství k traktoru
+    trade_show_display_features:
+      name: Vlastnosti výstavy
+    trading_card_packaging:
+      name: Balení sběratelských karet
+    traffic_control_device_features:
+      name: Vlastnosti zařízení pro řízení dopravy
+    trail_camera_design:
+      name: Konstrukce fotopasti
+    trailer_type:
+      name: Typ přívěsu
+    training_data_requirements:
+      name: Požadavky na tréninková data
+    trampoline_design:
+      name: Konstrukce trampolíny
+    transcriber/dictation_system_features:
+      name: Vlastnosti systému přepisování/diktování
+    transfer_boards_surface_type:
+      name: Typ povrchu přesouvacích prken
+    transfer_paper_technique:
+      name: Technika přenosového papíru
+    transmission_type:
+      name: Typ převodového systému
+    trash_can_features:
+      name: Vlastnosti odpadkového koše
+    travel_pillow_shape:
+      name: Tvar cestovního polštářku
+    treatment_area:
+      name: Oblast ošetření/procedury
+    treatment_objective:
+      name: Cíl ošetření/procedury
+    treatment_texture:
+      name: Textura léčebného prostředku
+    treatment_type:
+      name: Typ ošetření/procedury
+    tree_stand_material:
+      name: Materiál posedu
+    trellis_design:
+      name: Mřížkový design
+    tricycle_design:
+      name: Design tříkolky
+    tricycle_propulsion_type:
+      name: Typ pohonu tříkolky
+    trip_type:
+      name: Typ vypínací jednotky
+    tripod/monopod_attachment_type:
+      name: Typ uchycení trojnožky/jednonožky
+    tripod/monopod_head_type:
+      name: Typ hlavy stativu/monopodu
+    tripod_handle_type:
+      name: Typ rukojeti trojnožky
+    trophy_design:
+      name: Design trofeje
+    truck_type:
+      name: Typ nákladního vozidla
+    tube_component:
+      name: Součást pro lampy
+    tube_configuration:
+      name: Konfigurace lamp
+    tuner_design:
+      name: Design tuneru
+    tuner_type:
+      name: Typ tuneru
+    tuning_fork_design:
+      name: Design ladičky
+    tuning_fork_frequency:
+      name: Frekvence ladičky
+    tuning_modes:
+      name: Režimy ladění
+    tuning_pitch:
+      name: Výška ladění
+    tuning_range:
+      name: Rozsah ladění
+    undershirt_style:
+      name: Styl tílka
+    underwear_style:
+      name: Styl spodního prádla
+    units_of_measurement:
+      name: Měrné jednotky
+    update_frequency:
+      name: Frekvence aktualizací
+    upholstery_color:
+      name: Barva čalounění
+    upholstery_material:
+      name: Materiál čalounění
+    upholstery_pattern:
+      name: Vzor čalounění
+    urinal_mounting_type:
+      name: Typ montáže pisoáru
+    usage_conditions:
+      name: Vhodné podmínky pro použití
+    usage_frequency:
+      name: Četnost použití
+    usage_type:
+      name: Typ použití
+    usb_standard:
+      name: Standard USB
+    user_type:
+      name: Typ uživatele
+    utility/maintenance_task_type:
+      name: Typ úkolu údržby
+    uv_protection:
+      name: Ochrana proti UV záření
+    vacuum_air_filtering_technology:
+      name: Technologie filtrace vzduchu ve vysavači
+    valve_type:
+      name: Typ ventilu
+    van_type:
+      name: Typ dodávkového automobilu
+    vaping_style:
+      name: Způsob vapování
+    varnish/finish_application:
+      name: Aplikace laku/povrchové úpravy
+    vase_shape:
+      name: Tvar vázy
+    vdi_protocol_support:
+      name: Podpora protokolu VDI
+    vehicle_alarm/lock_features:
+      name: Vlastnosti alarmu/uzamykání vozidla
+    vehicle_application_area:
+      name: Oblast použití vozidla
+    vehicle_audio_system_features:
+      name: Vlastnosti audiosystému vozidla
+    vehicle_braking_features:
+      name: Vlastnosti brzdění vozidla
+    vehicle_cleaning_item_features:
+      name: Vlastnosti předmětu na čištění vozidel
+    vehicle_decor_features:
+      name: Vlastnosti dekoru vozidla
+    vehicle_drive/handling_features:
+      name: Vlastnosti jízdy/ovládání vozidla
+    vehicle_engine/part_features:
+      name: Vlastnosti dílu/motoru vozidla
+    vehicle_engine_features:
+      name: Vlastnosti motoru vozidla
+    vehicle_engine_part_features:
+      name: Vlastnosti dílu motoru vozidla
+    vehicle_exhaust_type:
+      name: Vlastnosti výfuku vozidla
+    vehicle_features:
+      name: Vlastnosti vozidla
+    vehicle_fluid_features:
+      name: Vlastnosti kapaliny do vozidel
+    vehicle_fluid_type:
+      name: Typ kapaliny do vozidel
+    vehicle_frame/body_features:
+      name: Vlastnosti rámu/karoserie vozidla
+    vehicle_mirror_design:
+      name: Design zrcátka vozidla
+    vehicle_mirror_features:
+      name: Vlastnosti zrcátka vozidla
+    vehicle_mirror_type:
+      name: Typ zrcátka vozidla
+    vehicle_oil_features:
+      name: Vlastnosti oleje pro vozidla
+    vehicle_paint_type:
+      name: Typ laku vozidla
+    vehicle_placement:
+      name: Umístění na dopravním prostředku
+    vehicle_seating_features:
+      name: Vlastnosti sedadla vozidla
+    vehicle_suspension_features:
+      name: Vlastnosti odpružení vozidla
+    vehicle_tire_type:
+      name: Typ pneumatiky vozidla
+    vehicle_type:
+      name: Typ dopravního prostředku
+    verification_technology:
+      name: Technologie ověření
+    vg/pg_ratio:
+      name: Poměr VG/PG
+    video_codecs/formats_supported:
+      name: Podporované videokodeky/videoformáty
+    video_game_content_features:
+      name: Vlastnosti obsahu videohry
+    video_game_genre:
+      name: Žánr videohry
+    video_game_platform:
+      name: Platforma videohry
+    video_game_sub_genre:
+      name: Podžánr videoher
+    video_port_type:
+      name: Typ portu pro videozařízení
+    video_region_code:
+      name: Regionální kód pro video
+    video_resolution_supported:
+      name: Podporované rozlišení videa
+    viewing_area_height:
+      name: Výška zorného pole
+    viewing_area_width:
+      name: Šířka zorného pole
+    vinegar_drink_variety:
+      name: Druh octového nápoje
+    vinegar_variety:
+      name: Druh octa
+    viscosity:
+      name: Viskozita
+    visual_effect:
+      name: Vizuální efekt
+    voip_protocol_support:
+      name: Podpora protokolu VoIP
+    wader_type:
+      name: Typ brodiček
+    waist_rise:
+      name: Výška pasu
+    wall_material:
+      name: Materiál stěny
+    wall_patching_application:
+      name: Aplikace oprav stěn
+    wall_plate_style:
+      name: Styl nástěnného rámečku/krytu
+    wallet_features:
+      name: Vlastnosti peněženky
+    wallpaper_application_method:
+      name: Způsob aplikace tapety
+    wallpaper_theme:
+      name: Motiv tapety
+    warning_category:
+      name: Kategorie varování
+    washer/dryer_features:
+      name: Vlastnosti pračky/sušičky
+    washer_form:
+      name: Forma podložky
+    washing_machine_features:
+      name: Vlastnosti pračky
+    washing_method:
+      name: Způsob praní
+    washing_programs:
+      name: Prací programy
+    waste_bag_features:
+      name: Vlastnosti pytle na odpad
+    waste_bag_material:
+      name: Materiál pytle na odpad
+    watch/band_material:
+      name: Materiál hodinek/pásku
+    watch_accessory_style:
+      name: Styl příslušenství k hodinkám
+    watch_display:
+      name: Displej hodinek
+    watch_features:
+      name: Vlastnosti hodinek
+    watch_material:
+      name: Materiál hodinek
+    water_filter_application:
+      name: Použití vodního filtru
+    water_sport:
+      name: Vodní sport
+    watercraft_engine_control_type:
+      name: Typ ovládání motoru vodního plavidla
+    watercraft_features:
+      name: Vlastnosti plavidla
+    watercraft_motor_mounting_type:
+      name: Typ montáže motoru vodního plavidla
+    watercraft_propulsion_type:
+      name: Typ pohonu plavidla
+    watercraft_steering_wheel_type:
+      name: Typ volantu vodního plavidla
+    watercraft_type:
+      name: Typ plavidla
+    waveski_features:
+      name: Vlastnosti vodních lyží
+    wax_application_method:
+      name: Způsob aplikace vosku
+    wax_type:
+      name: Typ vosku
+    weather_strip_design:
+      name: Design těsnicího pásku
+    weather_supply_application_method:
+      name: Způsob aplikace předpovědi počasí
+    weatherization_application:
+      name: Přihláška meteorologických úprav
+    webcam_design:
+      name: Konstrukce webkamery
+    weight_bar_activity:
+      name: Činnost pro činkovou tyč
+    weight_bar_type:
+      name: Typ činkové tyče
+    weight_type:
+      name: Typ váhy
+    weight_unit_supported:
+      name: Podporovaná jednotka hmotnosti
+    welding_helmet_features:
+      name: Vlastnosti svářečské helmy
+    wet_bag_features:
+      name: Vlastnosti mokrého vaku
+    wheel_hardness:
+      name: Tvrdost koleček
+    wheel_hub_placement:
+      name: Umístění pohonu
+    wheel_part_type:
+      name: Typ dílu kola
+    wheel_type:
+      name: Typ kol
+    wheelchair_type:
+      name: Typ invalidního vozíku
+    whiskey_style:
+      name: Styl whisky
+    whiskey_variety:
+      name: Druh whisky
+    wi_fi_band:
+      name: Wifi pásmo
+    wi_fi_standard:
+      name: Wifi standard
+    winder_features:
+      name: Vlastnosti navíječe
+    windlass_design:
+      name: Konstrukce navijáku
+    window_treatment_material:
+      name: Materiál prostředku na ochranu oken
+    windsurfing_board_style:
+      name: Styl windsurfingového prkna
+    wine_rack_design:
+      name: Design regálu na víno
+    wine_sweetness:
+      name: Vína podle obsahu zbytkového cukru
+    wine_variety:
+      name: Druh vína
+    wipe_dispenser/warmer_features:
+      name: Vlastnosti dávkovače/ohřívače utěrek
+    wipe_dispenser_features:
+      name: Vlastnosti dávkovače utěrek
+    wipe_fragrance:
+      name: Vůně vlhčených ubrousků
+    wipe_packaging:
+      name: Balení vlhčených ubrousků
+    wipe_warmer_features:
+      name: Vlastnosti ohřívače utěrek
+    wire/rope_material:
+      name: Materiál drátu/lana
+    wire_thickness:
+      name: Tloušťka drátu
+    woodwind_care_items_included:
+      name: Včetně položek pro péči o dřevěné dechové nástroje
+    work_capacity:
+      name: Pracovní kapacita
+    wreath_design:
+      name: Design věnce
+    yacht_type:
+      name: Typ jachty
+    yarn_weight_category:
+      name: Hmotnostní kategorie příze
+    zipper_pull_style:
+      name: Styl zapínání na zip
+    zoom_type:
+      name: Typ zoomu
